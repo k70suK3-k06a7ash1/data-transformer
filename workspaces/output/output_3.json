@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 200,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Theravāda rejected the Sarvāstivāda ontological model, claiming that dhammas exist only in the present. But the Theravāda Abhidhamma shares with the Sarvāstivāda the same principles of dhamma analysis as a categorial theory that individuates sentient experience. Here, too, the taxonomic function of sabhāva gave rise to ontological connotations of existence in the characterization of dhammas. As the final units of Abhidhamma analysis, dhammas are reckoned the ultimate constituents of experience. “There is nothing else, whether a being, or an entity, or a man or a person,” a famous Pali commentarial excerpt proclaims (Dhs-a  155).[12]  While this statement is meant to refute the rival Pudgalavāda position of the reality of the person by insisting that there is no being or person apart from dhammas, there emerges the idea that the phenomenal world is, at bottom, a world of dhammas: that within the confines of sentient experience there is no other actuality apart from dhammas and that what constitutes any given dhamma as a discrete, individualized particular is its intrinsic nature. The Theravāda elaborates on the concept of sabhāva in juxtaposition to its theory of momentariness, and it acquires the sense of what underlies a dhamma’s endurance moment and as a point of reference to the moments of origination and cessation. Before a dhamma eventuates it does not yet obtain an intrinsic nature and when it ceases it is denuded of this intrinsic nature. As a present occurrence, though, while possessing its intrinsic nature, it exists as an ultimate reality and its intrinsic nature is evidence of its actual existence as such (Dhs-a 45; Vism VIII 234, XV 15). One commentarial passage even goes so far as naming this instant “the acquisition of a self” (Vism-mhṭ I 343).",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 201,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Abhidharma’s ontological investigations occasioned a host of doctrinal problems that became the subject of an ongoing debate among the Buddhist schools. One primary controversy centered on the principle of impermanence: if all phenomena are impermanent, the Sautrāntika challenged the Sarvāstivāda and the Theravāda, then dharmas must be changing continuously and can neither exist in the past and future nor endure for any period of time, however short, in the present. On the other hand, the systematic analysis of experience in terms of momentary dharmas required the Abhidharma to provide a rigorous account of the processes that govern psychological and physical continuity. What fuels these processes is causal interaction, but the very notion of causation is allegedly compromised by the theory of momentariness. If causes, conditions, and their results are all momentary events, how can an event that has ended have a result? How can an event that undergoes distinct stages of origination, endurance, and cessation in a brief moment have causal efficacy? Notwithstanding their doctrinal differences, both the Sarvāstivāda and the Theravāda Abhidhamma had to confront these challenges, and they did so by formulating complex theories of immediate contiguity that grant causal efficacy.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 202,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Sarvāstivāda developed an analysis of causal conditioning in terms of intricate interrelations among four types of condition (pratyaya) and six types of cause (hetu). As documented in the Abhidharmakośabhāṣya (AKB 2.49) based on canonical texts including the Vijñānakāya, the Prakaraṇapāda, and the Jñānaprasthāna, the four conditions are: 1) root cause (literally “cause as condition,” hetupratyaya), reckoned the foremost in inciting the process of fruition and origination; 2) immediate antecedent, which holds between a consciousness moment and its immediately preceding moment in that consciousness series; 3) object support, which applies to all dharmas insofar as they are intentional objects of consciousness; and 4) predominance, which facilitates sensory discriminative awareness, e.g., the faculty of sight’s predominance over visual cognitive awareness. The six causes are: 1) instrumentality (kāraṇahetu), deemed the primary factor in the production of a result; 2) simultaneity or coexistence, which connects phenomena that arise simultaneously; 3) homogeneity, explaining the homogenous flow of dharmas that evokes the seeming continuity of phenomena; 4) association, which operates only between mental dharmas and explains why the elements of consciousness always appear as assemblages of mental factors; 5) dominance, which forms one’s habitual cognitive and behaviorist dispositions; and 6) fruition, referring to whatever is the result of actively wholesome or unwholesome dharmas. The four conditions and six causes interact with each other in explaining phenomenal experience: for instance, each consciousness moment acts both as the homogenous cause as well as the immediate antecedent condition of the rise of consciousness and its concomitants in a subsequent  moment.[13]",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 203,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " Underlying this analysis of causal conditioning is the notion of existence as efficacious action, or karma. Karma, a fundamental principle in Buddhist thought from its inception, is what fuels the repetitive experience in saṃsāra, the round of  rebirth.[14]  In Abhidharma exegesis, the efficacious action or distinctive functioning of dharmas is understood predominantly as causal functioning. For the orthodox Sarvāstivāda-Vaibhāṣika, the existence of dharmas as real entities (dravyatas) is determined by both their intrinsic nature and particular causal functioning. Intrinsic nature, however, is an atemporal determinant of real existence. What determines a dharma’s spatio-temporal existence is its distinctive causal functioning: past and future dharmas have capability (sāmarthya) of functioning, while present dharmas also exert a distinctive activity (kāritra). Present activity is an internal causal efficacy that assists in the production of an effect within a dharma’s own consciousness series. It is this activity that determines a dharma’s present existence and defines the limits of the span of its present moment. Capability, by contrast, is a conditioning efficacy externally directed towards another consciousness series: it constitutes a condition that assists another dharma in the production of its own effect (Cox 2004A, 570–573; Williams 1981, 240–243). A dharma’s present activity arises and falls away, but past and future dharmas all have potential for causal functioning and exist as real entities due to their intrinsic nature. For the Sarvāstivāda, this model—which insists on constant change within the limits of the present moment and implies the existence of dharmas in the three time periods—preserves both the principle of impermanence yet explains continuity and causal efficacy.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 204,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Sarvāstivāda-Vaibhāṣika distinction between a dharma’s activity and capability implies that each dharma or consciousness moment effects the next moment within its series, but it can also act as a contributory condition towards producing a different sort of effect. Activity engenders the next moment within a dharma’s series, while capability generates a different effect and explains the causal efficacy of past dharmas. Williams (1981, 246–247) helpfully notes that we may render this “horizontal” and “vertical” causality, within a consciousness series and transcending it respectively. For example, an instant of visual awareness horizontally produces the next moment of visual awareness and may or may not, depending on other factors such as light and so on, vertically produce vision of the object. “It follows that to be present is to have horizontal causality, which may or may not include vertical causality—a fact which serves to remind us that we are dealing here with primary existents which are frequently positioned within the system in terms of what they do” (ibid). Thus activity or horizontal causality—a dharma’s function of precipitating the next moment of its own consciousness series—individuates that dharma as a particular event of its kind. A dharma’s capability or vertical causality, by which it facilitates the occurrence of other dharmas outside its consciousness series, locates it within the web of interrelations that connects it with the incessant rise and fall of other dharmas, and hence further individuates it as that very particular dharma by manifesting its unique quality and intensity of operation.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 205,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Saturāntika and the Theravāda developed alternative theories of causal conditioning in conjunction with their rejection of the Sarvāstivāda ontological model and their claim that dharmas exist only in the present. The Sautrāntika explained causal interaction among past and future dharmas by reference to the idea of “seeds” (bīja), or modifications in subsequent dharma series. The Sautrāntika theory of seeds is the precursor of two extremely important concepts of later Mahāyāna Buddhist thought, namely, the Yogācāra’s concepts of “store consciousness” (ālayavijñāna) and of Buddha-nature (tathāgatagarbha) (Cox 1995, 94–95; Gethin 1998, 222). The Theravāda theory of causal conditioning, as set out in the Paṭṭhāna, proposes a set of twenty-four conditional relations (paccaya) that account for all possible ways in which a phenomenon may function in conditioning the rise of another phenomenon. The twenty-four conditional relations are: 1) root cause (hetupaccaya); 2) object support; 3) predominance; 4) proximity; 5) contiguity; 6) simultaneity; 7) reciprocity; 8) support; 9) decisive support; 10) pre-existence 11) post-existence; 12) habitual cultivation; 13) karma; 14) fruition; 15) nutriment; 16) controlling faculty; 17) jhāna – a relation specific to meditation attainments; 18) path – a relation specific to the stages on the Buddhist path; 19) association; 20) dissociation; 21) presence; 22) absence; 23) disappearance; 24)  non-disappearance.[15]  The majority of the Theravāda twenty-four conditions have counterparts in the Sarvāstivāda theory and both systems show various other parallel interests and points of resemblance. The likelihood, then, is that the two systems originated before the two schools separated and continued to evolve after their separation (Conze 1962, 152–153; Kalupahana 1961, 173).",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 206,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " Their differences notwithstanding, both the Sarvāstivāda and the Theravāda theories of causal conditioning are based on the notions that dharmas are psycho-physical events that perform specific functions, and that to define what a dhamma is requires one to determine what it does (Gethin 1992A, 150). It turns out, then, that the relative positioning of each dharma within a network of causes and conditions is, first and foremost, a means for its individuation. Only in a subsidiary sense is this network an analysis of causal efficacy. What reappears here is the categorial dimension of the dharma analysis qua a metaphysical theory of mental events in terms of sameness of conditional relations. Analogous to the space-time coordinate system that enables one to identify and describe material objects, the network of conditional relations may be seen as a coordinate system that locates within it any given dharma, implying that to be a dharma is to be an event that has a place in that web of relations—an idea reminiscent of Donald Davidson’s principle of sameness of causes and effects as a condition of identity of events (2001 119–120 &amp; 154–161). Two dharma instances of the same type would fit into the web of causal conditions in exactly the same way, but would then be distinguished as individual instances on the grounds of their unique degrees and modes of causal efficacy.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 207,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " In attempting to account for what effects liberating insight and what makes up the awakened mind, Abhidharma inquiries extended into the field of epistemology. We have seen that the Abhidharma’s analysis of sentient experience reveals that what we perceive as a temporally extended, uninterrupted flow of phenomena is, in fact, a rapidly occurring sequence of causally connected consciousness moments or cittas (i.e., assemblages of citta and caitta/cetasika), each with its particular object. The mature Abhidharma thus assimilates the analysis of phenomena-in-time-as-constituted-by-consciousness with a highly complex description of the consciousness process, dissolving the causal relations between ordered successions of consciousness moments into the activity of perception. As previously noted in section 2, for the Abhidharma, as in Buddhist epistemology in general, sensory perception is the paradigm of perceptual, sentient experience. Like every instance of consciousness, sensory perception is intentional, encapsulated in the interaction among the sense faculties, their corresponding types of discriminative consciousness, and their appropriate sense objects. Different Buddhist schools, however, held different positions on the distinctive nature of perceptual experience, and on the specific roles of the sense faculties and status of sense objects in it. The Theravāda Abhidhamma and the Sarvāstivāda-Vaibhāṣika both espouse a view that proposes a direct contact between perceptual consciousness and its sense objects, the latter being understood as sensibilia, for what we perceive are not objects of common sense but their sensible qualities. We may characterize this view as phenomenalist realism (Dreyfus 1997, 331 &amp; 336).",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 208,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Theravāda Abhidhamma sets out its theory of the consciousness process (citta-vīthi) in its commentaries and manuals, mainly in the works of Buddhaghosa, Buddhadatta (5th century CE), and Anuruddha (10th or 11th century CE), based on earlier descriptions in the Dhammasaṅgaṇi and the Paṭṭhāna (Vism XIV 111–124, XVII 126–145; Dhs-a 82–106 &amp; 267–287; Vibh-a 155–160; Abhidh-s 17–21). The theory is not separate from the dhamma taxonomy and the analysis of citta as previously outlined in section 2. Rather, in congruency with the notion of existence (whether categorial or ontological) as functioning, it analyzes sensory perception as resulting from particular functions that are performed by the eighty-nine citta types revealed by the foregoing taxonomy. According to this analysis, the specific functions in the consciousness flow occur at particular instants of that continuum, as the normal flow of consciousness involves the mind picking up and putting down sense objects by means of successive sets of associated mental factors. The result is a fairly static account of mental and material phenomena as they arise in consciousness over a series of consciousness  moments.[16]",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 209,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " Restricting the account to the consciousness process of ordinary beings, two types of process are described: five-sense-door processes (pañcadvāra) and mind-door processes (manodvāra). These may occur in succession, or mind-door processes may occur independently. Five-sense-door processes account for sensory perception as information is directly received from the fields of the five physical sense faculties. Mind-door processes internalize the information received through the sense faculties and characterize the mind that is absorbed in thought or memory. Objects at the “door” of the mind, which is treated in Buddhist thought as a sixth sense faculty, may be past, present, or future, purely conceptual or even transcendent. Normally, however, the object at the mind door will be either a past memory or a concept. If there is no perceptual activity, as is the case in deep, dreamless sleep, the mind is in a state of rest called inactive mode (bhavaṅga). Throughout one’s life, the same type of citta performs this function of the inactive mind that is the natural mode to which the mind reverts. The mind switches from its inactive mode to a simple mind-door process when a concept or memory occurs and no attention is directed to the other five sense fields. The simplest mind-door process is a succession of the following functions: 1) adverting to the object of thought: a function that lasts one moment and becomes internalized as an object support; 2) impulsion: occurs for up to seven moments and performs the function of the mind’s responding actively to the object with wholesome or unwholesome karma; 3) retaining: holding on to the object of the consciousness process for one or two moments.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 210,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The mind switches from its inactive mode to any of the five-sense-door processes when an object occurs at the “door” of the appropriate sense faculty. This process of sensory perception involves a greater number of functions: 1) disturbed inactive mind: a function that arises due to the stimulus of the sense object. It lasts for two moments, during which sensory contact takes place, i.e., a physical impact of the sense object on the physical matter of the appropriate sense faculty; 2) adverting: lasts one moment, during which the mind turns towards the object at the appropriate sense “door;” 3) perceiving: lasts one moment and is the sheer perception of the sense object with minimal interpretation; 4) receiving: lasts one moment and performs the intermediary role of enabling transit to and from the appropriate discriminative consciousness, whether visual, auditory, etc.; 5) investigating: lasts one moment and performs the role of establishing the nature of the sense object and of determining the mind’s response to that object that has just been identified; 6) impulsion: same as in the mind-door process; 7) retaining: same as in the mind-door process. As an example, visual perception involves not only seeing itself, but also a succession of moments of fixing of the visual object in the mind, recognition of its general features, and identification of its nature. In both the mind-door and five-sense door processes, the sense faculty and its sense object condition the arising of a present moment of a corresponding apprehending consciousness, that is, perception here is modeled on simultaneous conditioning. And in both the mind-door and five-sense door processes, when the retaining function ceases, the mind reenters its inactive mode.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 211,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The consciousness types that perform most of the functions that make up the mind-door and the five-sense-door processes fall into the category of resultant cittas, that is, those that are the result of past actively wholesome or unwholesome consciousness. This means that the experience of the sense data presented to one’s mind is determined by one’s previous actions and is beyond of one’s immediate control. Whenever one remembers or conceptualizes, sees, hears, smells, tastes, or touches something that is desirable or pleasing, one experiences a result of previous wholesome consciousness. And vice versa with objects that are undesirable or unpleasing and previous unwholesome consciousness respectively. Only in the final stage of the consciousness process, when the mind has chosen to respond actively to its object in some way, actively present wholesome or unwholesome consciousness operates and constitutes karma that will bear future results. The Abhidhamma thus “provides an exact small-scale analysis of the process of dependent arising” (Gethin 1998, 216).",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 212,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Sarvāstivāda-Vaibhāṣika proposes a similar account of sensory perception, but argues that the sensory object exists as a real entity. The Sautrāntika theory of perception, however, is rather different. It rests on the Sautrāntika radical view of momentariness, according to which there is no real duration but only a succession of infinitesimal moments, and on its view of causation, according to which causes cease to exist when their effects come into existence. The application of these principles to sensory perception makes it difficult to explain how perception directly apprehends sense objects, for it implies that objects have ceased when their apprehending consciousness arises. The Sautrāntika reply is that consciousness does not have direct access to its sense objects. By contrast to phenomenalist realism, the Sautrāntika view of perceptual consciousness may be characterized as representationalism: it sees perception as apprehending its objects indirectly, through the mediation of aspects (ākāra) representative of their objects (Dreyfus 1997, 335 &amp; 380–381).",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 213,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " What is common to all the three main Abhidharma traditions—Theravāda, Sarvāstivāda, and Sautrāntika—is that they manifest a somewhat similar paradigm shift towards reducing the phenomenal, causally conditioned world into the activity of cognition and consciousness. This shift was part of a broader movement in Indian philosophy in which Hindu, Jain, and Buddhist thinkers turned away from traditional metaphysical questions about the nature of the external world and the self, and focused instead on the study of epistemology, logic, and language. Their purpose was to provide systematic accounts of the nature and means of valid cognition. Within Buddhist circles, this epistemological turn saw the rise of thinkers such as Asaṅga and Vasubandhu, the founders of the Yogācāra (400–480 CE), and, most notably, Dignāga and Dharmakīrti (around 500 CE) who developed sophisticated logical and philosophical systems (ibid, 15–19). The Abhidharma, then, sets the stage for this epistemological turn. The new emphasis becomes dominant from the period of the vibhāṣā compendia onward and is evident in a shift in the terminology used by the Abhidharma to describe the nature of dharmas. This terminological shift is indicated by the terms “particular inherent characteristic” (Skt., svalakṣaṇa, Pali, salakkhaṇa) and “general characteristic” (Skt., sāmānyalakṣaṇa, Pali, sāmānyalakkhaṇa).",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 214,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The term lakṣaṇa/lakkhaṇa means a mark, or a specific characteristic that distinguishes an indicated object from others. The Logicians use this term in the sense of “definition” of a concept or logical category. The Abhidharma applies it to the practice of the discernment of dharmas, distinguishing between multiple generic characteristics a dharma shares with other dharmas and (at least) one particular inherent characteristic that defines a dharma as that very individual occurrence distinct from any other instances of its type. The post-canonical Abhidharma thus assimilates the concept of the particular inherent characteristic with that of intrinsic nature. “Dhammas,” the Theravādin commentarial literature states, “are so called because they bear their particular inherent characteristics” (Vibh-a 45; Vibh-mṭ 35; Paṭis-a I 79; Vism XV 3), and a particular characteristic “is the intrinsic nature that is not held in common by other dhammas” (Vism-mhṭ II 137). Used in conjunction or interchangeably with intrinsic nature, the particular inherent characteristic constitutes a dhamma’s unique definition (Vism VI 19, 35). It is an epistemological and linguistic determinant of a dhamma as a knowable instance that is defined by a distinct verbal description.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 215,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The Mahāvibhāṣā of the Sarvāstivāda-Vaibhāṣika similarly distinguishes between a dharma’s particular inherent and generic characteristics and identifies the former with intrinsic nature, thus discriminating “levels in the apprehension or discernment of dharmas that serve to clarify the ambiguity encountered in the application of the term svabhāva to both individual dharmas and to categorial groups” (Cox 2004A, 575). The difference between the analytical description of dharmas in terms of their intrinsic nature or their characteristics, notes Cox (ibid, 576), is that “whereas intrinsic nature acquires its special significance in the context of exegetical categorization, the starting point for the characteristics lies in perspectivistic cognition. Ontology is a concern for both systems, but the shift in terminology from intrinsic nature to the characteristics reflects a concurrent shift from a category-based abstract ontology to an epistemological ontology that is experientially or cognitively determined.” This new epistemological emphasis looms in through a modified definition of existence proposed by the mature Sarvāstivāda exegesis that sees the causal efficacy underlying all existence as cognitive. Representing this development in the history of Sarvāstivāda thought is Saṅghabhadra (fifth century CE), who states in his Nyāyānusāra: “to be an object-field that produces cognition (buddhi) is the true characteristic of existence” (ibid). This means that dharmas as the constituents of our experiential world are objectively identifiable through cognition.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 216,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " In sum, the Abhidharma project, as evident by the dharma theory and its supporting doctrines, is, at bottom, epistemologically oriented. Yet the project also intends to ascertain that every constituent of the experiential world is knowable and nameable, and that the words and concepts used in the discourse that develops around the discernment of these constituents uniquely define their corresponding referents. The dharma analysis therefore paves the way for conceptual realism: a worldview that is based on the notion of truth as consisting in a correspondence between our concepts and statements, on the one hand, and the features of an independent, determinate reality, on the other hand. Conceptual realism does not necessarily have implications for the ontological status of this reality as externally existing. But to espouse such a position is to make a significant move away from the earliest Buddhist teaching that presents the Buddha’s view of language as  conventional.[17]",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 217,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " The texts are ordered according to the Pali/Sanskrit alphabet. References to Pali texts are to the editions of the Pali Text Society unless noted otherwise.",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 218,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " Abhidharma translations, information, and lectures:",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 219,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " Abhidhamma/Abhidharma canonical and exegetical texts in digital Pali and Sanskrit Buddhist canons:",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 220,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " atomism: 17th to 20th century |  atomism: ancient |  consciousness: and intentionality |  contradiction |  Dharmakīrti |  epistemology |  Japanese Philosophy: Kyoto School |  Madhyamaka |  mind: in Indian Buddhist Philosophy |  Nāgārjuna |  Śāntarakṣita |  Vasubandhu |  -->Yogācāra--> ",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 221,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": " Copyright © 2022 by   Noa Ronkin &lt;noa.ronkin@wolfson.oxon.org&gt;     ",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 222,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": "View this site from another server:",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 223,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 224,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abhidharma/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "abhidharma"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 225,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " In the accounts we give of one another, claims about our abilities appear to be indispensable. Some abilities are so widespread that many who have them take them for granted, such as the ability to walk, or to write one’s name, or to tell a hawk from a handsaw. Others are comparatively rare and notable, such as the ability to hit a Major League fastball, or to compose a symphony, or to tell an elm from a beech. In either case, however, when we ascribe such abilities to one another we have the impression that we are making claims that, whether they are worth saying or not, are at least sometimes true. The impression of truth exerts a pressure towards giving a philosophical theory of ability. It is not an option, at least at the outset, to dismiss all our talk of ability as fiction or outright falsehood. A theory of ability can be reasonably expected to say what it is to have an ability in a way that vindicates the appearance of truth. Such a theory will deserve the name ‘philosophical’ insofar as it gives an account, not of this or that range of abilities, but of abilities generally.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 226,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " This article falls into three parts. The first part, Sections 1 and 2, states a framework for discussing philosophical theories of ability. Section 1 will say more about the distinction between abilities and other powers of agents and objects. Section 2 will make some formal distinctions that are helpful for framing any theory of ability. The second part, Sections 3–5, surveys theories of ability that have been defended in the philosophical literature. Section 3 concerns the most prominent kind of theory, on which abilities are to be understood in terms of a hypothetical relating an agent’s actions to her volitions. Section 4 concerns theories that are not hypothetical in this way, but that nonetheless retain the basic reductive orientation of hypothetical theories. Section 5 then discusses various alternative theories of ability that have been proposed in the recent literature. The third part, Section 6, turns to the relationship between a theory of ability and the free will debates. Such debates often involve claims about agents’ abilities, and many have hoped that getting clearer on abilities themselves could resolve, or at least shed light on, such debates. The aim of this last section will be to assess whether these hopes are reasonable ones.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 227,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " What is an ability? On one reading, this question is a demand for a theory of ability of the sort described above. On another reading, however, this question simply asks for a rough guide to what sort of things we are speaking of when we speak of ‘abilities’. So understood, this question is not asking for a theory of ability, but for an explanation of what exactly a theory of ability would be a theory of. This section will offer an answer to this question on this second, more modest, reading.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 228,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " It will be helpful to begin by considering a topic that is related to, but nominally distinct from, abilities: dispositions.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 229,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Dispositions are, at first pass, those properties picked out by predicates like ‘is fragile’ or ‘is soluble’, or alternatively by sentences of the form ‘x is disposed to break when struck’ or ‘x is disposed to dissolve when placed in water.’ Dispositions so understood have figured centrally in the metaphysics and philosophy of science of the last century (Carnap 1936 &amp; 1937, Goodman 1954), and also in influential accounts of the mind (Ryle 1949). They are like abilities in many significant respects, in particular in the fact that they are properties of things that can exist even when not manifested: as a glass may be fragile even when it is not broken, so may a person have the ability to raise her arm even when she is not raising her arm.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 230,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " While dispositions have been central to contemporary philosophical discussions, they do not exhaust the range of the possibilities inherent in things. Especially notable, for present purposes, are those that are intimately connected to agency. These include the susceptibility of things to be acted on in certain ways — such as the edibility of an apple, or the walkability of a trail — that the psychologist J.J. Gibson called affordances (Gibson, 1979). These include also the powers of action that we ascribe to things, of the kind observed by Thomas Reid: ‘Thus we say, the wind blows, the sea rages, the sun rises and sets, bodies gravitate and move’ (Reid 1788/2010, 16; Reid himself regarded these locutions as \"misapplications\" of active verbs, based on erroneous views of the grounds of powers). Finally, and crucially, these include the powers of agents themselves.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 231,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " In light of this ontological diversity, it will be useful to have a term that encompasses all the possibilities inherent in things and in agents. Let us reserve the word ‘power’ for that general class. Dispositions, as defined above, are a proper subset of powers more generally. Affordances, as sketched above, are another one. And abilities, in a sense still to be defined, are yet another.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 232,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " It may yet be that dispositions are especially privileged among the powers. For instance, they might be more fundamental than the other powers, in the sense that other powers may be reduced to them. It has been proposed, for instance, that affordances may be reduced to dispositions (Scarantino 2003). And we will consider in some detail, in Section 5.1, the proposal that abilities themselves may be reduced to dispositions. But our initial hypothesis is that dispositions are simply one member of the broader family of powers, albeit one that has received a great measure of attention in the philosophical literature.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 233,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Abilities, then, are a kind of power. What kind of power, precisely, is an ability? As the term will be understood here, there are two additional conditions that a power must meet in order for it to be an ability. First, abilities are distinguished by their subjects. Abilities are properties of agents, rather than of things that are not agents. Objects have dispositions and affordances — as a glass is disposed to break when struck, or affords the drinking of liquid — but they do not have abilities. Being a power of an agent is not, however, a sufficient condition for being an ability. This is because agents have powers that are not abilities. Therefore, second, abilities need to be distinguished by their objects: abilities relate agents to actions.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 234,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Some examples may make the need for this second condition clear. Some powers, though properties of agents, do not intuitively involve any relation to action. Consider the power of understanding language. Understanding a sentence, while it is not wholly passive or arational, is not typically an action. In contrast, speaking a sentence is. Thus the power to understand French will not be an ability, on the present taxonomy. In contrast the power to speak French will be an ability, since it involves a relation to action. (See van Inwagen 1983, 8–13.)",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 235,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " So, as the term will be understood here, an ability is a power that relates an agent to an action. This way of demarcating abilities, while serviceable for our purposes, is not unproblematic. For it inherits the problems involved in drawing the distinction between actions and non-actions. First, there is the problem that the domain of action is itself a contentious matter. Second, there is the problem that, even if we have settled on an account of action, it is plausible that the domain of action will be vague, so that there are some events that are not definitely actions, but that are not definitely not actions either. Arguably both of these points about action apply, also, to the property of being an agent. If this is right, then the present account of ability, which is cashed out in terms of agency and action, will be correspondingly contentious and vague. Borderline cases may, in the end, generate problems for the theory of ability. But such problems will not be central here. For giving such a theory will be difficult enough even when we focus on paradigm cases of agency and action, and so on paradigm cases of ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 236,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Note there is a similarity between the present category of ability, as distinct from other powers, and the traditional category of active powers, where active powers are those that essentially involve the will (Reid 1788/2000). But it is not clear that these distinctions overlap exactly. For example, the power to will itself will clearly be an active power. It is less clear whether it will count as an ability, for the answer to that question will turn on the contentious question of whether willing is itself an action.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 237,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Some will expect that an account of ability would also be an account of what it is to know how to perform an action, on the supposition that one knows how to perform a certain action just in case one has the ability to perform that action. This supposition, which we may call the Rylean account of know how (since it is most explicitly defended in Ryle 1949, 25–61), has been called into question by Jason Stanley and Timothy Williamson (Stanley and Williamson 2001). Let us briefly consider Stanley and Williamson’s argument and how it bears on the theory of ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 238,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Stanley and Williamson argue, on broadly linguistic grounds, that our default view of know how ought to be rather different from Ryle’s. Part of the argument for this is that standard treatments of embedded questions (‘know who’, ‘know where’, and so forth; see Karttunen 1977) suggest a rather different treatment. On this treatment, to know how to A is to know a certain proposition. At first pass, in Stanley and Williamson’s presentation, for S to know how to A is for S to know, of some contextually relevant way of acting w, that w is a way for S to A. Stanley and Williamson develop and defend such a treatment, and offer independent considerations for rejecting Ryle’s own arguments for the Rylean view. On their view, then, to know how to A is not to have an ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 239,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Stanley and Williamson’s arguments are far from widely accepted (see Noë 2005), but they tell at the very least against simply assuming that an account of ability will also be an account of know how. So we will leave questions of know how to one side in what follows. It is also reasonable to hope that an account of ability, while it may not simply be an account of know how, will at least shed light on disputes about know how. For so long as we lack a theory of what an ability is, the precise content of the Rylean view (and of its denial) remains unclear. So it may be that getting clear on abilities may help us, perhaps indirectly, to get clear on know how as well. (Additional discussion of these questions may be found in Stanley’s book-length development of his and Williamson’s initial position (Stanley 2011), as well as the papers collected in (Bengson and Moffett 2011).",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 240,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Whatever our view of ability and know how, there is a further question at the intersection of these topics that bears consideration. This is how to accommodate those powers of agents that appear to be especially closely connected to practical intelligence, such as skills and talents — which we might collectively call the intelligent powers. Are the intelligent powers simply a species of ability, or do they demand an independent treatment? There are a number of recent proposals to be considered here. (Robb forthcoming) proposes a dispositionalist theory of talent, on which a talent is a disposition to maintain and develop a skill. (McGeer 2018) emphasizes the significance of a distinctive kind of intelligent power, which she (following Ryle) calls an ‘intelligent capacity,’ and of which she too offers a broadly dispositionalist account. These proposals suggest a more general program of dispositionalism about the intelligent powers, which has suggestive parallels to the dispositionalism about ability that we will consider in Section 5.1. Still more generally, accurately accounting for the nature of the intelligent powers, and the relationship of these to abilities and to the powers more generally, remains an open and intriguing problem.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 241,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " If one wants to give a theory of ability of the sort described at the outset, it is helpful for that theory to observe some formal distinctions that have been marked in the literature. This section canvasses two of the most important formal distinctions.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 242,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The previous section was primarily concerned with distinguishing abilities from other powers. But there is also a distinction to be made within the class of abilities itself. This is the distinction between general and specific abilities (Honoré 1964, Mele 2002).",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 243,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The distinction between general and specific abilities may be brought out by way of example. Consider a well-trained tennis player equipped with ball and racquet, standing at the service line. There is, as it were, nothing standing between her and a serve: every prerequisite for her serving has been met. Such an agent is in a position to serve, or has serving as an option. Let us say that such an agent has the specific ability to serve.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 244,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " In contrast, consider an otherwise similar tennis player who lacks a racquet and ball, and is miles away from a tennis court. There is clearly a good sense in which such an agent has the ability to hit a serve: she has been trained to do so, and has done so many times in the past. Yet such an agent lacks the specific ability to serve, as that term was just defined. Let us say that such an agent has the general ability to serve.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 245,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The concern of this article will be general abilities in this sense, and unqualified references to ‘ability’ should be read in that way. But specific abilities will also be at issue. This is for at least two reasons.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 246,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The first is one of coverage: many of the proposals that are relevant to the understanding of ability, especially the classical ‘conditional analysis’ (discussed in Section 3.1 below), are naturally read as proposals about specific ability in the present sense, and a suitably broad conception of ability lets us keep these proposals within our domain of discussion.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 247,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The second reason is more properly philosophical. If we accept the distinction between general and specific abilities, then we want for our account of ability to accommodate both of them, and ultimately to explain how they are related to each other. For this distinction is not plausibly diagnosed as mere ambiguity; it rather marks off something like two modes of a single kind of power. There are at least two kinds of proposals one may make here. One, arguably implicit in many of the ‘new dispositionalist’ approaches to ability, is that general ability is in some sense prior to specific ability: to have a specific ability is simply to have a general ability and to meet some further constraint, such as having an opportunity. Another proposal (suggested in Maier 2015) is that specific ability is in some sense prior to general ability: to have a general ability is simply to have a specific ability under a certain range of circumstances.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 248,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The idea that there is some sort of bipartite distinction to be made between abilities has been a prominent theme in contemporary work on ability. It has been endorsed and developed, in different contexts, by Glick (2012), Vihvelin (2013), and Whittle (2010). It is an open question whether the bipartite distinctions in ability introduced by these authors are the same as one another, or the same as the one introduced here. It could be that there are several bipartite distinctions to be made in this area, or that we simply have one distinction under several names.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 249,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Much philosophical discussion of ability has taken place in the formal, as opposed to the material, mode. Thus we are often asked to distinguish senses of ‘ability’, or to think about what ‘can’ means. This subtle shift between discussing ability and discussing the ascription of ability is often harmless. Nonetheless, it is important to bear in mind the distinction between these questions, and to mark this distinction explicitly at the outset.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 250,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " On the one hand, there are questions about ability itself. The central question here to give an account of what an ability is, in the sense foregrounded at the outset. Subsidiary questions here include, for example, whether abilities may exist when they are unexercised, whether abilities are intrinsic or extrinsic features of their bearers, and whether agents have abilities in deterministic worlds. These are, broadly speaking, questions about the metaphysics of ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 251,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " On the other hand, there are questions about ability-ascriptions. Abilities are characteristically ascribed (in English) with sentences involving the modal auxiliaries ‘can’ and ‘is able to.’ Accordingly, the central question here is to give a semantics for sentences involving those expressions. Subsidiary tasks include resolving certain open problems in the semantics of these expressions, such as the ‘actuality entailment’ observed in (Bhatt 1999), and integrating a semantics for agentive modals with a semantics for modal expressions more generally. These are, broadly speaking, questions about the semantics of agentive modality.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 252,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " On certain conceptions of the philosophical enterprise, the project of giving a theory of ability and that of giving a semantics for ability-ascriptions are closely connected, and even collapse into each other. Nonetheless, there is at least a methodological distinction to be marked here. Having marked that distinction, this discussion will primarily be concerned with the first of these projects, the project of giving a theory of ability. Nonetheless, the project of giving a semantics for ability-ascriptions will also frequently be relevant. As with the distinction between general and specific abilities, this is for two reasons, one of coverage and one more properly philosophical.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 253,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The first reason, that of coverage, is the following. Many of the most prominent theories of ability defended in the philosophical literature have in fact been, in the first place, theories of ability-ascriptions. Indeed, the central thought in much work on ability in the analytic tradition has been a kind of semantic deflationism, on which we may give a semantics for ability-ascriptions that does not quantify over abilities themselves. This is arguably the main theme of the hypothetical theories to be considered in Section 3, and the modal theories to be considered in Section 4. Given this tendency in thinking about ability, an overview of philosophical work on ability that neglected the role of ability-ascriptions would be seriously incomplete.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 254,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " There is also the second, more philosophical, reason. Any account of abilities owes us, among other things, an account of ability-ascriptions. This is perhaps true of philosophical topics generally, but it is true of ability in particular. Even philosophers who are explicit in their ‘refusal to take language as a starting point in the analysis of thought and modality’ (Lewis 1986, xi) are prone to make explicit appeal to language when the topic turns to ability, as occurs in (Lewis 1976) or (Taylor 1960). This is for any number of reasons, but perhaps especially because it is difficult to even identify the topic under consideration without using or mentioning certain phrases, notably ‘can’ and ‘is able to.’",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 255,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Happily, the topic of ability-ascriptions is one on which linguists and philosophers have made significant progress. While there has long been considerable philosophical interest expressions such as ‘can’ and ‘is able to,’ there is nothing recognizable as a rigorous semantic theory of such terms prior to the foundational work of Angelika Kratzer, recently revised and collected in (Kratzer 2012). Kratzer’s work has been central to natural language semantics, and its significance for philosophical work is still being appreciated. The question of whether it is correct as an account of the semantics of agentive modality is an open one: important challenges include (Hackl 1998) and, more recently, (Mandelkern, Schultheis, and Boylan, 2017), (Schwarz 2020), and (Willer forthcoming). The Kratzer semantics, and a view of ability on which that semantics plays a foundational role, will be considered in some detail in Section 4. The more methodological point being made here is that any adequate account of ability ought to provide an account of ability-ascriptions, and as such may want to reckon with this ongoing debate in the semantics of modal expressions.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 256,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The bulk of theories of ability that have been defended in the historical and contemporary literature have been what we might call hypothetical theories. On such views, to have an ability is for it to be the case that one would act in certain ways if one were to have certain volitions. One arrives at different theories depending on how one understands the volitions in question and how exactly these actions would hypothetically depend on them, but nonetheless these views constitute something like a unified family. Given their prominence and unity, it is natural to begin our survey of theories of ability with them.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 257,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The most prominent hypothetical theory of ability is what has come to be called the ‘conditional analysis’. In this section, we will survey that form of analysis, the problems for it, and alternatives to it that are supposed to overcome those problems.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 258,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The conditional analysis of ability has at least two aspects. First, S has an ability to A just in case a certain conditional is true of her. Second, that conditional has the following form: S would A if S were to have a certain volition. The precise form such an analysis will take will depend on, first, how we interpret this conditional and, second, which volition figures in the antecedent.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 259,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " It has been standard in the literature, when this first question has been raised, to understand the conditional as a subjunctive conditional (Ginet 1980), and we will assume in what follows that this is the best form of the conditional analysis. There has been some disagreement about whether it is a might or a would conditional that is relevant (for an account of this distinction, see Lewis 1973, 21–24), as well as about which volition is relevant. In the following, we will take the relevant conditional to be a would conditional, and the relevant volition to be trying, though nothing will hang on these selections, and the points to be raised would apply also to other forms of conditional analysis, mutatis mutandis.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 260,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " We thus arrive at the following form of the conditional analysis:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 261,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " (CA) S has the ability to A iff S would A if S tried to A. ",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 262,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " If (CA) were true, it would constitute a theory of ability in that it would say under exactly what conditions some agent has the ability to perform some action without making reference to the idea of ability itself. (Note that a variant on (CA) that is sometimes discussed, according to which S has the ability to A iff S could A if S tried to A, would not meet this standard, since the ‘could’ seems to make a claim about S’s abilities. So such a view is not really a conditional analysis. Indeed, it is not even clear that it involves a genuine conditional, for reasons discussed in Austin 1970 (211–213).",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 263,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The conditional analysis so understood has been subject to a fair amount of criticism, which will be reviewed in the following section. It bears noting, however, just how apt an account of ability it seems at first pass. It satisfies, at least at first approximation, the extensional constraints: there are many actions with respect to which a typical agent satisfies the relevant conditional, and also many actions with respect to which she does not, and these roughly correspond to her abilities. This imposes a demand even on those who wish to reject (CA), namely to explain why, if (CA) is simply false, it so closely approximates to the truth about abilities.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 264,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Its approximate satisfaction of the extensional constraints is also plausibly a reason why something like (CA) has found so many thoughtful advocates. It is at least strongly suggested, for example, by the following remarks from Hume’s Enquiry:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 265,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Of course, Hume and many of those who have followed him have been attempting to do something rather more than to offer a theory of ability. Hume’s intent was to show that disputes over ‘question of liberty and necessity, the most contentious question of metaphysics’ have been ‘merely verbal’ (8.1; Hume 1748, 72). Whatever we may think of this striking claim, however, there is a dialectical gap between it and the alleged truth of (CA). To anticipate a theme that will be central in what follows, we must be careful to distinguish between, on the one hand, the adequacy of various views of ability and, on the other, the more contentious metaphysical questions about freedom to which they are doubtlessly related. It is the former that will be our concern in this section.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 266,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " (CA) says that satisfying a certain conditional is both sufficient and necessary for having a certain ability. There are two kinds of counterexamples that may be brought against (CA): counterexamples to its sufficiency, and to its necessity. Let us take these in turn.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 267,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Counterexamples to the sufficiency of (CA) have been most prominent in the literature. Informally, they are suggested by the question: ‘but could S try to A?’ There are a variety of ways of translating this rhetorical question into a counterexample. We may distinguish two: global counterexamples, according to which (CA) might always get the facts about ability wrong, and local counterexamples, according to which (CA) might sometimes get the facts about ability wrong.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 268,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Begin with global counterexamples. Let us say that determinism is true at our world. Familiar arguments purport to show that, if this is the case, then no one has the ability to do anything, except perhaps for what she actually does (for several developments of such an argument, see van Inwagen 1983, 55–105). But if (CA) is true, then agents would have the ability to perform various actions that they do not actually perform. For it is plausible that the conditionals in terms of which (CA) analyzes ability would still be true in a deterministic world. But then, since it makes false predictions about such a world, which for all we know may be our own, (CA) is false.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 269,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The difficulties involved in this sort of counterexample are clear. The proponent of (CA) will reject the arguments for the incompatibility of ability and determinism as unsound. Indeed, it is precisely her thought that such arguments are unsound that has typically led her to take ability to be analyzed in terms like those of (CA). So global counterexamples, while they may be successful, are dialectically ineffective relative to the range of questions that are at issue in the debates over ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 270,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " It seems, however, that we can show that (CA) is false even relative to premises that are shared between various disputants in the free will debates. This is what is shown by local counterexamples to (CA). One such example is given by Keith Lehrer:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 271,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Such an example shows that (CA) is false without assuming anything contentious in debates over freedom. It turns rather on a simple point: that psychological shortcomings, just as much as external impediments, may undermine abilities. (CA), which does not recognize this point, is therefore subject to counterexamples where such psychological shortcomings become relevant. We may, if we like, distinguish ‘psychological’ from ‘non-psychological’ ability, and claim that (CA) correctly accounts for the latter (this sort of strategy is suggested, for example, by Albritton 1985). But our ordinary notion of ability, that of which we are attempting to give a theory, seems to involve both psychological and non-psychological requirements. And if that is correct, then Lehrer’s example succeeds as a counterexample to (CA) as a theory of our ordinary notion of ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 272,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Counterexamples to the necessity of (CA) have been less frequently discussed (though see Wolf 1990), but they also raise important issues about ability. Consider a case where a good golfer misses an easy putt. Given that this golfer tried to make the putt and failed to, it is false that she would have made the putt if she had tried to; after all, she did try it and did not make it. (This thought is vindicated by standard views of subjunctive conditionals; see Bennett 2003, 239). But, as a good golfer, she presumably had the ability to make the putt. So this seems to be a case where one can have an ability without satisfying the relevant conditional, and hence a counterexample to the necessity of (CA).",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 273,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Here the defender of (CA) might avail herself of the distinction between specific and general abilities. (CA), she might say, is an account of what it is to have a specific ability: that is, to actually be in a position to perform an action. The golfer does lack this ability in this case, as (CA) correctly predicts. It is nonetheless true that the golfer has the general ability to sink putts like this. But (CA) does not purport to be an analysis of general ability, and as such is compatible with the golfer having that sort of ability. Again, the plausibility of this response will hang on the viability of the distinction between specific and general abilities.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 274,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " We have seen that (CA) faces serious problems, especially as a sufficient condition for ability, even once we set to one side contentious claims about freedom and determinism. If this is correct, then (CA) must either be modified or rejected outright. Let us first consider the prospects for modification.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 275,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The guiding idea of hypothetical accounts is that abilities are to be defined in terms of what someone would do were he in certain psychological conditions. There are a number of ways of developing this idea that do not fit into the form of (CA). At least two such proposals deserve attention here.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 276,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Donald Davidson takes concerns about the sufficiency of (CA), especially as developed in Chisholm 1964, to tell decisively against it. More specifically, he takes the lesson of this problem to be is that:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 277,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Davidson suggests that we may overcome this difficulty at least by endorsing:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 278,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Davidson proceeds to consider a number of further problems for this proposal and for the causal theory of action generally, but he takes it to suffice at least to overcome standard objections to the sufficiency of (CA).",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 279,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " The trouble is that it is not at all clear it does so. For these objections did not essentially depend on a verb of action figuring in the antecedent of the analyzing conditional. Consider Lehrer’s case again. It seems true that if Lehrer’s imagined agent has desires and beliefs that rationalized that action under the description ‘eating a red candy’—namely, adopting the analysis of Davidson 1963, a desire for a red candy and a belief that this action is a way of eating a red candy—she would eat a red candy. But the trouble is precisely that, in virtue of her psychological disability, she is incapable of having this desire, and so cannot perform this action intentionally. For this reason it does not seem that Davidson’s proposal successfully overcomes the sufficiency problem, at least not on Lehrer’s way of developing that problem.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 280,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " A second and rather different approach to modifying (CA) has been taken in recent work by Christopher Peacocke. Peacocke accepts that (CA) is insufficient in light of counterexamples like Lehrer’s. But he argues that we might supplement (CA) in order to overcome these difficulties. In the terms of the present discussion, Peacocke’s proposal is: S has the ability to A just in case: (i) (CA) is true of S and (ii) the possibility in which S tries to A is a ‘close’ one. The closeness of a possibility as it figures in (ii) is to be understood, at first pass, in terms of what we can reasonably rely on: a possibility is a distant one just in case we can reasonably rely on it not obtaining; otherwise it is a close one (Peacocke 1999, 310). To modify one of Peacocke’s examples, the possibility of toxic fumes being released into a train car that is safely insulated is a distant one; on the other hand, the possibility of toxic fumes being released into a train car where they just happen to be blocked by a fortuitous arrangement of luggage is a close one.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 281,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Peacocke’s thought is that this suffices to overcome the sufficiency objection: though Lehrer’s agent satisfies (i), she does not satisfy (ii): given the facts about his psychology, the possibility that he tries to A is not a close one. The trouble, however, is that Peacocke’s proposal is subject to modified versions of Lehrer’s counterexample. Consider an agent whose aversion to red candies is not a permanent feature of her psychology, but an unpredictable and temporary ‘mood’. Consider the agent at some time when she is in her aversive mood. This agent satisfies (i), for the same reason as above, and she also satisfies (ii): given the fragility of her mood, the possibility of her trying is a close one in the relevant sense. Yet such an agent lacks the ability to eat a red candy, in precisely the same way as she does in Lehrer’s original example.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 282,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " It is an interesting question how we might develop other ‘supplementation’ strategies for (CA) (such strategies are also suggested by Ginet 1980), though the track record of this method of analysis in other domains (for instance, the project of ‘supplementing’ the analysis of knowledge in terms of justified true belief, in response to (Gettier 1963)) does not inspire confidence.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 283,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " There is a surprising disconnect between the way abilities have been discussed in the philosophical literature in the tradition of Hume and the way that they have been approached in more recent work in logic and linguistics. Here, ability claims are understood as categorical possibility claims: claims about what some agent does in some non-actual state of affairs (or ‘possible world’). Let a modal theory of ability be any theory on which claims about an agent’s abilities are understood in terms of claims about what that agent in fact does at some possible world (or set of worlds). The idea that some such modal theory of ability must be true is a presumption of much formal work on ability and ability-ascriptions. Yet there are serious challenges to the idea that ability is in this sense a modality.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 284,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Intuitively, claims about ability are claims about possibility. It is in some sense a truism that someone is able to perform some act just in case it is possible for her to perform it.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 285,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " To develop this purported truism, begin with the thought that for S to have an ability to A it is necessary, but not sufficient, that it be possible that S does A. This claim will be contentious for various more specialized sorts of possibility, such as nomic possibility. But if we may help ourselves to the idea of possibility simpliciter (‘metaphysical possibility,’ on at least one reading of that phrase), then this claim appears plausible. (We will survey some historical and contemporary challenges to it below in Section 4.2.) On the other hand it seems implausible that this sort of possibility is a sufficient condition: there are any number of acts that that are metaphysically possible to perform that an agent might nonetheless not be able to perform.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 286,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " This suggests a natural hypothesis. To have an ability is for it to be possible to A in some restricted sense of possibility. As nomic possibility is possibility relative to the laws of nature, and epistemic possibility is possibility relative to what an agent knows, so may ability be possibility relative to some independently specifiable set of conditions.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 287,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " To render this hypothesis precisely, we may help ourselves to the formal framework of ‘possible worlds,’ which offers an elegant and powerful semantics for modal language. On this framework, a proposition is possible just in case it is true at some possible world. We can then say an agent is able to A just in case she performs that act at some world (or set of worlds) that satisfy some independently specifiable set of conditions.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 288,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " We thus arrive at the modal analysis of ability:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 289,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " (MA) S has the ability to A iff S does A at some world (or set of worlds) satisfying condition C. ",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 290,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " (MA) is actually not itself an analysis but rather a template for a general family of analyses. Different members of this family will be distinguished by the different candidates they might propose for C, as well as whether they quantify over individual worlds or sets of worlds. Nonetheless, these analyses demonstrate sufficient theoretical unity that they may be viewed, at an appropriate level of abstraction, as a single approach to the analysis of ability.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 291,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Two points about (MA) bear noting. First, ‘modal’ here is being used in a relatively strict and narrow way. Sometimes ‘modal’ is used loosely to describe phenomena that are connected to possibility (and necessity) in some way or other. As noted above, it is a truism that there is some connection between ability and necessity, and so that ability is in this loose sense ‘modal.’ The proponent of (MA) is concerned with modality in a stricter sense: she proposes that ability may be analyzed in terms of the precise framework of propositions and possible worlds just adumbrated. The opponent of (MA), in turn, grants that ability has something to do with possibility but denies that any such analysis succeeds.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 292,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Second, while (MA) has been presented as an alternative to (CA), (CA) is arguably just one particular version of (MA). For, as noted above, (CA) appeals to a subjunctive conditional, and the standard semantics for the subjunctive conditional (developed in slightly different ways in Stalnaker 1968 and Lewis 1973) is told in terms of quantification over possible worlds. Specifically (on Stalnaker’s version) a subjunctive conditional is true just in case its consequent is true at the world where its antecedent is true that is otherwise maximally similar to the actual world. In these terms, (CA) is roughly equivalent to the following:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 293,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " This is patently a version of (MA), with ‘S tries to A and is otherwise maximally similar to the actual world’ serving as condition C.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 294,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " If this is correct, then most discussions of the analysis on ability in the twentieth century have focused on a special and somewhat idiosyncratic case of a much broader program of analysis, namely the program of giving a modal analysis of ability. The considerations brought forth in the remainder of this section, in contrast, are concerned with the general case.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 295,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " There are two questions that might be raised for this proposal about ability. First, does ability indeed admit of some kind of modal analysis? Second, if it does, how exactly are we to spell out the details of that analysis — in particular, how are we to articulate condition C? Let us begin with the first, more basic, question.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 296,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " According to (MA), performing an act at some possible world (or set of worlds) is both necessary and sufficient for having the ability to perform that act. One way of challenging this claim is to deny the necessity claim: that is, to argue that it is sometimes the case that an agent is able to perform an act that she does not perform at any possible world.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 297,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " This is an argument that has in fact been made by several authors. Descartes, for one, appears to have argued that God is such an agent (Curley 1984). A genuinely omnipotent being, one might argue, should be able to perform any act whatsoever, even the impossible ones. This view of omnipotence is contentious, but it is not clear that it should be ruled out formally, by the very analysis of ability, as (MA) does. Spencer (2017) argues that even non-omnipotent agents may sometimes have the ability to perform acts that they do not perform at any possible world.",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 298,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " Let us grant, however, that the possibility of performing an act is a necessary condition for performing that act, and that in this sense an attribution of ability entails a possibility claim. One might nonetheless resist the view that ability admits of a modal analysis in the manner suggested by (MA).",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 299,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abilities/",
+        "text": " That is the kind of argument developed in a prescient discussion by Anthony Kenny (Kenny 1975; the presentation of Kenny here is indebted to the discussion in Brown 1988). Kenny argues that, if something like (MA) is indeed true, then ability should obey the principles that govern the possibility operator in standard modal logics. Kenny claims that ability fails to satisfy the following two principles:",
+        "category": "abilities"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

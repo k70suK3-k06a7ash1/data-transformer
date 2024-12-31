@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 500,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " In the contemporary philosophical literature, a number of books and papers have investigated a form of abstraction that doesn’t depend on mental processes. We may call this the way of abstraction principles. Wright (1983) and Hale (1987) have developed an account of abstract objects on the basis of an idea they trace back to certain suggestive remarks in Frege (1884). Frege notes (in effect) that many of the singular terms that appear to refer to abstract entities are formed by means of functional expressions. We speak of the shape of a building, the direction of a line, the number of books on the shelf. Of course, many singular terms formed by means of functional expressions denote ordinary concrete objects: ‘the father of Plato’, ‘the capital of France’. But the functional terms that pick out abstract entities are distinctive in the following respect: where \\(f(a)\\) is such an expression, there is typically an equation of the form:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 501,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " where \\(R\\) is an equivalence relation, i.e., a relation that is reflexive, symmetric and transitive, relative to some domain. For example:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 502,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The direction of \\(a\\) = the direction of \\(b\\) if and only if \\(a\\) is parallel to \\(b\\)",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 503,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The number of \\(F\\text{s}\\) = the number of \\(G\\text{s}\\) if and only if there are just as many \\(F\\text{s}\\) as \\(G\\text{s}\\)",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 504,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " These biconditionals (or abstraction principles) appear to have a special semantic status. While they are not strictly speaking definitions of the functional expression that occurs on the left hand side, they would appear to hold in virtue of the meaning of that expression. To understand the term ‘direction’ is (in part) to know that the direction of \\(a\\) and the direction of \\(b\\) are the same entity if and only if the lines \\(a\\) and \\(b\\) are parallel. Moreover, the equivalence relation that appears on the right hand side of the biconditional would appear to be semantically and perhaps epistemologically prior to the functional expressions on the left (Noonan 1978). Mastery of the concept of a direction presupposes mastery of the concept of parallelism, but not vice versa.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 505,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The availability of abstraction principles meeting these conditions may be exploited to yield an account of the distinction between abstract and concrete objects. When ‘\\(f\\)’ is a functional expression governed by an abstraction principle, there will be a corresponding kind \\(K_{f}\\) such that:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 506,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is a \\(K_{f}\\) if and only if, for some \\(y\\), \\(x\\! =\\! f(y)\\).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 507,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " For example,",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 508,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is a cardinal number if and only if for some concept \\(F\\), \\(x\\) = the number of \\(F\\text{s}\\).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 509,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The simplest version of the way of abstraction principles is then to say that:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 510,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is an abstract object if (and only if) \\(x\\) is an instance of some kind \\(K_{f}\\) whose associated functional expression ‘\\(f\\)’ is governed by a suitable abstraction principle.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 511,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The strong version of this account—which purports to identify a necessary condition for abstractness—is seriously at odds with standard usage. Pure sets are usually considered paradigmatic abstract objects. But it is not clear that they satisfy the proposed criterion. According to a version of naïve set theory, the functional expression ‘set of’ is indeed characterized by a putative abstraction principle.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 512,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The set of \\(F\\text{s}\\) = the set of \\(G\\text{s}\\) if and only if, for all \\(x\\), \\(x\\) is \\(F\\) if and only if \\(x\\) is \\(G\\).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 513,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " But this principle, which is a version of Frege’s Basic Law V, is inconsistent and so fails to characterize an interesting concept. In contemporary mathematics, the concept of a set is not introduced by an abstraction principle, but rather axiomatically. Though attempts have been made to investigate abstraction principles for sets (Cook 2003), it remains an open question whether something like the mathematical concept of a set can be characterized by a suitably restricted abstraction principle. (See Burgess 2005 for a survey of recent efforts in this direction.) Even if such a principle is available, however, it is unlikely that the epistemological priority condition will be satisfied. That is, it is unlikely that mastery of the concept of set will presuppose mastery of the equivalence relation that figures on the right hand side. It is therefore uncertain whether the way of abstraction principles will classify the objects of pure set theory as abstract entities (as it presumably must).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 514,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " On the other hand, as Dummett (1973) has noted, in many cases the standard names for paradigmatically abstract objects do not assume the functional form to which the definition adverts. Chess is an abstract entity, but we do not understand the word ‘chess’ as synonymous with an expression of the form ‘\\(f(x)\\)’, where ‘\\(f\\)’ is governed by an abstraction principle. Similar remarks would seem to apply to such things as the English language, social justice, architecture, and Charlie Parker’s musical style. If so, the abstractionist approach does not provide a necessary condition for abstractness as that notion is standardly understood.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 515,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " More importantly, there is some reason to believe that it fails to supply a sufficient condition. A mereological fusion of concrete objects is itself a concrete object. But the concept of a mereological fusion is governed by what appears to be an abstraction principle:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 516,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The fusion of the \\(F\\text{s}\\) = the fusion of the \\(G\\text{s}\\) if and only if the \\(F\\text{s}\\) and \\(G\\text{s}\\) cover one another,",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 517,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " where the \\(F\\text{s}\\) cover the \\(G\\text{s}\\) if and only if every part of every \\(G\\) has a part in common with an \\(F\\). Similarly, suppose a train is a maximal string of railroad carriages, all of which are connected to one another. We may define a functional expression, ‘the train of \\(x\\)’, by means of an ‘abstraction’ principle: The train of \\(x\\) = the train of \\(y\\) if and only if \\(x\\) and \\(y\\) are connected carriages. We may then say that \\(x\\) is a train if and only if for some carriage \\(y\\), \\(x\\) is the train of \\(y\\). The simple account thus yields the consequence that trains are to be reckoned abstract entities.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 518,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " It is unclear whether these objections apply to the more sophisticated abstractionist proposals of Wright and Hale, but one feature of the simple account sketched above clearly does apply to these proposals and may serve as the basis for an objection to this version of the way of abstraction principles. The neo-Fregean approach seeks to explain the abstract/concrete distinction in semantic terms: We said that an abstract object is an object that falls in the range of a functional expression governed by an abstraction principle, where ‘\\(f\\)’ is governed by an abstraction principle when that principle holds in virtue of the meaning of ‘\\(f\\)’. This notion of a statement’s holding in virtue of the meaning of a word is notoriously problematic (see the entry  the analytic/synthetic distinction).  But even if this notion makes sense, one may still complain: The abstract/concrete distinction is supposed to be a metaphysical distinction; abstract objects are supposed to differ from concrete objects in some important ontological respect. It should be possible, then, to draw the distinction directly in metaphysical terms: to say what it is in the objects themselves that makes some things abstract and others concrete. As Lewis writes, in response to a related proposal by Dummett:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 519,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Even if this … way succeeds in drawing a border, as for all I know it may, it tells us nothing about how the entities on opposite sides of that border differ in their nature. It is like saying that snakes are the animals that we instinctively most fear—maybe so, but it tells us nothing about the nature of snakes. (Lewis 1986a: 82)",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 520,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The challenge is to produce a non-semantic version of the abstractionist criterion that specifies directly, in metaphysical terms, what the objects whose canonical names are governed by abstraction principles all have in common.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 521,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " One response to this difficulty is to transpose the abstractionist proposal into a more metaphysical key (see Rosen &amp; Yablo 2020). The idea is that each Fregean number is, by its very nature, the number of some Fregean concept, just as each Fregean direction is, by its very nature, at least potentially the direction of some concrete line. In each case, the abstract object is essentially the value of an abstraction function for a certain class of arguments. This is not a claim about the meanings of linguistic expressions. It is a claim about the essences or natures of the objects themselves. (For the relevant notion of essence, see Fine 1994.) So for example, the Fregean number two (if there is such a thing) is, essentially, by its very nature, the number that belongs to a concept \\(F\\) if and only if there are exactly two \\(F\\text{s}\\). More generally, for each Fregean abstract object \\(x\\), there is an abstraction function \\(f\\), such that \\(x\\) is essentially the value of \\(f\\) for every argument of a certain kind.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 522,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Abstraction functions have two key features. First, for each abstraction function \\(f\\) there is an equivalence relation \\(R\\) such that it lies in the nature of \\(f\\) that \\(f(x)\\! =\\! f(y)\\) iff \\(Rxy\\). Intuitively, we are to think that \\(R\\) is metaphysically prior to \\(f\\), and that the abstraction function \\(f\\) is defined (in whole or in part) by this biconditional. Second, each abstraction function is a generating function: its values are essentially values of that function. Many functions are not generating functions. Paris is the capital of France, but it is not essentially a capital. The number of solar planets, by contrast, is essentially a number. The notion of an abstraction function may be defined in terms of these two features:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 523,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " We may then say that:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 524,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is an abstraction if and only if, for some abstraction function \\(f\\), there is or could be an object \\(y\\) such that \\(x\\! =\\! f(y)\\),",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 525,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " and that:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 526,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is an abstract object if (and only if) \\(x\\) is an abstraction.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 527,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " This account tells us a great deal about the distinctive natures of these broadly Fregean abstract objects. It tells us that each is, by its very nature, the value of a special sort of function, one whose nature is specified in a simple way in terms of an associated equivalence relation. It is worth stressing, however, that it does not supply much metaphysical information about these items. It doesn’t tell us whether they are located in space, whether they can stand in causal relations, and so on. It is an open question whether this somewhat unfamiliar version of the abstract/concrete distinction lines up with any of the more conventional ways of drawing the distinction outlined above. An account along these lines would be at odds with standard usage, but may be philosophically interesting all the same. In any case, the problem remains that this metaphysical version of the way of abstraction principles leaves out paradigmatic cases of abstract objects such as the aforementioned game of chess.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 528,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " According to the way of negation, abstract objects are defined as those which lack certain features possessed by paradigmatic concrete objects. Many explicit characterizations in the literature follow this model. Let us review some of the options.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 529,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " According to the account implicit in Frege’s writings:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 530,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract if and only if it is both non-mental and non-sensible.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 531,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Here the first challenge is to say what it means for a thing to be ‘non-mental’, or as we more commonly say, ‘mind-independent’. The simplest approach is to say that a thing depends on the mind when it would not (or could not) have existed if minds had not existed. But this entails that tables and chairs are mind-dependent, and that is not what philosophers who employ this notion have in mind. To call an object ‘mind-dependent’ in a metaphysical context is to suggest that it somehow owes its existence to mental activity, but not in the boring ‘causal’ sense in which ordinary artifacts owe their existence to the mind. What can this mean? One promising approach is to say that an object should be reckoned mind-dependent when, by its very nature, it exists at a time if and only if it is the object or content of some mental state or process at that time. This counts tables and chairs as mind-independent, since they might survive the annihilation of thinking things. But it counts paradigmatically mental items, like a purple afterimage of which a person \\(X\\) may become aware, as mind-dependent, since it presumably lies in the nature of such items to be objects of conscious awareness whenever they exist. However, it is not clear that this account captures the full force of the intended notion. Consider, for example, the mereological fusion of \\(X\\)’s afterimage and \\(Y\\)’s headache. This is surely a mental entity if anything is. But it is not necessarily the object of a mental state. (The fusion can exist even if no one is thinking about it.) A more generous conception would allow for mind-dependent objects that exist at a time in virtue of mental activity at that time, even if the object is not the object of any single mental state or act. The fusion of \\(X\\)’s afterimage and \\(Y\\)’s headache is mind-dependent in the second sense but not the first. That is a reason to prefer the second account of mind-dependence.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 532,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " If we understand the notion of mind-dependence in this way, it is a mistake to insist that abstract objects be mind-independent. To strike a theme that will recur, it is widely supposed that sets and classes are abstract entities—even the impure sets whose urelements are concrete objects. Any account of the abstract/concrete distinction that places set-theoretic constructions like \\(\\{\\textrm{Alfred}, \\{\\textrm{Betty}, \\{\\textrm{Charlie}, \\textrm{Deborah}\\}\\}\\}\\) on the concrete side of the line will be seriously at odds with standard usage. With this in mind, consider the set whose sole members are X’s afterimage and Y’s headache, or some more complex set-theoretic object based on these items. If we suppose, as is plausible, that an impure set exists at a time only when its members exist at that time, this will be a mind-dependent entity in the generous sense. But it is also presumably an abstract entity.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 533,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " A similar problem arises for so-called abstract artifacts, like Jane Austen’s novels and the characters that inhabit them. Some philosophers regard such items as eternally existing abstract entities that worldly authors merely describe but do not create. But of course the commonsensical view is that Austen created Pride and Prejudice and Elizabeth Bennett, and there is no good reason to deny this (Thomasson 1999; cf. Sainsbury 2009). If we take this commonsensical approach, there will be a clear sense in which these items depend for their existence on Austen’s mental activity, and perhaps on the mental activity of subsequent  readers.[5]  These items may not count as mind-dependent in either of the senses canvassed above, since Pride and Prejudice can presumably exist at a time even if no one happens to be thinking at that time. (If the world took a brief collective nap, Pride and Prejudice would not pop out of existence.) But they are obviously mind-dependent in some not-merely-causal sense. And yet they are still presumably abstract objects. For these reasons, it is probably a mistake to insist that abstract objects be mind-independent. (For more on mind-dependence, see Rosen 1994, and the entry  platonism in the philosophy of mathematics.)",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 534,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Frege’s proposal in its original form also fails for other reasons. Quarks and electrons are usually considered neither sensible nor mind-dependent. And yet they are not abstract objects. A better version of Frege’s proposal would hold that:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 535,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract if and only if it is both non-physical and non-mental.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 536,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Two remarks on this last version are in order. First, it opens the door to thinking that besides abstract and concrete entities (assuming that physical objects, in a broad sense, are concrete), there are mental entities that are neither concrete nor abstract. As mentioned above (section 1.2), there is no need to insist that the distinction is an exhaustive one. Second, while the approach may well draw an important line, it inherits one familiar problem, namely, that of saying what it is for a thing to be a physical object (Crane and Mellor 1990; for discussion, see the entry on  physicalism).  In one sense, a physical entity is an entity in which physics might take an interest. But physics is saturated with mathematics, so in this sense a great many paradigmatically abstract objects—e.g. \\(\\pi\\)—will count as physical. The intended point is that abstract objects are to be distinguished, not from all of the objects posited by physics, but from the concrete objects posited by the physics. But if that is the point, it is unilluminating in the present context to say that abstract objects are non-physical.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 537,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Contemporary purveyors of the way of negation typically amend Frege’s criterion by requiring that abstract objects be non-spatial, causally inefficacious, or both. Indeed, if any characterization of the abstract deserves to be regarded as the standard one, is this:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 538,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract if and only if it is non-spatial and causally inefficacious.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 539,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " This standard account nonetheless presents a number of perplexities.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 540,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " First of all, one must consider whether there are abstract objects that have one of the two features but not the other. For example, consider an impure set, such as the unit set of Plato (i.e., \\(\\{\\textrm{Plato}\\}\\)). It has some claim to being abstract because it is causally inefficacious, but some might suggest that it has a location in space (namely, wherever Plato is located). Or consider a work of fiction such as Kafka’s The Metamorphosis. It, too, has some claim to being abstract because it (or at least its content) is non-spatial. But one might suggest that works of fiction as paradigmatic abstract objects seem to have causal powers, e.g., powers to affect us.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 541,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " In the remainder of this subsection, we focus on the first criterion in the above proposal, namely, the non-spatial condition. But it gives rise to a subtlety. It seems plausible to suggest that, necessarily, if something \\(x\\) is causally efficacious, then (since \\(x\\) is a cause or has causal powers) \\(x\\), or some part of \\(x\\), has a location in time. So if something has no location in time, it is causally inefficacious. The theory of relativity implies that space and time are nonseparable, i.e., combined into a single spacetime manifold. So the above proposal might be restated in terms of a single condition: an object is abstract if and only if it is non-spatiotemporal. Sometimes this revised proposal is the correct one for thinking about abstract objects, but our discussion in the previous section showed that abstract artifacts and mental events may be temporal but non-spatial. Given the complexities here, in what follows we use spatiotemporality, spatiality, or temporality, as needed.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 542,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Some of the archetypes of abstractness are non-spatiotemporal in a straightforward sense. It makes no sense to ask where the cosine function was last Tuesday. Or if it makes sense to ask, the sensible answer is that it was nowhere. Similarly, for many people, it makes no good sense to ask when the Pythagorean Theorem came to be. Or if it does make sense to ask, the only sensible answer for them is that it has always existed, or perhaps that it does not exist ‘in time’ at all. It is generally assumed that these paradigmatic ‘pure abstracta’ have no non-trivial spatial or temporal properties; that they have no spatial location, and they exist nowhere in particular in time.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 543,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Other abstract objects appear to stand in a more interesting relation to spacetime. Consider the game of chess. Some philosophers will say that chess is like a mathematical object, existing nowhere and ‘no when’—either eternally or outside of time altogether. But the most natural view is that chess was invented at a certain time and place (though it may be hard to say exactly where or when); that before it was invented it did not exist at all; that it was imported from India into Persia in the 7th century; that it has changed over the years, and so on. The only reason to resist this natural account is the thought that since chess is clearly an abstract object—it’s not a physical object, after all!—and since abstract objects do not exist in space and time—by definition!—chess must resemble the cosine function in its relation to space and time. And yet one might with equal justice regard the case of chess and other abstract artifacts as counterexamples to the hasty view that abstract objects possess only trivial spatial and temporal properties.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 544,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Should we then abandon the non-spatiotemporality criterion? Not necessarily. Even if there is a sense in which some abstract entities possess non-trivial spatiotemporal properties, it might still be said that concrete entities exist in spacetime in a distinctive way. If we had an account of this distinctive manner of spatiotemporal existence characteristic of concrete objects, we could say: An object is abstract (if and) only if it fails to exist in spacetime in that way.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 545,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " One way to implement this approach is to note that paradigmatic concrete objects tend to occupy a relatively determinate spatial volume at each time at which they exist, or a determinate volume of spacetime over the course of their existence. It makes sense to ask of such an object, ‘Where is it now, and how much space does it occupy?’ even if the answer must sometimes be somewhat vague. By contrast, even if the game of chess is somehow ‘implicated’ in space and time, it makes no sense to ask how much space it now occupies. (To the extent that this does make sense, the only sensible answer is that it occupies no space at all, which is not to say that it occupies a spatial point.) And so it might be said:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 546,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract (if and) only if it fails to occupy anything like a determinate region of space (or spacetime).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 547,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " This promising idea raises several questions. First, it is conceivable that certain items that are standardly regarded as abstract might nonetheless occupy determinate volumes of space and time. Consider, for example, the various sets composed from Peter and Paul: \\(\\{\\textrm{Peter}, \\textrm{Paul}\\},\\) \\(\\{\\textrm{Peter}, \\{\\textrm{Peter}, \\{\\{\\textrm{Paul}\\}\\}\\}\\},\\) etc. We don’t normally ask where such things are, or how much space they occupy. And indeed many philosophers will say that the question makes no sense, or that the answer is a dismissive ‘nowhere, none’. But this answer is not forced upon us by anything in set theory or metaphysics. Even if we grant that pure sets stand in only the most trivial relations to space, it is open to us to hold, as some philosophers have done, that impure sets exist where and when their members do (Lewis 1986a). It is not unnatural to say that a set of books is located on a certain shelf in the library, and indeed, there are some theoretical reasons for wanting to say this (Maddy 1990). On a view of this sort, we face a choice: we can say that since impure sets exist in space, they are not abstract objects after all; or we can say that since impure sets are abstract, it was a mistake to suppose that abstract objects cannot occupy space.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 548,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " One way to finesse this difficulty would be to note that even if impure sets occupy space, they do so in a derivative manner. The set \\(\\{\\textrm{Peter}, \\textrm{Paul}\\}\\) occupies a location in virtue of the fact that its concrete elements, Peter and Paul, together occupy that location. The set does not occupy the location in its own right. With that in mind, it might be said that:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 549,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract (if and) only if it either fails to occupy space at all, or does so only in virtue of the fact some other items—in this case, its urelements—occupy that region.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 550,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " But of course Peter himself occupies a region in virtue of the fact that his parts—his head, hands, etc.—together occupy that region. So a better version of the proposal would say:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 551,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract (if and) only if it either fails to occupy space at all, or does so of the fact that some other items that are not among its parts occupy that region.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 552,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " This approach appears to classify the cases fairly well, but it is somewhat artificial. Moreover, it raises a number of questions. What are we to say about the statue that occupies a region of space, not because its parts are arrayed in space, but rather because its constituting matter occupies that region? And what about the unobserved electron, which according to some interpretations of quantum mechanics does not really occupy a region of space at all, but rather stands in some more exotic relation to the spacetime it inhabits? Suffice it to say that a philosopher who regards ‘non-spatiality’ as a mark of the abstract, but who allows that some abstract objects may have non-trivial spatial properties, owes us an account of the distinctive relation to spacetime, space, and time that sets paradigmatic concreta apart.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 553,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Perhaps the crucial question about the ‘non-spatiality’ criterion concerns the classification of the parts of space itself. If they are considered concrete, then one might ask where the spatiotemporal points or regions are located. And a similar question arises for spatial points and regions, and for temporal instants or intervals. So, the ontological status of spatiotemporal locations, and of spatial and temporal locations, is problematic. Let us suppose that space, or spacetime, exists, not just as an object of pure mathematics, but as the arena in which physical objects and events are somehow arrayed. It is essential to understand that the problem is not about the numerical coordinates that represent these points and regions (or instants and intervals) in a reference system; the issue is about the points and regions (or instants and intervals). Physical objects are located ‘in’ or ‘at’ regions of space; as a result, they count as concrete according to the non-spatiality criterion. But what about the points and regions of space itself? There has been some debate about whether a commitment to spacetime substantivalism is consistent with the nominalist’s rejection of abstract entities (Field 1980, 1989; Malament 1982). If we define the abstract as the ‘non-spatial’, this debate amounts to whether space itself is to be reckoned ‘spatial’. To reject that these points, regions, instants, and intervals, are concrete because they are not located, entails featuring them as abstract. However, to think about them as abstract sounds a bit weird, given their role in causal processes. Perhaps, it is easier to treat them as concrete if we want to establish that concrete entities are spatiotemporal—or spatial and temporal.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 554,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The philosopher who believes that there is a serious question about whether the parts of space-time count as concrete would thus do well to characterize the abstract/concrete distinction in other terms. Still—as mentioned above—the philosopher who thinks that it is defensible that parts of space are concrete might use non-spatiality to draw the distinction if she manages to provide a way of accounting for how impure sets relate to space differs from the way concreta do.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 555,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " According to the most widely accepted versions of the way of negation:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 556,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " An object is abstract (if and) only if it is causally inefficacious.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 557,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Concrete objects, whether mental or physical, have causal powers; numbers and functions and the rest make nothing happen. There is no such thing as causal commerce with the game of chess itself (as distinct from its concrete instances). And even if impure sets do in some sense exist in space, it is easy enough to believe that they make no distinctive causal contribution to what transpires. Peter and Paul may have effects individually. They may even have effects together that neither has on his own. But these joint effects are naturally construed as effects of two concrete objects acting jointly, or perhaps as effects of their mereological aggregate (itself usually regarded as concretum), rather than as effects of some set-theoretic construction. Suppose Peter and Paul together tip a balance. If we entertain the possibility that this event is caused by a set, we shall have to ask which set caused it: the set containing just Peter and Paul? Some more elaborate construction based on them? Or is it perhaps the set containing the molecules that compose Peter and Paul? This proliferation of possible answers suggests that it was a mistake to credit sets with causal powers in the first place. This is good news for those who wish to say that all sets are abstract.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 558,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " (Note, however, that some writers identify ordinary physical events—causally efficacious items par excellence—with sets. For David Lewis, for example, an event like the fall of Rome is an ordered pair whose first member is a region of spacetime, and whose second member is a set of such regions (Lewis 1986b). On this account, it would be disastrous to say both that impure sets are abstract objects, and that abstract objects are non-causal.)",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 559,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The biggest challenge to characterizing abstracta as causally inefficacious entities is that causality itself is a notoriously problematic and difficult to define idea. It is undoubtedly one of the most controversial notions in the history of thought, with all kinds of views having been put forward on the matter. Thus, causally efficacious inherits any unclarity that attaches to causality. So, if we are to move the discussion forward, we need to take the notion of causation—understood as a relation among events—as sufficiently clear, even though in fact it is not. Having acknowledged this no doubt naïve assumption, several difficulties arise for the suggestion that abstract objects are precisely the causally inefficacious objects.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 560,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The idea that causal inefficacy constitutes a sufficient condition for abstractness is somewhat at odds with standard usage. Some philosophers believe in ‘epiphenomenal qualia’: objects of conscious awareness (sense data), or qualitative conscious states that may be caused by physical processes in the brain, but which have no downstream causal consequences of their own (Jackson 1982; Chalmers 1996). These items are causally inefficacious if they exist, but they are not normally regarded as abstract. The proponent of the causal inefficacy criterion might respond by insisting that abstract objects are distinctively neither causes nor effects. But this is perilous. Abstract artifacts like Jane Austen’s novels (as we normally conceive them) come into being as a result of human activity. The same goes for impure sets, which come into being when their concrete urelements are created. These items are clearly effects in some good sense; yet they remain abstract if they exist at all. It is unclear how the proponent of the strong version of the causal inefficacy criterion (which views causal inefficacy as both necessary and sufficient for abstractness) might best respond to this problem.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 561,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Apart from this worry, there are no decisive intuitive counterexamples to this account of the abstract/concrete distinction. The chief difficulty—and it is hardly decisive—is rather conceptual. It is widely maintained that causation, strictly speaking, is a relation among events or states of affairs. If we say that the rock—an object—caused the window to break, what we mean is that some event or state (or fact or condition) involving the rock caused the break. If the rock itself is a cause, it is a cause in some derivative sense. But this derivative sense has proved elusive. The rock’s hitting the window is an event in which the rock ‘participates’ in a certain way, and it is because the rock participates in events in this way that we credit the rock itself with causal efficacy. But what is it for an object to participate in an event? Suppose John is thinking about the Pythagorean Theorem and you ask him to say what’s on his mind. His response is an event—the utterance of a sentence; and one of its causes is the event of John’s thinking about the theorem. Does the Pythagorean Theorem ‘participate’ in this event? There is surely some sense in which it does. The event consists in John’s coming to stand in a certain relation to the theorem, just as the rock’s hitting the window consists in the rock’s coming to stand in a certain relation to the glass. But we do not credit the Pythagorean Theorem with causal efficacy simply because it participates in this sense in an event which is a cause.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 562,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The challenge is therefore to characterize the distinctive manner of ‘participation in the causal order’ that distinguishes the concrete entities. This problem has received relatively little attention. There is no reason to believe that it cannot be solved, though the varieties of philosophical analysis for the notion of causality make the task full of pitfalls. Anyway, in the absence of a solution, this standard version of the way of negation must be reckoned a work in progress.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 563,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Some philosophers have supposed that, under certain conditions, there are numerically different but indiscernible concrete entities, i.e., that there are distinct concrete objects \\(x\\) and \\(y\\) that exemplify the same properties. If this can be sustained, then one might suggest that distinct abstract objects are always discernible or, in a weaker formulation, that distinct abstract objects are never duplicates.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 564,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Cowling (2017, 86–89) analyzes whether the abstract/concrete distinction thus rendered is fruitful, though criteria in this line are normally offered as glosses on the universal/particular distinction. As part of his analysis, he deploys two pairs of (not uncontroversial) distinctions: (i) between qualitative and non-qualitative properties, and (ii) between intrinsic and extrinsic properties. Roughly, a non-qualitative property is one that involves specific individuals (e.g., being the teacher of Alexander the Great, being Albert Einstein, etc.), while qualitative properties are not (e.g., having mass, having a shape, having a length, etc.). Intrinsic properties are those an object has regardless of what other objects are like and regardless of its relationships with other objects (e.g., being made of copper). By contrast, an object’s extrinsic properties are those that depend on other entities (e.g., being the fastest  car).[6] ",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 565,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " With these distinctions in mind, it seems impossible that there be distinct abstract entities which are qualitatively indiscernible; each abstract entity is expected to have a unique, distinctive qualitative intrinsic nature (or property), which is giving reason for its metaphysical being. This wouldn’t be the case for any concrete entity given the initial assumption in this section. Therefore, the following criterion of discernability could be pondered:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 566,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is an abstract object iff it is impossible for there to be an object which is qualitatively indiscernible from \\(x\\) but distinct from \\(x\\).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 567,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " However, one can develop a counterexample to the above proposal, by considering two concrete objects that are indiscernible with respect to their intrinsic qualitative properties. Cowling (2017) considers the case of a possible world with only two perfectly spherical balls, \\(A\\) and \\(B\\), that share the same intrinsic qualitative properties and that are floating at a certain distance from each other. So \\(A\\) and \\(B\\) are distinct concrete objects but indiscernible in terms of their intrinsic qualitative properties.[7] But Lewis has pointed out that “if two individuals are indiscernible then so are their unit sets” (1986a, 84). If this is correct, \\(\\{A\\}\\) and \\(\\{B\\}\\) would be indiscernible, but (at least for some philosophers) distinct abstract objects, contrary to the discernibility criterion.[8] It is possible to counter-argue that we could happily accept impure sets as concrete; after all, it was always a bit unclear how they should be classified. Obviously, this has the problematic consequence of having some sets—pure sets—as abstract and other sets—impure sets—as concrete. But the idea that abstract objects have distinctive intrinsic natures allows one to establish a criterion less strong than that of discernibility; if an entity has a distinctive intrinsic nature, it cannot have a duplicate. So, the next criterion of non-duplication can be put forward:",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 568,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is an abstract object iff it is impossible for there to be an object which is a duplicate of \\(x\\) but distinct from \\(x\\).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 569,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " But there is a more serious counterexample to this criterion, namely, immanent universals. These are purportedly concrete objects, for they are universals wholly present where their instances are. But this criterion renders them abstract. Take the color scarlet; it is a universal wholly present in every scarlet thing. Each of the scarlets in those things is an immanent universal. These are non-duplicable, but at least according to Armstrong (1978, I, 77, though see 1989, 98–99), they are paradigmatically concrete: spatiotemporally located, causally efficacious, etc. Despite how promising they initially seemed, the criteria of discernibility and non-duplicability do not appear to capture the abstract/concrete distinction.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 570,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " One of the most rigorous proposals about abstract objects has been developed by Zalta (1983, 1988, and in a series of papers). It is a formal, axiomatic metaphysical theory of objects (both abstract and concrete), and also includes a theory of properties, relations, and propositions. The theory explicitly defines the notion of an abstract object but also implicitly characterizes them using  axioms.[9]  There are three central aspects to the theory: (i) a predicate \\(E!\\) which applies to concrete entities and which is used to define a modal distinction between abstract and ordinary objects; (ii) a distinction between exemplifying relations and encoding properties (i.e., encoding 1-place relations); and (iii) a comprehension schema that asserts the conditions under which abstract objects exist.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 571,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " (i) Since the theory has both a quantifier \\(\\exists\\) and a predicate \\(E!\\), Zalta offers two interpretations of his theory (1983, 51–2; 1988, 103–4). On one interpretation, the quantifier \\(\\exists\\) simply asserts there is and the predicate \\(E!\\) asserts existence. On this interpretation, a formula such as \\(\\exists x \\neg E!x\\), which is implied by the axioms described below, asserts “there is an object that fails to exist”. So, on this interpretation, the theory is Meinongian because it endorses non-existent objects. But there is a Quinean interpretation as well, on which the quantifier \\(\\exists\\) asserts existence and the predicate \\(E!\\) asserts concreteness. On this interpretation, the formula \\(\\exists x \\neg E!x\\) asserts “there exists an object that fails to be concrete”. So, on this interpretation, the theory is Platonist, since it doesn’t endorse non-existents but rather asserts the existence of non-concrete objects. We’ll henceforth use the Quinean/Platonist interpretation.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 572,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " In the more expressive, modal version of his theory, Zalta defines ordinary objects \\((O!)\\) to be those that might be concrete. The reason is that Zalta holds that possible objects (i.e., like million-carat diamonds, talking donkeys, etc.) are not concrete but rather possibly concrete. They exist, but they are not abstract, since abstract objects, like the number one, couldn’t be concrete. Indeed, Zalta’s theory implies that abstract objects \\((A!)\\) aren’t possibly concrete, since he defines them to be objects that aren’t ordinary (1993, 404):",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 573,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Thus, the ordinary objects include all the concrete objects (since \\(E!x\\) implies \\(\\Diamond E!x\\)), as well as possible objects that aren’t in fact concrete but might have been. On this theory, therefore, being abstract is not the negation of being concrete. Instead, the definition validates an intuition that numbers, sets, etc., aren’t the kind of thing that could be concrete. Though Zalta’s definition of abstract seems to comport with the way of primitivism—take concrete as primitive, and then define abstract as not possibly concrete—it differs in that (a) axioms are stated that govern the conditions under which abstract objects exist (see below), and (b) the features commonly ascribed to abstract objects are derived from principles that govern the property of being concrete. For example, Zalta accepts principles such as: necessarily, anything with causal powers is concrete (i.e., \\(\\Box \\forall x(Cx \\to E!x)\\)). Then since abstract objects are, by definition, concrete at no possible world, they necessarily fail to have causal powers.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 574,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " (ii) The distinction between exemplifying and encoding is a primitive one and is represented in the theory by two atomic formulas: \\(F^nx_1\\ldots x_n\\) \\((x_1,\\ldots ,x_n\\) exemplify \\(F^n\\)) and \\(xF^1\\) \\((x\\) encodes \\(F^1).\\) While both ordinary and abstract objects exemplify properties, only abstract objects encode  properties;[10]  it is axiomatic that ordinary objects necessarily fail to encode properties \\((O!x \\to \\Box \\neg \\exists FxF).\\) Zalta’s proposal can be seen a positive metaphysical proposal distinct from all the others we have considered; a positive proposal that uses encoding as a key notion to characterize abstract objects. On this reading, the definitions and axioms of the theory convey what is meant by encoding and how it works. Intuitively, an abstract object encodes the properties by which we define or conceive of it, but exemplifies some properties contingently and others necessarily. Thus, the number 1 of Dedekind-Peano number theory encodes all and only its number-theoretic properties, and whereas it contingently exemplifies the property being thought about by Peano, it necessarily exemplifies properties such as being abstract, not having a shape, not being a building, etc. The distinction between exemplifying and encoding a property is also used to define identity: ordinary objects are identical whenever they necessarily exemplify the same properties while abstract objects are identical whenever they necessarily encode the same properties.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 575,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " (iii) The comprehension principle asserts that for each expressible condition on properties, there is an abstract object that encodes exactly the properties that fulfill (satisfy) that condition. Formally: \\(\\exists x(A!x \\:\\&amp;\\: \\forall F(xF \\equiv \\phi))\\), where \\(\\phi\\) has no free \\(x\\)s. Each instance of this schema asserts the existence of an abstract object of a certain sort. So, for example, where ‘\\(s\\)’ denotes Socrates, the instance \\(\\exists x(A!x \\:\\&amp;\\: \\forall F(xF \\equiv Fs))\\) asserts that there is an abstract object that encodes exactly the properties that Socrates exemplifies. Zalta uses this object to analyze the complete individual concept of Socrates. But any condition \\(\\phi\\) on conditions on properties with no free occurrences of \\(x\\) can be used to form an instance of comprehension. In fact, one can prove that the object asserted to exist is unique, since there can’t be two distinct abstract objects that encode exactly the properties satisfying \\(\\phi\\).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 576,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The theory that emerges from (i)–(iii) is further developed with additional axioms and definitions. One axiom asserts that if an object encodes a property, it does so necessarily \\((xF \\to \\Box xF).\\) So the properties that an object encodes are not relative to any circumstance. Moreover, Zalta supplements his theory of abstract objects with a theory of properties, relations, and propositions. Here we describe only the theory of properties. It is governed by two principles: a comprehension principle for properties and a principle of identity. The comprehension principle asserts that for any condition on objects expressible without encoding subformulas, there is a property \\(F\\) such that necessarily, an object \\(x\\) exemplifies \\(F\\) if and only if \\(x\\) is such that \\(\\phi\\), i.e., \\(\\exists F\\Box \\forall x(Fx \\equiv \\phi)\\), where \\(\\phi\\) has no encoding subformulas and no free \\(F\\text{s}\\). The identity principle asserts that properties \\(F\\) and \\(G\\) are identical just in case \\(F\\) and \\(G\\) are necessarily encoded by the same objects, i.e., \\(F\\! =\\! G =_\\mathit{df} \\Box \\forall x(xF \\equiv xG)\\). This principle allows one to assert that there are properties that are necessarily equivalent in the classical sense, i.e., in the sense that \\(\\Box \\forall x(Fx \\equiv Gx)\\), but which are  distinct.[11] ",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 577,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Since \\(\\alpha\\! =\\! \\beta\\) is defined both when \\(\\alpha\\) and \\(\\beta\\) are both individual variables or both property variables, Zalta employs the usual principle for the substitution of identicals. Since all of the terms in his system are rigid, substitution of identicals preserves truth even in modal contexts.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 578,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The foregoing principles implicitly characterize both abstract and ordinary objects. Zalta’s theory doesn’t postulate any concrete objects, though, since that is a contingent matter. But his system does include the Barcan formula (i.e., \\(\\Diamond \\exists xFx \\to \\exists x\\Diamond Fx\\)), and so possiblity claims like “there might have been talking donkeys” imply that there are (non-concrete) objects at our world that are talking donkeys at some possible world. Since Zalta adopts the view that ordinary properties like being a donkey necessarily imply concreteness, such contingently nonconcrete objects are ordinary.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 579,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Zalta uses his theory to analyze Plato’s Forms, concepts, possible worlds, Fregean numbers and Fregean senses, fictions, and mathematical objects and relations generally. However, some philosophers see his comprehension principle as too inclusive, for in addition to these objects, it asserts that there are entities like the round square or the set of all sets which are not members of themselves. The theory doesn’t assert that anything exemplifies being round and being square—the theory preserves the classical form of predication without giving rise to contradictions. But it does assert that there is an abstract object that encodes being round and being square, and that there is an abstract object that encodes the property of being a set that contains all and only non-self-membered sets. Zalta would respond by suggesting that such objects are needed not only to state truth conditions, and explain the logical consequences, of sentences involving expressions like “the round square” and “the Russell set”, but also to analyze the fictional characters of inconsistent stories and inconsistent theories (e.g., Fregean extensions).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 580,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " It should be noted that Zalta’s comprehension principle for abstract objects is unrestricted and so constitutes a plenitude principle. This allows the theory to provide objects for arbitrary mathematical theories. Where \\(\\tau\\) is a term of mathematical theory \\(T\\), the comprehension principle yields a unique object that encodes all and only the properties \\(F\\) that are attributed to \\(\\tau\\) in \\(T\\) (Linsky &amp; Zalta 1995, Nodelman &amp; Zalta  2014).[12]  Zalta’s theory therefore offers significant explanatory power, for it has multiple applications and advances solutions to a wide range of puzzles in different fields of  philosophy.[13] ",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 581,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Many philosophers have supposed that abstract objects exist in some thin, deflated sense. In this section we consider the idea that the abstract/concrete distinction might be defined by saying that abstract objects exist in some less robust sense than the sense in which concrete objects exist.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 582,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The traditional platonist conception is a realist one: abstract objects exist in just the same full-blooded sense that objects in the natural world exist—they are mind-independent, rather than artifacts of human endeavor or dependent on concrete objects in any way. But a number of deflationary, metatontological views, now established in the literature, are based on the idea that the problems traditional platonists face have to do with “some very general preconceptions about what it takes to specify an object” rather than with “the abstractness of the desired object” (Linnebo 2018, 42). These views suggest that abstract objects exist in some weaker sense. Various approaches therefore articulate what may be called the ways of weakening existence. One clear precedent is due to Carnap 1950 [1956], whose deflationary approach may go the furthest; Carnap rejects the metaphysical pursuit of what “really exists” (even in the case of concrete objects) since he maintains that the question “Do \\(X\\text{s}\\) really exist?” are pseudo-questions (if asked independently of some linguistic framework).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 583,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " But there are other ways to suggest that abstract objects have existence conditions that demand little of the world. For example, Linsky &amp; Zalta (1995, 532) argued that the mind-independence and objectivity of abstract objects isn’t like that of physical objects: abstract objects aren’t subject to an appearance/reality distinction, they don’t exist in a ‘sparse’ way that requires discovery by empirical investigation, and they aren’t complete objects (e.g., mathematical objects are defined only by their mathematical properties). They use this conception to naturalize Zalta’s comprehension principle for abstract objects.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 584,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Other deflationary accounts develop some weaker sense in which abstract objects exist (e.g., as ‘thin’ objects). We further describe some of these proposals below and try to unpack the ways in which they characterize the weakened, deflationary sense of existence (even when such characterizations are not always explicit).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 585,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Carnap held that claims about the “real” existence of entities (concrete or abstract) do not have cognitive content. They are pseudo-statements. However, he admitted: (a) that there are sentences in science that use terms that designate mathematical entities (such as numbers); and (b) that semantic analysis seems to require entities like properties and propositions. Since mathematical entities, properties, and propositions are traditionally considered abstract, he wanted to clarify how it is possible to accept a language referring to abstract entities without adopting what he considered pseudo-sentences about such entities’ objective reality. Carnap’s famous paper (1950 [1956]) contained an attempt to show that, without embracing Platonism, one can use a language referring to abstract entities.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 586,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " To achieve these goals, Carnap begins by noting that before one can ask existence questions about entities of a determinate kind, one first has to have a language, or a linguistic framework, that allows one to speak about the kinds of entity in question. He then distinguishes ‘internal’ existence questions expressed within such a linguistic framework from ‘external’ existence questions about a framework. Only the latter ask whether the entities of that framework are objectively real. As we’ll see below, Carnap thought that internal existence questions within a framework can be answered, either by empirical investigation or by logical analysis, depending on the kind of entity the framework is about. By contrast, Carnap regards external questions (e.g., ‘Do \\(X\\text{s}\\) exist?’, expressed either about, or independent of, a linguistic framework) as pseudo-questions: though they appear to be theoretical questions, in fact they are merely practical questions about the utility of the linguistic framework for science.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 587,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Carnap’s paper (1950 [1956]) considers a variety of linguistic frameworks, such as those for: observable things (i.e., the spatiotemporally ordered system of observable things and events), natural numbers and integers, propositions, thing properties, rational and real numbers, and spatiotemporal coordinate systems. Each framework is established by developing a language that typically includes expressions for one or more kinds of entities in question, expressions for properties of the entities in question (including a general category term for each kind of entity in question), and variables ranging over those entities. Thus, a framework for the system of observable things has expressions that denote such things (‘the Earth’, ‘the Eiffel Tower’, etc.), expressions for properties of such things (‘planet’, ‘made of metal’, etc.), and variables ranging over observables. The framework for natural numbers has expressions that denote them (‘0’, ‘2+5’), expressions for properties of the numbers (‘prime’, ‘odd’), including the general category term ‘number’), and variables ranging over numbers.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 588,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " For Carnap, each statement in a linguistic framework should have a truth value that can be determined either by analytical or empirical methods. A statement’s truth value is analytically determinable if it is logically true (or false), or if it’s truth is determinable exclusively from the rules of the language or on the basis of semantic relationships among its component expressions. A statement is empirically determinable when it is confirmable (or disconfirmable) in the light of the perceived evidence. Note that the very attempt to confirm an empirical statement about physical objects on the basis of the evidence requires that one adopt the language of the framework of things. Carnap warns us, however, that “this must not be interpreted as if it meant … acceptance of a belief in the reality of the thing world; there is no such belief or assertion or assumption because it is not a theoretical question” (1950 [1956, 208]). For Carnap, to accept an ontology “means nothing more than to accept a certain form of language, in other words to accept rules for forming statements and for testing, accepting, or rejecting them” (1950 [1956, 208]).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 589,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Carnap takes this approach to every linguistic framework, no matter whether it is a framework about physical, concrete things, or a framework about abstract entities such as numbers, properties, concepts, propositions, etc. For him, the pragmatic reasons for accepting a given linguistic framework are that it has explanatory power, unifies the explanation of disparate kinds of data and phenomena, expresses claims more efficiently, etc. And we often choose a framework for a particular explanatory purpose. We might therefore choose a framework with expressions about abstract entities to carry out an explication (i.e., an elucidation of concepts), or to develop a semantics for natural language. For Carnap, the choice between platonism or nominalism is not a legitimate one; both are inappropriate attempts to answer an external pseudo-question.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 590,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " As sketched earlier, the truth of such existence claims as ‘there are tables’ and ‘there are unicorns’, which are expressed within the framework for observable entities, is to be determined empirically, since empirical observations and investigations are needed. These statements are not true in virtue of the rules of the language. By contrast, existence claims such as ‘there are numbers’ (‘\\(\\exists xNx\\)’) expressed within the framework of number theory, or ‘there is a property \\(F\\) such that both \\(x\\) and \\(y\\) are \\(F\\)’ (‘\\(\\exists F(Fx \\:\\&amp;\\: Fy)\\)’) expressed within the framework of property theory, can be determined analytically. For these statements either form part of the rules of the language (e.g., expressed as axioms that govern the terms of the language) or are derivable from the rules of the language. When these statements are part of the rules that make up the linguistic framework, they are considered analytic, as are the existential statements that follow from those rules.[14] ",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 591,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " All of the existence assertions just discussed are therefore internal to their respective linguistic frameworks. Carnap thinks that the only sense that can be given to talk of “existence” is an internal sense. Internal questions about the existence of things or abstract objects are not questions about their real metaphysical  existence.[15]  Hence, it seems more appropriate to describe his view as embodying a deflationary notion of object. For Carnap concludes “the question of the admissibility of entities of a certain type or of abstract entities in general as designata is reduced to the question of the acceptability of the linguistic framework for those entities” (1950 [1956, 217]).",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 592,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Thus, for each framework (no matter whether it describes empirical objects, abstract objects, or a mix of both), one can formulate both simple and complex existential statements. According to Carnap, each simple existential statement is either empirical or analytic. If a simple statement is empirical, its truth value can be determined by a combination of empirical inquiry and consideration of the linguistic rules governing the framework; if the simple existential statement is analytic, then its truth value can be determined simply by considering the linguistic rules governing the framework. Whereas the simple existential statements that require empirical investigation assert the existence of possible concrete entities (like ‘tables’ or ‘unicorns’), the simple existential statements that are analytic assert the existence of abstract entities. Let us call this criterion for asserting the existence of abstract objects the criterion of linguistic rules.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 593,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " The case of mixed frameworks poses some difficulties for the view. According to the Criterion of Linguistic Rules,",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 594,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " \\(x\\) is abstract iff “\\(x\\) exists” is analytic in the relevant language.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 595,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " But this criterion suggests that impure sets, object-dependent properties, abstract artifacts, and the rest are not abstract. For this criterion appears to draw a line between certain pure abstract entities and everything else. The truth of simple existence statements about \\(\\{\\textrm{Bob Dylan}\\}\\) or Dickens’ A Christmas Carol, which usually are considered abstract entities, does not depend solely on linguistic rules. The same goes for simple and complex existential statements with general terms such as ‘novel’, ‘legal statute’, etc.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 596,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " In the end, though, Carnap doesn’t seem to be either a realist or nominalist about objects (abstract or concrete). Carnap rejects the question whether these objects are real in a metaphysical sense. But, contrary to the nominalist, he rejects the idea that we can truly deny the real existence of abstract objects (i.e., a denial that is external to a linguistic framework). This attitude, which settles the question of which framework to adopt on pragmatic grounds (e.g., which framework best helps us to make sense of the data to be explained), is the reason why we’ve labeled his view as a way of weakening existence. See the entry on  Carnap  for further details.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 597,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Proposals by other philosophers are related to Carnap’s view. Resnik (1997, Part Two) has put forward a postulational epistemology for the existence of mathematical objects. According to this view, all one has to do to ensure the existence of mathematical objects is to use a language to posit mathematical objects and to establish a consistent mathematical theory for  them.[16]  Nevertheless, their existence does not result from their being posited. Instead, we recognize those objects as existent because a consistent mathematical theory for them has been developed. Resnik requires both a linguistic stipulation for considering mathematical objects and a coherency condition for recognizing them as existent. Thomasson (2015, 30–34) advocates for an approach which she takes to be inherited from Carnap. She calls it easy ontology. Since she is not trying to find ultimate categories or a definitive list of basic (abstract or concrete) objects, she prefers a simpler kind of realism (see Thomasson 2015, 145–158). She argues that everyday uses of existential statements provide acceptable ontological commitments when those assertions are supported either by empirical evidence or merely by the rules of use that govern general terms (e.g., sortal terms); in both cases she says that “application conditions” for a general term are fulfilled (see Thomasson 2015, 86, 89–95). She, too, therefore offers a criterion of linguistic rules for accepting abstract objects. Given her defense of simple realism, it appears that she takes both observable objects and theoretical entities in science as concrete.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 598,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " In what follows, two ways of formulating criteria for the abstract/concrete distinction are considered. The views start with the idea that our concept of an object allows for objects whose existence places very few demands on reality over and above the demands imposed by claims that do not mention abstract objects. Those philosophers who maintain this philosophical thesis are what Linnebo (2012) calls metaontological minimalists. Their proposals are typically put forward in connection with issues in the philosophy of mathematics, but then applied to other domains.",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 599,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/abstract-objects/",
+        "text": " Parsons (1990), Resnik (1997), and Shapiro (1997) contend that, in the case of mathematical theories, coherence suffices for the existence of the objects mentioned in those  theories.[17]  They do not offer an explicit criterion for distinguishing abstract and concrete objects. Nevertheless, their proposals implicitly draw the distinction; abstract objects are those objects that exist in virtue of the truth of certain modal claims. In particular, the existence of mathematical objects is “grounded in” pure modal truths. For example, numbers exist “in virtue of” the fact that there could have been an \\(\\omega\\)-sequence of objects; sets exist because there might be entities that satisfy the axioms of one or another set theory, etc. Since these pure modal truths are necessary, this explains why pure abstract objects exist necessarily. It also explains a sense in which they are insubstantial: their existence is grounded in truths that do not (on the face of it) require the actual existence of anything at  all.[18] ",
+        "category": "abstract-objects"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

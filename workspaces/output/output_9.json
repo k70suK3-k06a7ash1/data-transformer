@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 800,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " In an influential series of papers, Bratman has developed a reductive account of shared activity and shared  intention.[14]  He understands a shared intention to be an interpersonal structure of related intentions that serves to coordinate action and planning, as well as structure bargaining between  participants.[15]  The individually held intentions that constitute this structure—what we’ve been calling participatory intentions—are instances of a familiar sort of individual intention that figures in the planning and the coordination of one’s activities over time. When these individual intentions concern something that is done by more than one person, taking the form I intend that we J, they accord with Bratman’s version of the Intention Thesis, and the core of his proposals about shared intention and action. But Bratman imposes further conditions, and these serve to relate these participatory intentions in distinctive ways.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 801,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " One important condition concerns the meshing of sub-plans (Bratman 1992, 331ff). On Bratman’s view, an intention is distinctive in how it leads to planning about necessary means and facilitative steps that lead to its satisfaction. Now, suppose each of us has the intention to paint the house together (or, as Bratman would have it, the intention that we paint the house), but my plan is to paint it green all over, whereas yours is to paint it purple all over. It seems that we don’t share the intention to paint the house. So Bratman introduces the condition that each participant intends that the subplans that follow upon the participatory intentions of each individual mesh—that is, are mutually satisfiable and coherent—in order for the individuals to count as sharing an  intention.[16]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 802,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " We wouldn’t exhibit the right sort of cooperative attitude for shared activity and intention if the mesh of our sub-plans were accidental and we were not at all disposed to make them consistent if they were to become incompatible. That’s why Bratman requires the intention to mesh  subplans.[17]  There is, moreover, a normative element to the meshing, as emphasized by Roth 2003. Participants are subject to some sort of rational  requirement[18]  such that they in a sense ought to mesh their plans: the plans of the other participants serve as a normative constraint on one’s own plans. And there is no reason to restrict this status to the plans, and not extend it to the intentions that generate them. Thus, shared activity exhibits what Roth calls practical intersubjectivity. In effect, each participant treats the other’s intentions and plans much in the way that he or she treats her own: as rational constraints on further intention and planning.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 803,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Bratman (especially in his 2014 book, but see also his 2009c, 2009b, 1992) defends a reductive account of this normative requirement, explaining this interpersonal normative constraint in terms of the norms of commitment governing individual intention, such as those of consistency and means-end coherence. Your intentions and plans pertaining to our J-ing have an authority for me because of what might be called a bridge intention to mesh my J-related plans and intentions with yours. Bratman expresses the bridge intention in terms of the condition requiring each participant to have the intention to act in accordance with and because of the others’ intentions and plans (as well as his or her own). Bratman’s idea is that, given my bridge intention, the norms of consistency and coherence governing my individual intentions will be recruited to require that I form my plans and intentions with an eye toward consistency and coherence with your plans and intentions. Roth 2003 sympathizes with these interpersonal normative requirements of consistency and coherence as a condition for shared intention and action, but resists the reductive bridge intention account of it.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 804,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " The demand that subplans must mesh might inspire the view that super-ordinate intentions, or the reasons each participant in shared activity A has for taking part, might also be subject to a similar requirement. This is suggested, for example, in Korsgaard’s talk of the sharing of reasons:",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 805,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " In a similar vein, Tuomela requires that the “we-mode” intention at the core of his more recent theory necessarily involves group reasons shared by all participants. See his 2007; 13, 47, 98.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 806,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " But it seems possible that individuals might engage in shared activity (and have the corresponding intention) even when they have different and incompatible reasons for doing so. For example, representatives from rival parties might engage in the legislative process that leads to the passage of laws, even when each is motivated by considerations that the other finds  unacceptable.[19]  Still, it is plausible to think that there must be some constraints on the sort of individual motive or reason a participant has to engage in shared activity. If my motive for engaging in shared activity is overly manipulative or undermining of fellow participants (e.g. doing something with A in order better to control him/her), the status of the activity or intention as shared might be  compromised.[20]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 807,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " A further way in which participatory intentions of different individuals are related stems from how they might be formed, modified, or set aside. For example, Gilbert holds that shared activity gets started only when each individual openly expresses a readiness to be jointly committed in a certain way with  others.[21]  She adds that rescinding or significantly modifying the resulting intention, as well as releasing any individual from participation, would also require concurrence on everyone’s part. It’s not clear that Gilbert herself would want to talk of this “concurrence condition” in terms of relating intention or intention-like attitudes in different participants. But, given that whether I concur with how you propose to modify your intentions will depend in part on my intentions, it is natural to take Gilbert’s conditions as imposing dynamic constraints on how the participatory intentions of different individual are related to one another. Of course, Gilbert’s conditions might be too strong. For example, the concurrence criterion does not permit one to withdraw unilaterally from shared  activity.[22]  Some may find this implausible. But relaxing Gilbert’s conditions would naturally result in another perhaps weaker set of dynamic constraints, and not in their complete absence. For example, recall that intentions are defeasible: they can be revised or dropped if changing circumstances warrant it. Now, we might imagine that each participant in shared activity might have the authority unilaterally to revise or defeat the intention in light of those changing circumstances, whereupon other participants would have to abide by the change unless, of course, they think that some mistake has been made (Roth 2004).",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 808,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Most of the views canvassed here emphasize as a condition for shared activity fairly robust forms of integration between participants. Before continuing in this vein, it bears mention that the focus on the participants and how they are related might lead us to neglect other important conditions for shared activity. Epstein 2015 argues that the metaphysical grounds for some forms of shared activity, such as that involved in some cases of group action, involve a variety of conditions that are not themselves relations between members of the group, but often can determine how those members are related. These might include historical conditions that determine the structure and membership criteria for the group. Or, the grounds might include external conditions such as the actions of some designated individual (such as a sergeant at arms) not a part of the collective body but who for example must convene a meeting in order that the members of the body may collectively take some action. ",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 809,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " So shared activity is distinguished from a mere aggregation of individual acts by a structure of appropriately related participatory intentions across different individuals. It is a structure that has a distinctive normative significance for those individuals, with an impact most immediately on each individual’s intention-based practical  reasoning.[23]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 810,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " It is natural to think that this structure of intentions is brought about by individuals involved in shared activity, presumably when each forms the participatory intention that is his or her contribution to the structure. But recall that participatory intentions are meant to capture the sense in which each individual is committed to what everyone is doing together, and not merely to what he or she is doing. Thus, Searle says of an instance of shared activity that “I’m pushing only as a part of our pushing.” This suggests that what is intended is the entirety of the activity, something reflected in Bratman’s intentions of the form I intend that we  J.[24]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 811,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " But as Velleman has shown, given the standard understanding of intentions, it’s not clear that one can intend the entire activity; or if one can, it would seem incompatible with the activity being  shared.[25]  Intending is something I do to settle a deliberative issue: weighing several options, I decide on A-ing, and thereby intend to A. This suggests the Settling  Condition[26]  that I can only intend what I take to be up to me to decide or settle. It is a violation of a rational requirement to intend something I don’t think I can settle, and thus regard my ensuing plans and actions as likely coming to grief. Applying the point to collective action, to say that I intend for us to be dining together presumes that whether we’re dining together is something for me to settle. But the idea behind shared activity and intention is precisely that it’s not entirely up to me what we do. You have a say in the matter; at the very least what you do should be up to you (see also Schmid 2008). Our problem, then, is that shared activity would seem both to demand and to disallow one and the same intention on the part of each  participant.[27]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 812,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Several responses have emerged to this problem. Velleman develops a solution that invokes interdependent conditional  intentions.[28]  Each individual conditionally settles what the group will do, where the condition is that each of the others has a similar commitment and intends likewise. Thus, I intend to J, on condition that you intend likewise. Some have worried that when intentions are interdependent in this way it’s not entirely clear that they settle anything at all, and hence, whether anyone is appropriately committed to our J-ing. If each intention is conditioned on the other, it’s just as reasonable to refrain from acting as it is to engage in it. For discussion, see Roth 2004, 373–80; Bacharach 2006, 137ff. Gilbert 2002, while addressing Robins 2002 and a precursor of Roth 2004 disavows the interdependent conditional view attributed to her by Velleman, Roth, and Robins. See also Gilbert 2003, 2009. Velleman himself is sensitive to something like this worry (1997a, 39) and it shapes how he formulates the content of the conditional  intention.[29]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 813,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Bratman (1997) has suggested that what an individual intends can extend beyond what he can settle himself, so long as he can reasonably predict that the relevant other parties will act appropriately. Flagrantly disregarding sound medical advice, I can have the categorical intention to work on my tan at the beach this afternoon, so long as I can reasonably predict that it’ll be sunny. Likewise, when I reasonably believe that you have or will have the appropriate intentions, I can then intend that we J. One might wonder whether taking this sort of predictive attitude with respect to the intentions and actions of fellow participants is consistent with sharing an intention and acting with them. On the other hand, it’s not obvious that the prediction of an action entails that it is or must be regarded as involuntary or otherwise problematic. If so, the predictive attitude toward others very well may be compatible with acting with them, and might account for how our J-ing might be the object of my  intention.[30]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 814,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Another suggestion is that a participant intends not the entirety of the activity, but only his or her part in it. Such an intention is more modest in that it does not purport to settle what other people do. An account of shared activity in terms of such intentions (e.g. Tuomela &amp; Miller 1998, Kutz 2000) does not entail the authority or control over others that would be difficult to reconcile with the activity being shared. But this modest intention involves a commitment only to one’s part in our J-ing and doesn’t seem to account for a participatory commitment to our J-ing as a whole. To see why not, consider the case of walking together from Gilbert 1990. We might describe my part as walking at a certain pace. But intending to do that is entirely compatible with undermining my partner’s contribution, for example by tripping him. Suppose instead that we avail ourselves of some robust conception of part, so that each participant intends to do his part in shared activity, as such. This would appear to rule out attempts to undermine a partner’s contribution. But what exactly is this intention? It seems to presuppose an understanding of the concept of shared activity, which is the notion we’re trying to  elucidate.[31]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 815,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Maybe this criticism is too quick. Perhaps there remains a way to characterize the intention to do one’s part that doesn’t presuppose the notion of shared activity. One approach appeals to “team reasoning”, a distinctive form of strategic practical reasoning. This view of reasoning was developed to address certain difficulties standard game theory has in accounting for the rationality of selecting more cooperative options in strategic scenarios such as the Prisoner’s Dilemma and Hi-Lo. The idea is that we get intuitively more rational outcomes with individuals each approaching the situation asking him- or herself not what’s best for me given what others do?, but what is best for us or the group as a  whole?[32]  The participatory intention is characterized in terms of the distinctive reasoning that leads to its formation, rather than in terms of some more intrinsic feature of the intention or its content. It remains to be seen whether intending one’s part, so understood, can account for the participatory commitment distinctive of shared  activity.[33]",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 816,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " The issue of how to establish the interpersonal structure of participatory intention is a central problem for the theory of shared agency, and remains an area of active research interest. For further views, see Gilbert 2009 (some discussion of which is below), Korsgaard’s interpretation of Kant in her 2009, 189ff, and Roth 2004, whose conception of intentions allows him to appeal to an interpersonal mechanism similar in some respects to that of commands.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 817,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Gilbert has long held that participants in shared activity are obligated to do their part in it. Take her well-known example of walking together, starring Jack and Sue. When Jack does something that’s not compatible with walking together, e.g. walking so fast that Sue cannot keep up, Sue is entitled to rebuke Jack. This suggests to Gilbert that it is essential to shared activity (and intention) that each participant has an obligation to do his or her part in the activity (or in carrying out the intention). For example,",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 818,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Gilbert has used this mutual obligation criterion to criticize reductive accounts of shared activity in terms of “personal intentions” (1990, 180ff; 2008,499), such as that defended by Bratman. Bratman 1997 acknowledges that mutual obligations are typically associated with the sharing of intentions, but insists that they are not essential. He argues that when present, the obligations are explained in terms of a moral principle that one should live up to the expectations about one’s actions that one has intentionally created in others. This principle, articulated by Scanlon in the context of a discussion about promising, does generally apply to situations where individuals act together and share intentions. (Scanlon’s Principle F is in his 1998, 304. For recent discussion of Scanlon and promising that bears on shared activity, see Shiffrin 2008. For another reductivist response to Gilbert see MacMahon 2005, 299ff. For more recent discussion of mutual obligation, see Roth 2004, Alonso 2009.)",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 819,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Suppose, however, that we have individuals engaged in an endeavor they know to be immoral, such as that of a pillager and a lazy plunderer raiding a village. The inadmissibility of the action undermines the pillager’s entitlement to hold the plunderer accountable for slacking off in his search for loot. There could not be an obligation to do one’s part in this activity (Bratman, 1999, 132–6). For Bratman, this shows that there can be shared activity without these obligations. Gilbert responds that it only shows that the obligations in question are special, “of a different kind” (2009, 178) than the sort of obligation familiar from discussion of moral philosophy. She goes so far as to say that the obligations to do one’s part are present, even when one’s partners in shared activity have coerced one into joining them.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 820,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Gilbert’s later statements become more explicit about the directed nature of these non-moral obligations (Gilbert 1997, 75–6). The obligation relates Jack with Sue in a way in which Jack and a non-participant are not related (Gilbert 2009; 2008, 497; this connects with recent discussion of “bipolar normativity”; see Darwall 2006, Thompson 2004, and Wallace 2013). To mark the directed nature of the normative relation, and in a way that does not suggest as strongly that they are moral in nature, we might speak of contralateral commitments (Roth 2004). Thus, Jack has a contralateral commitment-to-Sue to walk in a way that is compatible with their walking together.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 821,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Gilbert attempts to articulate the sense of directedness in terms of ownership: Jack’s contralateral commitment to Sue to walk at the appropriate pace entails that Sue is owed, and in a sense owns, the relevant performance on Jack’s part (Gilbert 2008, 497). This would presumably explain why Sue and not anyone else can release Jack from fulfilling the obligation/commitment, by giving up her claim on Jack’s action. One might, in a related vein, try to articulate the directed nature of the commitment in terms of  promising.[35]  If we understand Jack’s obligation as the result of something like a promise to Sue, we can see not only that Jack has a commitment, but that Sue is in a special position such that she can, for example, release him from fulfilling it. One drawback, at least for Gilbert, of appealing either to ownership or promising to articulate the notion of directed obligation or contralateral commitment is that it is not clear that this would allow for these commitments to be as insulated from moral considerations as Gilbert seems to think they are (e.g. in the response to Bratman above). A further question is whether ownership or promising fully captures all that there is to the contralateral or directed nature of the commitment. These strategies might explain why Sue is in a special position to release Jack from his commitment. But one might wonder whether there are other aspects of her special standing with respect to Jack that are left  unaddressed.[36]  Furthermore, it might be that certain aspects of promising - in particular the directedness of the obligation - might in some way depend on shared agency or aspects thereof. See Gilbert 2011 and Roth 2016.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 822,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " While the notion of ownership or claim rights is meant to be suggestive of the sort of mutual obligations/contralateral commitments she has in mind, the central explanatory concept deployed by Gilbert is that of joint commitment, which she takes to be  primitive.[37]  A concern here is whether joint commitment provides anything like a philosophical account or explanation of mutual obligations, or whether it merely re-describes them. We get some idea of what Gilbert has in mind by contrasting it with personal commitment associated with individual intention or decision (2009, 180). Whereas one can on one’s own take on and rescind the sort of commitment associated with individual intention and decision, joint commitment can only be formed through a process whereby everyone expresses their readiness, and it can only be rescinded when all parties concur. This raises the issue of the previous section, of how exactly the joint commitment comes into force. Even if everyone expresses a readiness to A together, it doesn’t follow that we all take the plunge and actually undertake it. A further worry Gilbert herself has voiced is whether any condition requiring expression might limit the applicability of her view in giving a more general account of political obligation, something she aims to do (e.g., in her 2006). Gilbert’s view has also been charged with circularity; it would seem that the expression of readiness needed to establish joint commitment would itself be an instance of shared activity and thus presuppose joint commitment. For discussion, see Tuomela 1992, Tollefsen 2002, and Schmid 2014.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 823,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Understood as a kind of obligation, Gilbert’s insight about a distinctive normative relation holding between participants in shared agency risks rejection. Many find obligation, and especially the no-unilateral withdrawal condition, to be too strong. Gilbert’s general idea might find wider acceptance if we talk instead of commitment that allows for unilateral  withdrawal.[38]  Finally, Stroud (2010) has suggested a normative condition in some respects even weaker. Stroud holds that participants in shared activity have a prerogative—a moral permission—that can override or mitigate moral obligations had to non-participants (such as that of beneficence). It remains to be seen to what extent this might address the intuitions that motivated Gilbert’s original and important insight.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 824,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " It was suggested earlier (in Section 1) that thinking of a group as itself an agent and a subject of intentional states was not a good model or account of central forms of shared intention and activity. But that’s not to say that it’s never appropriate to talk this way. Indeed, Rovane, Pettit and others have argued that some groups can be genuine subjects of intentional attitudes, and can have minds of their own. This would amount to a different way in which individuals can act together, and raises interesting questions about how a group’s intentions must be related to an individual’s in practical reasoning.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 825,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Pettit starts with the assumption that a rational integration of a collective is a sign of its mentality (2003, 181). He says, ",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 826,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " The group mind hypothesis thus seems to explain or account for the rationality exhibited by the group, both in what it does and what it represents. This explanatory role, if indispensable, would give us a reason for admitting into our ontology groups with genuine minds of their own. The point might be put in traditional Quinean terms: if a regimentation in first order logic of our best empirical theory quantifies over such groups, then such groups exist. But this sort of explanatory commitment needn’t be quite as explicitly quantificational as Quine would have it, and Pettit himself never mentions Quine. The ontological commitment might be more implied in the content of our theory than a matter of logical form.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 827,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Another question to raise, if only to set aside on this occasion, is whether the only sort of indispensability that can support the group mind hypothesis is of the theoretical/explanatory sort. One might, for example, consider whether the Rovane/Pettit line of thought could be run with the assumption that the indispensability of such groups is practical in nature, perhaps a condition for a sort of agency that individuals can and do exercise (Roth 2014a, 140–141; Pettit 2015, 1642).",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 828,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " But is the group mind hypothesis explanatorily indispensable? If the rational behavior, representation, speech, etc. can easily be explained (or explained away) without invoking group minds, then the presumption of mindedness is defeated. Thus, if we discover of what appears to be a subject that its behavior was entirely controlled by or explicable in terms of the attitudes and behavior of some other (or others), then one would no longer have reason to think the subject in question as minded. For example, if the rational behavior of a group is explained wholly in terms of the individual members, then we are not tempted to think that the group itself is genuinely minded (Watkins 1957). Or, if there is a very tight fit between judgments and attitudes of the group on the one hand, and members on the other – for example if ascriptions of attitudes to a group just is a summary of ascriptions to its individual members (Quinton 1975–6) – then there is no reason to think of the group as having a mind of its own.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 829,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Pettit’s recent arguments address this worry. He has suggested that some group decision procedures are such that past group judgments rationally constrain subsequent decisions, judgments, and intentions. When such “premise-driven” procedures are followed, a group not only displays a rational unity indicative of mindedness, but does so in such a way that it might arrive at a judgment that a minority—perhaps even none—of the individual members personally hold.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 830,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Pettit draws on the literature on judgment aggregation (E.g. Kornhauser and Sager, 1986; List &amp; Pettit, 2002). Here’s a version of the sort of case Pettit has in mind: several colleagues (A, B, and C) heading to the APA convention in Chicago have to decide whether to take the El (train) from the airport. An affirmative judgment regarding each of the following considerations or “premises” is necessary for the decision/conclusion to get on board: whether the train is safe enough, whether it’s quick enough, and whether it’s scenic enough (e.g. whether it’s okay that they’ll miss out on a view of the lake). Let us also suppose, given appropriate background assumptions, that the satisfaction of these conditions amounts to a conclusive reason to take the train. Finally, suppose the group arrives at judgments regarding the premises by majority vote as follows: ",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 831,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " If the group decides on the conclusion by a majority vote on what each individual personally thinks s/he ought to do, it will decide against taking the train (this is the “no” in the upper triangle of the lower right box). But this conclusion would be hard to square with the group judgments concerning the three premises of the argument. Whereas, if the group adopts the premise driven procedure, where the conclusion is determined not by a vote but by group’s views regarding the premises, then the group’s conclusion is rational (this is the “yes” in the lower triangle of the lower right box).",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 832,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Such a conclusion, however, is not obviously explicable in terms of the personal conclusions of the members, each of whom concludes the opposite. Thus, suppose (as Pettit does) that there are groups that do in fact adopt the premise-driven procedure. Then, the rationality of the group’s conclusion suggests that the group has a mind. Moreover, the discontinuity between individual and group level attitudes concerning the conclusion is such that the presumption of mindedness is not defeated. This suggests to Pettit that, at least in some cases, groups can have minds of their own, and be genuine intentional subjects.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 833,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " One worry with this argument concerns how the premise-driven decision procedure is implemented. If it’s simply implemented by virtue of the intentions of each individual to establish and maintain rationality at the group level, then there appears to be an alternative to the group mind hypothesis. That the group appears to have a mind of its own in examples such as this would then be an artifact of the restricted focus of the example, which said nothing about how a policy of rationality at the collective level is maintained. Once we broaden our perspective to recognize that each individual aims to maintain rationality at the collective level, it’s no longer clear that there is such a gap or discontinuity between the intentionality at the level of the individuals and of the group. Thus, there would be no warrant for talk of group  minds.[39]  Of course, this criticism makes strong assumptions about how to explain any rationality that might be exhibited at the group level, assumptions that are open to challenge.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 834,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " For some, taking seriously the idea that a group has a mind of its own involves more than an empiricist commitment to the explanation of phenomena. That is, a group mind is not merely a convenient posit adopted from within the third person perspective of the intentional stance for the purposes of explanation and prediction (Dennett 1987). A mind has a point of view, and if sufficiently sophisticated, is a subject of commitment and obligation. In developing ideas of Searle and Tuomela in a new direction, Schmid (2014) argues that such a group mind would require a distinctive form of plural self-awareness on the part of each of the members of the group. He suggests that such groups do exist, and explores ways in which plural self-awareness is and is not analogous to the self-awareness each of us as individuals exhibit. ",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 835,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " action |  agency |  intentionality: collective |  practical reason: and the structure of actions |  responsibility: collective |  rights: group ",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 836,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " I would like to thank Michael Bratman for helpful comments on a draft.",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 837,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": " Copyright © 2017 by   Abraham Sesshu Roth &lt;roth.263@osu.edu&gt;     ",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 838,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": "View this site from another server:",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 839,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 840,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/shared-agency/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "shared-agency"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 841,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In this article we provide a brief overview of the logic of action in philosophy, linguistics, computer science, and artificial intelligence. The logic of action is the formal study of action in which formal languages are the main tool of analysis.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 842,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The concept of action is of central interest to many disciplines: the social sciences including economics, the humanities including history and literature, psychology, linguistics, law, computer science, artificial intelligence, and probably others. In philosophy it has been studied since the beginning because of its importance for epistemology and, particularly, ethics; and since a few decades it is even studied for its own sake. But it is in the logic o faction that action is studied in the most abstract way.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 843,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The logic of action began in philosophy. But it has also played a certain role in linguistics. And currently it is of great importance in computer science and artificial intelligence. For our purposes it is natural to separate the accounts of these developments.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 844,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Already St. Anselm studied the concept of action in a way that must be classified as logical; had he known symbolic logic, he would certainly have made use of it (Henry 1967; Walton 1976). In modern times the subject was introduced by, among others, Alan Ross Anderson, Frederick B. Fitch, Stig Kanger, and Georg Henrik von Wright; Kanger’s work was further developed by his students Ingmar Pörn and Lars Lindahl. The first clearly semantic account was given by Brian F. Chellas (1969). (For a more detailed account, see Segerberg 1992 or the mini-history in Belnap 2001.)",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 845,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Today there are two rather different groups of theories that may be described as falling under the term logic of action. One, the result of the creation of Nuel Belnap and his many collaborators, may be called stit theory (a term that will be explained in the next paragraph). The other is dynamic logic. Both are connected with modal logic, but in different ways. Stit theory grew out of the philosophical tradition of modal logic. Dynamic logic, on the other hand, was invented by computer scientists in order to analyse computer action; only after the fact was it realized that it could be viewed as modal logic of a very general kind. One important difference between the two is that (for the most part) actions are not directly studied in stit theory: the ontology does not (usually) recognize a category of actions or events. But dynamic logic does. Among philosophers such ontological permissiveness has been unusual. Hector-Neri Castañeda, with his distinction between propositions and practitions, provides one notable exception.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 846,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The stit tradition is treated in this section, the dynamic logic one in the next.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 847,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The term “stit” is an acronym based on “sees to it that”. The idea is to add, to an ordinary classical propositional language, a new propositional operator \\(\\stit\\), interpreting \\(\\stit_i\\phi\\), where \\(i\\) stands for an agent and \\(\\phi\\) for a proposition, as \\(i\\) sees to it that \\(\\phi\\). (The official notation of the Belnap school is more laborious: [\\(i \\mathop{\\mathsf{stit:}} \\phi\\)].) Note that \\(\\phi\\) is allowed to contain nestings of the new operator.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 848,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In order to develop formal meaning conditions for the stit operator \\(\\stit\\) a semantics is defined. A stit frame has four components: a set \\(T\\), the nodes of which are called moments; an irreflexive tree ordering \\(\\lt\\) of \\(T\\); a set of agents; and a choice function \\(C\\). A maximal branch through the tree is called a history.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 849,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The tree \\((T,\\lt)\\) seems to correspond to a naïve picture familiar to us all: a moment \\(m\\) is a temporary present; the set \\(\\left\\{n : n \\lt m\\right\\}\\) corresponds to the past of \\(m\\), which is unique; while the set \\(\\left\\{n : m \\lt n\\right\\}\\) corresponds to the open future of \\(m\\), each particular maximal linear subset of which corresponds to a particular possible future.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 850,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " To formalize the notion of action, begin with two general observations:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 851,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " This is where the choice function \\(C\\) comes in: for each moment \\(m\\) and agent \\(i, C\\) yields a partitioning \\(C_i^m\\) of the set \\(H_m\\) of all histories through \\(m\\). An equivalence class in \\(C_i^m\\) is called a choice cell. (Note that two histories belonging to the same choice cell agree up to the moment in question but not necessarily later on.) If \\(h\\) is a history running through \\(m\\) we write \\(C_i^m(h)\\) for the choice cell of which \\(h\\) is a member. It is natural to associate \\(C_i^m\\) with the set of actions open to the agent \\(i\\) at \\(m\\), and to think of the choice cell \\(C_i^m(h)\\) as representing the action associated with \\(h\\).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 852,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " A stit model has an additional component: a valuation. A valuation in a frame, it turns out, is a function that assigns to a variable and each index either 1 (truth) or 0 (falsity), where an index is an ordered pair consisting of a history and a moment on that history. The notion of truth or falsity of a formula with respect to an index can now be defined.  If \\(V\\) is the valuation we have the following basic truth-condition for atomic \\(\\phi\\):",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 853,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The truth-conditions for the Boolean connectives are as expected; for example,",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 854,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Let us write \\(\\llbracket\\phi\\rrbracket_m\\) for the set \\(\\left\\{h \\in H_m : (h,m) \\models \\phi\\right\\}\\), that is, the set of histories agreeing with \\(h\\) at least up to \\(m\\) and such that \\(\\phi\\) is true with respect to the index consisting of that history and \\(m\\). Defining formal truth-conditions for the stit operator there are at least two possibilities to be considered:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 855,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " To distinguish the two different operators that those conditions define, the former operator is called the Chellas stit, written \\(\\cstit\\), while the latter operator is called the deliberative stit, written \\(\\dstit\\).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 856,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In words, \\(\\cstit_i \\phi\\) is true at an index \\((h,m)\\) if \\(\\phi\\) is true with respect to \\(h'\\) and \\(m\\), for all histories \\(h'\\) in the same choice cell at \\(m\\) as \\(h\\); this is called the positive condition. The truth-condition for \\(\\dstit_i \\phi\\) is more exacting; not only the positive condition has to be satisfied but also what is called the negative condition: there must be some history through \\(m\\) such that \\(\\phi\\) fails to be true with respect to that history and \\(m\\).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 857,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Both \\(\\cstit\\) and \\(\\dstit\\) are studied; it is claimed that they capture important aspects of the concept “sees to it that”. The two operators become interdefinable if one also introduces the concept “it is historically necessary that”. Using \\(\\Box\\) for historical necessity, define",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 858,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Then the formulas",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 859,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " are true with respect to all indices.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 860,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " One advantage of stit theory is that the stit analysis of individual action can be extended in natural ways to cover group action.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 861,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " A number of the initial papers defining the stit tradition are collected in the volume Belnap 2001. One important later work is John F. Horty’s book (2001). The logic of stit was axiomatized by Ming Xu (1998).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 862,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Michael Bratman’s philosophical analysis of the notion of intention has had a significant influence on the development of the logic of action within computer science. It will be discussed below.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 863,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In a series of papers Carlos Alchourrón, Peter Gärdenfors and David Makinson created what they called a logic of theory change, later known as the AGM paradigm. Two particular kinds of change inspired their work: change due to deontic actions (Alchourrón) and change due to doxastic actions (Gärdenfors and before him Isaac Levi). Examples of deontic actions are derogation and amendment (laws can be annulled or amended), while contraction and expansion are analogous doxastic actions (beliefs can be given up, new beliefs can be added). Later the modal logic of such actions has been explored under the names dynamic deontic logic, dynamic doxastic logic and dynamic epistemic logic. (For the classic paper on AGM, see AGM 1985. For an introduction to dynamic deontic logic and dynamic doxastic logic, see Lindström and Segerberg 2006. We will return to this topic in Section 4, where it is viewed from the perspective of the field of artificial intelligence.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 864,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In linguistics, there are two ways in which actions play a role: on the one hand, utterances are actions and on the other they can be used to talk about actions. The first leads to the study of speech acts, a branch of pragmatics, the second to the study of the semantics of action reports, hence is of a distinctly semantic nature. In addition to this, there is a special type of semantics, dynamic semantics, where meanings are not considered as state descriptions but as changes in the state of a hearer.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 865,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The study of speech acts goes back to Austin (1957) and Searle (1969). Both emphasise that using language is to perform certain acts. Moreover, there is not just one act but a whole gamut of them (Austin himself puts the number in the magnitude of \\(10^3)\\). The classification he himself gives involves acts that are nowadays not considered as part of a separate science: the mere act of uttering a word (the phatic act) or sentence is part of phonetics (or phonology) and only of marginal concern here. By contrast, the illocutionary and perlocutionary acts have been the subject of intense study. An illocutionary act is the linguistic act performed by using that sentence; it is inherently communicative in nature. By contrast, the perlocutionary act is an act that needs surrounding social contexts to be successful. The act of naming a ship or christening a baby, for example, are perlocutionary. The sentence “I hereby pronounce you husband and wife” has the effect of marrying two people only under certain well-defined circumstances. By definition, perlocutionary acts take us outside the domain of language and communication.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 866,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Searle and Vanderveken (1985) develop a logic of speech acts which they call illocutionary logic. This was refined in Vanderveken 1990 and Vanderveken 1991. Already, Frege used in his Begriffsschrift the notation “\\(\\vdash \\phi\\)”, where \\(\\phi\\) denotes a proposition and “\\(\\vdash\\)” the judgment sign. So, “\\(\\vdash \\phi\\)” says that \\(\\phi\\) is provable, but other interpretations of \\(\\vdash\\) are possible (accompanied by different notation; for example, “\\(\\models \\phi\\)” says that \\(\\phi\\) is true (in the model), “\\(\\dashv \\phi\\)” says that \\(\\phi\\) is refutable, and so on). An elementary speech act is of the form \\(F(\\phi)\\), where \\(F\\) denotes an illocutionary point and \\(\\phi\\) a proposition. In turn, an illocutionary force is identified by exactly seven elements:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 867,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " There are exactly five points according to Searle and Vanderveken (1985):",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 868,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Later treatments of this matter tend to disregard much of the complexity of this earlier approach for the reason that it fails to have any predictive power. Especially difficult to handle are “strengths”, for example. Modern models try to use update models instead (see Section 2.3 below). Van der Sandt 1991 uses a discourse model with three different slates (for each speaker, and one common slate). While each speaker is responsible for maintaining his own slate, changes to the common slate can only be made through communication with each other. Merin 1994 seeks to reduce the manipulations to a sequential combination of so-called elementary social acts: claim, concession, denial, and retraction.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 869,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Uttering a sentence is acting. This action can have various consequences, partly intended partly not. The fact that utterances as actions are embedded in a bigger scheme of interaction between humans has been put into focus recently (see, for example, Clark 1996). Another important aspect that has been highlighted recently is the fact that by uttering a sentence we can change the knowledge state of an entire group of agents, see Balbiani et al. 2008. After publicly announcing \\(\\phi\\), \\(\\phi\\) becomes common knowledge among the entire group. This idea sheds new light on a problem of Gricean pragmatics, where certain speech acts can only be successful if certain facts are commonly known between speaker and hearer. It is by means of an utterance that a speaker can establish this common knowledge in case it wasn’t already there.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 870,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Davidson (1967) gave an account of action sentences in terms of what is now widely known as events. The basic idea is that an action sentence has the form \\((\\exists e)(\\cdots)\\), where \\(e\\) is a variable over acts. For example, “Brutus violently stabbed Caesar” is translated (ignoring tense) as \\((\\exists e) (\\mathop{\\mathrm{stab}}(e,\\mathrm{Brutus},\\mathrm{Caesar}) \\wedge \\mathop{\\mathrm{violent}}(e))\\). This allows to capture the fact that this sentence logically entails that Brutus stabbed Caesar. This idea has been widely adopted in linguistics; moreover, it is now assumed that basically all verbs denote events (Parsons 1990). Thus action sentences are those that speak about special types of events, called eventualities.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 871,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Vendler (1957) classified verbs into four groups:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 872,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Moens and Steedman (1988) add a fifth category:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 873,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The main dividing line is between states and the others. The types (b)–(e) all refer to change. This division has been heavily influential in linguistic theory; mostly, however, research concentrated on its relation to aspect. It is to be noted, for example, that verbs of type (c) can be used with the progressive while verbs of type (d) cannot. In an attempt to explain this, Krifka 1986 and Krifka 1992 have introduced the notion of an incremental theme. The idea is that any eventuality has an underlying activity whose progress can be measured using some underlying participant of the event. If, for example, I write a letter then the progress is measured in amounts of words. The letter is therefore the incremental theme in “I write a letter” since it defines the progress. One implementation of the idea is the theory of aspect by Verkuyl (1993). Another way to implement the idea of change is constituted by a translation into propositional dynamic logic (see Naumann 2001). Van Lambalgen and Hamm (2005) have applied the event calculus by Shanahan (1990) to the description of events.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 874,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The idea that propositions can not only be viewed as state descriptions but also as updates has been advocated independently by many people. Consider the possible states of an agent to be (in the simplest case) a theory (that is, a deductively closed set of sentences). Then the update of a theory \\(T\\) by a proposition \\(\\phi\\) is the deductive closure of \\(T \\cup \\left\\{\\phi\\right\\}\\).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 875,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Gärdenfors 1988 advocates this perspective with particular attention to belief revision. Veltman 1985 develops the update view for the treatment of conditionals. One advantage of the idea is that it is possible to show why the mini discourse “It rains. It may not be raining.” is infelicitous in contrast to “It may not be raining. It rains.”. Given that an update is felicitous only to a consistent theory, and that “may \\(\\phi\\)” (with epistemic “may”) simply means “it is consistent” (written \\(\\diamond\\phi\\)), the first is the sequence of updates with \\(\\phi\\) and \\(\\diamond \\neg\\phi\\). The second step leads to inconsistency, since \\(\\phi\\) has already been added. It is vital in this approach that the context is constantly changing.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 876,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Heim 1983 contains an attempt to make this idea fruitful for the treatment of presuppositions. In Heim’s proposal, a sentence has the potential to change the context, and this is why, for example, the sentence “If John is married his wife will be happy.” does not presuppose that John is married. Namely, the second part of the conditional (“his wife will be happy”) is evaluated against the context incremented by the antecedent (“John is married”). This of course is the standard way conditions are evaluated in computer languages. This parallel is exploited in Van Eijck 1994, see also Kracht 1993.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 877,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The idea of going dynamic was further developed in Dynamic Predicate Logic (DPL, see Groenendijk and Stokhof 1991), where all expressions are interpreted dynamically. The specific insight in this grammar is that existential quantifiers have a dynamically growing scope. This has first been noted in Kamp 1981, where a semantics was given in terms of intermediate representations, so-called Discourse Representation Structures. Groenendijk and Stokhof replace these structures by introducing a dynamics into the evaluation of a formula, as proposed in Dynamic Logic (DL). An existential quantifier is translated as a random assignment “\\(x \\leftarrow\\ ?\\)” of DL, whose interpretation is a relation between assignments: it is the set of pairs \\(\\langle \\beta ,\\gamma \\rangle\\) such that \\(\\beta(y) = \\gamma(y)\\) for all \\(y \\ne x\\) (in symbols \\(\\beta \\sim_x \\gamma\\)). The translation of the sentence “A man walks.” is ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 878,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " This is a proposition, hence interpreted as a set. One can however, push the dynamicity even lower, and make all meanings relational. Then “A man walks.” is interpreted by the ‘program’ ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 879,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Here, \\(\\mathop{\\mathrm{man}}'(x)?\\) uses the test constructor   “\\(?\\)”: \\(\\phi ?\\) is the set of all \\(\\langle \\beta ,\\beta \\rangle\\) such that \\(\\beta\\) satisfies \\(\\phi\\). The meaning of the entire program (2) therefore also is a relation between assignments. Namely, it is the set \\(R\\) of all pairs \\(\\langle \\beta ,\\gamma \\rangle\\) where \\(\\beta \\sim_x \\gamma\\), and \\(\\gamma(x)\\) walks and is a man. The meaning of (1) by contrast is the set of all \\(\\beta\\) such that some \\(\\langle \\beta ,\\gamma \\rangle \\in R\\). Existential quantifiers thus have ‘side effects’: the change in assignment is never undone by a quantifier over a different variable. Hence the open-endedness to the right of the existential. This explains the absence of brackets in (1). For an overview of dynamic semantics see Muskens et al. 1997.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 880,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The logic of action plays an important role in computer science. This becomes evident once one realizes that computers perform actions in the form of executing program statements written down in some programming language, changing computer internals and, by interfaces to the outside world, also that outside world. As such a logic of action provides a means to reason about programs, or more precisely, the execution of programs and their effects. This enables one to prove the correctness of programs. In principle, this is something very desirable: if we could prove all our software correct, we would know that they would function exactly the way we designed them. This was already realized by pioneers of computer programming such as Turing (1949) and Von Neumann (Goldstein and Von Neumann 1963). Of course, this ideal is too hard to establish in daily practice for all software. Verification is a nontrivial and time-consuming occupation, and there are also theoretical limitations to it. However, as the alternative is “just” massive testing of programs experimentally, with no 100% guarantee of correctness, it has remained an active area of research to this day.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 881,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Program verification has a long history. Already since the inception of the computer and its programming researchers started to think of ways of analyzing programs to be sure they did what they were supposed to do. In the 60s the development of a true mathematical theory of program correctness began to take serious shape (de Bakker 1980, 466). Remarkably, the work of John McCarthy who we will also encounter later on when we turn to the field of artificial intelligence played an important role here, distinguishing and studying fundamental notions such as ‘state’, McCarthy 1963a. This led on the one hand to the field of semantics of programming languages, and on the other to major advances in program correctness by Floyd (1967), Naur (1966), Hoare (1969) and Dijkstra (1976) (de Bakker 1980). Floyd and Naur used an elementary stepwise induction principle and predicates attached to program points to express invariant properties of imperative-style programs (Cousot 1990, 859), programs that are built up from basic assignment statements (of arithmetical expressions to program variables) and may be composed by sequencing, conditionals and repetitions. While the Floyd-Naur approach—called the inductive assertion method—giving rise to a systematic construction of verification conditions, was a method to prove the correctness of programs by means of logic, it was not a logic itself in the strict sense of the word. The way to a proper logic of programs was paved by Hoare, whose compositional proof method led to what is now known as Hoare logic. By exploiting the syntactic structure of (imperative-style) programs, Hoare was able to turn the Floyd-Naur method into a true logic with as assertions so-called Hoare triples of the form \\(\\left\\{P\\right\\}S\\left\\{Q\\right\\}\\), where \\(P\\) and \\(Q\\) are first-order formulas and \\(S\\) is a program statement in an imperative-style programming language as mentioned above. The intended reading is if \\(P\\) holds before execution of the statement \\(S\\) then \\(Q\\) holds upon termination of (execution of) \\(S\\). (The issue whether the execution of \\(S\\) terminates can be put in the reading of this Hoare triple either conditionally (partial correctness) or nonconditionally (total correctness), giving rise to different logics, see Harel et al. 2000). To give an impression of Hoare-style logics, we give here some rules for a simple programming language consisting of variable assignments to arithmetic expressions, and containing sequential (;), conditional \\((\\lif)\\) and repetitive \\((\\lwhile)\\) composition.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 882,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Later Pratt and Harel generalized Hoare logic to dynamic logic (Pratt 1976, Pratt 1979a, Harel 1979, Harel 1984, Kozen and Tiuryn 1990, Harel et al. 2000), of which it was   realized[1]  that it is in fact a form of modal logic, by viewing the input-output relation of a program \\(S\\) as an accessibility relation in the sense of Kripke-style   semantics.[2]  A Hoare triple \\(\\left\\{P\\right\\}S\\left\\{Q\\right\\}\\) becomes in dynamic logic the following formula: \\(P \\rightarrow[S] Q\\), where [\\(S\\)] is the modal box operator associated with (the accessibility relation associated with) the input-output relation of program \\(S\\). The propositional version of Dynamic Logic, PDL, was introduced by Fischer and Ladner (1977), and became an important topic of research in itself. The key axiom of PDL is the induction axiom",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 883,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " where \\(^*\\) stands for the iteration operator, \\(S^*\\) denoting an arbitrary (finite) number of iterations of program \\(S\\). The axiom expresses that if after any number of iterations of \\(S\\) the truth of \\(P\\) is preserved by the execution of \\(S\\), then, if \\(P\\) is true at the current state, it will also be true after any number of iterations of \\(S\\). A weaker form of PDL, called HML, with only an atomic action box and diamond and propositional connectives, was introduced by Hennessy &amp; Milner to reason about concurrent processes, and in particular analyze process equivalence (Hennessy and Milner 1980).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 884,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " It is also worth mentioning here that the work of Dijkstra (1976) on weakest precondition calculus is very much related to dynamic logic (and Hoare’s logic). In fact, what Dijkstra calls the weakest liberal precondition, denoted \\(\\mathbf{wlp}(S,Q)\\), is the same as the box operator in dynamic logic: \\(\\mathbf{wlp}(S,Q) = [S]Q\\), while his weakest precondition, denoted \\(\\mathbf{wp}(S,Q)\\), is the total correctness variant of this, meaning that this expression also entails the termination of statement \\(S\\) (Cousot 1990).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 885,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " It was later realized that the application of dynamic logic goes beyond program verification or reasoning about programs. In fact, it constitutes a logic of general action. In Meyer 2000 a number of other applications of dynamic logic are given including deontic logic (see also Meyer 1988), reasoning about database updates, the semantics of reasoning systems such as reflective architectures. As an aside we note here that the use of dynamic logic for deontic logic as proposed in Meyer 1988 needed an extension of the action language, in particular the addition of the ‘action negation’ operator. The rather controversial nature of this operator triggered work on action negation in itself (see e.g., Broersen 2004). Below we will also encounter the use of dynamic logic in artificial intelligence when specifying intelligent agents.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 886,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The logics thus far are adequate for reasoning about programs that are supposed to terminate and display a certain input/output behavior. However, in the late seventies one came to realize that there are also programs that are not of this kind. Reactive programs are designed to react to input streams that in theory may be infinite, and thus show ideally nonterminating behavior. Not so much input-output behavior is relevant here but rather the behavior of programs over time. Therefore Pnueli (1977) proposed a different way of reasoning about programs for this style of programming based on the idea of a logic of time, viz. (linear-time) temporal logic. (Since reactivity often involves concurrent or parallel programming, temporal logic is often associated with this style of programming. However, it should be noted that a line of research continued to extend the use of Hoare logic to concurrent programs (Lamport 1977, Cousot 1990, de Roever et al. 2001).) Linear-time temporal logic typically has temporal operators such as next-time, always (in the future), sometime (in the future), until and since.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 887,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " An interesting difference between temporal logic on the one hand, and dynamic logic and Hoare logic on the other, is that the former is what in the literature is called an endogenous logic, while the latter are so-called exogenous logics. A logic is exogenous if programs are explicit in the logical language, while for endogenous logics this is not the case. In an endogenous logic such as temporal logic the program is assumed to be fixed, and is considered part of the structure over which the logic is interpreted (Harel et al. 2000, 157). Exogenous logics are compositional and have the advantage of allowing analysis by structural induction. Later Pratt (1979b) tried to blend temporal and dynamic logic into what he called process logic, which is an exogenous logic for reasoning about temporal behavior. ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 888,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " At the moment the field of temporal logic as applied in computer science has developed into a complete subfield on its own, including techniques and tools for (semi-)automatic reasoning and model-checking (cf. Emerson 1990). Also variants of the basic linear-time models have been proposed for verification, such as  branching-time temporal logic (and, in particular the logics CTL (computation tree logic) and its extension CTL* (Emerson 1990), in which one can reason explicitly about (quantification over) alternative paths in nondeterministic computations, and more recently also an extension of CTL, called alternating-time temporal logic (ATL), with a modality expressing that a group of agents has a joint strategy to ensure its argument, to reason about so-called open systems. These are systems, the behavior of which depends also on the behavior of their environments, see Alur et al. 1998.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 889,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Finally we mention still alternative logics to reason about programs, viz. fixpoint logics, with as typical example the so-called \\(\\mu\\)-calculus, dating back to Scott and de Bakker (1969), and further developed in Hitchcock and Park 1972, Park 1976, de Bakker 1980, and Meyer 1985. The basic operator is the least fixed point operator \\(\\mu\\), capturing iteration and recursion: if \\(\\phi(X)\\) is a logical expression with a free relation variable \\(X\\), then the expression \\(\\mu X\\phi(X)\\) represents the least \\(X\\) such that \\(\\phi(X) = X\\), if such an \\(X\\) exists. A propositional version of the \\(\\mu\\)-calculus, called propositional or modal \\(\\mu\\)-calculus comprising the propositional constructs \\(\\rightarrow\\) and false, together with the atomic (action) modality [\\(a\\)] and \\(\\mu\\) operator is completely axiomatized by propositional modal logic plus the axiom \\(\\phi[X/\\mu X\\phi] \\rightarrow \\mu X\\phi\\), where \\(\\phi[X/Y\\)] stands for the expression \\(\\phi\\) in which \\(X\\) is substituted by \\(Y\\), and rule",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 890,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " (Kozen 1983, Bradfield and Stirling 2007). This logic is known to subsume PDL (cf. Harel et al. 2000).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 891,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In the field of artificial intelligence (AI), the aim is to devise intelligently behaving computer-based artifacts (with the purpose of understanding human intelligence or just making intelligent computer systems and programs). In order to achieve this, there is a tradition within AI to try and construct these systems based on symbolic representations of all relevant factors involved. This tradition is called symbolic AI or ‘good old-fashioned’ AI (GOFAI). In this tradition the sub-area of knowledge representation (KR) obviously is of major importance: it played an important role since the inception of AI, and has developed to a substantial field of its own. One of the prominent areas in KR concerns the representation of actions, performed by either the system to be devised itself or the actors in its environment. Of course, besides their pure representation also reasoning about actions is important, since representation and reasoning with these representations are deemed to be closely connected within KR (which is sometime also called KR&amp;R, knowledge representation &amp; reasoning). A related, more recent development within AI is that of basing the construction of intelligent systems on the concept of an (intelligent) agent, an autonomously acting entity, regarding which, by its very nature, logics of action play a crucial role in obtaining a logical description and specification.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 892,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " As said above, the representation of actions and formalisms/logics to reason with them are very central to AI and particularly the field of KR. One of the main problems that one encounters in the literature on reasoning about actions in AI, and much more so than in mainstream computer science, is the discovery of the so-called frame problem (McCarthy and Hayes 1969). Although this problem has been generalized by philosophers such as Dennett (1984) to a general problem of relevance and salience of properties pertaining to action, the heart of the problem is that in a ‘common-sense’ setting as one encounters in AI, it is virtually impossible to specify all the effects by the actions of concern, as well as, notably, all non-effects. For instance, given an action, think about what changes if the action is performed and what does not—generally the latter is much more difficult to produce than the former, leading to large, complex attempts to specify the non-effects. But there is of course also the problem of relevance: what aspects are relevant for the problem at hand; which properties do we need to take into consideration? In particular, this also pertains to the preconditions of an action that would guarantee the successful performance/execution of an action. Again, in a common-sense environment, these are formidable, and one can always think of another (pre)condition that should be incorporated. For instance, for successfully starting the motor of a car, there should be a charged battery, sufficient fuel, …, but also not too cold weather, or even sufficient power in your fingers to be able to turn the starting key, the presence of a motor in the car, … etc. etc. In AI one tries to find a solution for the frame problem, having to do with the smallest possible specification. Although this problem gave rise to so-called defeasible or non-monotonic solutions such as defaults (‘normally a car has a motor’), which in itself gave rise to a whole new a realm within AI called nonmonotonic or commonsense reasoning, this is beyond the scope of this entry (we refer the interested reader to the article by Thomason (2003) in this encyclopedia). We focus here on a solution that does not appeal to nonmonotonicity (directly).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 893,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Reiter (2001) has proposed a (partial) solution within a framework, called the situation calculus, that has been very popular in KR especially in North America since it was proposed by John McCarthy, one of the founding fathers of AI (McCarthy 1963b, McCarthy 1986). The situation calculus is a dialect of first-order logic with some mild second-order features, especially designed to reason about actions. (One of its distinctive features is that of the so-called reification of semantic notions such as states or possible worlds (as well as truth predicates) into syntactic entities (‘situations’) in the object language.) For the sake of conformity in this entry and reasons of space, we will try rendering Reiter’s idea within (first-order) dynamic logic, or rather, a slight extension of it. (We need action variables to denote action expressions and equalities between action variables and actions (or rather action expressions) as well as (universal) quantification over action variables).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 894,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " What is known as Reiter’s solution to the frame problem assumes a so-called closed system, that is to say, a system in which all (relevant) actions and changeable properties (in this setting often called ‘fluents’ to emphasize their changeability over time) are known. By this assumption it is possible to express the (non)change as a consequence of performing actions as well as the issue of the check for the preconditions to ensure successful performance in a very succinct and elegant manner, and coin it in a so-called successor state axiom of the form",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 895,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " where \\(A\\) is an action variable, and \\(\\gamma_{f}^+ (\\boldsymbol{x}, A)\\) and \\(\\gamma_{f}^- (\\boldsymbol{x}, A)\\) are ‘simple’ expressions without action modalities expressing the conditions for \\(\\phi\\) becoming true and false, respectively. So the formula is read informally as, under certain preconditions pertaining to the action \\(A\\) at hand, the fluent (predicate) \\(f\\) becomes true of arguments \\(\\boldsymbol{x}\\), if and only if either the condition \\(\\gamma_{f}^+ (\\boldsymbol{x}, A)\\) holds or \\(f(\\boldsymbol{x})\\) holds (before the execution of \\(A)\\) and the condition \\(\\gamma_{f}^- (\\boldsymbol{x}, A)\\) (that would cause it to become false) does not hold. Furthermore, the expression \\(\\Poss(A)\\) is used schematically in such axioms, where the whole action theory should be complemented with so-called precondition axioms of the form \\(\\phi_A \\rightarrow \\Poss(A)\\) for concrete expressions \\(\\phi_A\\) stating the actual preconditions needed for a successful execution of \\(A\\).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 896,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " To see how this works out in practice we consider a little example in a domain where we have a vase \\(v\\) which may be broken or not (so we have “broken” as a fluent), and actions drop and repair. We also assume the (non-changeable) predicates fragile and held-in-hand of an object. Now the successor state axiom becomes ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 897,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " and as precondition axioms we have \\(\\textrm{held-in-hand}(x) \\rightarrow \\Poss(\\mathop{\\mathrm{drop}}(x))\\) and \\(\\mathop{\\mathrm{broken}}(x) \\rightarrow \\Poss(\\mathop{\\mathrm{repair}}(x))\\). This action theory is very succinct: one needs only one successor state axiom per fluent and one precondition axiom per action.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 898,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Finally in this subsection we must mention some other well-known approaches to reasoning about action and change. The event calculus (Kowalski and Sergot 1986, Shanahan 1990, Shanahan 1995) and fluent calculus (Thielscher 2005) are alternatives to the situation-based representation of actions in the situation calculus. The reader is also referred to Sandewall and Shoham 1994 for historical and methodological issues as well as the relation with non-monotonic reasoning. These ideas have led to very efficient planning systems (e.g., TALplanner, Kvarnström and Doherty 2000) and practical ways to program robotic agents (e.g., the GOLOG family (Reiter 2001) of languages based on the situation calculus, and FLUX (Thielscher 2005) based on the fluent calculus).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 899,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In the last two decades the notion of an intelligent agent has emerged as a unifying concept to discuss the theory and practice of artificial intelligence (cf. Russell and Norvig 1995, Nilsson 1998). In short, agents are software entities that display forms of intelligence/rationality and autonomy. They are able to take initiative and make decisions to take action on their own without direct control of a human user. In this subsection we will see how logic (of action) is used to describe / specify the (desired) behavior of agents (cf. Wooldridge 2002). First we focus on single agents, after which we turn to settings with multiple agents, called multi-agent systems (MAS) or even agent societies.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

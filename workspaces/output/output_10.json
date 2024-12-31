@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 900,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Interestingly, the origin of the intelligent agent concept lies in philosophy. ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 901,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " First of all there is a direct link with practical reasoning in the classical philosophical tradition going back to Aristotle. Here one is concerned with reasoning about action in a syllogistic manner, such as the following example taken from Audi 1999, p. 729:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 902,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Although this has the form of a deductive syllogism in the familiar Aristotelian tradition of theoretical reasoning, on closer inspection it appears that this syllogism does not express a purely logical deduction. (The conclusion does not follow logically from the premises.) It rather constitutes a representation of a decision of the agent (going to jog), where this decision is based on mental attitudes of the agent, viz. his/her beliefs (jogging is exercise) and his/her desires or goals (would that I exercise). So, practical reasoning is reasoning directed toward action, the process of figuring out what to do, as Wooldridge (2000) puts it. The process of reasoning about what to do next on the basis of mental states such as beliefs and desires is called deliberation.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 903,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Dennett (1971) has put forward the notion of the intentional stance: the strategy of interpreting the behaviour of an entity by treating it as if it were a rational agent that governed its choice of action by a consideration of its beliefs and desires. As such it is an anthropomorphic instance of the so called design (functionality) stance, contra the physical stance, towards systems. This stance has been proved to be extremely influential, not only in cognitive science and biology/ethology (in connection with animal behavior), but also as a starting point of thinking about artificial agents.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 904,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Finally, and most importantly, there is the work of the philosopher Michael Bratman (1987), which, although in the first instance aimed at human agents, lays the foundation of the BDI approach to artificial agents. In particular, Bratman makes a case for the incorporation of the notion of intention for describing agent behavior. Intentions play the important role of selection of actions that are desired, with a distinct commitment attached to the actions thus selected. Unless there is a rationale for dropping a commitment (such as the belief that an intention has been achieved already or the belief that it is impossible to achieve) the agent should persist / persevere in its commitment, stick to it, so to speak, and try realizing it,",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 905,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " After Bratman’s philosophy was published, researchers tried to formalize this theory using logical means. We mention here three well-known approaches. Cohen and Levesque (1991) tried to capture Bratman’s theory in a linear-time style temporal logic where they added primitive operators for belief and goal as well as some operators to cater for actions, such as operators for expressing that an action is about to be performed  \\((\\lhappens \\alpha)\\), has just been performed \\(\\ldone \\alpha)\\) and what agent is the actor of a primitive action (\\(\\lact i\\ \\alpha\\): agent \\(i\\) is the actor of \\(\\alpha\\)). From this basic set-up they build a framework in which ultimately the notion of intention is defined in terms of the other notions. In fact they define two notions: an intention_to_do and an intention_to_be. First they define the notion of an achievement goal (A-Goal): an A-Goal is something that is a goal to hold later, but is believed not to be true now. Then they define a persistent goal (P-Goal): a P-Goal is an A-Goal that is not dropped before it is believed to be achieved or believed to be impossible. Then the intention to do an action is defined as the P-Goal of having done the action, in a way such that the agent was aware of it happening. The intention to achieve a state satisfying \\(\\phi\\) is the P-Goal of having done some action that has \\(\\phi\\) as a result where the agent was aware of something happening leading to \\(\\phi\\), such that what actually happened was not something that the agent explicitly had not as a goal.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 906,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Next there is Rao &amp; Georgeff’s formalization of BDI agents using the branching-time temporal logic CTL (Rao and Georgeff 1991, Rao and Georgeff 1998, Wooldridge 2000). On top of CTL they introduce modal operators for Belief \\((\\lbel)\\), Goal \\((\\lgoal)\\) (sometimes replaced by Desire \\((\\ldes)\\)) and Intention (of the to_be kind, \\(\\lintend\\)) as well as operators to talk about the success \\((\\lsucceeded(e))\\) and  failure \\((\\lfailed)\\) of elementary actions \\(e\\). So they do not try to define intention in terms of other notions, but rather introduce intention as a separate operator, of which the meaning is later constrained by ‘reasonable’ axioms. The formal semantics is based on Kripke models with accessibility relations between worlds for the belief, goal and intention operators. However, possible worlds here are complete time trees (modeling the various behaviors of the agent) on which CTL formulas are interpreted in the usual way. Next they propose a number of postulates/axioms that they find reasonable interactions between the operators, and constrain the models of the logic accordingly so that these axioms become validities. For example, they propose the formulas \\(\\lgoal(\\alpha) \\rightarrow \\lbel(\\alpha)\\) and \\(\\lintend(\\alpha) \\rightarrow \\lgoal(\\alpha)\\), for a certain class of formulas \\(\\alpha\\), of which \\(\\alpha = \\mathop{\\mathbf{E}}(\\psi)\\) is a typical example. Here \\(\\mathop{\\mathbf{E}}\\) stands for the existential path quantifier in CTL. Rao and Georgeff also show that one can express commitment strategies in their logic. For example, the following expresses a ‘single-minded committed’ agent, that keeps committed to its intention until it believes it has achieved it or thinks it is impossible (which is very close to what we saw in the definition of intention in the approach of Cohen and Levesque):",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 907,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " where \\(\\mathbf{A}\\) stands for the universal path quantifier in CTL.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 908,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Finally there is the KARO approach by Van Linder et al. (Van der Hoek et al. 1998, Meyer et al. 1999), which takes dynamic logic as a basis instead of a temporal logic. First a core is built, consisting of the language of propositional dynamic logic augmented with modal operators for knowledge \\((\\mathbf{K})\\), belief \\((\\mathbf{B})\\) and desire \\((\\mathbf{D})\\) as well as an operator \\((\\mathbf{A})\\) that stands for ability to perform an action. Next the language is extended mostly by abbreviations (definitions in terms of the other operators) to get a fully-fledged BDI-like logic. The most prominent operators are:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 909,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " The framework furthermore has special actions \\(\\lcommit\\) and \\(\\luncommit\\) to control the agent’s commitments. The semantics of these actions is such that the agent obviously can only commit to an action \\(\\alpha\\) if there is good reason for it, viz. that there is a possible intention of \\(\\alpha\\) with a known goal \\(\\phi\\) as result. Furthermore the agent cannot uncommit to a certain action \\(\\alpha\\) that is part of the agent’s commitments, as long there is a good reason for it to be committed to \\(\\alpha\\), i.e. as long as there is some possible intention where \\(\\alpha\\) is involved. This results in having the following validities in KARO: (Here \\(\\mathbf{I}(\\alpha, \\phi)\\) denotes the possibly intend operator and \\(\\mathbf{Com}(\\alpha)\\) is an operator that expresses that the agent is committed to the action \\(\\alpha\\), which is similar to Cohen &amp; Levesque’s intention-to-do operator \\(\\lintend_1\\) in Cohen and Levesque 1990.)",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 910,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Informally these axioms say the following: if the agent possibly intends an action for fulfilling a certain goal then it has the opportunity to commit to this action, after which it is recorded on its agenda; as long as an agent possibly intends an action it is not able to uncommit to it (this reflects a form of persistence of commitments: as long as there is a good reason for a plan on the agenda it will have to stay on!); if the agent is committed to an action it has the opportunity to uncommit to it (but it may lack the ability to do this, cf. the previous axiom); if an agent is committed to a sequence of two actions then it knows that it is committed to the first and it also knows that after performing the first action it will be committed to the second.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 911,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Besides this focus on motivational attitudes in the tradition of agent logics in BDI style, the KARO framework also provides an extensive account of epistemic and doxastic attitudes. This is worked out most completely in Van Linder et al. 1995. This work hooks into a different strand of research in between artificial intelligence and philosophy, viz. Dynamic Epistemic Logic, the roots of which lie in philosophy, linguistics, computer science and artificial intelligence! Dynamic Epistemic Logic (DEL) is the logic of knowledge change; it is not about one particular logical system, but about a whole family of logics that allow us to specify static and dynamic aspects of knowledge and beliefs of agents (cf. Van Ditmarsch et al. 2007). The field combines insights from philosophy (about belief revision, AGM-style (AGM 1985), as we have seen in Section 1), dynamic semantics in linguistics and the philosophy of language (as we have seen in Section 2), reasoning about programs by using dynamic logic (as we have seen in Section 3) with ideas in artificial intelligence about how knowledge and actions influence each other (Moore 1977). More generally we can see the influence of the logical analysis of information change as advocated by van Benthem and colleagues (van Benthem 1989, van Benthem 1994, Faller et al. 2000). Also Veltman’s update semantics of default reasoning (Veltman 1996), an important reasoning method in artificial intelligence (Reiter 1980, Russell and Norvig 1995), can be viewed as being part of this paradigm.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 912,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " For the purpose of this entry, it is interesting to note that the general approach taken is to apply a logic of action, viz. dynamic logic, to model information change. This amounts to an approach in which the epistemic (or doxastic) updates are reified into the logic as actions that change the epistemic/doxastic state of the agent. So, for example in Van Linder et al. 1995 we encounter the actions such as \\(\\lexpand(\\phi)\\), \\(\\lcontract(\\phi)\\), \\(\\lrevise(\\phi)\\), referring to expanding, contracting and revising, respectively, one’s belief with the formula \\(\\phi\\). These can be reasoned about by putting them in dynamic logic boxes and diamonds, so that basically extensions of dynamic logic are employed for reasoning about these updates. It is further shown that these actions satisfy the AGM postulates so that this approach can be viewed as a modal counterpart of the AGM framework. Very similar in spirit is the work of Segerberg (1995) on Dynamic Doxastic Logic (DDL), the modal logic of belief change. In DDL modal operators of the form [\\(+\\phi\\)], [*\\(\\phi\\)] and [\\(-\\phi\\)] are introduced with informal meanings: “after the agent has expanded/revised/contracted his beliefs by \\(\\phi\\)”, respectively. Combined with the ‘standard’ doxastic operator \\(B\\), where \\(B\\phi\\) is interpreted as “\\(\\phi\\) is in the agent’s belief set”, one can now express properties like [\\(+\\phi]B\\psi\\) expressing that after having expanded its beliefs by \\(\\phi\\) the agent believes \\(\\psi\\) (also cf. Hendricks and Symons 2006).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 913,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Finally in this subsection we mention recent work where the KARO formalism is used as a basis for describing also other aspects of cognitive behavior of agents, going ‘beyond BDI’, viz. attitudes regarding emotions (Meyer 2006, Steunebrink et al. 2007, Steunebrink et al. 2012). The upshot of this approach is that an expressive logic of action such as KARO can be fruitfully employed to describe how emotions such as joy, gratification, anger, and remorse, are triggered by certain informational and motivational attitudes such as certain beliefs and goals (‘emotion elicitation’) and how, once elicited, the emotional state of an agent may influence its behavior, and in particular its decisions about the next action to take.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 914,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Apart from logics to specify attitudes of single agents, also work has been done to describe the attitudes of multi-agent systems as wholes. First we mention the work by Cohen &amp; Levesque in this direction (Levesque et al. 1990, Cohen and Levesque 1991). This work was a major influence on a multi-agent version of KARO (Aldewereld et al. 2004). An important complication in a notion of joint goal involves that of persistence of the goal: where in the single agent case the agent pursues its goal until it believes it has achieved it or believes it can never be achieved, in the context of multiple agents, the agent that realizes this, has to inform the others of the team about it so that the group/team as a whole will believe that this is the case and may drop the goal. This is captured in the approaches mentioned above. Related work, but not a logic of action in the strict sense, concerns the logical treatment of collective intentions (Keplicz and Verbrugge 2002).",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 915,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " It must also be mentioned here that inspired by several sources among which the work on knowledge and belief updates for individual agents as described by DEL and DDL, combined with work on knowledge in groups of agents such as common knowledge (see, e.g., Meyer and Van der Hoek 1995), a whole new subfield has arisen, which can be seen as the multi-agent (counter)part of Dynamic Epistemic Logic. This deals with matters such as the logic of public announcement, and more generally actions that have effect on the knowledge of groups of agents. This has generated quite some work by different authors such as Plaza (1989), Baltag (1999), Gerbrandy (1998), Van Ditmarsch (2000), and Kooi (2003). For example, public announcement logic (Plaza 1989) contains an operator of the form [\\(\\phi]\\psi\\), where both \\(\\phi\\) and \\(\\psi\\) are formulas of the logic, expressing “after announcement of \\(\\phi\\), it holds that \\(\\psi\\)”. This logic can be seen as a form of dynamic logic again, where the semantic clause for [\\(\\phi]\\psi\\) reads (in informal terms): [\\(\\phi]\\psi\\) is true in a model-state pair iff the truth of \\(\\phi\\) in that model-state pair implies the truth of \\(\\psi\\) in a model-state pair, where the state is the same, but the model is transformed to capture the information contained in \\(\\phi\\). Also in the other approaches the transformation of models induced by communicated information plays an important role, notably in the approach by Baltag et al. on action models (Baltag 1999, Baltag and Moss 2004). A typical element in this approach is that in action model logic one has both epistemic and action models and that the update of an epistemic model by an epistemic action (an action that affects the epistemic state of a group of agents) is represented by a (restricted) modal product of that epistemic model and an action model associated with that action. (See Van Ditmarsch et al. 2007, p. 151; this book is a recent comprehensive reference to the field.)",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 916,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Finally we mention logics that incorporate notions from game theory to reason about multi-agent systems, such as game logic, coalition logic (Pauly 2001) and alternating temporal logic (ATL, which we also encountered at the end of the section on mainstream computer science!), and its epistemic variant ATEL (Van der Hoek and Wooldridge 2003, Van der Hoek et al. 2007). For instance, game logic is an extension of PDL to reason about so-called determined 2-player games. Interestingly there is a connection between these logics and the stit approach we have encountered in philosophy. For instance, Broersen, partially jointly with Herzig and Troquard, has shown several connections such as embeddings of Coalition Logic and ATL in forms of stit logic (Broersen et al. 2006a,b) and extensions of stit (and ATL) to cater for reasoning about interesting properties of multi-agent systems (Broersen 2009, 2010). This area currently is growing fast, also aimed at the application of verifying multi-agent systems (cf. Van der Hoek et al. 2007), viz. Dastani et al. 2010. The latter constitutes still somewhat of a holy grail in agent technology. On the one hand there are many logics to reason about both single and multiple agents, while on the other hand multi-agent systems are being built that need to be verified. To this day there is still a gap between theory and practice. Much work is being done to render logical means combining the agent logics discussed and the logical techniques from mainstream computer science for the verification of distributed systems (from section 3), but we are not there yet…!",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 917,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " In this entry we have briefly reviewed the history of the logic of action, in philosophy, in linguistics, in computer science and in artificial intelligence. Although the ideas and techniques we have considered were developed in these separate communities in a quite independent way, we feel that they are nevertheless very much related, and by putting them together in this entry we hope we have contributed in a modest way to some cross-fertilization between these communities regarding this interesting and important subject.",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 918,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " [Please contact the author with suggestions.]",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 919,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " events |  frame problem |  logic: dynamic epistemic |  logic: non-monotonic |  logic: propositional dynamic |  logic: temporal |  semantics: dynamic |  situations: in natural language semantics |  speech acts ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 920,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": " Copyright © 2013 by   Krister Segerberg  John-Jules Meyer  Marcus Kracht ",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 921,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": "View this site from another server:",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 922,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 923,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/logic-action/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "logic-action"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 924,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Action is a means of acquiring perceptual information about the environment. Turning around, for example, alters your spatial relations to surrounding objects and, hence, which of their properties you visually perceive. Moving your hand over an object’s surface enables you to feel its shape, temperature, and texture. Sniffing and walking around a room enables you to track down the source of an unpleasant smell. Active or passive movements of the body can also generate useful sources of perceptual information (Gibson 1966, 1979). The pattern of optic flow in the retinal image produced by forward locomotion, for example, contains information about the direction in which you are heading, while motion parallax is a “cue” used by the visual system to estimate the relative distances of objects in your field of view. In these uncontroversial ways and others, perception is instrumentally dependent on action. According to an explanatory framework that Susan Hurley (1998) dubs the “Input-Output Picture”, the dependence of perception on action is purely instrumental:",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 925,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Movement can alter sensory inputs and so result in different perceptions… changes in output are merely a means to changes in input, on which perception depends directly. (1998: 342)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 926,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The action-based theories of perception, reviewed in this entry, challenge the Input-Output Picture. They maintain that perception can also depend in a noninstrumental or constitutive way on action (or, more generally, on capacities for object-directed motor control). This position has taken many different forms in the history of philosophy and psychology. Most action-based theories of perception in the last 300 years, however, have looked to action in order to explain how vision, in particular, acquires either all or some of its spatial representational content. Accordingly, these are the theories on which we shall focus here.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 927,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "We begin in Section 1 by discussing George Berkeley’s Towards a New Theory of Vision (1709), the historical locus classicus of action-based theories of perception, and one of the most influential texts on vision ever written. Berkeley argues that the basic or “proper” deliverance of vision is not an arrangement of voluminous objects in three-dimensional space, but rather a two-dimensional manifold of light and color. We then turn to a discussion of Lotze, Helmholtz, and the local sign doctrine. The “local signs” were felt cues for the mind to know what sort of spatial content to imbue visual experience with. For Lotze, these cues were “inflowing” kinaesthetic feelings that result from actually moving the eyes, while, for Helmholtz, they were “outflowing” motor commands sent to move the eyes.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 928,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "In Section 2, we discuss sensorimotor contingency theories, which became prominent in the 20th century. These views maintain that an ability to predict the sensory consequences of self-initiated actions is necessary for perception. Among the motivations for this family of theories is the problem of visual direction constancy—why do objects appear to be stationary even though the locations on the retina to which they reflect light change with every eye movement?—as well as experiments on adaptation to optical rearrangement devices (ORDs) and sensory substitution.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 929,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Section 3 examines two other important 20th century theories. According to what we shall call the motor component theory, efference copies generated in the oculomotor system and/or proprioceptive feedback from eye-movements are used together with incoming sensory inputs to determine the spatial attributes of perceived objects. Efferent readiness theories, by contrast, look to the particular ways in which perceptual states prepare the observer to move and act in relation to the environment. The modest readiness theory, as we shall call it, claims that the way an object’s spatial attributes are represented in visual experience can be modulated by one or another form of covert action planning. The bold readiness theory argues for the stronger claim that perception just is covert readiness for action.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 930,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "In Section 4, we move to the disposition theory, most influentially articulated by Gareth Evans (1982, 1985), but more recently defended by Rick Grush (2000, 2007). Evans’ theory is, at its core, very similar to the bold efferent readiness theory. There are some notable differences, though. Evans’ account is more finely articulated in some philosophical respects. It also does not posit a reduction of perception to behavioral dispositions, but rather posits that certain complicated relations between perceptual input and behavioral provide spatial content. Grush proposes a very specific theory that is like Evans’ in that it does not posit a reduction, but unlike Evans’ view, does not put behavioral dispositions and sensory input on an undifferentiated footing.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 931,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Two doctrines dominate philosophical and psychological discussions of the relationship between action and space perception from the 18th to the early 20th century. The first is that the immediate objects of sight are two-dimensional manifolds of light and color, lacking perceptible extension in depth. The second is that vision must be “educated” by the sense of touch—understood as including both kinaesthesis and proprioceptive position sense—if the former is to acquire its apparent outward, three-dimensional spatial significance. The relevant learning process is associationist: normal vision results when tangible ideas of distance (derived from experiences of unimpeded movement) and solid shape (derived from experiences of contact and differential resistance) are elicited by the visible ideas of light and color with which they have been habitually associated. The widespread acceptance of both doctrines owes much to the influence of George Berkeley’s New Theory of Vision (1709).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 932,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The Berkeleyan approach looks to action in order to explain how depth is “added” to a phenomenally two-dimensional visual field. The spatial ordering of the visual field itself, however, is taken to be immediately given in experience (Hatfield &amp; Epstein 1979; Falkenstein 1994; but see Grush 2007). Starting in the 19th century, a number of theorists, including Johann Steinbuch (1770–1818), Hermann Lotze (1817–1881), Hermann von Helmholtz (1821–1894), Wilhelm Wundt (1832–1920), and Ernst Mach (1838–1916), argued that all abilities for visual spatial localization, including representation of up/down and left/right direction within the two-dimensional visual field, depend on motor factors, in particular, gaze-directing movements of the eye (Hatfield 1990: chaps. 4–5). This idea is the basis of the “local sign” doctrine, which we examine in Section 2.3.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 933,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "There are three principal respects in which motor action is central to Berkeley’s project in the New Theory of Vision (1709). First, Berkeley argues that visual experiences convey information about three-dimensional space only to the extent that they enable perceivers to anticipate the tactile consequences of actions directed at surrounding objects. In §45 of the New Theory, Berkeley writes:",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 934,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " …I say, neither distance, nor things placed at a distance are themselves, or their ideas, truly perceived by sight…. whoever will look narrowly into his own thoughts, and examine what he means by saying, he sees this or that thing at a distance, will agree with me, that what he sees only suggests to his understanding, that after having passed a certain distance, to be measured by the motion of his body, which is perceivable by touch, he shall come to perceive such and such tangible ideas which have been usually connected with such and such visible ideas. ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 935,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "And later in the Treatise Concerning the Principles of Human Knowledge (1734: §44):",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 936,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " …in strict truth the ideas of sight, when we apprehend by them distance and things placed at a distance, do not suggest or mark out to us things actually existing at a distance, but only admonish us what ideas of touch will be imprinted in our minds at such and such distances of time, and in consequence of such or such actions. …[V]isible ideas are the language whereby the governing spirit … informs us what tangible ideas he is about to imprint upon us, in case we excite this or that motion in our own bodies.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 937,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The view Berkeley defends in these passages has recognizable antecedents in Locke’s Essay Concerning Human Understanding (1690: Book II, Chap. 9, §§8–10). There Locke maintained that the immediate objects of sight are “flat” or lack outward depth; that sight must be coordinated with touch in order to mediate judgments concerning the disposition of objects in three-dimensional space; and that visible ideas “excite” in the mind movement-based ideas of distance through an associative process akin to that whereby words suggest their meanings: the process is ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 938,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " performed so constantly, and so quick, that we take that for the perception of our sensation, which is an idea formed by our judgment. ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 939,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " A long line of philosophers—including Condillac (1754), Reid (1785), Smith (1811), Mill (1842, 1843), Bain (1855, 1868), and Dewey (1891)—accepted this view of the relation between sight and touch.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 940,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The second respect in which action plays a prominent role in the New Theory is teleological. Sight not only derives its three-dimensional spatial significance from bodily movement, its purpose is to help us engage in such movement adaptively:",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 941,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " …the proper objects of vision constitute an universal language of the Author of nature, whereby we are instructed how to regulate our actions, in order to attain those things, that are necessary to the preservation and well-being of our bodies, as also to avoid whatever may be hurtful and destructive of them. It is by their information that we are principally guided in all the transactions and concerns of life. (1709: §147)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 942,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Although Berkeley does not explain how vision instructs us in regulating our actions, the answer is reasonably clear from the preceding account of depth perception: seeing an object or scene can elicit tangible ideas that directly motivate self-preserving action. The tactual ideas associated with a rapidly looming ball in the visual field, for example, can directly motivate the subject to shift position defensively or to catch it before being struck. ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 943,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The third respect in which action is central to the New Theory is psychological. Tangible ideas of distance are elicited not only by (1) visual or “pictorial” depth cues such as object’s degree of blurriness (objects appear increasingly “confused” as they approach the observer), but also by kinaesthetic, muscular sensations resulting from (2) changes in the vergence angle of the eyes (1709: §16) and (3) accommodation of the lens (1709: §27). Like many contemporary theories of spatial vision, the Berkeleyan account thus acknowledges an important role for oculomotor factors in our perception of distance.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 944,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Critics of Berkeley’s theory in the 18th and 19th centuries (for reviews, see Bain 1868; Smith 2000; Atherton 2005) principally targeted three claims:",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 945,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Most philosophers and perceptual psychologists now concur with Armstrong’s (1960) assessment that the “single point” argument for claim (a)—“distance being a line directed end-wise to the eye, it projects only one point in the fund of the eye, which point remains invariably the same, whether the distance be longer or shorter” (Berkeley 1709: §2)—conflates spatial properties of the retinal image with those of the objects of sight (also see Condillac 1746/2001: 102; Abbott 1864: chap. 1). In contrast with claim (a), we should note, both contemporary “ecological” and information-processing approaches in vision science assume that the spatial representational contents of visual experience are robustly three-dimensional: vision is no less a distance sense than touch.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 946,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Three sorts of objections targeted on claim (b) were prominent. First, it is not evident to introspection that visual experiences reliably elicit tactile and kinaesthetic images as Berkeley suggests. As Bain succinctly formulates this objection: ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 947,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " In perceiving distance, we are not conscious of tactual feelings or locomotive reminiscences; what we see is a visible quality, and nothing more. (1868: 194)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 948,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Second, sight is often the refractory party when conflicts with touch arise. Consider the experience of seeing a three-dimensional scene in a painting: “I know, without any doubt”, writes Condillac,",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 949,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " that it is painted on a flat surface; I have touched it, and yet this knowledge, repeated experience, and all the judgments I can make do not prevent me from seeing convex figures. Why does this appearance persist? (1746/2001: I, §6, 3)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 950,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Last, vision in many animals does not need tutoring by touch before it is able to guide spatially directed movement and action. Cases in which non-human neonates respond adaptively to the distal sources of visual stimulation ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 951,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " imply that external objects are seen to be so…. They prove, at least, the possibility that the opening of the eye may be at once followed by the perception of external objects as such, or, in other words, by the perception or sensation of outness. (Bailey 1842: 30; for replies, see Smith 1811: 385–390)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 952,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Here it would be in principle possible for a proponent of Berkeley’s position to maintain that, at least for such animals, the connection between visual ideas and ideas of touch is innate and not learned (see Stewart 1829: 241–243; Mill 1842: 106–110). While this would abandon Berkeley’s empiricism and associationism, it would maintain the claim that vision provides depth information only because its ideas are connected to tangible ideas.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 953,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Regarding claim (c), many critics denied that the supposed “habitual connexion” between vision and touch actually obtains. Suppose that the novice perceiver sees a remote tree at time1 and walks in its direction until she makes contact with it at time2. The problem is that the perceiver’s initial visual experience of the tree at time1 is not temporally contiguous with the locomotion-based experience of the tree’s distance completed at time2. Indeed, at time2 the former experience no longer exists. “The association required”, Abbott thus writes, ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 954,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " cannot take place, for the simple reason that the ideas to be associated cannot co-exist. We cannot at one and the same moment be looking at an object five, ten, fifty yards off, and be achieving our last step towards it. (1864: 24)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 955,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Finally, findings from perceptual psychology have more recently been leveled against the view that vision is educated by touch. Numerous studies of how subjects respond to lens-, mirror-, and prism-induced distortions of visual experience (Gibson 1933; Harris 1965, 1980; Hay et al. 1965; Rock &amp; Harris 1967) indicate that not only is sight resistant to correction from touch, it will often dominate or “capture” the latter when intermodal conflicts arise. This point will be discussed in greater depth in Section 3 below.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 956,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Like Berkeley, Hermann Lotze (1817–1881) and Hermann von Helmholtz (1821–1894) affirm the role played by active movement and touch in the genesis of three-dimensional visuospatial awareness:",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 957,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " …there can be no possible sense in speaking of any other truth of our perceptions other than practical truth. Our perceptions of things cannot be anything other than symbols, naturally given signs for things, which we have learned to use in order to control our motions and actions. When we have learned to read those signs in the proper manner, we are in a condition to use them to orient our actions such that they achieve their intended effect; that is to say, that new sensations arise in an expected manner (Helmholtz 2005 [1924]: 19, our emphasis). ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 958,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Lotze and Helmholtz go further than Berkeley in maintaining that bodily movement also plays a role in the construction of the two-dimensional visual field, taken for granted by most previous accounts of vision (but for exceptions, see Hatfield 1990: ch. 4).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 959,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The problem of two-dimensional spatial localization, as Lotze and Helmholtz understand it, is the problem of assigning a unique, eye-relative (or “oculocentric”) direction to every point in the visual field. Lotze’s commitment to mind-body dualism precluded looking to any physical or anatomical spatial ordering in the visual system for a solution to this problem (Lotze 1887 [1879]: §§276–77). Rather, Lotze maintains that every discrete visual impression is attended by a “special extra sensation” whose phenomenal character varies as a function of its origin on the retina. Collectively, these extra sensations or “local signs” constitute a “system of graduated, qualitative tokens” (1887 [1879]: §283) that bridge the gap between the spatial structure of the nonconscious retinal image and the spatial structure represented in conscious visual awareness.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 960,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "What sort of sensation, however, is suited to play the individuating role attributed to a local sign? Lotze appeals to kinaesthetic sensations that accompany gaze-directing movements of the eyes (1887 [1879]: §§284–86). If P is the location on the retina stimulated by a distal point d and F is the fovea, then PF is the arc that must be traversed in order to align the direction of gaze with d. As the eye moves through arc PF, its changing position gives rise to a corresponding series of kinaesthetic sensations p0, p1, p2, …pn, and it is this consciously experienced series, unique to P, that constitutes P’s local sign. By contrast, if Q were rather the location on the retina stimulated by d, then the eye’s foveating movement through arc QF would elicit a different series of kinaesthetic sensations k0, k1, k2, …kn unique to Q.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 961,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Importantly, Lotze allows that retinal stimulation need not trigger an overt movement of the eye. Rather, even in the absence of the corresponding saccade, stimulating point P will elicit kinaesthetic sensation p0, and this sensation will, in turn, recall from memory the rest of the series with which it is associated p1, …pn. ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 962,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Accordingly, though there is no movement of the eye, there arises the recollection of something, greater or smaller, that must be accomplished if the stimuli at P and Q, which arouse only a weak sensation, are to arouse sensations of the highest degree of strength and clearness. (1887 [1879]: §285)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 963,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " In this way, Lotze accounts for our ability to perceive multiple locations in the visual field at the same time.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 964,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Helmholtz 2005 [1924] fully accepts the need for local signs in two-dimensional spatial localization, but makes an important modification to Lotze’s theory. In particular, he maintains that local signs are not feelings that originate in the adjustment of the ocular musculature, i.e., a form of afferent, sensory “inflow” from the eyes, but rather feelings of innervation (Innervationsgefühlen) produced by the effort of the will (Willensanstrengung) to move the eyes, i.e., a form of efferent, motor “outflow”. In general, to each perceptible location in the visual field there is an associated readiness or impulse of the will (Willensimpuls) to move eyes in the manner required in order to fixate it. As Ernst Mach later formulates Helmholtz’s view: “The will to perform movements of the eyes, or the innervation to the act, is itself the space sensation” (Mach 1897 [1886]: 59).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 965,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Helmholtz favored a motor outflow version of the local sign doctrine for two main reasons. First, he was skeptical that afferent registrations of eye position are precise enough to play the role assigned to them by Lotze’s theory (2005 [1924]: 47–49). Recent research has shown that proprioceptive inflow from ocular muscular stretch receptors does in fact play a quantifiable role in estimating direction of gaze, but efferent outflow is normally the more heavily weighted source of information (Bridgeman 2010; see  Section 2.1.1 below).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 966,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Second, attempting a saccade when the eyes are paralyzed or otherwise immobilized results in an apparent shift of the visual scene in the same direction (Helmholtz 2005 [1924]: 205–06; Mach 1897 [1886]: 59–60). This finding would make sense if efferent signals to the eye are used to determine the direction of gaze: the visual system “infers” that perceived objects are moving because they would have to be in order for retinal stimulation to remain constant despite the change in eye direction predicted on the basis of motor outflow.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 967,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Although Helmholtz was primarily concerned to show that “our judgments as to the direction of the visual axis are simply the result of the effort of will involved in trying to alter the adjustment of the eyes” (2005 [1924]: 205–06), the evidence he adduces also implies that efferent signals play a critical role in our perception of stability in the world across saccadic eye movements. In the next section, we trace the influence of this idea on theories in the 20th century.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 968,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Action-based accounts of perception proliferate diversely in 20th century. In this section, we focus on the reafference theory of Richard Held and the more recent enactive approach of J. Kevin O’Regan and Alva Noë. Central to both accounts is the view that perception and perceptually guided action depend on abilities to anticipate the sensory effects of bodily movements. To be a perceiver it is necessary to have knowledge of what O’Regan and Noë call the laws of sensorimotor contingency—“the structure of the rules governing the sensory changes produced by various motor actions” (O’Regan &amp; Noë 2001: 941).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 969,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "We start with two sources of motivation for theories that make knowledge of sensorimotor contingencies necessary and/or sufficient for spatially contentful perceptual experience. The first is the idea that the visual system exploits efference copy, i.e., a copy of the outflowing saccade command signal, in order to distinguish changes in visual stimulation caused by movement of the eye from those caused by object movement. The second is a long line of experiments, first performed by Stratton and Helmholtz in the 19th century, on how subjects adapt to lens-, mirror-, and prism-induced modifications of visual experience. We follow up with objections to these theories and alternatives.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 970,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The problem of visual direction constancy (VDC) is the problem of how we perceive a stable world despite variations in visual stimulation caused by saccadic eye movements. When we execute a saccade, the image of the world projected on the retina rapidly displaces in the direction of rotation, yet the directions of perceived objects appear constant. Such perceptual stability is crucial for ordinary visuomotor interaction with surrounding the environment. As Bruce Bridgeman writes,",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 971,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Perceiving a stable visual world establishes the platform on which all other visual function rests, making possible judgments about the positions and motions of the self and of other objects. (2010: 94)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 972,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The problem of VDC divides into two questions (MacKay 1973): First, which sources of information are used to determine whether the observer-relative position of an object has changed between fixations? Second, how are relevant sources of information used by the visual system to achieve this function?",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 973,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The historically most influential answer to the first question is that the visual system has access to a copy of the efferent or “outflowing” saccade command signal. These signals carry information specifying the direction and magnitude of eye movements that can be used to compensate for or “cancel out” corresponding displacements of the retinal image.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 974,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "In the 19th century, Bell (1823), Purkyně (1825), and Hering (1861 [1990]), Helmholtz (2005 [1924]), and Mach (1897 [1886]) deployed the efference copy theory to illuminate a variety of experimental findings, e.g., the tendency in subjects with partially paralyzed eye muscles to perceive movement of the visual scene when attempting to execute a saccade (for a review, see Bridgeman 2010.) The theory’s most influential formulation, however, came from Erich von Holst and Horst Mittelstädt in the early 1950s. According to what they dubbed the “reafference principle” (von Holst &amp; Mittelstädt 1950; von Holst 1954), the visual system exploits a copy of motor directives to the eye in order to distinguish between exafferent visual stimulation, caused by changes in the world, and reafferent visual stimulation, caused by changes in the direction of gaze:",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 975,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Let us imagine an active CNS sending out orders, or “commands” … to the effectors and receiving signals from its sensory organs. Signals that predictably come when nothing occurs in the environment are necessarily a result of its own activity, i.e., are reafferences. All signals that come when no commands are given are exafferences and signify changes in the environment or in the state of the organism caused by external forces. … The difference between that which is to be expected as the result of a command and the totality of what is reported by the sensory organs is the proportion of exafference…. It is only this difference to which there are compensatory reflexes; only this difference determines, for example during a moving glance at movable objects, the actually perceived direction of visual objects. This, then, is the solution that we propose, which we have termed the “reafference principle”: distinction of reafference and exafference by a comparison of the total afference with the system’s state—the “command”. (Mittelstädt 1971; translated by Bridgeman et al. 1994: 251).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 976,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "It is only when the displacement of the retinal image differs from the displacement predicted on the basis of the efference copy, i.e., when the latter fails to “cancel out” the former, that subjects experience a change of some sort in the perceived scene (see Figure 1). The relevant upshot is that VDC has an essential motoric component: the apparent stability of an object’s eye-relative position in the world depends on the perceiver’s ability to integrate incoming retinal signals with extraretinal information concerning the magnitude and direction of impending eye movements.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 977,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Figure 1: (a) When the eye is stationary, both efference copy (EC) and afference produced by displacement of the retinal image (A) are absent. (b) Turning the eye 10° to the right results in a corresponding shift of the retinal image. Since the magnitude of the eye movement specified by EC and the magnitude of retinal image displacement cancel out, no movement in the world or “exafference” (EA) is registered.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 978,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The foregoing solution to the problem of VDC faces challenges on multiple, empirical fronts. First, there is evidence that proprioceptive signals from the extraocular muscles make a non-trivial contribution to estimates of eye position, although the gain of efference copy is approximately 2.4 times greater (Bridgeman &amp; Stark 1991). Second, in the autokinetic effect, a fixed luminous dot appears to wander when the field of view is dark and thus completely unstructured. This finding is inconsistent with theories according to which retinotopic location and efference copy are the sole determinants of eye-relative direction. Third, the hypothesized compensation process, if psychologically real, would be highly inaccurate since subjects fail to notice displacements of the visual world up to 30% of total saccade magnitude (Bridgeman et al. 1975), and the locations of flashed stimuli are systematically misperceived when presented near the time of a saccade (Deubel 2004). Last, when image displacements concurrent with a saccade are large, but just below threshold for detection, visually attended objects appear to “jump” or “jiggle” against a stable background (Brune and Lücking 1969; Bridgeman 1981). Efference copy theories, however, as Bridgeman observes,",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 979,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " do not allow the possibility that parts of the image can move relative to one another—the visual world is conceived as a monolithic object. The observation would seem to eliminate all efference copy and related theories in a single stroke. (2010: 102)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 980,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The reference object theory of Deubel and Bridgeman denies that efference copy is used to “cancel out” displacements of the retinal image caused by saccadic eye-movements (Deubel et al. 2002; Deubel 2004; Bridgeman 2010). According to this theory, visual attention shifts to the saccade target and a small number of other objects in its vicinity (perhaps four or fewer) before eye movement is initiated. Although little visual scene information is preserved from one fixation to the next, the features of these objects as well as precise information about their presaccadic, eye-relative locations is preserved. After the eye has landed, the visual system searches for the target or one of its neighbors within a limited spatial region around the landing site. If the postsaccadic localization of this “landmark” object succeeds, the world appears to be stable. If this object is not found, however, displacement is perceived. On this approach, efference copy does not directly support VDC. Rather, the role of efference copy is to maintain an estimate of the direction of gaze, which can be integrated with incoming retinal stimulation to determine the static, observer-relative locations of perceived objects. For a recent, philosophically oriented discussion, see Wu 2014.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 981,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "A related alternative to the von Holst-Mittelstädt model is the spatial remapping theory of Duhamel and Colby (Duhamel et al. 1992; Colby et al. 1995). The role of saccade efference copy on this theory is to initiate an updating of the eye-relative locations of a small number of attended or otherwise salient objects. When post-saccadic object locations are sufficiently congruent with the updated map, stability is perceived. Single-cell and fMRI studies show that neurons at various stages in the visual-processing hierarchy exploit a copy of the saccade command signal in order to shift their receptive field locations in the direction of an impending eye movement microseconds before its initiation (Merriam &amp; Colby 2005; Merriam et al. 2007). Efference copy indicating an impending saccade 20° to the right, in effect, tells relevant neurons: ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 982,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " If you are now firing in response to an item x in your receptive field, then stop firing at x. If there is currently an item y in the region of oculocentric visual space that would be coincident with your receptive field after a saccade 20° to the right, then start firing at y. ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 983,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Such putative updating responses are strongest in parietal cortex and at higher levels in visual processing (V3A and hV4) and weakest at lower levels (V1 and V2).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 984,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "In 1961, Richard Held proposed that the reafference principle could be used to construct a general “neural model” of perception and perceptually guided action. Held’s reafference theory goes beyond the account of von Holst and Mittelstädt in three main ways. First, information about movement parameters specified by efference copy is not simply summated with reafferent stimulation. Rather, subjects are assumed to acquire knowledge of the specific sensory consequences of different bodily movements. This knowledge is contained in a hypothesized “correlational storage” area and used to determine whether or not the reafferent stimulations that result from a given type of action match those that resulted in the past (Held 1961: 30). Second, the reafference theory is not limited to eye movements, but extends to “any motor system that can be a source of reafferent visual stimulation”. Third, knowledge of the way reafferent stimulation depends on self-produced movement is used for purposes of sensorimotor control: planning and controlling object-directed actions in the present depends on access to information concerning the visual consequences of performing such actions in the past.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 985,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The reafference theory was also significantly motivated by studies of how subjects adapt to devices that alter the relationship between the distal visual world and sensory input by rotating, reversing, or laterally displacing the retinal image (for helpful guides to the literature on this topic, see Rock 1966; Howard &amp; Templeton 1966; Epstein 1967; and Welch 1978). We will refer to these as optical rearrangement devices (or ORDs for short).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 986,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The American psychologist George Stratton conducted two experiments using a lens system that effected an 180º rotation of the retinal image in his right eye (his left eye was kept covered). The first experiment involved wearing the device for 21.5 hours over the course of three days (1896); the second experiment involved wearing the device for 81.5 hours over the course of 8 days (1897a,b). In both cases, Stratton kept a detailed diary of how his visual, imaginative, and proprioceptive experiences underwent modification as a consequence of inverted vision. In 1899, he performed a lesser-known but equally dramatic three-day experiment, using a pair of mirrors that presented his eyes with a view of his own body from a position in space directly above his head (Figure 2).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 987,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Figure 2: The apparatus designed by Stratton (1899). Stratton saw a view of his own body from the perspective of mirror AB, worn above his head.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 988,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "In both experiments, Stratton reported a brief period of initial visual confusion and breakdown in visuomotor skill: ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 989,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Almost all movements performed under the direct guidance of sight were laborious and embarrassed. Inappropriate movements were constantly made; for instance, in order to move my hand from a place in the visual field to some other place which I had selected, the muscular contraction which would have accomplished this if the normal visual arrangement had existed, now carried my hand to an entirely different place. (1897a: 344)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 990,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Further bewilderment was caused by a “swinging” of the visual field with head movements as well as jarring discord between where things were respectively seen and imagined to be: ",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 991,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " Objects lying at the moment outside the visual field (things at the side of the observer, for example) were at first mentally represented as they would have appeared in normal vision…. The actual present perception remained in this way entirely isolated and out of harmony with the larger whole made up by [imaginative] representation. (1896: 615)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 992,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "After a seemingly short period of adjustment, Stratton reported a gradual re-establishment of harmony between the deliverances of sight and touch. By the end of his experiments on inverted vision, it was not only possible for Stratton to perform many visuomotor actions fluently and without error, the visual world often appeared to him to be “right side up” (1897a: 358) and “in normal position” (1896: 616). Just what this might mean will be discussed below in Section 2.2.6.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 993,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Another influential experiment was performed by Helmholtz (2005 [1924]: §29), who practiced reaching to targets while wearing prisms that displaced the retinal image 16–18° to the left. The initial tendency was to reach too far in the direction of lateral displacement. After a number of trials, however, reaching gradually regained its former level of accuracy. Helmholtz made two additional discoveries. First, there was an intermanual transfer effect: visuomotor adaptation to prisms extended to his non-exposed hand. Second, immediately after removing the prisms from his eyes, errors were made in the opposite direction, i.e., when reaching for a target, Helmholtz now moved his hand too far to the right. This negative after-effect is now standardly used as a measure of adaptation to lateral displacement.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 994,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Stratton and Helmholtz’s findings catalyzed a research tradition on ORD adaptation that experienced its heyday in the 1960s and 1970s. Two questions dominated studies conducted during this period. First, what are the necessary and sufficient conditions for adaptation to occur? In particular, which sources of information do subjects use when adapting to the various perceptual and sensorimotor discrepancies caused by ORDs? Second, just what happens when subjects adapt to perceptual rearrangement? What is the “end product” of the relevant form of perceptual learning?",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 995,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Held’s answer to the first question is that subjects must receive visual feedback from active movement, i.e., reafferent visual stimulation, in order for significant and stable adaptation to occur (Held &amp; Hein 1958; Held 1961; Held &amp; Bossom 1961). Evidence for this conclusion came from experiments in which participants wore laterally displacing prisms during both active and passive movement conditions. In the active movement condition, the subject moved her visible hand back and forth along a fixed arc in synchrony with a metronome. In the passive movement condition, the subject’s hand was passively moved at the same rate by the experimenters. Although the overall pattern of visual stimulation was identical in both conditions, adaptation was reported only when subjects engaged in self-movement. Reafferent stimulation, Held and Bossom concluded on the basis of this and other studies,",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 996,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": " is the source of ordered contact with the environment which is responsible for both the stability, under typical conditions, and the adaptability, to certain atypical conditions, of visual-spatial performance. (1961: 37)",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 997,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Held’s answer to the second question is couched in terms of the reafference theory: subjects adapt to ORDs only when they have relearned the sensory consequences of their bodily movements. In the case of adaptation to lateral displacement, they must relearn the way retinal stimulations vary as a function of reaching for targets at different body-relative locations. This relearning is assumed to involve an updating of the mappings from motor output to reafferent sensory feedback in the hypothesized \"correlational storage\" module mentioned above.",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 998,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "The reafference theory faces a number of objections. First, the theory is an extension of von Holst and Mittelstädt’s reafference principle, according to which efference copy is used to cancel out shifts of the retinal image caused by saccadic eye movements. The latter was specifically intended to explain why we do not experience object displacement in the world whenever we change the direction of gaze. There is nothing, at first blush, however, that is analogous to the putative need for “cancellation” or “discounting” of the retinal image in the case of prism adaptation. As Welch puts it, “There is no visual position constancy here, so why should a model originally devised to explain this constancy be appropriate?” (1978: 16).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 999,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/action-perception/",
+        "text": "Second, the reafference theory fails to explain just how stored efference-reafference correlations are supposed to explain visuomotor control. How does having the ability to anticipate the retinal stimulations that would caused by a certain type of hand movement enable one actually to perform the movement in question? Without elaboration, all that Held’s theory seems to explain is why subjects are surprised when reafferences generated by their movements are non-standard (Rock 1966: 117).",
+        "category": "action-perception"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}
