@@ -29,7 +29,8 @@ const mergeJsons = (jsons: any[]): any => {
 					return current;
 				}
 				return [...merged, ...current];
-			} else if (current !== null) {
+			}
+			if (current !== null) {
 				// オブジェクトの場合: キーを配列として保持してマージ
 				if (
 					typeof merged !== "object" ||
