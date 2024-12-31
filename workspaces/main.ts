@@ -2,7 +2,7 @@ import { ensureDir } from "https://deno.land/std@0.218.2/fs/ensure_dir.ts";
 
 const baseUrl =
   "https://datasets-server.huggingface.co/rows?dataset=AiresPucrs%2Fstanford-encyclopedia-philosophy&config=default&split=train";
-const outputDirBase = 'output';
+const outputDirBase = 'input';
 const fetchCount = 30;
 const length = 100;
 
