@@ -15,26 +15,48 @@ const readAndParseJson = async (filePath: string): Promise<unknown> => {
 		return null;
 	}
 };
-
-const mergeJsons = (jsons: unknown[]): object => {
-	return jsons.reduce((merged: Record<string, any>, current: unknown) => {
+const mergeJsons = (jsons: any[]): any => {
+	return jsons.reduce((merged: any, current: any) => {
 		if (current === null || current === undefined) {
 			console.log("current is null or undefined");
 			return merged;
 		}
 
-		if (typeof current !== "object" || Array.isArray(current)) {
-			return merged; // current がオブジェクトでなければスキップ
+		if (typeof current === "object") {
+			if (Array.isArray(current)) {
+				// 配列の場合: 連結する
+				if (!Array.isArray(merged)) {
+					return current;
+				}
+				return [...merged, ...current];
+			} else if (current !== null) {
+				// オブジェクトの場合: キーを配列として保持してマージ
+				if (
+					typeof merged !== "object" ||
+					Array.isArray(merged) ||
+					merged === null
+				) {
+					return current;
+				}
+				const mergedObj = { ...merged };
+				for (const key in current) {
+					if (mergedObj.hasOwnProperty(key)) {
+						if (Array.isArray(mergedObj[key])) {
+							mergedObj[key] = [...mergedObj[key], current[key]];
+						} else {
+							mergedObj[key] = [mergedObj[key], current[key]];
+						}
+					} else {
+						mergedObj[key] = current[key];
+					}
+				}
+				return mergedObj;
+			}
 		}
-
-		if (typeof merged !== "object" || Array.isArray(merged)) {
-			return current;
-		}
-
-		return { ...merged, ...current }; // オブジェクトの場合のみマージ
-	}, {});
+		// オブジェクトまたは配列以外の場合は上書き
+		return current;
+	}, undefined);
 };
-
 // 結果をファイルに保存する関数
 const saveMergedJson = async (dir: string, fileName: string, data: unknown) => {
 	const formattedData = JSON.stringify(data, null, 2);
