@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2200,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Poetry is passion. (Wordsworth, “Note to the Thorn” in LB:  136)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2201,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " All good poetry [originates in] the spontaneous overflow of powerful feelings. (Wordsworth, Preface to Lyrical Ballads (1800), paragraph 26, in LB)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2202,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " If, then, feelings and passions are constitutive of art, and if aesthetic or poetic feeling is a key ingredient in the pursuit of the Absolute, then philosophy should become poetic and “poetry and philosophy should be made unified” (F. Schlegel, CF: #115). We are now in a position to appreciate that this romantic imperative is explained partly by the view that philosophy cannot be reduced to concepts and propositions, but must also include certain kinds of affective mental states. To paraphrase Wittgenstein, discursive reasoning comes to an end. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2203,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The non-determining character of aesthetic feeling is related to the distinctive kind of normativity that characterizes artistic production and aesthetic appreciation. An expression borrowed from Kant is fitting here: on the romantic picture, both artistic production and aesthetic appreciation are “lawful without a law”. Both are the source of their own normativity, without being subject to any external law. Given that, they are appropriate for approximating the Absolute insofar as this approximation must be non-determining (applying no conditions), but normatively governed rather than arbitrary.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2204,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Following Kant’s account of the genius, the romantics developed an understanding of the artist as, on the one hand, original and imaginative (rather than submitting to any law of nature or principle borrowed from the tradition of art), and, on the other hand, receptive to nature: “Every good poem must be wholly intentional and wholly instinctive” (F. Schlegel, CF: #23). This combination of being independent of given rules and attuned to something other than yourself is required not only for the genius, but also for approximating the Absolute. And it is this requirement that explains “the categorical imperative of genius[:] You should demand genius from everyone” (F. Schlegel, CF: #16). If everyone is to approximate the Absolute, then everyone should model herself after the genius.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2205,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Criticism consists of a related combination of features. While it is based on no prior rules, it is also open and receptive to the work it concerns. And it is through the engagement with the work that each critical judgment constitutes its own norms. Although we can and should legitimize our judgments of beauty and art, we cannot do so by appeal to any given concepts or norms that are external to the work at stake. The artwork, on this picture, is sui generis—it provides its own standards of appreciation: “Poetry is a republican speech: a speech which is its own law and end unto itself” (F. Schlegel, CF: #65). The critic should seek to express the work in a way that is faithful to its individual nature and be responsive to the specific norms that it constitutes:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2206,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " To judge [Goethe’s Wilhelm Meister] according to an idea of genre drawn from custom and belief, accidental experiences and arbitrary demands is as if a child tried to clutch the stars and the moon in his hand and pack them in his satchel…. Fortunately, [the novel] turns out to be one of those books, which carries its own judgment within it. (F. Schlegel, WM: 275)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2207,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " That means that beauty makes demands on us, demands that, according to the romantics, are analogous to the demands that other persons make on us. Beautiful objects make a claim on us to respond to them as the specific individuals that they are, on their own terms: “See your statues, your paintings, your friends as they are” (Diderot, Salon of 1767). Hence, the romantic declaration, “one cannot really speak of poetry except in the language of poetry” (F. Schlegel, DP). ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2208,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This lawfulness without a law fits the requirements of the Absolute. For, if we adopt this structure of normativity and expression in our pursuit of the Absolute, we may approach it in a normatively governed and committed way, without determining and thus conditioning it according to any given law, principle, or concept. Here, then, is another reason why philosophy should become poetic, and the true philosopher, not merely a “half critic” (as the romantics alleged against Kant), but a complete critic: philosophy should be open and attuned to the Absolute without trying to subsume it under any principle of reason, just as criticism is open and attuned to each work without subsuming it under any external  law.[5]",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2209,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Like Spinoza’s God and Kant’s omnitudo realitatis (All of Reality), the Absolute is an all-encompassing individual: while it comprehends everything else, the Absolute is also concrete. It is an individual whole—a totality, the parts of which could be understood only negatively, as its limitations. To approximate the Absolute, then, we need a mode of consciousness that is particularly suited to discern a holistic unity in an individual. While  §5.3  discusses what is required in order to apprehend holistic unities, and the holistic unities of artworks and natural beauties, this section focuses on the individual character of artworks and natural beauties.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2210,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " On the romantic picture, an artwork that does not present itself as a “living individual” (Novalis, Poësie, NS 2: 534, #35) is not worthy of the title of a work of art, and the one who does not approach artworks as unique individuals is not a genuine aesthetic critic: “Whoever conceives of poetry or philosophy as individuals has a feeling for them” (F. Schlegel, AF: #415). The aesthetic approach to beauty, then, is an approach to those things that are irreducibly individuals, those that should not be approached merely as ones of many—as instances of general kinds—but as concrete individuals: “Everything that is to be criticized must be an individual” (F. Schlegel, FLP: #634).And this is the very approach that is required in the pursuit of the Absolute given its individual nature.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2211,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Kant attributes to aesthetic pleasure:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2212,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " a causality in itself, namely that of maintaining the state of the representation of the mind and the occupation of the cognitive powers without a further aim. We linger over the consideration of the beautiful because this consideration strengthens and reproduces itself. (AK 5: 222)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2213,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Aesthetic feeling is open-ended and future-oriented. In contrast to practical pleasures (the “pleasure in the good”) and to private, sensory pleasures (the “pleasure in the agreeable”) that need to bring forth an action or an object in order to maintain themselves, aesthetic pleasure is self-maintaining. This is partly because aesthetically enjoying an object involves a commitment to remain faithful to the beauty of that object, beauty that calls for and deserves an open-ended affective pursuit. The romantics welcomed this structure of aesthetic feeling as particularly suitable for the pursuit of the Absolute. Since the Absolute can never be determined, the stance that approximates it must itself be open-ended. It should involve a commitment to keep striving after the Absolute open-endedly.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2214,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Since the romantics take philosophy to be a tendency “towards the Absolute” (Schlegel, ITP: 242), philosophy itself should be reconceived. The systematic search after first principles is not only hopeless, but also unfortunate. It can only slight the significance of the Absolute by the effort to determine it through principles. Instead, philosophy should be aesthetically shaped, as an open-ended pursuit:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2215,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " If knowledge of the infinite is itself infinite, therefore always only incomplete, imperfect, then philosophy as a science can never be completed closed and perfect, it can always only strive for these high goals, and try all possible ways to come closer and closer to them. (Schlegel, Lectures on Transcendental Philosophy, KA 12: 166)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2216,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The intersection between romantic aesthetics, ethics and politics offers a particularly clear challenge to the standard view of the romantics as anti-Enlightenment (discussed in  §2).  This is because the romantics turned to aesthetics to a large extent in order to pursue, rather than to reject, some of the core ethical and political values of the Enlightenment, such as autonomy or self-determination and the ideal of Bildung. Art and aesthetics also provided a model for the romantic political ideal: a democratic, egalitarian community grounded in the republican values of liberty, equality and fraternity.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2217,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " In addition to proving the anti-Enlightenment interpretation of the romantics false, tracing these romantic notions of autonomy, Bildung and political community also offers a challenge to another well-known interpretation of the movement as apolitical (see Schmitt 1986). In contrast to this interpretation, we find the romantics exploring and emphasizing the importance of aesthetics for ethical and political concerns. Shelley, for example, wrote in a letter to a friend: “I consider Poetry subordinate to moral &amp; political science” (Shelley, LS 2: 71). In his famous Defence of Poetry (1821), he proclaimed, “Poets are the unacknowledged legislators of the world” (SPP). Rather than “aestheticizing” politics, then, the romantics found in art and aesthetics resources for solving ethical and political problems.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2218,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Yet, a central difficulty facing any interpretation of romantic ethics and politics lies in the change that this view has undergone during the later years of many a romantic: the strong democratic and egalitarian views of the likes of Friedrich Schlegel and Friedrich Schleiermacher gave way to a growing conservatism and religiosity after 1800. The first generation of British romantics likewise turned from their conviction that to be young during the revolution was, as Wordsworth said, “bliss” and “heaven”, to an acknowledgement of the challenges awaiting a genuine political reform. With this shift in mind, they turned from political optimism to religion. A unified account of romantic politics is thus untenable. Instead, the section will focus on the political views of the German romantics during their “formative years” (from 1797–1800) and of the British romantics mainly during their early and middle phases This is because the ideals developed during these phases, though different from some of the later ideals, can shed light on the romantic path towards conservatism later on (Beiser 1992).  §4.5  will briefly present the romantics’ later political thought.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2219,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " “Freedom is the only reality in wishing, willing, sensing and striving”, writes F. Schlegel (TPL II: 155). While the absolute reality of freedom might not admit of a proof, according to many of the romantics, human beings should nonetheless approximate freedom by developing autonomy—self-determination and self-legislation. Autonomy is the right of the individual to think for herself and act rationally and freely (TPL II: 155). The work of art and aesthetic judgment were seen as paradigmatic expressions of autonomy and, as such, as splendid models for the cultivation of individual human autonomy. For (as discussed in  §3.3)  neither the creation of art nor its appreciation is grounded in prior given laws. And yet, both the production and judgment of art are not lawless, but normatively governed by the laws generated autonomously by each individual work and by each individual aesthetic judgment. Poetry is a “law unto itself”.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2220,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This characteristic of the production and judgment of art should not only be incorporated into the way every person is to govern herself—as the source of her own rational laws rather than as subject to external laws, and as self-determining rather than passively determined—but also serve as a model for the way in which every person should be respected and treated. Aesthetics provides us with a paradigm for following two central ethical demands—the demand to govern oneself autonomously and the demand to respect everyone else as autonomous.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2221,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " These two duties, then, constitute another explanation of the “categorical imperative of the genius” previously mentioned—the demand that every person be a genius. For if every individual is to be autonomous, she should fashion herself after the model of the artist.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2222,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Bildung is another characteristic romantic value that each individual should develop in herself. While literally meaning “formation”, Bildung is best understood as a mode of ethical and cultural cultivation, or self-realization that allows the individual to mature into independence and responsibility. “Concerning Bildung, we speak not of external culture, but the development of independence” (F. Schlegel, TPL II: 148). Bildung is a particularly modern value, formed at least in part as a challenge to what the romantics regarded as the rift between sensibility and reason in modern life. To achieve Bildung, each individual has to constitute herself as a unified whole that coordinates a balance between sensibility and reason: “The end of humanity is…to achieve harmony in knowing, doing and enjoying” (F. Schlegel, On the Study of Greek Poetry, in KA I, 627).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2223,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The artwork is a good model for such an ideal insofar as it is, according to the romantics, an organic and harmonious whole of diverse and even conflicting parts:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2224,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Poetry…must be a harmonious mood of our mind…where everything finds its proper aspect…. Everything in a truly poetic book seems so natural—and yet so marvelous. We think it could not be otherwise…and we feel the infinite…sensations of a plurality in agreement. (Novalis, Last Fragments: #3)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2225,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This is why “Every human being who is cultivated and who cultivates himself”, namely, the person who achieves Bildung, “contains a novel within himself” (F. Schlegel, AF: #78).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2226,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Aesthetic judgment is also a harmony of reason and sensibility. On this issue too, the romantics were inspired by Kant’s aesthetics, according to which aesthetic judgment consists in the free play between the understanding, imagination and pleasure. Approaching the world, ourselves and one another aesthetically, then, is approaching it with a harmony of “knowing, doing, and enjoying”. And achieving this harmony constitutes a genuine moral being: a balanced rational, sensible and affective person. For that reason, it is not surprising to find Coleridge, the critic, aiming to establish “the close and reciprocal connections of Just Taste with pure Morality” (Lecture I, CLL).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2227,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Romantic Bildung was a political ideal as much as it was an ethical one. It was needed, not only for the sake of independent individual responsibility, but also for the possibility of a genuine non-revolutionary republic:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2228,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " There is no greater need of the age than the need for a spiritual counterweight to the Revolution and to the despotism which the Revolution exercises over people…. Where can we seek and find such a counterweight? The answer isn’t hard: unquestionably in ourselves…the center of humanity lies there. (F. Schlegel, Ideas: #41)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2229,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The French revolution had shown the romantics both the value of a republic based on liberty, equality and fraternity, but also the dangers of anarchism and strife that revolutions carry with them. The proper path to a republic, they thought, is not through a revolutionary act, but through proper education. Art does not only offer a model for a harmonious, cultivated soul, but is also the best medium through which to achieve the moral education that leads to this harmony and, on its basis, to the best republic. Attending to art (as well as producing it) is a form of self-cultivation because the spirit of art allows human beings to transcend baseness (a particular danger given modern instrumentalism and materialism), and to develop their humanity. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2230,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " As we now turn to see, the romantics regarded art also as a particularly effective medium for uniting people, no matter their differences, and so took it to be a great spur for united, social and political action.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2231,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The allegiance to autonomy and to the value of Bildung may seem to indicate individualism. And it does, to an extent. While individuality is indeed a romantic value, anti-communal individualism is not. The romantics never celebrated uncurbed individuality, but called for a balance between individuality and sociality: “A certain regulated interaction between individuality and universality…constitutes the first condition for moral well-being” (F. Schlegel, OP: 427). ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2232,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Without doubt, the romantics criticized Kant’s categorical imperative as proposing a problematically universalistic ethics that discourages the free expression of unique personalities. They viewed such a universalist ethics as problematic because they regarded individual expression and the development of a unique, characteristic and unified self as intrinsically and morally valuable. Yet, the romantics were also critical of extreme individualism, such as the one they found promoted by some Enlightenment thinkers. In other words, they challenged those individualists who criticized any form of social and communal participation as potentially a form of passive submission to external authority.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2233,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " In response to these two extremes of universalism and radical individualism, the romantics sought after a golden mean—romantic ethics strived to preserve and strengthen social bonds and encouraged a pluralistic communal life while supporting rational criticism, autonomy, individual rights, liberties and freedom of expression: “Does not the universal gain from the individual, the individual from universal relations?” (Novalis, Faith and Love: #5). The romantics believed that individualism is not merely compatible with sociality and communitarianism, but that it actually depends on genuine forms of the latter: “The vocation of man is attainable only through human society” (F. Schlegel, TPL II: 144). Autonomy and Bildung, in particular, though nothing other than individual freedom and self-realization, can never be divorced from the social: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2234,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Autonomy should be universal and not relate to the individual but the whole, for otherwise it would destroy itself…. We cannot consider human beings individually. (TPL II: 156) ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2235,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " On the romantic picture, the achievement of free, fully-formed individuality is impossible independently of strong sociality and vice versa. An ideal of sociality is deficient if it leaves no freedom for the distinct expression and liberties of each individual, and the individual is most herself, as an individual only insofar as she freely interacts with others: “A person can be a person only among people” (TPL II: 145).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2236,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Rather than contradictory impulses, as they are often regarded today, sociality and individuality, on the romantic picture, are not only compatible but also naturally harmonious—grounded in human nature:[6]",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2237,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " No man is merely man, but…at the same time he can and should be genuinely and truly all mankind. Therefore, man, in reaching out time and again beyond himself to seek and find the complement of his innermost being in the depths of another, is certain to return to himself. (F. Schlegel, DP: 54)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2238,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " It is this romantic view of natural human sociability—rather than some exaggerated zeal or effusiveness—that explains and is explained by the centrality of love in romanticism. In contrast to many a modern thinker, the romantics regarded love rather than self-interest as a basic condition of human nature (“Love is…the core of ourselves” (F. Schlegel, TPL II: 151)), and as the proper basis for a genuine sociable but pluralistic community:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2239,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Yes, love, you power of attraction of the spiritual world! No individual life or development is possible without you. Without you everything must degenerate into a crude, homogeneous mass…. There is no individual development without love, and without the development of one’s individuality there is no perfection in love. When one complements the other, both grow together inseparably. I feel united within me the two fundamental conditions of ethical life! (Schleiermacher, ”Monologue II”, 180).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2240,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " But as natural as it may be, the romantics believed that love has suffered paralysis in modernity. On their view, the rise of capitalism and instrumentalism had suppressed natural social bonds and encouraged self-interest. The consequent view of human beings as solely quantitatively distinct further leveled them and inhibited their distinctive and unique expressions.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2241,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " How could people balance individuality and sociality in the face of modernity? Here too romantic poetry and the creative imagination come to the rescue. Poetry is not only based in love, but is itself a form of love insofar as it bonds different individuals:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2242,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Poetry befriends and binds with unseverable ties the hearts of all those who love it. Even though in their own lives they may pursue the most diverse ends, may feel contempt for what the other holds most sacred, may fail to appreciate or communicate with one another, and remain in all other realms strangers forever; in poetry through a higher magic power, they are united and at peace. (F. Schlegel, DP: 53)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2243,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The poet is, quintessentially, “a social being” (F. Schlegel, DP: 55) insofar as he both expresses, “in lasting works the expression of his unique poetry” (DP: 55) and reaches to others and reciprocally communicates with them. The poet integrates: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2244,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " his part with the entire body of poetry…. He can do this when he has found the center point through communication with those who have found theirs from a different side, in a different way. Love needs a responding love. Indeed, for the true poet’s communication…can be beneficial and instructive. (DP: 55)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2245,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Following the “categorical imperative of the genius” is required, then, also for achieving Bildung and autonomous individuality in and through society: it is an ethical and social demand as well.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2246,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " While sociality and communal spirit are ethically required for the achievement of autonomy and Bildung, community was also a romantic political ideal. Such an ideal required that what the romantics viewed as modern alienation—estrangement of the self from others—be challenged in three ways: by promoting love (as discussed above), developing a sphere of free social interaction and pursuing a holistic, social unity.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2247,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The ideal political community must facilitate a sphere of social life, which is free and independent of political control because free sociality and conversation, the ends of this sphere, are both valuable in themselves and the best alternative for external laws. The romantics believed that social bonds should not be upheld by laws that are imposed on individual citizens from outside, but by the love encouraged by a common culture and free interaction. Romantic poetry is an exemplary model for achieving such a free domain since it is “a republican speech…in which all the parts are free citizens and have the right to vote” (Schlegel, CF: #65).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2248,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Aesthetics is at the center of this political vision also because the political ends of free sociability and conversation are the very same ones that the romantics practiced in their intellectual-artistic salons and in their communal, cooperative aesthetic projects. The political community should allow for creative and artistic endeavors such as the Athenaeum journal, which was the mouthpiece of the German romantics at the end of the eighteenth century and a journal that was independent of the control of the publishing establishment. It was written in collaboration (mainly by the Schlegel brothers, Novalis, and Schleiermacher), and aimed at rational criticism and Bildung. Such aesthetic projects are a model for the politician. This is because “sympoetry” and “symphilosophy”, as Schlegel and Novalis called such cooperative intellectual and aesthetic projects, should be an integral part of political life:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2249,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Perhaps a whole new epoch of science and art would be inaugurated were symphilosophy and sympoetry to become so common and deeply felt that there would be nothing odd were several people of mutually complementary natures to create works in communion with each other. (F. Schlegel, AF: #125)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2250,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The ideal political community must also be characterized by a specific kind of relation between the political body as a whole and its members: the state should be an organic or holistic whole, which means most broadly that the state as a whole must be prior to the parts (see Beiser 1992).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2251,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " First, the best state is prior to its parts since, as we saw, it is necessary for individual identity and self-realization.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2252,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Additionally, the romantic community as a whole is prior to the individual citizens (i.e., its parts), insofar as genuine social bonds and a well-functioning political entity cannot be “constructed” out of separate self-sufficient and self-interested individuals (as the modern social contract theory has it). To properly function and achieve the ethical aim of sociality, the links between the political members should be organic: the members should not be connected to one another by an externally imposed social contract, but by natural love, affection and attraction. Unsurprisingly, it is through poetry that the familial-like bonds, required for the ideal state, should be developed over and above the unit of the biological family. “Within the family, minds become organically one, and for this reason, the family is total poetry” (F. Schlegel, Ideas: #152).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2253,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " While the state as a whole should be prior to its parts in this sense, the law of such a state should not be imposed on its citizens from outside, but be self-determined. Individual autonomy should be supported by promoting the direct and active participation of all individuals in the political process. The organic unity of the state, then, implies reciprocity: the parts are dependent on and are posterior to the whole, while the whole, in respect of its essential self-determination, also depends on and is posterior to its parts.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2254,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The work of art provides, once again, the structural model for this political ideal by virtue of its organic unity, where “every whole can be a part and every part really a whole” (Schlegel, CF: #14). When genuine, art is characterized exactly by the kind of holistic, organic, but egalitarian and pluralistic unity that must characterize the ideal community:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2255,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Many works that are praised for the beauty of their coherence have less unity than a motley heap of ideas simply animated by the ghost of a spirit and aiming at a single purpose. What really holds the latter together is that free and equal fellowship in which, so the wise man assures us, the citizens of the perfect state will live at some future date; it’s that unqualifiedly social spirit…. (F. Schlegel, CF: #103)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2256,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " An organic state is called for also because the mechanistic structure of the modern state is responsible for the decline of religion. This structure caused, according to the romantics, a form of “enslavement” and a faith in materialism and instrumentalism, both of which prevent people from cultivating their spirituality and relation to the divine. Both in their early and late phases, the romantics believed that poetry was the best way for inspiring spirituality and religiosity. “Every artist is a mediator for all other men”, writes F. Schlegel (Ideas: #44), regarding this “mediator” as mediating between man and God. Schleiermacher confirms and develops this connection when suggesting that poets are:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2257,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " the true priests of the Highest…. They place the heavenly and eternal before them as an object of pleasure and unity, as the sole inexhaustible source of that toward which their poetry is directed. They strive…to ignite a love for the Highest…This is the higher priesthood that proclaims the inner meaning of all spiritual secrets and speaks from the kingdom of God. (Schleiermacher, On Religion [translation modified]).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2258,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " It is for these reasons that “at the time of the republic, the artists will not be a special class” (F. Schlegel, PF: #749). In such an ideal republic everyone must be an artist who, by means of the poetic spirit of love, is related to the other citizens as artists relate to one another.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2259,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Statements such as Blake’s claim, “Princes…and Houses of Commons &amp; Houses of Lords [are] something Else besides Human Life” (“Public Address” (1809) in PPWB) clearly display the revolutionary nature of the romantics. But the romantic transition from a more liberal framework to a more conservative one is explained primarily by their reaction to the terror of the French revolution. Though many of the romantics kept allegiance to the revolution until fairly late (1798), the acknowledgement of its failures and the dangers involved in any revolutionary act led them to modify, though not to renounce, their republican ideal. Even during this stage of their development, the romantics believed that the republic offered the best political structure. But, while still involving democratic elements, a proper republic, they argued should also involve aristocratic and monarchical elements because the educated should rule over the uneducated:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2260,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " A perfect republic would have to be not just democratic but aristocratic and monarchic at the same time: to legislate justly and freely, the educated would have to outweigh and guide the uneducated, and everything would have to be organized into an absolute whole. (F. Schlegel, AF: #214)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2261,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Rather than opposed to the original romantic ideal, this late view is a natural outgrowth of the earlier ideal since it does not only maintain the early republicanism, but also continues, through modification, the early romantic emphasis on Bildung as a necessary condition for a proper republic.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2262,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Since even during this later period, the romantic political ideal consisted of a republican, holistic community grounded in love, art and aesthetics still played significant ethical and political roles in the late romantic phase. Even later on in their careers, the romantics insisted that art and aesthetics were crucial models and resources for the pursuit of ethical and political ends.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2263,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " One of the romantics’ central aims was to (re)enchant nature in the face of what they regarded as a threat from modern science. The threat was embodied primarily in the worry that modern science alienated (rational and free) human beings from nature, which, through the lens of this new science, had been viewed as a domain of brute, determined, mechanical causality  (§5.1).  Aesthetics is capable of (re)enchanting nature insofar as it brings out a different conception of nature as organic rather than mechanic. On this organic conception, nature is (a) an organic whole, which is reciprocally interdependent on its parts; (b) a domain of teleological rather than merely mechanical causality; and (c) a dynamic and living force, which is self-organizing and self-generating  (§5.2).  “Science should become poetic” insofar as it should approach nature in the same way that criticism approaches romantic poetry. Like romantic poetry, nature should be viewed as an organic and spontaneous whole. Under this conception of nature, rational, autonomous human beings are not alienated from, but are rather part and parcel of, nature  (§5.3).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2264,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " We have fallen out with nature, and what was once (as we believe) One is now in conflict with itself, and mastery and servitude alternate on both sides. It often seems to us as if the world were everything and we nothing, but often too as if we were everything and the world nothing. (Hölderlin, Preface to Hyperion, HSA 3: 326).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2265,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Hölderlin expresses here a ubiquitous romantic sentiment. Not only has modernity divided man from himself by enforcing the duality between reason and sensibility and severed the individual from his natural social relations (section 4), but it also alienated man from nature. Modern science, “[a] vulture, whose wings are dull realities”, was regarded as the main culprit (Edgar Allen Poe, “Sonnet—To Science”).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2266,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Through the lens of modern science, nature was regarded as an inanimate, mechanistic domain of dead and meaningless matter that is composed of separate atoms and thoroughly determined by efficient causality. Modern science “dissected [nature] atomistically like a dead corpse” (Eichendorff, EW 5: 423). The romantics regarded this approach to nature as reductive as much as they regarded it as “dissecting”: it reduces nature to mere matter, devoid of the features that the romantics took to be essential to it, like holistic unity, self-organization and life. The growing sense of man’s alienation from his natural surrounding was seen as a product of this reduction of nature: human beings seemed alienated from nature exactly because the rational, soulful and sense-making character that is usually associated with them is opposed to a mechanistic and deterministic domain.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2267,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The troublesome consequences of this approach to nature are multiple. First, there is the psychological and existential crisis that is well encapsulated by Novalis’s claim, “Philosophy is actually homesickness—the urge to be everywhere at home” (General Draft: #45), and commemorated by landmark romantic works, such as Caspar David Friedrich’s “The Wanderer above the Mist” (1818).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2268,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " In the epistemological and metaphysical domains, varieties of skeptical doubts loom large behind the modern approach to nature. If modern science is right then the relation between nature and normativity is unclear. But if nature cannot provide rational norms, then how can we account for and justify our empirical claims to knowledge (human experience)? On the flipside of this epistemological worry is a metaphysical concern about the nature of the subject. For the subject, as the source of meaning, is seen as only that—a dematerialized source of meaning, devoid not only of a body, as Descartes emphasized, but, if Kant is right, of any substantiality at all (see Bernstein 2003).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2269,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Third among the consequences is the threat to any awe-inspiring stance towards the world. Not only can the divinity once attributed to nature no longer be found therein, but modern science was also seen as posing a challenge to any attempt at a secular alternative to religion. Seen as fully accessible to the calculative part of the human mind, nature becomes transparent and devoid of any mystery or human-transcending power. Are we left without a source of wonder, awe or reverence in our modern world?",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2270,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " According to the romantics, the way out of these worrisome consequences requires that we recognize that modern science is reductive not only in terms of its object—nature—but also in terms of its methodology: modern science employs merely what Wordsworth called the “independent intellect”. The romantics understood this as calculative reason when it is isolated from non-calculative reason, sensibility and imagination. Employed thusly, the independent intellect works as a “knife in hand” (Wordsworth, The Prelude (1805), book X, line 877).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2271,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This is crucial because, if the romantics are to retrieve the lost unity of nature itself and our lost unity with nature, they must propose a new scientific methodology, or, what comes to the same thing, a new approach to nature. The romantics aspired to reform and counterbalance the merely calculative, quantitative and mathematical use of reason that is characteristic of modern science, and open an era “When no more numbers and figures feature//As the keys to unlock every creature” (Novalis, Henry von Ofterdingen, NS 1:344). Human beings should strive to return to “the laws of things which lie/beyond the reach of human will or power;/The life of nature” (Wordsworth, “The Tables Turned”, 1798, LB) by adopting a more holistic approach that includes practical reason, sensibility, feeling, imagination, and above all the aesthetic capacity of the mind.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2272,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " It should be no surprise that this holistic approach to nature—the new romantic science—is, in essence, poetic. It is romantic poetry, which, as Athenaeum Fragments (AF) #116 announces, “fuses and mixes” opposing forces: reason, feeling, imagination, physics, poetry, philosophy, medicine and alchemy—when it comes to methodology—and matter, form, freedom and nature—when it comes to the object of study, nature:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2273,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Anyone who finds in infinite nature nothing but one whole, one complete poem, in every word, every syllable of which the harmony of the whole rings out and nothing destroys it, has won the highest prize of all. (Ritter, Fragmente 2: 205)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2274,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " While Kant’s discussions of nature, organisms and teleological judgment in the third Critique, and Schelling’s On the World Soul (1798) and First Outline of a System of Philosophy of Nature (1799) are the primary sources of inspiration for romantic science, the metaphysical starting point for the romantic view of nature is what Fredrick Beiser aptly dubbed “a strange wedding plan” between Fichte’s idealism and Spinoza’s realistic monism (2003:  131).[7]",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2275,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Why synthetize these seemingly opposed philosophical projects—a form of idealism with realism, indeterminism with determinism, and dualism with monism? Briefly, in Fichte, the romantics found a philosopher that took the Kantian insight about the absolute value of freedom a step further, and in Spinoza, one who recognized the genuine monistic structure of the universe, where the mental (in the form of reason and subjectivity, the seats of freedom) is the flipped side of the physical (in the form of matter and objectivity). If nature itself is both physical and mental, if it has a soul or reason and a body, then, it differs from human beings only in degree, not in kind. Natural phenomena and human beings are simply different manifestations of an encompassing nature, which is therefore nothing other than Spirit: “Nature should be visible spirit, and spirit should be invisible nature” (Schelling, Ideas for a Philosophy of Nature, SW 2: 56).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2276,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Thus, the marriage between the philosophical outlooks of Fichte and Spinoza promises to consummate the valuable nucleus of modernity (the Enlightenment’s emphasis on freedom and individual rational criticism), while rebutting the modern ills of division and alienation. It promises to allow human beings to “feel at home” in a meaningful, free and natural world. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2277,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " But this is only the metaphysical presupposition behind the romantic conception of nature. Their understanding of nature, not only as monistic but also as an organic whole that is self-forming and self-generating—in their terms, as a creative, living force—is inspired by what, according to them, Kant only started to point to, but failed fully to develop in the third Critique since he restricted it to a regulative and heuristic conception: namely, the conception of organic nature.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2278,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Thinking about nature as Spirit, different from the human merely in degree, already presupposes a holistic conception of nature, where the whole is prior to the parts. For, if all individuals are, in Spinoza’s words “modes” of nature, namely, merely different manifestations of the one and same whole, then these parts are necessarily dependent on the whole. But insofar as nature is also an (all encompassing) organism, then just as its parts are dependent on it (for their existence and intelligibility), so it depends on its parts for its existence as the organism that it is: independently of its parts, an organism could not sustain its particular organization, i.e., its life form. In an organism, the parts are the reciprocal cause and effect of one another and of the organism as a whole.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2279,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " But an organism is also self-organizing and self-forming. While the organization of artifacts is imposed on them from outside by their producers, the particular organization and so the life form of any organism is self-produced. Consequently, to view nature as an organism is to view it dynamically—not as a dead matter, but as self-forming and self-generating. Indeed, for the romantics, nature is one living force, whose different parts—not only self-conscious philosophers, creative artists, animals, plants, and minerals, but also kinds of matter—are different stages of its organization.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2280,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " From moss, in which the trace of organization is hardly visible, to the noble Form [Gestalt] which seems to have shed the chains of matter, the one and same drive within rules, a drive that strives to work according to one and the same ideal of purposiveness, strives to express ad infinitum one and the same archetype [Urbild], the pure form of our Spirit. (Schelling, “Review of the Newest in Philosophical Literature, 1796”)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2281,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Beauty in nature and art is a key for this organic and dynamic conception of nature for multiple reasons. First, the holistic and unifying character of poetry is suitable not only for the reformed scientific methodology that fuses together reason, imagination and feeling, but also for unraveling analogies and unities that are usually hidden from the bare eye, for example, the unity between kinds of matter and self-conscious human beings as different stages in the organization of the same life force.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2282,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Second, natural beauties and artworks inspire an interest in natural organization and life by their analogy with organisms, or as the romantics often put it, by being themselves organic in nature. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2283,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The transcendental poetry of the future could be called organic. When it is invented it will be seen that all true poets up to now made poetry organically without knowing it. (Novalis, Logological Fragments: I, #38). ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2284,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Artworks and natural beauties are analogous to organisms in various respects.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2285,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " To begin with, the analogy concerns their structure or unity. Both have holistic unities, where the parts and the whole are reciprocally interdependent. Artworks and natural beauties are so structured since (1) their beauty as a whole depends on the existence and the exact organization of their parts (for, if, say, any of the specific shapes, hues, or composition of a painting were to change, the painting as a whole may not be beautiful any longer), and (2) their parts are recognized as what they are (as beauty-making parts, or parts of a beautiful object) only in light of the whole (so that, for example, a mere shade of white may be beautiful only in light of the beauty of the painting to which it contributes as a whole, but not necessarily beautiful on its own, or when it figures in any other object). “In poetry”, then, just as in organisms, “every whole can be a part and every part really a whole” (F. Schlegel, CF: #14).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2286,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Kant claimed that the main difference between the holistic unity of organisms and the holistic unities of artworks and natural beauties is the difference between a causal or existential unity and what he called a formal unity. In organic life, the reciprocal interdependence between parts and wholes is causal and existential in the sense that it is life-sustaining. Kant thought that in aesthetics, the reciprocal interdependence is formal, rather than causal or existential, in the sense that it does not explain the existence of the objects at stake, but their beauty. While, for example, a painting might continue to exist as a painting even if some of its parts changed (say, if its composition, shapes, or hues changed), the beauty of this painting is unlikely to survive such a change. In this case, it is the beauty of the whole painting that depends on its parts, and it is the beauty of the parts, rather than their existence, that depends on the beauty of the whole: for were the painting as a whole not beautiful, its parts would not be recognized as what they are, namely, beauty-making parts. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2287,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The romantics seemed to diverge from Kant on that matter. For them, great poetry is materially and not merely formally organic:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2288,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The innate impulse of this work [Wilhelm Meister], so organized and organizing down to its finest detail to form a whole. No break is accidental or insignificant;…everything is at the same time both means and end. (F. Schlegel, WM: 273–74)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2289,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This means that the romantics took the work of art to be analogous to organisms in yet a stronger sense—not only in terms of its holistic unity, but also in terms of its life—its self-organization and self-judgment. Recall the sui generis character of artworks (discussed in  §3.2):  each work constitutes the norms according to which alone it could be properly judged. In romantic terms, every work has its own self-judgment. Seen as such, the artwork is not a mere artifact, but a quasi-organism in the sense that it organizes and regulates itself. And like other organic products of nature, the work too has, as it were, a life of its own, even though it is not self-organizing in the strict sense: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2290,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Just as a child is only a thing which wants to become a human being, so a poem is only a product of nature which wants to become a work of art. (F. Schlegel, CF: #21) ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2291,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " It is the holistic unity and life in the aesthetic domain that draws our attention to organisms and inspires us to seek the organic structure of nature as a whole.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2292,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Third, following Kant, the romantics believed that the beauty of nature reveals the purposiveness without a purpose of nature as a whole. It inspires and guides us in seeing nature as purposively organized—organized as if according to a specific purpose—even though we cannot attribute this purposive structure to any will, creator, or any end-governed activity:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2293,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " That which reminds us of nature and thus stimulates a feeling for the infinite abundance of life is beautiful. Nature is organic, and therefore, the highest beauty is forever vegetative; and the same is true for morality and love. (F. Schlegel, Ideas: #86)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2294,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " While this view is to be found in the third Critique, the romantics went a few steps further than Kant: first, they considered purposiveness, teleological structure and life real features of nature, rather than regulative principles for approaching nature. Second, they took these features to indicate that nature is different from self-conscious, creative human beings only in degree, but not in kind: like human beings, nature is end-governed. It is beauty, above all, that inspires this realization. As Novalis puts it, “Through beauty, nature transforms itself into a human being” (Heinrich von Ofterdingen, NS 1), the same being that governs itself by creatively and self-consciously setting ends. The more we properly attend to beauty and art the more capable we would be of seeing nature and humanity as different aspects of a single, unified phenomenon: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2295,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Actually criticism…that doctrine which in the study of nature directs our attention to ourselves…and in the study of ourselves directs it to the outside world, to outer observations and experiments—is…the most fruitful of all indications. It allows us to sense nature, or the outside world, like a human being. (Novalis, General Draft: #42).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2296,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Aesthetics is central for the romantic “scientific revolution” for yet another reason that concerns its capacity to “enchant” nature. “Enchanting” stands here for the process of rendering nature magical, or mysterious, and thus inspiring reverence and awe (see Stone 2005). While bringing out nature’s organic structure is decisive for rebutting modern alienation, enchantment is required primarily for challenging two other consequences of modern science: the threat of a detached and unresponsive treatment of nature and what the romantics regarded as a threat of secularization. Not only did modern science portray nature as a brute domain of mechanism, and thus devoid of any awe-inspiring power, but it also rendered it completely transparent to the human mind, and thus lacking in the kind of mystery and magic that may inspire awe in a secular world. Changing our attitude towards nature and inspiring awe for it requires that we recover a sense of mystery and magic in nature, and, indeed, in everything ordinary, in everything that we have come to take for granted. This process—of recovering a sense of mystery and magic in nature and the ordinary—is so central in romanticism that it takes on the movement’s name:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2297,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Romanticizing is nothing other than a qualitative raising into higher power…. By giving a higher meaning to the ordinary, a mysterious appearance to the ordinary, the dignity of the unacquainted to that of which we are acquainted, the mere appearance of infinity to finite, I romanticize them. (Novalis, Logological Fragments: #66)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2298,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Poetry is most suitable for the business of romanticizing by virtue of two of its main features: (a) its “defamiliarizing” power, and, (b) its “ironic” ability to point to the limits of our knowledge, and thus to what must remain mysterious—beyond our cognitive capacities.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2299,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " First, by virtue of its power to subtly describe even the most concrete of details and to bring to life even what, independently of it, attracts no attention, poetry has a special capacity for defamiliarization—a power that was first noticed by the romantics in their account of “romanticizing”, but dubbed “defamiliarization” only later, by 20th century literary theorists. By its non-ordinary use of language, attention to details and evoking power, poetry brings out in vivid colors what we are usually blind to, even if it is, literally, the closest and most familiar to us. Poetry has the power to make the most familiar new, refreshing, and thus, other than familiar—different and even mysterious.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

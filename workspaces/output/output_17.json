@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 1600,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Recall that the kinds of actualist-possibilist scenarios that we have been discussing—the cases of Professor Procrastinate and the case of Jones—are diachronic cases in the sense that they concern different acts that are performed across different moments of time, rather than at the same time. For example, in the case of Professor Procrastinate, one of the relevant counterfactuals is that if she were to ⟨agree to review the paper⟩ at \\(t_1\\), then she would ⟨not write the review⟩ at \\(t_2\\). The act in the antecedent and the act in the consequent are indexed to different times. On the surface, it may appear that a diachronic case would yield the same results as a synchronic case, i.e., a case that involves the performance of different acts at the same time. But as Goldman (1978) shows, a synchronic actualist-possibilist scenario yields new difficulties for actualism, including Goldman’s (1976)  (G*1),  and the way to address these difficulties is by incorporating a control condition over the truth-value of certain counterfactuals.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1601,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Consider Goldman’s (1978: 186) case, which we’ll call Traffic 1:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1602,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " According to Goldman, it seems that Jones should ⟨accelerate⟩ at t since Jones is going to ⟨change lanes⟩ at t, and ⟨accelerating &amp; changing lanes⟩ at t would result in a better outcome than that of ⟨not accelerating &amp; changing lanes⟩. But now consider this case:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1603,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In Traffic 2 Jones ⟨changes lanes and doesn’t accelerate⟩ at t. It seems that Jones should ⟨not change lanes⟩ at t since she is going to ⟨not accelerate⟩ at t. But it also seems that Jones should ⟨accelerate⟩ at t since she is going to ⟨change lanes⟩. We have arrived at the verdict that in Traffic 2 Jones should ⟨not change lanes⟩ and that Jones should ⟨accelerate⟩. This verdict is extremely counterintuitive since this would result in colliding with the back of the truck, which is the worst possible outcome. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1604,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " According to Goldman, the lesson to be gleamed from synchronic actualist-possibilist cases is this: In determining what we are obligated at t to do at t, we should not hold fixed facts about what we are freely doing at t. Moreover, such synchronic counterfactuals do not determine in any way what an agent is obligated to do at any time. Consequently, the kind of immediate act-set that is a candidate for being obligatory is the fully specific simultaneous act-set that is immediately available to Jones. A performable fully specific simultaneous act-set is one such that one cannot also perform any other act-set at the relevant time. Goldman (1978: 190) calls such act-sets maximal conjunctive acts, but this entry will stick with the terminology of a fully specific simultaneous act-set in order to avoid ambiguation with other notions of act-sets at issue in this paper. Let’s suppose that the (immediate) fully specific simultaneous act-sets available to Jones are ranked from best to worst as follows. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1605,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " According to Goldman, given options (1)–(4), Jones should obviously perform (1). Moreover, notice that if Jones were to perform (1), then the following synchronic counterfactual that is in fact true in Traffic 2 would be false instead: “if Jones were to ⟨not accelerate⟩ at t, then at t Jones would ⟨change lanes⟩”. So, given the intuition that Jones is obligated to perform (1) and that doing so would alter the truth-value of certain synchronic counterfactuals, we should not hold fixed the truth-value of such synchronic counterfactuals when theorizing about an agent’s obligation to perform some immediate fully specific simultaneous act-set. To accommodate this judgment, Goldman’s (1978) revised view incorporates a control condition over the truth-value of such synchronic counterfactuals.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1606,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Goldman’s revised view still adopts the insight behind  (G*1)  that, in order to avoid the possibility of jointly unfulfillable obligations, an obligatory act-set (or, as Goldman calls it, a sequence of acts) must be such that it would occur if the agent were to immediately perform the first act of the act-set, and the agent can perform this first act of the act-set. Goldman’s revised view (1978: 202) is referred to as “4”, but we will refer to it as (G+) here:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1607,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Unlike  (G*1) ,  Goldman’s revised view requires the first act to be a fully specific simultaneous act-set. Moreover, the kind of act-set that should be directly assessed is a maximal sequence. S has the ability at \\(t_1\\) to perform X only if S has the ability at \\(t_1\\) to immediately (at \\(t_1)\\) perform the first fully specific simultaneous act-set in \\(X.\\) Goldman’s (1978: 201) notion of a maximal sequence is different from the possibilist’s aforementioned notion of a maximal act-set which extends to the end of one’s life. For, according to Goldman (1978: 193–195), at t an agent can perform an act-set over time if and only if, if at t the agent wanted to perform this act-set, then the agent would do so over time. This implies that the performable act-set over time must be such that the agent can, at t, form an intention to perform this act-set over time that would be causally efficacious if the intention were formed. Goldman’s notion of a maximal sequence is thus more restricted. That is, a maximal sequence X is an act-set available to an agent at t is such that, at t, the agent can form an intention to perform X, and no other act-set that at t the agent can intend to perform is a proper part of X. So, henceforth, we will refer to Goldman’s notion of a maximal sequence as an intentionally maximal act-set, and this is to be distinguished from a maximal act-set.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1608,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Recall that, according to Ability 2, an agent S has the ability to immediately perform the first fully specific act-set in an intentionally maximal act-set if and only if S would perform this fully specific act-set if S wanted to do so, and by extension we may assume Jones can perform each of (1)–(4). Under this assumption,  (G+)  implies that although Jones would ⟨change lanes⟩ if she were to ⟨not accelerate⟩, Jones nevertheless ought to do something that requires her to ⟨not accelerate⟩, viz. ⟨not change lanes &amp; not accelerate⟩. To see how (G+) differs from the versions of actualism in  section 3,  consider the following version of Professor Procrastinate:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1609,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " According to  (G+)  Procrastinate is obligated at \\(t_1\\) to perform an intentionally maximal act-set M that includes ⟨accepting the request and commenting⟩ because there is an immediate fully specific act-set available to Procrastinate at \\(t_1\\) such that if it were performed then M would occur, and M is the best intentionally maximal act-set that is securable for Procrastinate at \\(t_1\\). By contrast, according to  (G*1)  Procrastinate is obligated at \\(t_1\\) to ⟨not accept the request⟩ because this would result in the performance of act-set M* that includes ⟨not commenting⟩ at \\(t_2\\), and M* is better than the act-set M** that would occur if Procrastinate were to ⟨accept the request⟩ at \\(t_1\\) because M** includes ⟨accepting &amp; not commenting⟩.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1610,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " One might suspect that a modified version of  (G*1)  that focuses exclusively upon decisions rather than overt bodily acts can handle synchronic actualist-possibilist cases, such as Professor Procrastinate*. But this isn’t so because it is possible for the following two counterfactuals to be true:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1611,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Even though (i) is true, the best thing that Procrastinate can do involves ⟨deciding to accept the request⟩, viz. ⟨deciding to accept the request &amp; commenting⟩ at \\(t_1\\). This shows that whether we assess an agent’s obligations in terms of decisions or overt bodily acts, the acts that are to be directly assessed are fully specific simultaneous act-sets, which is precisely what  (G+)  accomplishes.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1612,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Contextualist actualism and Goldman’s provisional but rejected principle  (G)  similarly imply that Jones is obligated at \\(t_1\\) to perform (1) rather than any of (2)–(4) since these views permit a candidate obligatory act to be fully specific. But these views do not require a candidate obligatory act to be fully specific, and thus these views also have the peculiar implication that in Traffic II Jones is obligated to ⟨accelerate⟩ and Jones is obligated to ⟨not change lanes⟩.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1613,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Thus far, we have seen that synchronic actualist-possibilist cases suggest that, first and foremost, an agent has an obligation to perform a fully specific immediate act rather than a less-than-fully-specific immediate act. As a result, synchronic counterfactuals do not even partly determine an agent’s obligation to perform some fully specific immediate act. This still leaves open a question about the ability that an agent must possess in order to be able to perform some immediate (fully specific) act in the relevant sense. Goldman’s (1978: 195, 204–205) Ability 2, for instance, is a version of the conditional analysis of abilities. The conditional analysis of abilities remains suspect by some on the grounds that an agent does not have direct control over their desires. Given this, one may infer that facts about what an agent would do if she had different desires is irrelevant to her abilities (Lehrer 1968; Curran 1995: 82). Nevertheless, since many participants in the actualist-possibilist debate take for granted that the ability to do otherwise is compatible with facts about what an agent will do or would do under certain circumstances, a number of people have followed Goldman (1978) by taking the relevant kind of control to be one that does not hold fixed all facts about the agent’s psychological makeup. See, for instance, the views of Doug Portmore (2011) and Jacob Ross (2012).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1614,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Portmore (2011) understands the relevant kind of control an agent must have over an option in terms of scrupulous securability. A set of acts (i.e., an act-set) is scrupulously securable by an agent only if there is some set of intentions and some set of permissible background attitudes (including beliefs and desires), such that if the agent had these intentions and attitudes, then the agent would perform that act-set (2011: 165). The sorts of attitudes Portmore (2011: 167) has in mind are judgment-sensitive attitudes, i.e., attitudes that are sensitive to judgments about reasons (Scanlon 1998: 20). ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1615,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " This form of control is similar to the conditional analysis insofar as the agent does not need to possess the relevant intentions and attitudes required to perform an act in order to have an ability to perform that act. It just has to be the case that if the agent were to have such intentions and attitudes, then the agent would perform the relevant act. Portmore’s (2011: 166–167) exact account of control is as follows:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1616,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " A set of acts, \\(α_j\\), is, as of \\(t_i\\), scrupulously securable by S if and only if there is a time, \\(t_j\\), that either immediately follows \\(t_i\\) or is identical to \\(t_i\\), a set of acts, \\(α_i\\), (where \\(α_i\\) may, or may not, be identical to \\(α_j\\)), and a set of background attitudes, B, such that the following are all true: (1) S would perform \\(α_j\\) if S were to have at \\(t_i\\) both B and the intention to perform \\(α_i\\); (2) S has at \\(t_i\\) the capacity to continue, or to come, to have at \\(t_j\\) both B and the intention to perform \\(α_i\\); and (3) S would continue, or come, to have at \\(t_j\\) B (and, where \\(α_i\\) is not identical to \\(α_j\\), the intention to perform \\(α_i\\) as well) if S both were at \\(t_i\\) aware of all the relevant reason-constituting facts and were at \\(t_j\\) to respond to these facts/reasons in all and only the ways that they prescribe, thereby coming to have at \\(t_j\\) all those attitudes that, given those facts, she has decisive reason to have and only those attitudes that she has, given those facts, sufficient reason to have.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1617,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Portmore (2011: 177) understands a set of acts \\(α_j\\) to be a maximal act-set in a similar vein to both a possibilist’s notion of a maximal act-set and Sobel’s notion of a life. The set of acts “\\(α_i\\)” is not identical to “\\(α_j\\)” when, e.g., one lacks the ability at \\(t_j\\) to form an intention to perform “\\(α_j\\)”, although the agent would in fact perform \\(α_j\\) if the agent were to form at \\(t_j\\) the intention to perform \\(α_i\\). For example, earning a PhD may be presently scrupulously securable for an agent, although she is presently unable to form an intention to do all of the things that are required to attain a PhD at least because she cannot presently intend to write about an idea in her dissertation that she has not yet studied (Portmore 2011: 169). So, whenever \\(α_j\\) and \\(α_i\\) are not identical, part (1) says that S would perform some act-set if S were to intend to perform some other act-set (along with certain background attitudes).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1618,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Part (2) of the above definition states that an agent must have a capacity (or an ability) to have certain attitudes and intentions. This allows one to sidestep the difficulties that have been posed for the conditional analysis of abilities (cf. Portmore 2011: 168). Part (3) states that the agent’s attitudes must be permissible. To illustrate, suppose that the only way in which Doug can ensure at 2 pm that he will eat a healthy meal rather than pizza at 6 pm is by having the irrational belief that his life depends upon eating a healthy meal at 6 pm. Since it seems that he is not obligated to have such a belief, it follows that, at 2 pm, Doug is not obligated to eat a healthy meal at 6 pm since there is no combination of intentions and permissible attitudes (as opposed to impermissible attitudes) that Doug can have at 2 pm, such that if he were to have them at 2 pm then he would eat a healthy meal at 6 pm (Portmore 2011: 164–165).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1619,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Portmore (2011: 222) pairs this notion of control with the following account of rational permissibility that applies to moral permissibility when there are moral reasons to act:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1620,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Securitism employs a top-down approach by using normative principles to directly assess the deontic status of maximal act-sets and then extending the same deontic status to non-maximal act-sets that are contained in the relevant maximal act-set (Portmore 2011: 179). This approach reaps the benefits of Goldman’s  (G+)  of avoiding jointly unfulfillable obligations and of denying that any synchronic counterfactuals even partly determine an agent’s obligations.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1621,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Portmore’s securitism—and by extension other views that hold fixed facts that are not presently up to the agent in some sense—has been criticized on the grounds that it does not generate an obligation to do the best one can in the sense at issue in Ability 1, and thus securitism sometimes requires agents to perform terrible and vicious acts, and it allows one to avoid incurring an obligation in light of vicious or immoral dispositions (Timmerman 2015; Vessel 2016).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1622,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Ross (2012: 84) similarly maintains that an agent can immediately perform an act that requires some attitude that the agent does not in fact have, although Portmore’s and Ross’s views diverge in certain cases. Here is Ross’s view (2012: 91):",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1623,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In essence, MWSS is the view that “at any given time, an agent is obligated, at every future time, to be currently satisfying a wide-scope version” of Smith’s  (G+)  or Portmore’s securitism (Ross 2012: 91). Ross believes that only MWSS can account for each of the four conditions of his core idea (2012: 89, 91).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1624,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " To see how these views diverge, consider the following case which is similar to a case described by Ross (2012: 87–88): at \\(t_1\\) Sally has the ability to immediately form an intention to ⟨not kill anyone five years later at \\(t_5\\)⟩, although ⟨killing no one at \\(t_5\\)⟩ is not scrupulously securable for Sally at \\(t_1\\). On the other hand, killing exactly one person or killing exactly two persons at \\(t_5\\) are both scrupulously securable for Sally at \\(t_1\\). According to Portmore’s securitism, one of the objectively morally permissible maximal set of acts that is scrupulously securable by Sally at \\(t_1\\) involves killing one person at \\(t_5\\). However, at \\(t_5\\), not killing anyone is scrupulously securable for Sally, and thus at \\(t_5\\) Sally is obligated to not kill anyone at \\(t_5\\). These stipulations in Ross’s case are derived from the fact that at \\(t_1\\) Sally has an impeccable moral character that will be corrupted through no fault of her own (by being kidnapped by Satanists). But her moral character is not corrupted to such an extent that she is unable at \\(t_5\\) to refrain from killing anyone. To emphasize, at \\(t_1\\) the best efficacious intention that Sally can form involves killing one person at \\(t_5\\) whereas at \\(t_5\\) the best efficacious intention that Sally can form involves killing no one at \\(t_5\\). Portmore’s securitism thus prescribes an act at some future time, but then does not prescribe that act once that time is present.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1625,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Ross (2012: 87–89) wishes to avoid this implication.  MWSS  does not imply that at \\(t_1\\) Sally is obligated to kill exactly one person at \\(t_5\\) because whether Sally kills exactly one person at \\(t_5\\) causally depends upon her intentions at \\(t_1\\). So, Sally satisfies the following conditional by not satisfying the first part of the antecedent: (if whether Sally refrains from killing exactly one person at \\(t_5\\) does not causally depend on the intentions she will have after \\(t_1\\), and if all her maximally preferable, directly securable options involve killing exactly one person at \\(t_5\\), then she kills exactly one person at \\(t_5)\\). Instead, MWSS implies that at \\(t_1\\) (and at \\(t_5)\\) Sally is obligated not to kill anyone because she satisfies the following conditional only by satisfying its consequent: (if whether Sally kills no one at \\(t_5\\) does not causally depend on the intentions she will have after \\(t_5\\), and if all her maximally preferable, directly securable options involve not killing anyone at \\(t_5\\), then she kills no one at \\(t_5)\\).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1626,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " A proponent of securitism may reply that there’s simply nothing Sally can do at \\(t_1\\) that allows her to secure not killing anyone at \\(t_5\\), and thus having an obligation at \\(t_1\\) not to kill anyone at \\(t_5\\) concedes too much to possibilism. For, one of the core intuitions driving securitist views is that we should treat our non-securable futures in the same way we treat the futures of other agents; we should hold such futures fixed when determining our present moral obligations. This thought has led to an expansive discussion of the way in which actualist-possibilist scenarios raise fundamental questions about agency and how we are to conceive of our present selves in relation to our future selves (Louise 2009; Baker 2012).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1627,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The discussion up until this point has centered around making sense of the general notion that an agent ought to do the (non-supererogatory) best that she is able to do. But some theories hold that an agent’s moral life is more complex than this because an agent’s ability to do less than the (non-supererogatory) best is also obligatory is some non-primary sense. This approach is motivated in part by the thought that some wrong actions are better than others. Michael McKinsey (1979: 391–392) develops this approach, defending a view with multiple levels of obligation. His view may be formulated as follows:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1628,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Levels of Obligation (LO): \\(\\phi_{x,t}\\) is a life sequence from t for x. Every \\(\\phi_{x,t}\\) has a rank \\(n (n \\ge 1)\\) relative to every other life-sequence from t for x, where n is a positive integer. If \\(\\phi_{x,t}\\) is among the optimum life sequences from t for x, then the rank of \\(\\phi_{x,t} = 1\\); if \\(\\phi_{x,t}\\) is among the second best such sequences, then the rank of \\(\\phi_{x,t} = 2\\); and so on. x ought\\(_n\\) at t to do \\(A_i\\) iff:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1629,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " While McKinsey’s formulation of (LO) is rather complicated, the basic idea is quite simple. According to (LO), an agent S’s primary obligation is identical to the obligation that possibilists believe S has. Additionally, for every maximal act-set M (or a life) that, at t, S can perform, if M is not identical to the best maximal act-set that, at t, S can perform, but is better than the maximal act-set that S will in fact perform, then at t S has a moral obligation to perform M. To illustrate, consider this case:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1630,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " (LO)  implies that there are three levels of obligations that Ben fails to fulfill: his primary obligation to refrain from pressing any button, his secondary obligation to press the first button, and his tertiary obligation to press the second button. If Ben were to instead press the second button, then Ben would have failed to fulfill only two obligations, viz. the primary obligation to refrain from pressing a button, and the secondary obligation to press the first button. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1631,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " McKinsey’s  (LO)  is, in one sense, in agreement with possibilism because an agent’s primary obligation is identical to a possibilist obligation. Moreover, even though (LO) can generate jointly unfulfillable obligations, (LO) agrees with Jackson and Pargetter’s contextualist actualism that if, in the terminology of (LO), an agent fulfills her primary obligation, then it’s not the case that the agent violates any non-primary obligations because the agent simply does not have any non-primary obligations. For example, if Ben refrains from pressing any button, then according to (LO) it’s not the case that Ben had a secondary obligation to press the first button, and thus no non-primary obligations are violated. McKinsey’s (LO) is, in a sense, also in agreement with (non-contextualist) versions of actualism. For example, Procrastinate’s obligation according to non-contextualist versions of actualism is to ⟨decline to review the paper &amp; not review the paper⟩, and, according to McKinsey, this is Procrastinate’s secondary obligation because this act-sequence is the second best maximal act-sequence (or a part of the second best maximal act-sequence) that Procrastinate can perform over time. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1632,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Goldman (1978: 205–208) holds that there are exactly two orders of obligations, one primary and one secondary, and that it is better to fulfill one’s secondary obligation rather than to violate both obligations. Primary obligations are governed by Goldman’s  (G+),  and secondary obligations are governed by principles such as Goldman’s (1976)  (G*1)  which, as we have seen in  section 4,  does not take into account an agent’s moral character that determines the truth-value of certain synchronic counterfactuals. For example, in the case of Professor Procrastinate*, Procrastinate’s primary obligation is to ⟨agree to review the paper &amp; review the paper⟩ because there is an immediately performable, fully specific simultaneous act-set such that, if performed, would result in ⟨agreeing &amp; reviewing the paper⟩. By contrast, Procrastinate’s secondary obligation is to ⟨decline to review the paper &amp; not review the paper⟩ because Procrastinate’s moral character is such that if Procrastinate were to ⟨agree to review⟩ at \\(t_1\\), then Procrastinate would harm the student by falsely promising to review at \\(t_2\\). Procrastinate’s moral character is taken into account by her secondary obligation, but not her primary obligation. As Goldman (1986: 205) notes, it is sometimes useful to reason in a way that holds fixed our actual moral character, and positing secondary obligations allows us to reason in this way. Zimmerman (1986: 70) also subscribes to non-primary obligations and motivates this position in part on the basis of considerations about detachment and conditional obligations.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1633,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The issues raised by the actualist/possibilist debate are relevant for a number of other debates in philosophy as well. As has already been discussed, whether actualism, possibilism, or some intermediary view is correct has direct import for various principles in deontic logic, the correct formulation of act-consequentialism, and for analogous questions in the philosophy of action. The actualism/possibilism debate, however, is perhaps most closely connected to the maximalism/omnism debate. These debates are deeply interrelated. While both concern questions about the scope of the agent’s options, the maximalism/omnism debate focuses on certain questions about how to assess these options. Maximalists and omnists disagree about whether all options should be assessed in terms of their own goodness, or whether some options should be assessed in relation to the goodness of other options. Maximalists and omnists disagree about which facts ground the reasons to perform the relevant options and, as will be illustrated shortly, are concerned with a wider range of cases than those in the actualism/possibilism debate.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1634,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The maximalism/omnism debate concerns cases where the performance of one option entails (or implies) the performance of another. Cases such as Professor Procrastinate are but one example. Procrastinate’s ⟨accepting the invitation and writing the review⟩ entails ⟨accepting the invitation⟩. Not all examples share Procrastinate’s structure, however. Many examples concern different ways of performing the same option in different (e.g., more or less precise, better or worse) ways. For instance, ⟨drinking a Coke⟩ entails ⟨drinking a soda⟩, ⟨visiting Uppsala⟩ entails ⟨visiting Sweden⟩, and ⟨kicking someone very hard⟩ entails ⟨kicking someone⟩.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1635,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Now, the central question in the debate concerns how the moral properties of an option O are related to the moral properties of the options entailed by performing O. This abstract question can be made clearer by considering an example. Suppose that I have good reason to ⟨drink a soda⟩ and good reason to ⟨drink a Coke⟩. Those in the maximalism/omnism debate are interested in whether the reason I have for performing one these options grounds the reason I have for performing the other. Is it the case that I have reason to ⟨drink a soda⟩ in virtue of my having reason to ⟨drink a Coke⟩ or vice versa? Or is there no grounding relation between my reason(s) to perform these options?",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1636,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Omnists hold that all options should be directly assessed in terms of their own goodness. Omnism may be defined more precisely as follows.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1637,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In this debate, a maximal option is simply understood as one that is not entailed by any other option, aside from itself (Brown 2018: 752). More precisely, a maximal option may be understood as “an option that is maximally normatively specific in the sense that it is entailed only by normatively equivalent options”, where two options are normatively equivalent if and only if they are equivalent in terms of all of the normatively relevant considerations (Portmore 2017a: 428, 2017b: 2955). Any option that is not a maximal option will be a non-maximal option.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1638,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " To illustrate, suppose that hedonistic act-utilitarianism is true. To keep things simple, suppose that the maximal options available to an agent S are ⟨drink a Coke⟩, ⟨drink nothing while smiling⟩, ⟨drink nothing while frowning⟩, and ⟨drink a Pepsi⟩. Suppose furthermore that ⟨drinking a Coke⟩ would generate 5 hedons, ⟨drinking nothing while smiling⟩ would generate 1 hedon, ⟨drinking nothing while frowning⟩ would generate 0 hedons, and ⟨drinking a Pepsi⟩ would generate 10 dolors (or −10 hedons). The non-maximal options available to S include ⟨drinking a soda⟩ and ⟨drinking nothing⟩. Finally, suppose that the following counterfactuals are true.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1639,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " According to omnism, whether it is permissible for S to ⟨drink a soda⟩ depends on whether ⟨drinking a soda⟩ would result in maximizing hedonic utility. Given the truth of (1), it wouldn’t, so omnism entails that ⟨drinking a soda⟩ is wrong. Likewise, according to omnism, whether it is permissible for S to ⟨drink a Coke⟩ depends on whether S’s ⟨drinking a Coke⟩ would result in maximizing hedonic utility. It does, so omnism entails that ⟨drinking a Coke⟩ is permissible (and obligatory).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1640,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Unlike omnists, maximalists hold that only maximal options should be assessed in terms of their own goodness. They believe that all non-maximal options should only be assessed in terms of the goodness of the relevant maximal options of which they are a part. Maximalism may be defined more precisely as follows.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1641,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Assuming hedonistic act-utilitarianism once again, according to maximalism, the deontic status of the maximal options depends on the outcome of performing each option. According to maximalism, then, ⟨drinking a Coke⟩ would be obligatory and every other maximal option would be impermissible. So, with respect to maximal options, maximalism and omnism generate the same deontic verdicts. But now consider what maximalists say about non-maximal options. This is the point of contention between maximalists and omnists. By contrast with the omnist’s ascription of wrongness to ⟨drinking a soda⟩, the maximalist holds that ⟨drinking a soda⟩ is obligatory. This is because the obligatory maximal option is ⟨drink a Coke⟩ and S cannot perform the maximal option of ⟨drinking a Coke⟩ without performing the non-maximal option of ⟨drinking a soda⟩. The non-maximal act ⟨drink nothing⟩, on the other hand, is entailed by an impermissible act, namely ⟨drink nothing while smiling⟩. So, maximalism entails that ⟨drinking nothing⟩ is impermissible.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1642,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Interestingly, omnism has typically been assumed in the literature. It may have only operated as an unquestioned background assumption until the groundbreaking work of Bergström (1966) and Castañeda (1968). Goldman (1978) and Bykvist (2002) defend distinct variants of maximalism. Since then, there have been a few arguments against maximalism (cf. Gustafsson 2014). Omnism seems to be considered the default position, though new arguments against omnism and in favor of maximalism have started to appear in the literature recently (Portmore 2017a,b, forthcoming; Brown 2018). Much of the debate revolves around theProblem of Act Versions. Following Brown (2018: 754) and Portmore (forthcoming: ch. 4), this problem may be explained by considering the following three jointly inconsistent principles.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1643,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Each of these principles seems quite plausible when considered in isolation. Principle (1) simply holds that an agent ought to perform the best option available to her. Assuming hedonistic act-utilitarianism, the best option(s) will be whichever one(s) maximize(s) hedonic utility. Principle (2) holds that if an agent is obligated to perform \\(\\langle A \\rangle\\) and her performing \\(\\langle A \\rangle\\) entails her performing \\(\\langle B \\rangle\\), then she is obligated to perform \\(\\langle B \\rangle\\). So, if an agent is obligated to ⟨drink a Coke⟩ and ⟨drinking a Coke⟩ entails ⟨drinking a soda⟩, then that agent is obligated to ⟨drink a soda⟩. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1644,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Principle (3) holds that there are cases where an agent S’s obligatory option (e.g., a maximal option) entails another option (e.g., a non-maximal option) that, if performed, would not result in S performing the obligatory maximal option. Performing the best option of ⟨drinking a Coke⟩ entails that S ⟨drink a soda⟩. But what would in fact happen if S were to ⟨drink a soda⟩ is that S would ⟨drink a Pepsi⟩ and ⟨drinking a Pepsi⟩ is not S’s best option. That is, in fact, the worst option.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1645,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Maximalists have objected to omnism on the grounds that it, in conjunction with (2) and (3), entails a contradiction (Portmore forthcoming: ch. 4). Given omnism, S is obligated to ⟨drink a Coke⟩ because performing that act is S’s best option. S’s ⟨drinking a Coke⟩ entails S’s ⟨drinking a soda⟩. So, given (2), S is also obligated to ⟨drink a soda⟩. However, recall that this case illustrates principle (3). If S were to ⟨drink a soda⟩, S would ⟨drink a Pepsi⟩. Given this, ⟨drinking a soda⟩ would not result in S performing her best option. So, omnism also entails that it is impermissible for S to ⟨drink a soda⟩. Hence the contradiction. Omnism combined with (2) and (3) entail both that S is obligated to ⟨drink a soda⟩ and that it’s impermissible for S to ⟨drink a soda⟩. To avoid this contradiction, omnists must give up (2) or (3). Omnists such as Jackson and Pargetter have given up (2).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1646,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Maximalists reject omnism, which allows them to consistently accept (2) and (3), principles thought to have strong independent motivation. Maximalists, then, give up (1) to avoid the contradiction. According to the maximalist, sometimes agents are obligated to perform non-maximal options (e.g., ⟨drink a soda⟩) that are not their best option in virtue of the fact that they are obligated to perform their best maximal option (e.g., ⟨drink a Coke⟩) and performing their best maximal option entails performing a suboptimal non-maximal option. In short, the maximalist responds to the Problem of Act Versions by giving up (1), while omnists respond by giving up (2). As may already be clear, some motivations for, and against, omnism parallel those of actualism, while some motivations for, and against, maximalism parallel those of securitism and possibilism. Whichever considerations settle one of these debates will likely settle (or at least significantly bear on) the other.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1647,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The actualism/possibilism (and the maximalism/omnism) debate in ethics grew out of a debate concerning the problem that identifying act alternatives poses for act-consequentialism. The debate, in its present form, may be traced back to the work of Holly Goldman’s and Jordan Howard Sobel’s independent articulations, and defenses of, actualism. Early forms of actualism held that whether an agent is obligated to perform an act roughly depends on whether what would happen if the agent performed that act is better than what would happen if the agent were to perform any alternative act at the time in question. Contrast this with possibilism, which holds that whether an agent is obligated to perform an act depends on whether that act is part of the best maximal act-set the agent could (not would) perform over the course of her life. These are the “extreme” versions of actualism and possibilism respectively. To handle cases concerning synchronic acts, and to avoid having her view prescribe incompatible obligations, Goldman amended actualism by building a control condition into the definition in her (1978) essay. This revised actualism,  (G+),  along with Sobel’s  (S),  only holds fixed the acts of an agent that are not presently under the agent’s control. This change proved influential and inspired various versions of this view, which came to be collectively referred to as securitism. Securitist views occupy a middle ground between “extreme” forms of actualism and possibilism. A variety of other views do too, including McKinsey’s (1979) levels-of-obligation view and Carlson’s (1995, 1999) view. There is not yet a consensus about which view, if any, is the most plausible. Of course, this should not be surprising since the actualism/possibilism (and the maximalism/omnism) debate is, relatively speaking, still quite new.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1648,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " action |  choice, dynamic |  consequentialism |  consequentialism: rule |  logic: deontic ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1649,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " We wish to thank Andrew Forcehimes, Doug Portmore, and Holly Smith for very helpful input on earlier versions on this entry. Work on this entry was sponsored by a University Research Council grant from Seton Hall University and a grant from the National Endowment for the Humanities. This work is the product of full and equal collaboration between its authors. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1650,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Copyright © 2019 by   Travis Timmerman &lt;travis.timmerman@shu.edu&gt; Yishai Cohen &lt;yishai.cohen@maine.edu&gt;     ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1651,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "View this site from another server:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1652,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1653,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1654,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "“Adaptationism” refers to a family of views about the importance of natural selection in the evolution of organisms, in the construction of evolutionary explanations, and in defining the goal of research on evolution.  Advocates of adaptationism or “adaptationists” view natural selection among individuals within a population as the only important cause of the evolution of a trait; they also typically believe that the construction of explanations based solely on natural selection to be the most fruitful way of making progress in evolutionary biology and that this endeavor addresses the most important goal of evolutionary biology, which is to understand the evolution of adaptations. An important alternative approach, “pluralism”, invokes historical contingency and developmental and genetic constraints, in addition to natural selection, as important causes of the evolution of a trait. Advocates of pluralism, or “pluralists” often also argue that the attempt to construct a natural-selective explanation of a trait is not the most fruitful way to make explanatory progress and that understanding adaptation is just one of several important questions in evolutionary biology. The “debate” over adaptationism is commonly understood to be the back-and-forth between adaptationists and pluralists.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1655,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "  Biologists and philosophers have recently made three important contributions that have led to better understanding of this debate. First, they have delineated the differences among various “flavors” of adaptationism; this has helped clarify the biological and philosophical stakes of the debate. Second, they have clarified standards of evidence for and against adaptationist claims; this provides a clearer understanding of how to structure an empirical test of a claim about natural selection and what implications the results of the test have in regard to adaptationism. This clarification has the potential, not yet fully realized, to improve both the practice of science and the philosophical understanding of this practice. Third, there is improved understanding of the potential role of non-selective influences on trait evolution.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1656,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The debate over adaptationism is often traced back to a 1979 paper by Stephen Gould and Richard Lewontin, called “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme,” or simply the “Spandrels” paper. This paper is important but, in fact, this debate traces back to the nineteenth century, with elements of adaptationism or pluralism as currently understood being present in the work of Henry Bates, William Bateson, Charles Darwin, Ernst Haeckel, Herbert Spencer, Alfred Wallace, and August Weissman, among others (see Mayr 1982 and Ruse 2003 for some of the historical background).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1657,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   In the early twentieth century, views that we now call adaptationism and pluralism were enunciated by biologists. Among them were two of the then (and now) most influential evolutionary biologists: Ronald Fisher and Sewall Wright. The central idea of Fisher's important 1930 book “The Genetical Theory of Natural Selection” is that natural selection is the only important influence on trait evolution. This is the central text of adaptationism; indeed, it has an honored place in the minds of most evolutionary biologists, no matter what their position on adaptationism (compare Grafen 2003 and Kimura 1983). Issued again in 1958 in a revised edition and in 1999 in a variorum edition, this book has garnered over 8,400 journal citations; over 7,600 have occurred since 1975 (Web of Science, June 2010).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1658,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Sewall Wright's pluralist view of evolution was presented in several places, with his 1931 paper “Evolution in Mendelian Populations” and the 1977 book “Evolution and the Genetics of Populations, Volume 3 Experimental Results and Evolutionary Deductions” being the best known. The paper has received over 3,400 citations; over 3,000 have occurred since 1975, while the book has received over 800 citations since 1977 (Web of Science, June 2010).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1659,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   These works by Fisher and Wright are canonical contributions to the field of evolutionary biology. They were based partially on prior claims and counterclaims about the influence of natural selection and of non-selective forces on trait evolution, especially in species such as land snails that have easily distinguishable trait variation (see Millstein 2007a). In turn, these works stimulated continuing claims and counterclaims. The mid-1970s explosion of citations reflects the fact that the number of biologists studying ecology and evolution increased markedly as compared to the early 1960s and that evolutionary biology gained separate departmental status at many universities; these changes were in part caused by the increased societal awareness and concern at that time about pollution and the impact of humans on the environment. There were two central but mainly disjunct scientific developments that energized the proliferation and refinement of adaptationist and of pluralist views during this period. The first was the extensive development of “strategic” claims in evolutionary ecology, which in the case of a given trait, say, the allocation of energy to male and to female offspring (e.g., Hamilton 1967; see also Charnov 1982), provides an explanation as to why the observed trait is locally optimal. Such a claim invokes only natural selection as an important causal explanation of the trait. The second development was the neutral theory in population genetics, which posits that natural selection plays little or no role in determining DNA and protein sequence variation in natural populations (e.g., Kimura 1968, 1983). The former development generated little initial controversy, while the latter development immediately generated lasting controversy (see Dietrich 1994).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1660,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   It is this combination of social, institutional, and scientific developments that formed the background to Gould and Lewontin's 1979 paper, which can be best understood as an important but not singular event in a long-standing debate in evolutionary biology. It is neither the beginning of the debate over adaptationism nor something much narrower, e.g., little more than “the attempted intellectual lynching” of sociobiology, cf., Queller (1995); see also Pigliucci and Kaplan (2000). Such claims are at best historically incorrect.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1661,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Recent work in the philosophy of biology (Orzack and Sober 1994a, Sober 1996, Amundson 1988, 1990, Godfrey-Smith 2001) has helped uncover three “flavors” of adaptationism; these reflect differences in beliefs among current professional developers and users of evolutionary arguments. They represent commitments about the state of nature, about the way to do science, and about what is important to study.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1662,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The first flavor, “empirical” adaptationism, is the view that natural selection is ubiquitous, free from constraints, and provides a sufficient explanation for the evolution of most traits, which are “locally” optimal, that is, the observed trait is superior to any alternative that does not require “redefining” the organism (Orzack and Sober 1994a). This is a claim about the realized influence of natural selection on the evolution of traits as compared to other evolutionary influences.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1663,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The second flavor, “explanatory” adaptationism, is the view that explaining traits as adaptations resulting from natural selection is the central goal of evolutionary biology. This is a claim about the greater importance of some kinds of explanations. Opinions differ as to whether this is a scientific claim or an aesthetic claim (see below).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1664,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The third flavor, “methodological” adaptationism, is the view that looking first for adaptation via natural selection is the most efficient approach when trying to understand the evolution of any given trait. This could be true even if adaptations are rare (although a substantial majority of biologists believe that adaptations are common). The belief that adaptations are common is quite different from the claim that only natural selection need be invoked in order to explain these adaptations.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1665,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The flavors of adaptationism are logically independent. The truth of one claim does not necessarily imply the truth of the other claims. For example, it could be true that most traits are adaptations that can be explained by invoking no more than natural selection (the first flavor) but still be false that it is most fruitful to look first for adaptation (the third flavor). In fact, realized intellectual stances are more circumscribed in that most adaptationists are advocates of empirical, explanatory, and methodological adaptationism (e.g., Charnov 1982, Dawkins 1976, Maynard Smith 1978). In addition, there are many biologists who are advocates of explanatory and methodological adaptationism, but who explicitly reject empirical adaptationism (e.g., Mayr 1983). On the other hand, some biologists reject all three flavors of adaptationism (e.g., Carroll 2005, Wagner et al. 2000, West-Eberhard 2003). There are many instances of competing adaptationist and pluralist explanations of the same biology. For example, Cain and Sheppard (1954) and Lamotte (1959) famously present competing explanations of morphological traits in land snails; Ackermann and Cheverud (2004) test adaptationist and pluralist explanations of the diversification of morphological evolution of humans and their ancestors; Millstein (2007b) illustrates the differences between adaptationism and pluralism by presenting the same biology (of a heat-shock protein) from both perspectives.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1666,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Distinguishing among the flavors of adaptationism was an important advance in our biological and philosophical understanding. These flavors of adaptationism differ in their practical implications for evolutionary biology. We now discuss each in detail.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1667,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Godfrey-Smith (2001, page 336) defined empirical adaptationism as follows: “Natural selection is a powerful and ubiquitous force, and there are few constraints on the biological variation that fuels it. To a large degree, it is possible to predict and explain the outcome of evolutionary processes by attending only to the role played by selection. No other evolutionary factor has this degree of causal importance.”",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1668,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   This definition captures two important beliefs of adaptationists. The first is that natural selection governs all important aspects of trait evolution and that other evolutionary influences will be of little consequence at least over the long term. The second is that the order in nature is a consequence of natural selection. Parker and Maynard Smith (1990) is an important example of this approach.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1669,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Empirical adaptationism is typically regarded as descriptive of the evolution of directly observable traits such as leg length (e.g., Vella 2008). A dizzying variety of traits has been analyzed from the perspective of empirical adaptationism; many specific examples can be found in Hardy (2002), Stephens et al. (2007), and Westneat and Fox (2010). Many proponents of empirical adaptationism concede that important aspects of the evolution of DNA and protein sequences are little influenced by natural selection.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1670,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The important methodological implication of empirical adaptationism stems from the causal power that it assigns to natural selection: an apparent discrepancy between data and the predictions of an optimality model should be resolved by rejection of that model and development of a new model. This is justified by an appeal to our “always” imperfect knowledge of nature (e.g. see Cain 1989). This contrasts with the pluralist perspective: such a discrepancy might well provide evidence against natural selection.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1671,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Many views counter to empirical adaptationism have been enunciated. Some dispense with natural selection entirely (or nearly so), such as in the study of molecular evolution, where there are neutral evolutionary explanations for many features of the genome (e.g., Lynch 2007b). Some retain natural selection within populations as an important evolutionary force but endorse the importance of other forces (e.g., Crespi 2000, Goodwin 2001, Carroll 2005), while others go further and invoke natural selection among populations or species along with natural selection within populations (Gould 2002, Jablonski 2008).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1672,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Godfrey-Smith (2001, page 336) defined explanatory adaptationism in this way: “The apparent design of organisms, and the relations of adaptedness between organisms and their environments, are the big questions, the amazing facts in biology. Explaining these phenomena is the core intellectual mission of evolutionary theory. Natural selection is the key to solving these problems; selection is the big answer. Because it answers the biggest questions, selection has unique explanatory importance among evolutionary factors.”",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1673,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Explanatory adaptationism is viewed by its proponents (e.g., Dawkins 1976, Dennett 1995, and Griffiths 2009) as important because it organizes research to understand how natural selection underlies the world around us. To this extent, it can be viewed as an untestable aesthetic claim, instead of as a scientific claim. At minimum, it is a claim as to the proper goal of science as a manifestation of human reason and enlightenment. Amundson (1988, 1990) claims that explanatory adaptationism is a stance about the natural world and the products of scientific inquiry, instead of being a view about biology or how best to do science. However, explanatory adaptationism may have normative implications for evolutionary biologists, if adopting it is necessary in order to construct sensible explanations in developmental biology and physiology (Griffiths 2009). Viewed as an aesthetic claim, explanatory adaptationism has no practical implications for science, but it does have implications for the public debate about the relevance of biology to our image of humanity. In particular, Dennett and Dawkins argue that this perspective counters the natural theological argument from design and vindicates a secular humanist perspective.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1674,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Biologists not advocating explanatory adaptationism view the central mission of evolutionary biology differently. For example, many systematists believe that describing the history of life is the central mission of evolutionary biology; in doing so, one might be agnostic about the evolutionary forces influencing this history (see Hull 1988 and Felsenstein 2004 for further details).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1675,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Godfrey-Smith (2001, page 337) defined methodological adaptationism in this way: “The best way for scientists to approach biological systems is to look for features of adaptation and good design. Adaptation is a good ‘organizing concept’ for evolutionary research.”",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1676,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   This is a claim about the efficiency of tools. No matter how incorrect it may ultimately be to invoke natural selection as a sufficient explanation for a trait, it is the most direct way possible to find the true causal explanation of a trait. Methodological adaptationism differs markedly from empirical adaptationism in that the former acknowledges the possibility that natural selection may ultimately prove not to have the most influence on a given trait's evolution. In addition, a methodological adaptationist can accept that an apparent discrepancy between data and the predictions of a model of natural selection may be resolved by concluding that the trait is little influenced by natural selection, instead of by concluding that the model is incorrect.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1677,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   One potential argument against methodological adaptationism is that a mixture of distinct approaches is superior at advancing knowledge as compared to a single approach (Kitcher 1993). Allowing for a division of cognitive labor could be a good thing; perhaps evolutionary biology benefits from an array of methodological strategies with differing degrees of risk. This contrasts with the view that multiple approaches with conflicting assumptions are a hindrance.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1678,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Views counter to methodological adaptationism range from strong views that deny that adaptation is a good guiding concept to weaker views that privilege different explanations. For example, Gould and Lewontin's (1979) argument for considering constraint-based “Bauplan” explanations before or along side selective explanations is an example of methodological anti-adaptationism.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1679,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   An important part of the adaptationism debate concerns the testing of adaptive and non-adaptive hypotheses. The belief that scientific practice in evolutionary biology does not adhere to the proper standards of evidence motivates many of the critiques of adaptationism. This concern has been taken seriously by some evolutionary biologists; for example, Rose and Lauder (1996) claimed that a central task of contemporary evolutionary biology is to articulate a “post-Spandrels adaptationism,” a task that involves improving testing methods by including comparative and molecular data, conducting careful long-term studies in both the laboratory and the wild, and incorporating a more comprehensive understanding of development and constraint.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1680,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   We now discuss testing of adaptationism itself and the associated implications for testing evolutionary hypotheses generally, and the sort of epistemic difficulties that must be overcome. We highlight how the debate has led to increased understanding of the importance of phylogenetic methods, of the viability of optimality models as tools for testing adaptive hypotheses, and of whether constraint hypotheses are rivals to adaptive hypotheses or provide the backdrop against which we test hypotheses about the evolutionary process.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1681,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Orzack and Sober (1994a, 1994b, 1996, 2001) (see also Orzack 2008) proposed an approach for testing empirical adaptationism. In their view, the truth of empirical adaptationism is a possible outcome of testing of optimality models, as opposed to being something that is decided a priori.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1682,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Their proposal, the “Adaptationism Project”, involves assembling specific kinds of analyses of traits in order to assess the relative frequency and importance of natural selection across the biological realm. In order to contribute to the ensemble test, an analysis must include an assessment of the quantitative fit of the optimality model and of the within-population heterogeneity of fit to the predictions (see below and Orzack and Sober 1994a for why these assessments are required). At present, there are very few trait analyses that contain these elements; after an extensive literature review, Orzack and Sober identified only Brockmann and Dawkins (1979), Brockmann et al. (1979), Orzack and Parker (1990), and Orzack et al. (1991) as analyses that contain the required assessments.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1683,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Of course, to conduct an ensemble test, important methodological difficulties must be confronted, including how to choose populations and species to analyze, and how many cases are necessary to provide an adequate test. The name “Adaptationism Project” is an acknowledgement of a parallel to the “Human Genome Project”; both are carried out by a consortium of investigators and require advance organization of the process by which knowledge is gathered (instead of just occurring willy-nilly). This is an ambitious project but one that is achievable, cf., the “Genome 10K” project, which is also an effort to create an unprecedented data ensemble (Genome 10K 2009).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1684,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Ensemble tests have a long precedent in biology and evolutionary biology, although none appear to have been prospectively organized. For example, we have the ensemble conclusion that “almost all” speciation occurs via geographical isolation (Mayr 1963) or that the genetic code is “nearly” universal (Crick 1968). Either or both of these claims could be true but the present empirical knowledge that generated either one is not even remotely close to being based on a sample of organisms that could be taken to be representative of all species.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1685,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Empirical adaptationism is both a claim about the relative frequency of natural selection across evolutionary histories and about the power of natural selection to overcome constraints and contingency. Orzack and Sober's (1994a,b) ensemble test of the truth of empirical adaptationism is structured in the following way for any given trait, T. In order to contribute to the ensemble test, the analysis of the trait must allow the investigator to confirm one of the following hypotheses about the power of natural selection:",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1686,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "(U) Natural selection played some role in the evolution of T. (U denotes ubiquitous since this proposition applies to most traits.)",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1687,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "  (I) Natural selection was an important cause of the evolution of T. (I denotes important.)",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1688,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "  (O) Natural selection is a sufficient explanation of the evolution of T, and T is locally  optimal. (O denotes optimal.)",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1689,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Orzack and Sober claimed that empirical adaptationism is a generalization of (O), namely that natural selection is a sufficient explanation for most (nonmolecular) traits and those traits are locally optimal.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1690,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Orzack and Sober provided a specific protocol to assess whether O is true for a particular trait. It involves comparing the predictive accuracy of a “censored” evolutionary model, one that invokes only natural selection, and an alternative “uncensored” model that invokes additional evolutionary influences such as genetic drift (random trait change caused by population number being finite), or constraints caused by the way the trait is determined genetically or developmentally. If the censored model is quantitatively accurate and there is no within-population heterogeneity of fit to predictions and the uncensored model fails in either regard, then one can infer that natural selection is a sufficient explanation for trait T. Optimality models embody proposition (O) in that natural selection is assumed to be the only important influence on the focal trait's evolution; the result is assumed to be the evolution of a trait that maximizes individual fitness. Of course, an optimality model, like any evolutionary model, must include background assumptions and constraints that anchor the “local” analysis of the focal trait. However, given these assumptions, natural selection is assumed to act without constraint on the trait.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1691,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   There is some controversy over the protocol for testing whether natural selection is a sufficient explanation of a trait. Brandon and Rausher (1996) objected that local optimality is a distinct claim and so tests for the importance of natural selection should not use optimality models, whose use they equate to “theft”, which they believe means that such models are generically incompatible with universal aspects of the biology of organisms. They also take issue with how the predictive accuracy of censored and uncensored models should be assessed. Godfrey-Smith (2001) makes the observation that the censored and uncensored test models typically have different complexity. More complex models usually fit the data better, but risk obscuring the underlying trend or comprising predictive accuracy—there may be a problem of over-fitting lurking here (see, e.g., Gauch 2003 for an overview of the curve-fitting problem).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1692,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Extending this framework to molecular traits, where completely neutral evolution is a plausible explanation, requires expanding the set of hypotheses about natural selection. It now should include:",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1693,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "  Some argue that N is rarely, if ever, true (e.g., Gillespie 1991), whereas others argue otherwise (e.g., Kimura 1983, Lynch 2007a). An ensemble test involving molecular traits would help resolve this controversy. In addition, the notion of optimality at the molecular level must be made precise. A molecular trait needs to have an identified phenotypic consequence. The endeavor to identify such a consequence will likely always involve a combination of very detailed molecular, biochemical, and phenotypic analyses. However, despite the difficulty of the needed analyses, there are claims as to the optimality of various molecular traits. A canonical example is the claim that triosephosphate isomerase, an enzyme involved in glycolysis in animals, fungi, plants, and some bacteria, is catalytically “perfect” (Albery and Knowles 1976); this is a claim that hypothesis O is true. For molecular traits, the assessment of the influence of natural selection, i.e., distinguishing between hypothesis N and hypotheses U and I, is facilitated by the degeneracy of the genetic code and the existence of non-coding regions in the genome. We expect heterogeneity of the realized influence of natural selection among sites in the genome, and differences in evolutionary rates between sites where a DNA base change alters the protein sequence and those sites that it does not (see examples in Graur and Li 2000, Kreitman and Akashi 1995, Nielsen 2005, and Yang 2006).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1694,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The debate over adaptationism contains claims and counterclaims about what hypotheses should be included in an analysis of the adaptiveness of a trait. This is crucial because assessments of evidentiary support depend on what hypotheses we consider (see Sober 1990, Earman 1992). We must consider all the relevant hypotheses in order to provide good evidence for a hypothesis (Stanford 2006, Forber 2010). One common pluralist complaint is that adaptationists neglect this standard of evidence. Such an inclusive standard is essential because many different evolutionary trajectories can lead to the same outcome. As Gould and Lewontin (1979) wrote, “One must not confuse the fact that a structure is used in some way…with the primary evolutionary reason for its existence and conformation”. In addition, subtle differences in evolutionary history may lead to different evolutionary outcomes (Beatty and Desjardins 2009). Thus, we cannot conclude that natural selection played an important role in the evolution of some trait just because we have a plausible adaptive hypothesis in mind. Indeed, finding suitable evidence for an adaptive (or non-adaptive) hypothesis is difficult because we lack good epistemic access to evolutionary history. This lack of access is a premise of Gould and Lewontin's critique, and it motivates their call to evaluate testing methods in evolutionary biology, especially those methods that consider only adaptive hypotheses with no regard for non-adaptive rivals. Biologists have continued to develop new testing methods that do this (see, e.g., Rose and Lauder 1996, Hansen et al. 2008).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1695,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   This aspect of the adaptationism debate is connected with a general epistemological issue in philosophy of science: underdetermination of theory by evidence. Evolutionary hypotheses are typically underdetermined by available evidence. In principle, rival hypotheses make different commitments about the nature of evolutionary history, but in practice these hypotheses are empirically indistinguishable given the available evidence. Philosophers argue about the consequences of this underdetermination for our understanding of biological science (Turner 2005, Stanford 2006). Yet, there is agreement that the problem of underdetermination should be addressed by developing and using tests that discriminate between rival hypotheses.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1696,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Evidentiary relations depend on what hypotheses we compare, and so good testing methods should include all rival hypotheses. If we fail to include a relevant rival, say, one that emphasizes developmental constraint, then we may not have found sufficient evidence for the adaptive hypothesis. Failing to contrast adaptive and non-adaptive explanations weakens any adaptationist analysis (Forber 2009).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1697,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   Evolutionary hypotheses make a variety of commitments about development, ecology, genetics, and history. As a result, an adaptive hypothesis makes contact with evolutionary history only in conjunction with a number of auxiliary hypotheses. The most convincing case for an adaptive hypothesis will include a variety of evidence, especially independent data that confirm the different facets of an evolutionary hypothesis (Lloyd 1988). Sober's (2008) analysis of a testing protocol for evolutionary hypotheses makes clear the role of auxiliary hypotheses and assesses the evidentiary import of different observed outcomes. He provides an analysis of whether and how fit between an optimality model and the observed population mean favors natural selection over genetic drift.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1698,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The adaptationism debate has helped clarify the importance of comparative methods for testing adaptive hypotheses.",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1699,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adaptationism/",
+        "text": "   The relatedness among species due to common ancestry can reduce the amount of seemingly independent evidence one has for or against any evolutionary hypothesis. Species with a recent common ancestor may have inherited the same trait from the ancestor, as opposed to evolving it independently of one another. Comparative methods help one assess the extent to which a set of related species provide independent evidence for or against a given evolutionary hypothesis (Harvey and Pagel 1991). The general awareness of the need to use such methods stems primarily from the initially narrower debate that took place within systematics in the 1960s and 1970s over how to create classifications of organisms that are “scientific” and as such, are transparent recipes that are accessible to others, instead of being “private” and non-scientific. This debate generated tremendous controversy (Hull 1988) and it spurred on the development of methods to statistically correct for dependence among species' trait values when assessing an adaptive hypothesis (Felsenstein 1985, Harvey and Pagel 1991). In addition, it became more widely understood that a claim that one trait evolved in response to another is enormously strengthened by phylogenetic confirmation; the history of trait acquisition must be consistent with the hypothesis (see Maddison 1990 and references therein).",
+        "category": "adaptationism"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

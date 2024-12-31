@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 1800,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  The social-psychological level in Adorno's diagnosis serves to demonstrate the effectiveness and pervasiveness of late capitalist exploitation. His American studies of anti-Semitism and the “authoritarian personality” argue that these pathologically extend “the logic of late capitalism itself, with its associated dialectic of enlightenment.” People who embrace anti-Semitism and fascism tend to project their fear of abstract domination onto the supposed mediators of capitalism, while rejecting as elitist “all claims to a qualitative difference transcending exchange” (Jarvis 1998, 63).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1801,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Adorno's cultural studies show that a similar logic prevails in television, film, and the recording industries. In fact, Adorno first discovered late capitalism's structural change through his work with sociologist Paul Lazarsfeld on the Princeton University Radio Research Project. He articulated this discovery in a widely anthologized essay “On the Fetish-Character in Music and the Regression of Listening” (1938) and in “The Culture Industry,” a chapter in Dialectic of Enlightenment.  There Adorno argues that the culture industry involves a change in the commodity character of art, such that art's commodity character is deliberately acknowledged and art “abjures its autonomy” (DE 127). With its emphasis on marketability, the culture industry dispenses entirely with the “purposelessness” that was central to art's autonomy. Once marketability becomes a total demand, the internal economic structure of cultural commodities shifts. Instead of promising freedom from societally dictated uses, and thereby having a genuine use value that people can enjoy, products mediated by the culture industry have their use value replaced by exchange value: “Everything has value only in so far as it can be exchanged, not in so far as it is something in itself. For consumers the use value of art, its essence, is a fetish, and the fetish—the social valuation [gesellschaftliche Schätzung] which they mistake for the merit [Rang] of works of art— becomes its only use value, the only quality they enjoy” (DE 128). Hence the culture industry dissolves the “genuine commodity character” that artworks once possessed when exchange value still presupposed use value (DE 129–30). Lacking a background in Marxist theory, and desiring to secure legitimacy for “mass art” or “popular culture,” too many of Adorno's anglophone critics simply ignore the main point to his critique of the culture industry. His main point is that culture-industrial hypercommercialization evidences a fateful shift in the structure of all commodities and therefore in the structure of capitalism itself.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1802,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Philosophical and sociological studies of the arts and literature make up more than half of Adorno's collected works (Gesammelte Schriften). All of his most important social-theoretical claims show up in these studies. Yet his “aesthetic writings” are not simply “applications” or “test cases” for theses developed in “nonaesthetic” texts. Adorno rejects any such separation of subject matter from methodology and all neat divisions of philosophy into specialized subdisciplines. This is one reason why academic specialists find his texts so challenging, not only musicologists and literary critics but also epistemologists and aestheticians.  All of his writings contribute to a comprehensive and interdisciplinary social philosophy (Zuidervaart 2007).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1803,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  First published the year after Adorno died, Aesthetic Theory marks the unfinished culmination of his remarkably rich body of aesthetic reflections. It casts retrospective light on the entire corpus. It also comes closest to the model of “paratactical presentation” (Hullot-Kentor in AT xi-xxi) that Adorno, inspired especially by Walter Benjamin, found most appropriate for his own “atonal philosophy.” Relentlessly tracing concentric circles, Aesthetic Theory carries out a dialectical double reconstruction. It reconstructs the modern art movement from the perspective of philosophical aesthetics. It simultaneously reconstructs philosophical aesthetics, especially that of Kant and Hegel, from the perspective of modern art. From both sides Adorno tries to elicit the sociohistorical significance of the art and philosophy discussed.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1804,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Adorno's claims about art in general stem from his reconstruction of the modern art movement. So a summary of his philosophy of art sometimes needs to signal this by putting “modern” in parentheses. The book begins and ends with reflections on the social character of (modern) art. Two themes stand out in these reflections. One is an updated Hegelian question whether art can survive in a late capitalist world. The other is an updated Marxian question whether art can contribute to the transformation of this world. When addressing both questions, Adorno retains from Kant the notion that art proper (“fine art” or “beautiful art”—schöne Kunst—in Kant's vocabulary) is characterized by formal autonomy. But Adorno combines this Kantian emphasis on form with Hegel's emphasis on intellectual import (geistiger Gehalt) and Marx's emphasis on art's embeddedness in society as a whole. The result is a complex account of the simultaneous necessity and illusoriness of the artwork's autonomy. The artwork's necessary and illusory autonomy, in turn, is the key to (modern) art's social character, namely, to be “the social antithesis of society” (AT 8).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1805,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Adorno regards authentic works of (modern) art as social monads. The unavoidable tensions within them express unavoidable conflicts within the larger sociohistorical process from which they arise and to which they belong. These tensions enter the artwork through the artist's struggle with sociohistorically laden materials, and they call forth conflicting interpretations, many of which misread either the work-internal tensions or their connection to conflicts in society as a whole. Adorno sees all of these tensions and conflicts as “contradictions” to be worked through and eventually to be resolved. Their complete resolution, however, would require a transformation in society as a whole, which, given his social theory, does not seem imminent.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1806,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  As commentary and criticism, Adorno's aesthetic writings are unparalleled in the subtlety and sophistication with which they trace work-internal tensions and relate them to unavoidable sociohistorical conflicts. One gets frequent glimpses of this in Aesthetic Theory. For the most part, however, the book proceeds at the level of “third reflections”—reflections on categories employed in actual commentary and criticism, with a view to their suitability for what artworks express and to their societal implications. Typically he elaborates these categories as polarities or dialectical pairs.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1807,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  One such polarity, and a central one in Adorno's theory of artworks as social monads, occurs between the categories of import (Gehalt) and function (Funktion). Adorno's account of these categories distinguishes his sociology of art from both hermeneutical and empirical approaches. A hermeneutical approach would emphasize the artwork's inherent meaning or its cultural significance and downplay the artwork's political or economic functions. An empirical approach would investigate causal connections between the artwork and various social factors without asking hermeneutical questions about its meaning or significance. Adorno, by contrast, argues that, both as categories and as phenomena, import and function need to be understood in terms of each other. On the one hand, an artwork's import and its functions in society can be diametrically opposed. On the other hand, one cannot give a proper account of an artwork's social functions if one does not raise import-related questions about their significance. So too, an artwork's import embodies the work's social functions and has potential relevance for various social contexts. In general, however, and in line with his critiques of positivism and instrumentalized reason, Adorno gives priority to import, understood as societally mediated and socially significant meaning. The social functions emphasized in his own commentaries and criticisms are primarily intellectual functions rather than straightforwardly political or economic functions. This is consistent with a hyperbolic version of the claim that (modern) art is society's social antithesis: “Insofar as a social function can be predicated for artworks, it is their functionlessness” (AT 227).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1808,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  The priority of import also informs Adorno's stance on art and politics, which derives from debates with Lukács, Benjamin, and Bertolt Brecht in the 1930s (Lunn 1982; Zuidervaart 1991, 28–43). Because of the shift in capitalism's structure, and because of Adorno's own complex emphasis on (modern) art's autonomy, he doubts both the effectiveness and the legitimacy of tendentious, agitative, or deliberately consciousness-raising art. Yet he does see politically engaged art as a partial corrective to the bankrupt aestheticism of much mainstream art.  Under the conditions of late capitalism, the best art, and politically the most effective, so thoroughly works out its own internal contradictions that the hidden contradictions in society can no longer be ignored. The plays of Samuel Beckett, to whom Adorno had intended to dedicate Aesthetic Theory, are emblematic in that regard.  Adorno finds them more true than many other artworks.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1809,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Arguably, the idea of “truth content” (Wahrheitsgehalt) is the pivotal center around which all the concentric circles of Adorno's aesthetics turn (Zuidervaart 1991; Wellmer 1991, 1–35 ; Jarvis 1998, 90–123). To gain access to this center, one must temporarily suspend standard theories about the nature of truth (whether as correspondence, coherence, or pragmatic success) and allow for artistic truth to be dialectical, disclosive, and nonpropositional. According to Adorno, each artwork has its own import (Gehalt) by virtue of an internal dialectic between content (Inhalt) and form (Form). This import invites critical judgments about its truth or falsity. To do justice to the artwork and its import, such critical judgments need to grasp both the artwork's complex internal dynamics and the dynamics of the sociohistorical totality to which the artwork belongs. The artwork has an internal truth content to the extent that the artwork's import can be found internally and externally either true or false. Such truth content is not a metaphysical idea or essence hovering outside the artwork. But neither is it a merely human construct. It is historical but not arbitrary; nonpropositional, yet calling for propositional claims to be made about it; utopian in its reach, yet firmly tied to specific societal conditions. Truth content is the way in which an artwork simultaneously challenges the way things are and suggests how things could be better, but leaves things practically unchanged: “Art has truth as the semblance of the illusionless” (AT 132).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1810,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Adorno's idea of artistic truth content presupposes the epistemological and metaphysical claims he works out most thoroughly in Negative Dialectics. These claims, in turn, consolidate and extend the historiographic and social-theoretical arguments already canvassed. As Simon Jarvis demonstrates, Negative Dialectics tries to formulate a “philosophical materialism” that is historical and critical but not dogmatic. Alternatively, one can describe the book as a “metacritique” of idealist philosophy, especially of the philosophy of Kant and Hegel (Jarvis 1998, 148–74; O'Connor 2004). Adorno says the book aims to complete what he considered his lifelong task as a philosopher: “to use the strength of the [epistemic] subject to break through the deception [Trug] of constitutive subjectivity” (ND xx).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1811,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  This occurs in four stages. First, a long Introduction (ND 1–57) works out a concept of “philosophical experience” that both challenges Kant's distinction between “phenomena” and “noumena” and rejects Hegel's construction of “absolute spirit.” Then Part One (ND 59–131) distinguishes Adorno's project from the “fundamental ontology” in Heidegger's Being and Time. Part Two (ND 133–207) works out Adorno's alternative with respect to the categories he reconfigures from German idealism. Part Three (ND 209–408), composing nearly half the book, elaborates philosophical “models.” These present negative dialectics in action upon key concepts of moral philosophy (“freedom”), philosophy of history (“world spirit” and “natural history”), and metaphysics. Adorno says the final model, devoted to metaphysical questions, “tries by critical self reflection to give the Copernican revolution an axial turn” (ND xx). Alluding to Kant's self-proclaimed “second Copernican revolution,” this description echoes Adorno's comment about breaking through the deception of constitutive subjectivity.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1812,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Like Hegel, Adorno criticizes Kant's distinction between phenomena and noumena by arguing that the transcendental conditions of experience can be neither so pure nor so separate from each other as Kant seems to claim. As concepts, for example, the a priori categories of the faculty of understanding (Verstand) would be unintelligible if they were not already about something that is nonconceptual.  Conversely, the supposedly pure forms of space and time cannot simply be nonconceptual intuitions. Not even a transcendental philosopher would have access to them apart from concepts about them. So too, what makes possible any genuine experience cannot simply be the “application” of a priori concepts to a priori intuitions via the “schematism” of the imagination (Einbildungskraft). Genuine experience is made possible by that which exceeds the grasp of thought and sensibility. Adorno does not call this excess the “thing in itself,” however, for that would assume the Kantian framework he criticizes. Rather, he calls it “the nonidentical” (das Nichtidentische).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1813,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  The concept of the nonidentical, in turn, marks the difference between Adorno's materialism and Hegel's idealism. Although he shares Hegel's emphasis on a speculative identity between thought and being, between subject and object, and between reason and reality, Adorno denies that this identity has been achieved in a positive fashion. For the most part this identity has occurred negatively instead. That is to say, human thought, in achieving identity and unity, has imposed these upon objects, suppressing or ignoring their differences and diversity. Such imposition is driven by a societal formation whose exchange principle demands the equivalence (exchange value) of what is inherently nonequivalent (use value). Whereas Hegel's speculative identity amounts to an identity between identity and nonidentity, Adorno's amounts to a nonidentity between identity and nonidentity. That is why Adorno calls for a “negative dialectic” and why he rejects the affirmative character of Hegel's dialectic (ND 143–61).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1814,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Adorno does not reject the necessity of conceptual identification, however, nor does his philosophy claim to have direct access to the nonidentical. Under current societal conditions, thought can only have access to the nonidentical via conceptual criticisms of false identifications. Such criticisms must be “determinate negations,” pointing up specific contradictions between what thought claims and what it actually delivers. Through determinate negation, those aspects of the object which thought misidentifies receive an indirect, conceptual articulation.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1815,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  The motivation for Adorno's negative dialectic is not simply conceptual, however, nor are its intellectual resources. His epistemology is “materialist” in both regards. It is motivated, he says, by undeniable human suffering—a fact of unreason, if you will, to counter Kant's “fact of reason.” Suffering is the corporeal imprint of society and the object upon human consciousness: “The need to let suffering speak is a condition of all truth. For suffering is objectivity that weighs upon the subject … ” (ND 17–18). The resources available to philosophy in this regard include the “expressive” or “mimetic” dimensions of language, which conflict with “ordinary” (i.e., societally sanctioned) syntax and semantics. In philosophy, this requires an emphasis on “presentation” (Darstellung) in which logical stringency and expressive flexibility interact (ND 18–19, 52–53). Another resource lies in unscripted relationships among established concepts. By taking such concepts out of their established patterns and rearranging them in “constellations” around a specific subject matter, philosophy can unlock some of the historical dynamic hidden within objects whose identity exceeds the classifications imposed upon them (ND 52–53, 162–66).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1816,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  What unifies all of these desiderata, and what most clearly distinguishes Adorno's materialist epistemology from “idealism,” whether Kantian or Hegelian, is his insisting on the “priority of the object” (Vorrang des Objekts, ND 183–97). Adorno regards as “idealist” any philosophy that affirms an identity between subject and object and thereby assigns constitutive priority to the epistemic subject. In insisting on the priority of the object, Adorno repeatedly makes three claims: first, that the epistemic subject is itself objectively constituted by the society to which it belongs and without which the subject could not exist; second, that no object can be fully known according to the rules and procedures of identitarian thinking; third, that the goal of thought itself, even when thought forgets its goal under societally induced pressures to impose identity on objects, is to honor them in their nonidentity, in their difference from what a restricted rationality declares them to be. Against empiricism, however, he argues that no object is simply “given” either, both because it can be an object only in relation to a subject and because objects are historical and have the potential to change.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1817,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Under current conditions the only way for philosophy to give priority to the object is dialectically, Adorno argues. He describes dialectics as the attempt to recognize the nonidentity between thought and the object while carrying out the project of conceptual identification. Dialectics is “the consistent consciousness of nonidentity,” and contradiction, its central category, is “the nonidentical under the aspect of identity.” Thought itself forces this emphasis on contradiction upon us, he says. To think is to identify, and thought can achieve truth only by identifying. So the semblance (Schein) of total identity lives within thought itself, mingled with thought's truth (Wahrheit). The only way to break through the semblance of total identity is immanently, using the concept. Accordingly, everything that is qualitatively different and that resists conceptualization will show up as a contradiction. “The contradiction is the nonidentical under the aspect of [conceptual] identity; the primacy of the principle of contradiction in dialectics tests the heterogeneous according to unitary thought [Einheitsdenken]. By colliding with its own boundary [Grenze], unitary thought surpasses itself. Dialectics is the consistent consciousness of nonidentity” (ND 5).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1818,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  But thinking in contradictions is also forced upon philosophy by society itself. Society is riven with fundamental antagonisms, which, in accordance with the exchange principle, get covered up by identitarian thought. The only way to expose these antagonisms, and thereby to point toward their possible resolution, is to think against thought—in other words, to think in contradictions. In this way “contradiction” cannot be ascribed neatly to either thought or reality.  Instead it is a “category of reflection” (Reflexionskategorie) , enabling a thoughtful confrontation between concept (Begriff) and subject matter or object (Sache): “To proceed dialectically means to think in contradictions, for the sake of the contradiction already experienced in the object [Sache], and against that contradiction. A contradiction in reality, [dialectics] is a contradiction against reality” (ND 144–45).",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1819,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  The point of thinking in contradictions is not simply negative, however. It has a fragile, transformative horizon, namely, a society that would no longer be riven with fundamental antagonisms, thinking that would be rid of the compulsion to dominate through conceptual identification, and the flourishing of particular objects in their particularity. Because Adorno is convinced that contemporary society has the resources to alleviate the suffering it nevertheless perpetuates, his negative dialectics has a utopian reach: “In view of the concrete possibility of utopia, dialectics is the ontology of the false condition. A right condition would be freed from dialectics, no more system than contradiction” (ND 11). Such a “right condition” would be one of reconciliation between humans and nature, including the nature within human beings, and among human beings themselves. This idea of reconciliation sustains Adorno's reflections on ethics and metaphysics.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1820,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Like Adorno's epistemology, his moral philosophy derives from a materialistic metacritique of German idealism. The model on “Freedom” in Negative Dialectics (ND 211–99) conducts a metacritique of Kant's critique of practical reason. So too, the model on “World Spirit and Natural History” (ND 300–60) provides a metacritique of Hegel's philosophy of history. Both models simultaneously carry out a subterranean debate with the Marxist tradition, and this debate guides Adorno's appropriation of both Kantian and Hegelian “practical philosophy.”",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1821,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  The first section in the Introduction to Negative Dialectics indicates the direction Adorno's appropriation will take (ND 3–4). There he asks whether and how philosophy is still possible. Adorno asks this against the backdrop of Karl Marx's Theses on Feuerbach, which famously proclaimed that philosophy's task is not simply to interpret the world but to change it. In distinguishing his historical materialism from the sensory materialism of Ludwig Feuerbach, Marx portrays human beings as fundamentally productive and political organisms whose interrelations are not merely interpersonal but societal and historical. Marx's emphasis on production, politics, society, and history takes his epistemology in a “pragmatic” direction. “Truth” does not indicate the abstract correspondence between thought and reality, between proposition and fact, he says. Instead, “truth” refers to the economic, political, societal, and historical fruitfulness of thought in practice.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1822,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Although Adorno shares many of Marx's anthropological intuitions, he thinks that a twentieth-century equation of truth with practical fruitfulness had disastrous effects on both sides of the iron curtain. The Introduction to Negative Dialectics begins by making two claims. First, although apparently obsolete, philosophy remains necessary because capitalism has not been overthrown. Second, Marx's interpretation of capitalist society was inadequate and his critique is outmoded. Hence, praxis no longer serves as an adequate basis for challenging (philosophical) theory. In fact, praxis serves mostly as a pretext for shutting down the theoretical critique that transformative praxis would require. Having missed the moment of its realization (via the proletarian revolution, according to early Marx), philosophy today must criticize itself: its societal naivete, its intellectual antiquation, its inability to grasp the power at work in industrial late capitalism. While still pretending to grasp the whole, philosophy fails to recognize how thoroughly it depends upon society as a whole, all the way into philosophy's “immanent truth” (ND 4). Philosophy must shed such naivete. It must ask, as Kant asked about metaphysics after Hume's critique of rationalism, How is philosophy still possible? More specifically, How, after the collapse of Hegelian thought, is philosophy still possible? How can the dialectical effort to conceptualize the nonconceptual—which Marx also pursued—how can this philosophy be continued?",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1823,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  This self-implicating critique of the relation between theory and practice is one crucial source to Adorno's reflections on ethics and metaphysics. Another is the catastrophic impact of twentieth-century history on the prospects for imagining and achieving a more humane world. Adorno's is an ethics and metaphysics “after Auschwitz” (Bernstein 2001, 371–414; Zuidervaart 2007, 48–76). Ethically, he says, Hitler's barbarism imposes a “new categorical imperative” on human beings in their condition of unfreedom: so to arrange their thought and action that “Auschwitz would not repeat itself, [that] nothing similar would happen” (ND 365). Metaphysically, philosophers must find historically appropriate ways to speak about meaning and truth and suffering that neither deny nor affirm the existence of a world transcendent to the one we know. Whereas denying it would suppress the suffering that calls out for fundamental change, straightforwardly affirming the existence of utopia would cut off the critique of contemporary society and the struggle to change it. The basis for Adorno's double strategy is not a hidden ontology, as some have suggested, but rather a “speculative” or “metaphysical” experience. Adorno appeals to the experience that thought which “does not decapitate itself” flows into the idea of a world where “not only extant suffering would be abolished but also suffering that is irrevocably past would be revoked” (403). Neither logical positivist antimetaphysics nor Heideggerian hypermetaphysics can do justice to this experience.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1824,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Adorno indicates his own alternative to both traditional metaphysics and more recent antimetaphysics in passages that juxtapose resolute self-criticism and impassioned hope. His historiographic, social theoretical, aesthetic, and negative dialectical concerns meet in passages such as this:",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1825,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "Addressing such passages is crucial in the ongoing assessment of Adorno's philosophy.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1826,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  Section 1 lists many of Adorno's books in English, including several he co-authored, in the order of their abbreviations. Section 2 lists some anthologies of Adorno's writings in English. Books listed in section 1 without abbreviations were originally published in English; all others were originally published in German. A date in parentheses following a title indicates either the first German edition or, in the case of posthumous publications, the date of the original lectures. Often the translations cited above have been silently modified. The abbreviation “GS” or “NS” after an entry below tells where this book can be found in Adorno's collected writings. “GS” indicates writings published during Adorno's lifetime and collected in the 20 volumes of Theodor W. Adorno, Gesammelte Schriften, edited by Rolf Tiedemann et al. (Frankfurt am Main: Suhrkamp, 1970–1986). “NS” indicates posthumous works that are appearing as editions of the Theodor W. Adorno Archive in the collection Nachgelassene Schriften (Frankfurt: Suhrkamp, 1993–). ",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1827,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "  For more extensive Adorno bibliographies, see Huhn 2004, Müller-Doohm 2005, and Zuidervaart 2014, an annotated bibliography.",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1828,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": " Benjamin, Walter |  contradiction |  critical theory |  domination |  Enlightenment |  Habermas, Jürgen |  Hegel, Georg Wilhelm Friedrich |  Hegel, Georg Wilhelm Friedrich: dialectics |  Heidegger, Martin |  Horkheimer, Max |  Husserl, Edmund |  identity |  Kant, Immanuel |  Lukács, Georg [György] |  Marx, Karl |  Popper, Karl |  postmodernism |  -->rationality--> |  truth |  Weber, Max ",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1829,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": " Copyright © 2015 by   Lambert Zuidervaart ",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1830,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "View this site from another server:",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1831,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1832,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/adorno/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "adorno"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1833,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  There is a rough consensus in medical ethics on the requirement of respect for patient  autonomy: physicians must ultimately defer to patients' own decisions about the management of their medical care, so long as the patients are deemed to have sufficient mental capacity to make the decisions in question. For patients who lack the relevant decision-making capacity at the time the decision is to be made, a need arises for surrogate decision-making: someone else must be entrusted to decide on their behalf. Patients who formerly possessed the relevant decision-making capacity might have anticipated the loss of capacity and left instructions for how future medical decisions ought to be made. Such instructions are called an advance directive. One type of advance directive simply designates who the surrogate decision-maker should be. A more substantive advance directive, often called a living will, specifies particular principles or considerations meant to guide the surrogate's decisions in various circumstances, for example, “Do not prolong my life if I enter persistent vegetative state,” or “I am a fighter: do not discontinue life-sustaining treatment no matter what happens to me.”",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1834,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " This general framework opens up a number of ethical issues. I shall set aside here a foundational issue that is a subject of its own encyclopedia article: What are the criteria for  decision-making capacity?  These must be specified before we can establish, on any given occasion, whether there would be any need at all for decision-making by a third party (with the aid of an advance directive or not). Assuming we have settled, using the appropriate criteria, that surrogate decision-making is indeed called for, the following main issues arise:",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1835,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Q2. On what basis should the surrogate make the decision? What considerations should she take into account? And, more specifically,",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1836,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Q2a. Should the advance directive be honored?",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1837,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  This article focuses on philosophical contributions to the last two sets of questions.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1838,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  In legal contexts, two general standards or approaches to question Q2 have been developed:",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1839,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " The Substituted Judgment standard: The surrogate's task is to reconstruct what the patient himself would have wanted, in the circumstances at hand, if the patient had decision-making capacity. Substantive advance directives are here thought of as a helpful mechanism for aiding the application of Substituted Judgment. The moral principle underlying this legal standard is the principle of  respect  for   autonomy,  supplemented by the idea that when a patient is not currently capable of making a decision for himself, we can nonetheless respect his autonomy by following or reconstructing, as best we can, the autonomous decision he would have made if he were able. In a subset of cases, a substituted judgment can implement an actual earlier decision of the patient, made in anticipation of the current circumstances; this is known as precedent autonomy.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1840,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " The Best Interests standard: The surrogate is to decide based on what, in general, would be good for the patient. The moral principle underlying this standard is the principle of  beneficence. This legal standard has traditionally assumed a quite generic view of interests, asking what a \"reasonable\" person would want under the circumstances and focusing on general goods such as freedom from pain, comfort, restoration and/or development of the patient's physical and mental capacities. This is because the Best Interests standard has mainly been employed when there is little or no information about the patient's specific values and preferences. However, the concept of best interests is simply the concept of what is best for the person. There is no reason why, in principle, the Best Interests judgment could not be as nuanced and individual as the best theory of  well-being  dictates.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1841,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  In practice, the main difference between the two standards is often thought to be this. Substituted Judgment endeavors to reconstruct the subjective point of view of the patient — i.e., the patient's own view of his interests — whenever such reconstruction is a viable possibility. By contrast, the Best Interests standard allows for a more generic view of interests, without having to rely on the idiosyncratic values and preferences of the patient in question.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1842,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " The applicability of these standards depends on the context in which the lack of decision-making capacity occurs. Let us distinguish two groups of patients:",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1843,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Formerly Competent: Patients who used to have the relevant  decision-making capacity,  but lost it, for example, due to Alzheimer's disease or other medical problems (or procedures such as surgical anesthesia) undermining normal brain functioning.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1844,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Never-been Competent: Patients who have never had the relevant decision-making capacity, either because the capacity has not yet developed (as in children), or because of a permanent brain deficiency such as severe congenital mental retardation.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1845,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  The Substituted Judgment standard seems well-suited to the circumstances of the formerly competent patients since, in their case, there are past values or patterns of decision-making that could potentially serve as a basis for the reconstructed decision on the patient's behalf. Furthermore, according to the current orthodoxy, prevalent especially in the law, Substituted Judgment is the preferred solution for formerly competent patients because it promises to preserve respect for  autonomy  as an overriding moral consideration trumping concerns with  beneficence. The picture is this. If, ordinarily, we ought to respect patient autonomy rather than impose our own judgments on patients, we ought to respect autonomy even after the patient has lost decision-making capacity; and we can do so by following or reconstructing, as best we can, the autonomous decision the patient would have made himself when faced with the current circumstances. In short, in dealing with someone who used to be competent, the widely accepted primacy of respect for autonomy over beneficence calls for Substituted Judgment. And this means that we should use the Substituted Judgment standard whenever possible and fall back on the Best Interests standard only when we lack sufficient information about the patient's prior wishes and values to make Substituted Judgment practicable.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1846,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  By contrast, for the “never-been competent” patients, the Substituted Judgment standard does not seem applicable (e.g., Cantor 2005): if the patient has never been able to make autonomous decisions in circumstances such as the current one, it seems impossible to reconstruct what the patient's decision would have been. For these patients, the Best Interests standard is the only option.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1847,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  When combined, these orthodox views generate one unified simple ordering of priority among the several standards and mechanisms for surrogate decision-making, an ordering found in answers to Q2 and Q2a prevailing in the literature (e.g., Brock 1995):",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1848,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Is this orthodox view correct?",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1849,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Concerning patients who have never been competent, the orthodox view, as it is typically interpreted, may be misleading in certain cases. By recommending the Best Interests standard as opposed to the Substituted Judgment standard, the orthodox view may help create the impression that, for those who have never had decision-making capacity, only a one-size-fits-all objective assessment of their interests, based on generic goals such as prolonging life or avoiding pain, is available. However, a person may lack decision-making capacity but nonetheless possess the proper starting points of decision-making, so that a surrogate could still reconstruct deeply personal and idiosyncratic choices on the person's behalf. Consider a child or a mildly retarded patient who lacks the capacity to make a sophisticated medical decision because she cannot fully grasp the complex consequences of the available options, or because, if left to her own devices, she would merely choose impulsively. Yet, very meaningful and personally distinctive issues may be at stake for this individual: for instance, alternative treatments may differently impact her relationships with loved ones or differently affect her ability to continue participating in deeply valued activities such as painting or dancing. In such cases, to best serve the interests of the patient, surrogates arguably need to reconstruct the subjective point of view of the patient, and not just fall back on generic choices that “a reasonable person” would make under the circumstances. In short, sometimes — especially in dealing with patients with rich inner lives whose decision-making is nevertheless impaired — the application of the Best Interests standard may look an awful lot like an exercise of Substituted Judgment.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1850,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  It is only with regards to patients who do not even possess the starting points of decisions — for example, infants or more severely brain damaged individuals — that the idea of reconstructing the individual's own point of view as a basis for a decision does not even coherently apply, and the more generic application of the Best Interests standard is called for.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1851,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Nonetheless, this is only a challenge to the narrow way in which the Best Interests standard has typically been employed: a more nuanced interpretation of the orthodox view can handle the cases of the never-competent appropriately. The application of Best Interests can, in many instances, procedurally resemble the application of Substituted Judgment because, on any reasonable theory of  well-being, a large part of what counts as good for a person is attaining what she values or succeeding in what she cares about. It is thus not surprising that reconstructing the individual's viewpoint is an important part of a nuanced interpretation of Best Interests. Yet, even though in employing the Best Interests standard one usually must take very seriously the subject's own viewpoint, one is not thereby recreating the autonomous choice the person would have made. This is particularly clear for those who have never been competent: one cannot be respecting their autonomy (at least not on the usual understanding of autonomous choice), since they have never had autonomy. Moreover, even in undertaking to respect their \"starting points of decision-making,\" one would not treat these starting points as entirely decisive. An individual who has never been competent may value something that would be terribly destructive to her other values (and be incapable of realizing this), and so, to protect her, the Best Interests standard would have to focus on those other values. So here again the application of the Best Interests standard diverges from what would most plausibly count as a reconstruction of the subject's own autonomous choice. Given that Substituted Judgment is grounded in respect for autonomy, it is thus clear why, according to the orthodox view, Substituted Judgment makes no sense for the never-competent, and why the orthodox view prescribes for them the Best Interests standard, albeit interpreted in a suitably broad way.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1852,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "   As already noted, different views on how to apply the Best Interests standard roughly correspond to different theories of  well-being.   However, theories of well-being are normally developed with an ordinary fully-capacitated human being in mind, so, when applied to those whose incompetence is due, in part, to substantial deviations from this paradigm, some theories need to be adjusted to accommodate human beings who do not at the time, or ever, possess the paradigm capacities these theories presume (for example, the capacity to experience the pleasures of the intellect, or the capacity to desire). The understanding of well-being and the specifics of applying the Best Interests standard in such cases must be tailored to the details of each particular real-life condition — and to the corresponding levels of mental functioning.  Interests of children, including infants, have received some attention in the literature (Buchanan and Brock 1990, ch.5, Schapiro 1999); similar tailor-made analyses are needed for individual mental illnesses and brain deficits.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1853,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " The orthodox view regarding the formerly competent faces deeper challenges. In giving priority to Advance Directives and Substituted Judgment, the orthodox view overlooks the possibility that the earlier competent self and the current incompetent self may have conflicting interests. Advance Directives and Substituted Judgment are best suited for the contexts for which they were first developed in the law — conditions involving loss of consciousness such as persistent vegetative state — where the patient in the current incompetent state cannot have interests potentially different from the interests of the person he used to be. However, loss of decision-making capacity often comes about in less drastic, yet permanent conditions, which can leave the current incompetent patient with what seem to be powerful new interests in his new phase of life. Classic cases of this sort occur in Alzheimer's disease, other forms of dementia, and stroke. Before the loss of capacity, typically, the patient had numerous interests associated with his rich mental life and with a correspondingly complex set of values. Once mental deterioration progresses, the patient's universe of interests shrinks and new interests may become dominant. Sometimes the two sets of interests can come into conflict. Imagine, for example, a fully competent patient who, in anticipation of developing Alzheimer's disease, espouses a strong conviction, perhaps documented in an advance directive, that she does not wish to have her life prolonged in a demented state. She deeply identifies with her intellect, and thus views life with dementia as terribly degrading. But once she develops dementia, her identification with her intellect drops out as a concern, so she loses the corresponding desire not to prolong her life. In the meantime, she is still capable of simple enjoyments — she likes gardening or listening to music — and perhaps can even carry on meaningful human attachments. Her current, truncated set of interests does seem to favor continued life. Such scenarios raise difficult questions of how the interests of the earlier and current self ought to be balanced in surrogate decision-making. Privileging advance directives and recreating the judgment of the earlier self via substituted judgment are no longer the obvious solutions, given this conflict.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1854,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Much of the philosophical literature on surrogate decision-making has focused on conflicts of this kind. There are subtle differences, though, in how this conflict is conceptualized — more specifically, in how the interests of the earlier self are viewed — sometimes stemming from differences in what is taken as a paradigm example of the conflict. On one view, the relevant interests of the earlier self are autonomy interests: what matters is that the choices of the earlier self be heeded. With this emphasis, the conflict is between the autonomy of the earlier self and the well-being of the current self. On an alternative conception, the interests of the earlier self are well-being interests: what matters is that the earlier self fares well overall. The conflict, then, is between the well-being of the earlier self and the well-being of the current self. One may also consider both aspects of the conflict as relevant. The arguments below apply to all three interpretations of the conflict.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1855,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  One way to rescue the idea that the former self and its interests ought to have priority is to appeal to the special authority of the former self over the current self. The grounds of this authority are cashed out differently in different views, but the basic thought is that the former self's superior capacities give her standing to govern the current self. Once the current self falls below a certain threshold of capacity, her interests in her current state are so marginal as to no longer be authoritative for how she ought to be cared for, and the interests of the earlier self trump.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1856,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Several lines of argument have been used to establish the authority of the earlier self over the current self. One is to deny altogether the independence of the current self's interests. On this interpretation, the conflict described above is merely apparent. Once the current self falls below the relevant threshold of capacity, she is incapable of generating her own independent interests, and, despite superficial appearances to the contrary, her fundamental interests are really defined by the earlier self. The interests of the current self are straightforwardly not authoritative since they are merely apparent interests. Further, even were we to accept that the current self has her own independent interests, there are other reasons to see those interests as lacking authority. If one insists on the priority of respect for autonomy over beneficence, or if one views the capacity for autonomy as the essential core of a person, the interests of the earlier self will be seen as having authority over the current self because only the earlier self is capable of autonomy. Ronald Dworkin's analysis combines all of these lines of argument (Dworkin 1993).",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1857,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Different versions of the threshold approach propose somewhat different thresholds for when the current interests of a formerly competent individual cease to be authoritative. It is usually accepted that the mere loss of decision-making capacity is insufficient (Dworkin 1993, 222-29).  Decision-making capacity is context-specific and depends on the complexity of the pertinent information that the decision-maker needs to process. A person may lose the ability to make very complex medical decisions, while still being able to decide perfectly well about simpler everyday matters. Lapses of this nature would not give the surrogate a license to discount the current well-being of the individual in favor of what mattered to him earlier. By contrast, transformations that could leave authority with the past self must involve a more global loss of capacity such that one can no longer generate, in any context, interests of a special, morally weighty type.  In crossing this threshold, one ceases to be a being of a certain morally privileged kind: for instance, one ceases to be an autonomous individual, or one turns from a person into a nonperson. If an autonomous individual loses his capacity for autonomy altogether — the thought then goes — he may have some local (possibly merely illusory) interests associated with the non-autonomous self, but his affairs ought to be conducted in accordance with his earlier wishes expressive of his autonomy. Or, in the parallel version, if a person turns into a nonperson, he may have some local (possibly illusory) interests as a nonperson, but his affairs ought to be conducted so as to advance the interests of the person he used to be.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1858,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Within this basic framework, several variants are possible, depending on what one takes to be the essential characteristics of a person, or, if one accepts the capacity for autonomy as the essence of personhood, depending on what one takes to be the core aspects of autonomy. Ronald Dworkin's influential work defends the capacity for autonomy as the relevant threshold, with autonomy interpreted as “the ability to act out of genuine preference or character or conviction or a sense of self” (Dworkin 1993, 225). If an individual has lost the capacity for autonomy so understood, this view dictates that her current interests (illusory or not) have no authority over decisions on her behalf, and surrogates ought to cater to her former interests, from before the loss.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1859,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  It is, however, important to notice that the capacity for autonomy, as interpreted by Dworkin, comprises two distinct abilities: (1) the ability to espouse a “genuine preference or character or conviction or a sense of self” — what may be called, for short, the ability to value — and (2) the ability to act out of one's sense of conviction, that is, the ability to enact one's values in the complex circumstances of the real world. In many brain disorders these two abilities come apart. For example, a patient in the middle stages of Alzheimer's disease may retain genuine values — she may hold on to family ties or to the conviction that helping others is good­ — and yet, due to a rapid deterioration of short-term memory, she may be perpetually confused and unable to figure out how to enact these values in the concrete circumstances of her life. The set of values such a patient retains would typically be a curtailment of the original set, introducing the potential for conflict between the interests of the earlier and current self. For example, earlier, the person may have valued independence above all else, and so was adamantly against having her life prolonged if she developed Alzheimer's disease. Now, in moderate stages of Alzheimer's, she has lost her commitment to independence, but still values emotional connections to family members, and thus has a strong interest in continuing to live. On Dworkin's approach to decisions on this individual's behalf, her current interests are not allowed to override her earlier interests because she has lost her standing as an autonomous agent: due to her confusion, she is unable to act on her commitment to the family ties or on any other values — she is unable to run her life by her own lights, that is, to govern herself. However, on an alternative view (Jaworska 1999), what matters most for autonomy and personhood are the starting points of autonomous decision-making: the genuine values that the person still holds. So long as an individual is capable of valuing, she remains a being of a morally privileged type, and interests stemming from her values have the authority to dictate how the individual ought to be treated. The person need not be able to enact her values on her own — it is part of the surrogate's role to assist with this task. In short, on this alternative view, the capacity to value marks the morally crucial threshold above which the current interests of a formerly competent individual remain authoritative for the surrogate's decisions and the conflicting interests of the earlier self can be set aside.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1860,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  The two views I have just discussed share the underlying idea of a threshold of capacity beyond which an individual's current interests lose authority. This idea has been challenged in several ways.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1861,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  The most straightforward challenge emphasizes that decision-making inherently involves a present- and future-oriented perspective: the surrogate must make the best decision for the patient in front of him about how to manage this patient's life from now on. The patient may have had different interests in the past, but how can these be relevant to current decisions, which can only affect the present and future but not the past? This approach may accept it as unfortunate that the patient's past interests were left unfulfilled, but insists that this unfortunate fact cannot be remedied, and that there is no use in catering to bygone interests in current decision-making (Dresser 1986).",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1862,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  An advocate of the threshold view, such as Dworkin, would emphasize two points in response:",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1863,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  First, past interests can often be satisfied in the present. Dworkin distinguishes between what he calls “experiential” and “critical” interests (Dworkin 1993, 201-08). Experiential interests are, roughly, interests in having desirable felt experiences, such as enjoyment (and in avoiding undesirable experiences, such as boredom). These interests are indeed tied to the present: there is no point in trying to satisfy one's past experiential interest in a specific enjoyment (for instance, in playing with dolls), if one at present has no hope of still deriving enjoyment from what one used to enjoy in the past. By contrast, critical interests are not tied to the experience of their satisfaction; these are interests in having what one values or cares about become a reality, such as a parent's interest in the success and prosperity of his child or a sailor's interest in preserving his beautiful wooden boat. According to Dworkin, such interests can be meaningfully satisfied even if they belong in the past: for example, even after the sailor dies, it makes sense to preserve the boat he cared about and do so for his sake. Similarly, according to Dworkin, it makes sense to satisfy a formerly competent person's critical interests, such as the interest in avoiding the indignity of dementia, for her sake, even if she has ceased to understand those critical interests now.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1864,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Second, on a view like Dworkin's, the past critical interests of an individual who formerly possessed the capacity for autonomy are, in a crucial sense, still her interests in the present, even if she can no longer take an interest in them. This is an essential element of the claim that the patient's earlier autonomous self has authority over her current non-autonomous self. The thought is this. For any person, the interests she has autonomously defined for herself are her most important interests. And this is so even for an individual who has lost her capacity for autonomy or her personhood: so long as the individual survives the loss as numerically the same entity, her interests stemming from autonomy (or the subset of them that can still be satisfied) remain her most important interests, even if she can't espouse them now, and they are, in this sense, “past.” Thus, Dworkin offers a powerful rationale for why satisfying “past” interests can still matter, and matter very deeply, in the present.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1865,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  The versions of the threshold view that see the capacity for autonomy as the relevant threshold can be challenged by approaches that cast the requirements of the capacity for autonomy as being so minimal that any individual capable of generating independent interests in his deteriorated state counts as autonomous. On such approaches, conflicts between earlier interests grounded in autonomy and later interests no longer so grounded become impossible, and the claim of authority of the earlier autonomous self over the current non-autonomous self loses its bite: the threshold of autonomy is so low as to cease to mark any contestable difference in authority. Seana Shiffrin's response to Dworkin can be interpreted as a view of this sort (Shiffrin 2004). Shiffrin sees a key point of autonomy in the ability to exercise one's own will: the ability to control one's experiences through the enactment of one's own choice. Shiffrin emphasizes that so long as an individual has this ability, its exercise calls for protection, and this is a crucial part of what we protect when we respect autonomy. On this picture, so long as an individual is able to make choices, have preferences, exhibit a will, etc., there is a rationale for catering to his current interests, and so his current interests have authority to override interests espoused in the past.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1866,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  The proponent of the threshold view may, in response, acknowledge the importance of the ability to control one's experience through acts of will, but still insist that a more robust capacity for autonomy — for example, a capacity that involves expression of values and not just mere preferences — has moral importance of an altogether different order. This difference can then support the position that, in cases of conflicts between an earlier self capable of such robust autonomy and a current self merely capable of exercises of will, the earlier self retains authority and her interests ought to be heeded.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1867,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  According to the threshold views, the earlier self has authority to determine the overall interests of the patient because the current self has lost crucial abilities that would allow it to ground these overall interests anew. This picture assumes that the earlier and current self are stages in the life of one entity, so that, despite the talk of local interests associated with each life-stage, there is an underlying continuity of interests between the two. But this is a very substantial assumption, and it has been contested by appeal to an influencial account of the metaphysics of  personal identity  over time, the psychological continuity account. Roughly, the idea is that, in the wake of a drastic transformation of one's psychology such as Alzheimer's disease, one does not survive as numerically the same individual, so whatever interests one's predecessor in one's body may have had are not a suitable basis for decisions on behalf of the new individual who has emerged after the transformation (Dresser 1986). The lack of identity between the earlier and current self undercuts the authority of the former over the latter.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1868,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  This approach works best in cases in which we can assume that the new entity emerging after the psychological transformation is still a person: the interests of the earlier self cannot dictate how the current self ought to be treated because it would be a clear violation of the rights of persons to allow one person to usurp the affairs of another. (Some may doubt whether loss of numerical identity without loss of personhood is even possible in any real-life cases of dementia or brain damage, but the theoretical point still holds.) What, though, if the psychological deterioration is indeed severe enough to strip the resulting entity of the capacities of a person?",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1869,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Some might see the loss of personhood as a particularly clear-cut sign of a change in numerical identity: if the current self is not even a person, surely the current self cannot be the same person as the earlier self. However, as David DeGrazia has emphasized, this line of reasoning rests on an undefended (and controversial) assumption that we are essentially persons (DeGrazia 1999). For if we are not essentially persons — but, rather, for example, conscious minds of some other, less complex kind — an individual may very well lose the properties of a person without any threat to his numerical survival.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1870,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Nonetheless, even if we are not essentially persons, on the psychological view of our identity, we are essentially defined by our psychological properties. If these properties change drastically enough, the old individual ceases to exist and a new individual comes into existence. And the transformation of a person into a nonperson does seem to be a drastic psychological transformation. Thus, even if DeGrazia is right that loss of numerical identity does not automatically follow from loss of personhood, it is certainly possible, and perhaps even likely, on the psychological view of our identity, that a transformation of a person into a nonperson would involve such a profound psychological alteration as to result in a numerically new being. How should we adjudicate conflicts between the earlier and the current individual in such cases?",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1871,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  On one view, if a person turns into a new individual in the later stages of dementia, this by itself undercuts the authority of the earlier person over her successor, regardless of whether the successor is a person or not. After all, why should an altogether different individual dictate how the current self is to be treated? However, more nuanced positions can also be found in the literature. Buchanan and Brock (1990) see the authority of the earlier self in cases of loss of numerical identity as crucially dependent on whether the current self is still a person. They accept that if the current self is a person, it would be a violation of her rights as a person to allow another individual to commandeer her affairs. However, if the current self is no longer a person, he lacks the same rights. And, as Buchanan and Brock see it, the earlier self has “something like a property right… to determine what happens to [his] nonperson successor” (166). That is, if one ceases to exist by turning into a nonperson, one retains a quasi-property right to control the resulting nonperson, presumably in much the same way that, when one ceases to exist by turning into a corpse, one has a quasi-property right to control the resulting corpse. Hence, on this approach, even if the earlier and current self are distinct individuals, the earlier self has the authority to determine what happens to the current self, so long as the current self has been stripped of personhood. In this way, the idea of a threshold of capacity beyond which the earlier self gains authority to dictate the current self's affairs is resurrected, despite the assumption that the earlier and current self are not the same individual. But, this time, the basis of the authority is different: it is not grounded in the continuity of overall interests between the two selves, but rather in the earlier self's quasi-property right. Note, though, that the claim that quasi-property rights could extend to rights over successors who are nonetheless conscious beings is controversial and requires further defense.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1872,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  It is possible to retain the intuitive idea that the weakness of psychological connections between the two selves undermines the authority of the earlier self over the current self without accepting the metaphysical view that the earlier and current self are numerically distinct entities. Suppose we maintain that even the most drastic mental deterioration is not equivalent to death — that the same individual persists through the ravages of Alzheimer's disease. We can still question the continuity of interest between the earlier and current self by examining the concern the earlier and current self would appropriately have for one another (McMahan 2002).",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1873,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Ordinarily, each of us has a very unique type of concern for our own past and future selves: it matters to you, in a very special way, what happens to you, what experiences you undergo, how you act, etc., now, in the future, and in the past. Call this special species of concern prudential concern. We normally assume that prudential concern strictly tracks personal identity: one has prudential concern only for oneself and one is always concerned with oneself in this way. By contrast, Jeff McMahan has argued that (at least within the bounds of numerical identity) prudential concern also ought to track the degree of psychological ties: prudential concern of two selves at different stages of life for one another ought to weaken in proportion to the weakness of the psychological connection between them (McMahan 2002, 69-82). In the context of the severe psychological transformations caused by a disease like Alzheimer's, this means that the appropriate level of prudential concern of the earlier and current self for one another would be rather slight. The two selves are not bound by a sufficiently strong common prudential interest, and so the person's earlier interests, no matter how important, do not transfer as particularly important interests of her current psychologically disconnected self. Any potential conflicts between the interests of the two selves are now akin to conflicts between two entities with altogether independent interests.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1874,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  David DeGrazia has tried to counter this picture by suggesting that, in addition to the factors discussed by McMahan, the earlier self's appropriate degree of prudential concern for the current self can be boosted by the earlier self's autonomously formed self-narrative: if the earlier self identified with the current self, in the sense of seeing the current self as a true stage in the unfolding complex narrative of her life, strong prudential concern is warranted (DeGrazia 2005, 196). Oddly, this view makes the rational level of prudential concern for the future partly a matter of choice of the earlier self. Yet, unlike our ordinary concerns for specific plans, projects, other people, etc., which are up to us, prudential concern is a requirement of rationality and should not be a matter of choice. Just as we cannot rationally have prudential concern for someone else simply because we happen to incorporate (perhaps delusionally) their life into our self-narrative, similarly, if we are not otherwise warranted to have prudential concern for our own future self, we cannot change this simply by virtue of how we happen to construct our self-narrative.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1875,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Return, then, to McMahan's picture. If the interests of the earlier and current self are genuinely prudentially estranged and independent, how should we resolve conflicts between them?",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1876,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  When the current self is still a person, her rights as a person call for allowing her interests to control her treatment and against letting the interests of the earlier self interfere; any weakness in the current self's prudential connection to the earlier self merely reinforces this stance. But how should we balance the interests of the two prudentially estranged selves when the current self is not a person?",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1877,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  McMahan himself suggests that, in a conflict between an earlier person and a current nonperson, the interests of the earlier person ought to trump (McMahan 2002, 502-03). He emphasizes that the earlier self is a “higher self,” “rational and autonomous,” and that her interests are associated with the dominant, more substantial and lengthy part of life, integrated — through strong prudential connections among its various stages — into one unified life-segment. But part of McMahan's reasoning is also that the interests of the current nonperson are, as types of interests, not very substantial. Here McMahan relies on the specifics of the example of conflict he happens to analyze (a version of the “preference to die” example we saw earlier), together with a controversial claim that a severely demented patient would not have a strong interest in continuing to live.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1878,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  While McMahan may be right that strong interests of an earlier person trump comparatively trivial interests of a current nonperson, his answer covers only a subset of possible conflicts between the earlier and current self. It is much more difficult to arbitrate between the two selves when the interests of the current nonperson are also substantial. I have argued (Jaworska unpublished) that when the interests of the earlier person are relatively minor, substantial interests of the current nonperson ought to trump. Thus, for example, if the earlier self had only a relatively weak preference to die — let's say she simply didn't want to further complicate relationships with family members for whom she happened not to care all that much — the current self's substantial interest in continuing to live ought to prevail. More controversially, I also argued that highly vital interests of the current nonperson ought to trump even some non-trivial, rather serious interests of the earlier person. Thus, in the standard version of the “preference to die” scenario, what is at stake for the earlier self is a rather serious interest in maintaining the integrity of her life narrative. However, this interest does not reach the level of high vitality, because there is only so much damage that a period of senility at the end of a life can do to an otherwise successful life-narrative. By contrast, the current self's interest in her very survival is more highly vital. It is also, unlike the earlier self's interest, an active interest — an ongoing subject of interests has reason to be strongly prudentially invested in it. These factors combined lend, in this scenario, priority to the interest of the current self.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1879,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " autonomy: personal |  beneficence, principle of |  decision-making capacity |  legal obligation and authority |  paternalism |  personal identity |  personal identity: and ethics |  respect |  well-being ",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1880,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "  Special thanks to Jennifer Hawkins and Govind Persad for very helpful comments on earlier drafts of this entry. Thanks also to Caleb Perl for research assistance.",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1881,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": " Copyright © 2009 by   Agnieszka Jaworska &lt;jaworska@ucr.edu&gt;     ",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1882,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "View this site from another server:",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1883,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1884,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/advance-directives/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "advance-directives"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1885,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  Giles of Rome (who died in 1316 as archbishop of Bourges) was one of the most productive and influential thinkers active at the end of the 13th century, who played a major role also in the political events of his time. Giles of Rome was an extremely prolific author and left a very large corpus of writings, encompassing commentaries on Aristotle, theological treatises, questions, and sermons. In the last couple of decades, a research group originally led by Francesco Del Punta (Scuola Normale Superiore, Pisa, Italy; died in 2013) has been devoting a lot of energy to the project of publishing his Opera Omnia and deepening our knowledge of his thought. Although this group has produced extremely significant results, enriched by the contributions of other scholars, an assessment of Giles’ whole work is still in progress. For this reason, the present entry only aims at providing insight into an ongoing process of research.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1886,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  Born in Rome most probably in the fifth decade of the thirteenth century, Giles was the first outstanding theologian of the relatively recently founded Order of the Augustinian Hermits. Nothing more is known about his origins: the statement that he belonged to the famous Roman family of the Colonna seems to go back to Jordan of Saxony’s Liber Vitasfratrum (second half of the 14th century), but is completely missing from contemporary, 13th-century sources. From Giles’ will we know that he was sent to Paris to study in the convent of his Order. At the beginning he must have followed the courses either of a secular master or of a theologian belonging to a different Order, as the Augustinian friars did not have a regent master at the time. Probably he was a pupil of Aquinas’ in the years 1269–1272. He commented on the Sentences at the beginning of the 1270s. In following years he most probably wrote also a large number of his commentaries on Aristotle.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1887,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  The year 1277 marked a turning-point in his career: Giles was involved in the condemnation of the heterodox Aristotelianism issued by the Parisian bishop Etienne Tempier, although the process against him must be distinguished from the famous decree of the 7 of March 1277, as Robert Wielockx has shown. After 1277 Giles must have abandoned Paris, but his presence is attested in Italy not earlier than 1281. Before leaving Paris he completed his De regimine principum, which is dedicated to the young Philip, the future Philip the Fair.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1888,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  Between 1281 and 1284 Giles played an important role in the government of his Order, taking part in various chapters held in Italy. At the provincial chapter of Tuscania (nowadays in Lazio, Italy) in 1285 he acted as vicar of the prior general of his Order, Clement of Osimo.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1889,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  In 1285, Giles’ doctrine was examined again; after recanting only a part of what had been previously condemned in 1277, he was allowed to teach again; by 1287 he is referred to as a master of theology. His university quodlibeta go back to this period, from the academic year 1285/86 to 1292/93 (Pini 2006, Wielockx 2014).  This success enhanced Giles of Rome’s authority even more in his Order, whose general chapter of Florence decreed that Giles’ works (even future ones) should be considered as the official doctrine of the Order, to be defended by all Augustinian bachelors and masters. In 1292, at the General Chapter of Rome he was elected prior general of his Order.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1890,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  Benedict Caetani’s election to the papal see marked a further radical change in his career, as Boniface VIII appointed him archbishop of Bourges in 1295. As a matter of fact, Giles was very often absent from his see, spending extended periods of time at the papal curia. In his De renuntiatione, he defended the legitimacy of Celestine’s abdication, and, consequently, of Boniface’ s election. When the contrast between Boniface VIII and Philip IV reached its most critical point, he continued to side staunchly with the pope. An important sermon defending the papal position has been discovered by Concetta Luna, and Giles’ De ecclesiastica potestate undoubtedly ranks among the sources of Unam Sanctam.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1891,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  Giles’ prestige decreased after Boniface’ death, and even more with the rise of Clement V to the papal throne. Before being elected pope, Betrand de Got, as archbishop of Bourdeaux, had had serious conflicts with Giles. This unfavorable change, however, did not prevent Giles from playing a significant role in the debates of his time. Around 1305–6 he took part in a commission which examined and condemned the eucharistic doctrine of John of Paris, a former adversary of Giles’ during the conflict between Philip the Fair and Boniface. In the discussions concerning the Templars which eventually led to the suppression of the Order, Giles sided with Philip the Fair, attacking the Templars and devoting a whole tract, Contra exemptos, to the thesis that their exemption from episcopal jurisdiction was the cause of their abuses (Jordan 2005). During the Council of Vienne Giles was asked to draw a list of errors extracted from the works of Peter John Olivi: three of them were officially condemned by the Council. On December 22, 1316 he died at the papal Curia at Avignon (For further details see Del Punta-Donati-Luna 1993, Briggs 2016).",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1892,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": " Relying on manuscript evidence and other sources, Giorgio Pini (2005) could identify which kind of theological and philosophical works Giles read, studied and had copied for himself during his long intellectual career. Pini distinguishes three main periods. In the first one, before 1277, quite unsurprisingly, he reads Aquinas (not only the Commentary on the Sentences of the Dominican master, but also his later works), Aristotle (e. g. in these years Giles owns and annotates a copy of the Nicomachean Ethics), Avicenna and Averroes. He is also very well acquainted with the works of Ps. Denis the Aeropagite. In the second period (1277–1285), when forced to leave the academic milieu, Giles widens his interests. He studies many works of Anselm’s (while most theologians of his time were very selective in their knowledge of this author), and makes acquaintance with works by Augustine, such as Confessions and Soliloquia, that were quite unusual readings for an academic theologian. In the this period (from his return to the Parisian Faculty of Theology [1285] to his death) Giles studies almost entirely the available works by Augustine and acquires also rare treatises by Proclus. Giles’ increasing attention for Augustine is mirrored in his mature works and will influence also the theological orientation of his own Order in the following decades (Pini 2012).",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1893,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  After René Antoine Gauthier identified in the master Guillaume Arnauld the real author of the Lectura supra logicam veterem attributed to Giles of Rome (Tabarroni 1988), interest in logical works focused mainly on his Commentaries on the Sophistici Elenchi and on Posterior Analytics. In his treatment of the fallacia figurae dictionis Giles proves to be a brilliant and original representative of “modistic logic”, who bases his solutions mainly on the semantics of intentiones (Tabarroni 1991). This does not imply, however, that he always agrees with the Modists. One of the most relevant disagreements regards signification. He doesn’t think that signification is the essential form of the linguistic sign. On the contrary, sharing a a much more widespread view in his times, to him, the signification of e.g. a name is a concept (or more precisely a definition), which in turn signifies the thing. This signification is not natural, but conventional. The linguistic sign signifies in a natural way only its mental image, which is essential to human acts of speech (Marmo 2016). Alessandro Conti (1992) investigated Giles’ Commentary on Posterior Analytics as an example of his theory of truth, which brings to completion Aquinas’ shift from Augustine’s influence to the Aristotelian approach. Bertagna (2002–2004) investigated the structure of this commentary, while Longeway (2002) and Corbini (2002) drew scholars’ attention to Giles’ epistemic logic.  Giles of Rome also authored the most important Commentary on the Rhetoric of the Latin medieval tradition, which earned him the honorific title of expositor of this book and influenced all later medieval commentaries. Costantino Marmo studied Giles’ approach to the different translations to which he had access and showed how he developed Aquinas’ theory of passions in commenting on the relevant portions of Aristotle’s text (Marmo 1991), trying to solve some problems left open by Aquinas. It has been suggested that Giles considers rhetoric to be a sort of “logic” of ethics and politics: this brilliant interpretation needs, however, further development and articulation (Staico 1992). Janet Coleman (2000) also maintained that Aristotle’s rhetorical method determines the substance of Giles’ De regimine principum, but one should also take into account also Lidia Lanza’s (2001) remarks. Marmo (2016) pointed out that if rhetoric is the modus sciendi more apt to moral sciences, this does not imply that it contributes to moral or political knowledge, since this is derived from the principles proper of ethics or politics.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1894,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  Traditionally, Giles was described as a “faithful” disciple of Aquinas’. Nowadays such a judgment is not accepted by scholars. After Concetta Luna argued persuasively in favor of the authenticity of the Reportatio, it became clear that Giles, already in the first stages of his career, develops his positions taking Aquinas’ teaching as a starting point for his own reflection, but criticizes and corrects the doctrines of the Dominican master in many aspects. Luna could also establish that Giles reworked his Lectura on the Sentences (handed down to us as a reportatio) into an ordinatio only for the first two books. However, while the first book was completed shortly after the Lectura, that is, during the years 1271–1273, the second book had to wait for completion until 1309. Luna gathered impressive evidence suggesting that the Ordinatio of the third book that goes under the name of Giles is, in fact, spurious. Broadly speaking, Giles’ “philosophical project” tends to discuss critically Aquinas’ position in order to improve the solutions he offered, without, however, trying to discard them radically. Recently, Katherine König-Pralong showed that this is the case for the debate about the natural desire for knowledge: although defended in in the context of a discussion with Henry of Ghent, Giles’ position does not coincide with that of Aquinas. According to him, in fact, human beings possess a natural desire for knowledge that is satisfied by a limited understanding of separate substances (König-Pralong 2014). The same holds true also for one of the most famous topics of his discussion with Henry of Ghent, the distinction between “essence” and “existence”. In this case, Giles radicalizes Aquinas’ doctrine of the real distinction, asserting that existence must be conceived as a “res addita” [thing added] to essence (Pickavé 2016). Although the final result of his theory was considered closer to Avicenna’s solution than to that of Aquinas, Giles nevertheless develops it starting from Aquinas’ own position (Wippel 1981), as emerges already from his Questions on the Metaphysics (Conti 2014).  The connection of this issue with the discussion with Henry of Ghent about the concept of “creation” was investigated in depth by Giorgio Pini (1992), who could show how Giles, while defending Aquinas and thereby the possibility of using some Aristotelian principles in an orthodox account of creation, goes beyond the positions of the Dominican master, e. g. asserting the identity of “esse” and “creatio”(see also Porro 2014, Cross 2016). Giles advocated the compatibility of Aristotelian doctrine with Christian faith also in his commentary on the short treatise De bona fortuna attributed to Aristotle, but in reality consisting in a compilation of passages taken from the Ethica eudemia and the Magna moralia. The interpretation of the concept of “bona fortuna” in those texts implied problemas connected with contingency, necessity and the interplay between divine causality and natural events. As Valérie Cordonnier (2104) showed, Giles’ solution was attacked by Henry of Ghent as leading to necessitarism.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1895,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  As to the debate about the unicity of substantial form, Giles’ position evolves during time. If we leave aside the Errores philosophorum, since the authenticity of this work has been contested with serious arguments (Bruni 1935, Koch 1944, Donati 1990b, Luna 1990), we can notice that Giles changes his position from the Contra gradus et pluralitatem formarum (between the end of 1277 and the beginning of 1278), where he, against Henry of Ghent denies plurality of forms for every compound (Wilson 2014), to later works, where he takes a more cautious stance in particular concerning man. The principle of individuation is identified, as in Aquinas, with “materia signata quantitate”, that is, matter designated by its dimensions.  According to Giles, who criticizes  also Richard of Mediavilla on this point, matter is pure potentiality and therefore cannot be distinguished into different kinds. For this reason, he cannot accept Aquinas’ doctrine that the incorruptibility of celestial bodies derives from the peculiar nature of their matter (Donati 1986). In Giles’ opinion celestial bodies are not incorruptible because their matter is different from the matter of sublunar bodies, but rather because their quantitas materiae cannot change its determinate dimensions. This is but one application of Giles’ famous doctrine of “indeterminate dimensions”. Modifying Averroes’ doctrine in this respect, Giles argues that a portion of matter, in order to be able to receive a form, needs to possess already a sort of quantity. Such quantity, however, should not be identified with the determinate dimensions a body possesses, but is rather a quantitas which remains the same during processes such as rarefaction and condensation. Giles’ notion of quantitas materiae, which is not only generically extension or three-dimensionality, but seems to represent an unchangeable given “amount” of matter pertaining to a body, has been considered comparable, some differences notwithstanding, to the modern notion of mass (Donati 1988, Donati-Trifogli 2016).",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1896,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  After the condemnation of 1277, a significant change can be noticed in Giles’ position also in his solution of the problem of the eternity of the world. At the beginning of his career he admitted the theoretical possibility of the eternity of the world, although rejecting Aristotle’s arguments proving the actual eternity of the world. Later he shifted to a more “ Augustinian” stance, rejecting the hypothesis of a creation “ab aeterno” and admitting that it is possible to prove the temporality of creation, although he finds that no conclusive argument has been advanced so far (but see also Cross 2016). Giles was much more steadfast in his opposition to another major tenet of “Averroistic” doctrine, that is the unicity of the possible intellect. He maintained that the possibility of actual knowledge on the part of the individual depends necessarily on the fact that each body is informed by its own intellective soul, which is its form. For the same reasons Giles also rejected the unicity of the agent intellect, a doctrine he attributed to Avicenna (Del Punta-Donati-Luna 1993, Conolly 2007).",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1897,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": " Giles’ account of knowledge is indebted to Aquinas, but, again, reveals many original features. In the first place, he insists on a strictly causal interpretation — be it direct or via a medium — of the cognitive process, both at the level of sensory and intellectual acts. Secondly, the Augustinian master doesn’t conceive of the role of “intelligible species” or formales expressiones as he often writes, as essential to the process of cognition in itself. As Giorgio Pini (2016) has shown, the intelligible species is necessary only when the object cannot be present in the intellect directly. Admittedly, this direct presence is possible only in the beatific vision (after death) and most probably in the cognition angels have of themselves. For human knowledge in this life, on the contrary, intelligible species fulfill a necessary function, as causal proxies, as Pini (2016) writes, mediating between the object and the cognitive power. Difficulties for Giles’ account emerge especially when it comes to defining the ontological status of the species. The interpretation of cognition in terms of causation seems in fact to imply, according to Giles’ own presuppositions, that the species belongs to the same kind of the thing it represents. On the other hand, the intelligible species is in the intellect, and this presence is explained in terms of inherence of an accident (the species) in a substance. Giles himself is aware of this difficulty, since in one passage he claims that such species are in themselves neither substances nor accidents. They can, however, be “reduced” to the kind to which the represented thing belongs.  Pini (2016) is right in pointing out that Giles’ answer seems to raise more problems than it can solve.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1898,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": " Studies concerning Giles’ natural philosophy focused mainly on his treatment of some pivotal concepts of Aristotle’s Physics.  Cecilia Trifogli opened new perspectives in this field, devoting her attention to the notions of place and motion (especially in the void, see Trifogli 1992), underlining that “Giles’ emphasis on the role of place in the description of motion seems to lead to a quantitative and relational notion of place. Giles, however, does not completely substitute the Aristotelian notion of place for that of place as distance. Place as distance is only one of the two notions of place which appear in his commentary. The other, which is related to material place, assumes an intrinsic connection between place and the located body that cannot be founded on distance alone” (Trifogli 1990a, 350). Giles’ distinction was referred to as an opposition between material place (the limit of the containing body) and formal place (distance from the fixed points of the universe) (Donati-Trifogli 2016). Trifogli also investigated Giles’ notions of time and infinity, emphasizing that his whole approach to natural philosophy is distinguished by a tendency towards a metaphysical interpretation of Aristotelian concepts, as opposed to a physical and quantitative one (Trifogli 1990b, 1991). For example, Giles conceives of time not as a quantity pertaining to every kind of motion, but rather as the same thing as motion, seen under a different aspect. His concept of time rests in fact essentially on a broad notion of succession, which allows him on one hand to retain the unity of the concept of time, but, on the other hand, to acknowledge the existence of different times (Trifogli 1990b, Donati-Trifogli 2016) Giles distinguishes between two kinds of duration: extrinsic duration is the time of celestial motion, and is obviously one in number. Intrinsic duration depends on the different motions taking place in the sublunary world and is therefore plural (Donati-Trifogli 2016).  A similar attitude emerges also from the analysis of Giles’ controversy on angelic time with Henry of Ghent (Porro 1988, Porro 1991, but see also Faes de Mottoni 1983). Both authors thought that the time in which angels exist, unlike sublunar time, is a discrete succession of instants. Giles and Henry disagreed, however, on the relationship existing between angelic and sublunar time. In particular, Henry rejected Giles’ thesis that more instants of angelic time can correspond to one and the same instant of sublunar time. This difference of opinion rested in part on diverging concepts of angelic motion, which can be istantaneous according to Henry, but not according to Giles.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1899,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/giles/",
+        "text": "  In 2008, Romana Martorelli Vico published the first critical edition of Giles’ De formatione corporis humani in utero. With this work, completed between 1285 and 1295, Giles took a stance in the much debated question of the respective roles of male and female parents in conception. The Galenist view, going back to Hippocrates, was that both male and female contributed sperm, so that the offspring could have characteristics from both parents. On the contrary, Aristotle had held that only the male alone contributed sperm containing an active and formal principle to conception, while the female provided only the matter of the fetus. Giles was well acquainted with these different positions and with the efforts to reconcile the diverging approaches of medici and philosophi, which could be traced back to Avicenna. Leaning on Averroes’ Colliget, however, Giles rejected any attempt to attribute a formal role to the female sperm, even if it is conceived as subordinate to the male one. On the contrary he maintained that it can contribute only in a passive way to conception, while what was called “female sperm”, i.e., the vaginal secretion, has a subservient, helpful but by no means necessary function. It helps the male sperm to inseminate female matter, but does not add anything essential to the new being. In this way, Giles intended to stress the superiority of the philosophical, theoretical approach to such problems with respect to the traditions of medical learning, even when the latter seemed to be supported by empirical evidence (Hewson 1975; Martorelli Vico 1988). Empirical evidence such as the resemblance of the offspring to the mother was e.g., explained away as an example of stronger resistance of female matter to the action of form (Martorelli Vico 2002). After conception the human embryo begins a development which goes through different stages. Comparing these stages to the embryos of various animals Giles, like Thomas Aquinas, supported an interpretation of the fetal development which would be exploited many centuries later by the so-called “recapitulation theory” (Hewson 1975, 99). Giles maintained, however, that “the organic fetal body is not to be called a pig, a bear, or a monkey, but something immediately disposed to becoming man” (Hewson 1975, 100). This position apparently implies that human life does not fully begin at the moment of conception. Although such a thesis can be brought to bear on the moral judgment concerning abortion, Giles does not seem interested in tackling from this point of view an issue which would become central for what nowadays is called bioethics.",
+        "category": "giles"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

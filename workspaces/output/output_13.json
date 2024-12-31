@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 1200,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  For example, the question of action at a distance in the EPR/B experiment may arise in the context of the splitting-worlds interpretation, but not in the context of Albert and Loewer's many-minds interpretation. Albert and Loewer's interpretation takes the bare no-collapse orthodox quantum mechanics to be the complete theory of the physical realm. Accordingly, the L-apparatus in the state  |ψ11&gt; does not display any definite outcome. Yet, in order to account for our experience of a classical-like world, where at the end of measurements observers are typically in mental states of perceiving definite outcomes, the many-minds interpretation appeals to a dualism of mind-body. Each observer is associated with a continuous infinity of non-physical minds. And while the physical state of the world evolves in a completely deterministic manner according to the Schrödinger evolution, and the pointers of the measurement apparatuses in the EPR/B experiment display no definite outcomes, states of minds evolve in a genuinely indeterministic fashion so as to yield an experience of perceiving definite measurement outcomes. For example, consider again, the state |ψ10&gt;. While in a first z-spin L-measurement, this state evolves deterministically into the state |ψ11&gt;, minds of observers evolve indeterministically into either the state of perceiving the outcome z-spin ‘up’ or the state of perceiving the outcome z-spin ‘down’ with the usual Born-rule probabilities (approximately 50% chance for each of these outcomes). Since in this state the L-particle has no definite spin properties and the L-apparatus points to no definite measurement outcome, and since in the later z-spin measurement on the R-particle the R-particle does not come to possess any definite spin properties and the R-apparatus points to no definite spin outcome, the question of whether there is action at a distance between the L-particle and the L-apparatus on the one hand and the R-particle and the R-apparatus on the other does not arise.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1201,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In all the above interpretations of quantum mechanics, the failure of factorizability (i.e., the failure of the joint probability of the measurement outcomes in the EPR/B experiment to factorize into their single probabilities) involves non-separability, holism and/or some type of action at a distance. As we shall see below, non-factorizability also implies superluminal causal dependence according to certain accounts of causation.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1202,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  First, as is not difficult to show, the failure of factorizability implies superluminal causation according to various probabilistic accounts of causation that satisfy Reichenbach's (1956, section 19) principle of the common cause (for a review of this principle, see the entry on Reichenbach's principle of the common cause).",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1203,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Here is why. Reichenbach's principle may be formulated as follows:",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1204,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": " PCC (Principle of the Common Cause). For any correlation between two (distinct) events which do not cause each other, there is a common cause that screens them off from each other. Or formally: If distinct events x and y are correlated, i.e.,",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1205,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  and they do not cause each other, then their common cause, CC(x,y), screens them off from each other, i.e.,",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1206,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Accordingly, CC(x,y) renders x and y probabilistically independent, and the joint probability of x and y factorizes upon CC(x,y):",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1207,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The above formulation of PCC is mainly intended to cover cases in which x and y have no partial, non-common causes. But PCC can be generalized as follows:",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1208,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": " PCC*. The joint probability of any distinct, correlated events, x and y, which are not causally connected to each other, factorizes upon the union of their partial (separate) causes and their common cause. That is, let CC(x,y) denote the common causes of x and y, and PC(x) and PC(y) denote respectively their partial causes. Then, the joint probability of x and y factorizes upon the Union of their Causal Pasts (henceforth, FactorUCP), i.e., on the union of PC(x), PC(y) and CC(x,y):",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1209,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": " FactorUCP  PPC(x) PC(y)  CC(x,y)  (x &amp; y) = PPC(x)  CC(x,y) (x) · PPC(y)  CC(x,y) (y).",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1210,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Like PCC, the basic idea of FactorUCP is that the objective probabilities of events that do not cause each other are determined by their causal pasts, and given these causal pasts they are probabilistically independent of each other. As is not difficult to see, factorizability is a special case of FactorUCP. That is, to obtain factorizability from FactorUCP, substitute λ for CC(x,y), l for PC(x) and r for PC(y). FactorUCP and the assumption that the probabilities of the measurement-outcomes in the EPR/B experiment are determined by the pair's state and the settings of the measurement apparatuses jointly imply factorizability. Thus, given this later assumption, the failure of factorizability implies superluminal causation between the distant outcomes in the EPR/B experiment according to any account of causation that satisfies FactorUCP (for some examples of such accounts, see Butterfield 1989 and Berkovitz 1995a, 1995b, section 6.7,   1998b).[30]",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1211,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Superluminal causation between the distant outcomes also exists according to various counterfactual accounts of causation, including accounts that do not satisfy FactorUCP. In particular, in Lewis's (1986) influential account, counterfactual dependence between distinct events implies causal dependence between them. And as Butterfield (1992b) and Berkovitz (1998b) demonstrate, the violation of Factorizability involves a counterfactual dependence between the distant measurement outcomes in the EPR/B experiment.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1212,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  But the violation of factorizability does not imply superluminal causation according to some other accounts of causation. In particular, in process accounts of causation there is no superluminal causation in the EPR/B experiment. In such accounts, causal dependence between events is explicated in terms of continuous processes in space and time that transmit ‘marks’ or conserved quantities from the cause to the effect (see Salmon 1998, chapters 1, 12, 16 and 18, Dowe 2000, the entry on causal processes, and references therein). Thus, recalling (sections 1, 2, 4 and 5) that none of the interpretations of quantum mechanics and alternative quantum theories postulates any (direct) continuous process between the distant measurement events in the EPR/B experiment, there is no superluminal causation between them according to process accounts of causation.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1213,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Whether or not the non-locality predicted by quantum theories may be classified as action at a distance or superluminal causation, the question arises as to whether this non-locality could be exploited to allow superluminal (i.e., faster-than-light) signaling of information. This question is of particular importance for those who interpret relativity as prohibiting any such superluminal signaling. (We shall return to discuss this interpretation in section 10.)",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1214,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Superluminal signaling would require that the state of nearby controllable physical objects (say, a keyboard in my computer) superluminally influence distant observable physical phenomena (e.g. a pattern on a computer screen light years away). The influence may be deterministic or indeterministic, but in any case it should cause a detectable change in the statistics of some distant physical quantities.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1215,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  It is commonly agreed that in quantum phenomena, superluminal signaling is impossible in practice. Moreover, many believe that such signaling is excluded in principle by the so-called ‘no-signaling theorem’ (for proofs of this theorem, see Eberhard 1978, Ghirardi, Rimini and Weber 1980, Jordan 1983, Shimony 1984, Redhead 1987, pp. 113-116 and 118). It is thus frequently claimed with respect to EPR/B experiments that there is no such thing as a Bell telephone, namely a telephone that could exploit the violation of the Bell inequalities for superluminal signaling of  information.[31]",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1216,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The no-signaling theorem demonstrates that orthodox quantum mechanics excludes any possibility of superluminal signaling in the EPR/B experiment. According to this theory, no controllable physical factor in the L-wing, such as the setting of the L-measurement apparatus, can take advantage of the entanglement between the systems in the L- and the R-wing to influence the statistics of the measurement outcomes (or any other observable) in the R-wing. As we have seen in section 5.1.1, the orthodox theory is at best incomplete. Thus, the fact that it excludes superluminal signaling does not imply that other quantum theories or interpretations of the orthodox theory also exclude such signaling. Yet, if the orthodox theory is empirically adequate, as the consensus has it, its statistical predictions obtain, and accordingly superluminal signaling will be excluded as a matter of fact; for if this theory is empirically adequate, any quantum theory will have to reproduce its statistics, including the exclusion of any actual superluminal signaling.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1217,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  But the no-signaling theorem does not demonstrate that superluminal signaling would be impossible if orthodox quantum mechanics were not empirically adequate. Furthermore, this theorem does not show that superluminal signaling is in principle impossible in the quantum realm as depicted by other theories, which actually reproduce the statistics of orthodox quantum mechanics but do not prohibit in theory the violation of this statistics. In sections 7.2-7.3, we shall consider the in-principle possibility of superluminal signaling in certain collapse and no-collapse interpretations of quantum mechanics. But, first, we need to consider the necessary and sufficient conditions for superluminal signaling.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1218,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  To simplify things, in our discussion we shall focus on non-factorizable models of the EPR/B experiment that satisfy λ-independence (i.e., the assumption that the distribution of the states λ is independent of the settings of the measurement apparatuses). Superluminal signaling in the EPR/B experiment would be possible in theory just in case the value of some controllable physical quantity in the nearby wing could influence the statistics of measurement outcomes in the distant wing. And in non-factorizable models that satisfy λ-independence this could happen just in case the following conditions obtained:",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1219,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Four comments: (i) In controllable probabilistic dependence, the term 'probabilities of measurement outcomes' refers to the model probabilities, i.e., the probabilities that the states λ prescribe for measurement outcomes.      (ii) Our discussion in this entry focuses on models of the EPR/B experiment in which probabilities of measurement outcomes depend only on the pair's state λ and the settings of the measurement apparatuses to measure certain properties. In such models, parameter dependence (i.e., the dependence of the probability of the distant measurement outcome on the setting of the nearby measurement apparatus) is a necessary and sufficient condition for controllable probabilistic dependence. But, recall (footnote 3) that in some models of the EPR/B experiment, in addition to the pair's state and the setting of the L- (R-) measurement apparatus there are other local physical quantities that may be relevant for the probability of the L- (R-) measurement outcome. In such models, parameter dependence is not a necessary condition for controllable probabilistic dependence. Some other physical quantities in the nearby wing may be relevant for the probability of the distant measurement outcome. (That is, let α and β denote all the relevant local physical quantities, other than the settings of the measurement apparatuses, that may be relevant for the probability of the L- and the R-outcome, respectively. Then, controllable probabilistic dependence would obtain if for some pairs' states λ, L-setting l, R-setting r and local physical quantities α and β, Pλ l r α β(yr) ≠ Pλ l r β(yr) obtained.) For the relevance of such models to the question of the in-principle possibility of superluminal signalling in some current interpretations of quantum mechanics, see sections 7.3 and 7.4.      (iii) The quantum-equilibrium distribution will not be the same in all models of the EPR/B experiment; for in general the states λ will not be the same in different models.      (iv) In models that actually violate both controllable probabilistic dependence and λ-distribution, the occurrence of controllable probabilistic dependence would render the actual distribution of λ states as non-equilbrium distribution. Thus, if controllable probabilistic dependence occurred in such models, the actual distribution of λ states would satisfy λ-distribution. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1220,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The argument for the necessity of controllable probabilistic dependence and λ-distribution is straightforward. Granted λ-independence, if the probabilistic dependence of the distant outcome on a nearby physical quantity is not controllable, there can be no way to manipulate the statistics of the distant outcome so as to deviate from the statistical predictions of quantum mechanics. Accordingly, superluminal transmission of information will be impossible even in theory. And if λ-distribution does not hold, i.e., if the quantum-equilibrium distribution holds, controllable probabilistic dependence will be of no use for superluminal transmission of information. For, averaging over the model probabilities according to the quantum-equilbrium distribution, the model will reproduce the statistics of orthodox quantum mechanics. That is, the distribution of the λ-states will be such that the probabilistic dependence of the distant outcome on the nearby controllable factor will be washed out: In some states the nearby controllable factor will raise the probability of the distant outcome and in others it will decrease this probability, so that on average the overall statistics of the distant outcome will be independent of the nearby controllable factor (i.e., the same as the statistics of orthodox quantum mechanics). Accordingly, superluminal signaling will be impossible.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1221,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The argument for the sufficiency of these conditions is also straightforward. If λ-distribution held, it would be possible in theory to arrange ensembles of particle pairs in which controllable probabilistic dependence would not be washed out, and accordingly the statistics of distant outcomes would depend on the nearby controllable factor. (For a proof that these conditions are sufficient for superluminal signaling in certain deterministic hidden variables theories, see Valentini 2002.)",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1222,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Note that the necessary and sufficient conditions for superluminal signaling are different in models that do not exclude in theory the violation of λ-independence. In such models controllable probabilistic dependence is not a necessary condition for superluminal signaling. The reasoning is as follows. Consider any empirically adequate model of the EPR/B experiment in which the pair's state and the settings of the measurement apparatuses are the only relevant factors for the probabilities of measurement outcomes, and the quantum-equilibrium distribution is λ-independent. In such a model, parameter independence implies the failure of controllable probabilistic dependence, yet the violation of λ-independence would imply the possibility of superluminal signaling: If λ-independence failed, a change in the setting of the nearby measurement apparatus would cause a change in the distribution of the states λ, and a change in this distribution would induce a change in the statistics of the distant (space-like separated) measurement outcome. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1223,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Leaving aside models that violate λ-independence, we now turn to consider the prospects of controllable probabilistic dependence and λ-distribution, starting with no-collapse interpretations.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1224,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Bohm's theory involves parameter dependence and thus controllable probabilistic dependence: The probabilities of distant outcomes depend on the setting of the nearby apparatus. In some pairs' states λ, i.e., in some configurations of the positions of the particle pair, a change in the apparatus setting of the (earlier) say L-measurement will induce an immediate change in the probability of the R-outcome: e.g. the probability of R-outcome z-spin ‘up’ will be 1 if the L-apparatus is set to measure z-spin and 0 if the L-apparatus is switched off (see section 5.3.1). Thus, the question of superluminal signaling turns on whether λ-distribution obtains.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1225,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Now, recall (section 5.3.1) that Bohm's theory reproduces the quantum statistics by postulating the quantum-equilibrium distribution over the positions of particles. If this distribution is not an accidental fact about our universe, but rather obtains as a matter of law, superluminal signaling will be impossible in principle. Dürr, Goldstein and Zanghì (1992a,b, 1996, fn. 15) argue that, while the quantum-equilibrium distribution is not a matter a law, other distributions will be possible but atypical. Thus, they conclude that although superluminal signaling is not impossible in theory, it may occur only in atypical worlds. On the other hand, Valentini (1991a,b, 1992, 1996, 2002) and Valentini and Westman 2004) argue that there are good reasons to think that our universe may well have started off in a state of quantum non-equilibrium and is now approaching gradually a state of equilibrium, so that even today some residual non-equilibrium must be  present.[32]   Yet, even if such residual non-equilbrium existed, the question is whether it would be possible to access any ensemble of systems in a non-equilbrium distribution.  ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1226,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The presence or absence of parameter independence (and accordingly the presence or absence of controllable probabilistic dependence) in the modal interprtation is a matter of controversy, perhaps due in part to the multiplicity of versions of this interpretation. Whether or not modal interpretations involve parameter dependence would probably depend on the dynamics of the possessed properties. At least some of the current modal interpretations seem to involve no parameter dependence. But, as the subject editor pointed out to the author, some think that the no-go theorem for relativistic modal interpretation due to Dickson and Clifton (1998) implies the existence of parameter dependence in all the interpretations to which this theorem is applicable. Do modal interpretations satisfy λ-distribution? The prospects of this condition depend on whether the possessed properties that the modal interpretation assigns in addition to the properties prescribed by the orthodox interpretation, are controllable. If these properties were controllable at least in theory, λ-distribution would be possible. For example, if the possessed spin properties that the particles have at the emission from the source in the EPR/B experiment were controllable, then λ-distribution would be possible. The common view seems to be that these properties are uncontrollable. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1227,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In the GRW/Pearle collapse models, wave functions represent the most exhaustive, complete specification of states of individual systems. Thus, pairs prepared with the same wave function have always the same λ state — a state that represents their quantum-equilbrium distribution for the EPR/B experiment. Accordingly, λ-distribution fails. Do these models involve controllable probabilistic dependence?",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1228,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Recall (section 5.1.2) that there are several models of state reduction in the literature. One of these models is the so-called non-linear Continuous Stochastic Localization (CSL) models (see Pearle 1989, Ghirardi, Pearle and Rimini 1990, Butterfield et al. 1993, and Ghirardi et al. 1993). Butterfield et al. (1993) argue that in these models there is a probabilistic dependence of the outcome of the R-measurement on the process that leads to the (earlier) outcome of the L-measurement. In these models, the process leading to the L-outcome (either z-spin ‘up’ or z-spin ‘down’) depends on the interaction between the L-particle and the L-apparatus (which results in an entangled state), and the specific realization of the stochastic process that strives to collapse this macroscopic superposition into a product state in which the L-apparatus displays a definite outcome. And the probability of the R-outcome depends on this process. For example, if this process is one that gives rise to a z-spin ‘up’ (or renders that outcome more likely), the probability of R-outcome z-spin ‘up’ is 0 (more likely to be 0); and if this process is one that gives rise to a z-spin ‘down’ (or renders that outcome more likely), the probability of R-outcome z-spin ‘down’ is 0 (more likely to be 0). The question is whether there are controllable factors that influence the probability of realizations of stochastic processes that lead to a specific L-outcome, so that it would be possible to increase or decrease the probability of the R-outcome. If such factors existed, controllable probabilistic dependence would be possible at least in theory. And if this kind of controllable probabilistic dependence existed, λ-distribution would also obtain; for if such dependence existed, the actual distribution of pairs' states (in which the pair always have the same state, the quantum-mechanical state) would cease to be the quantum-equilbrium distribution.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1229,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In section 7.3.1, we discussed the question of the in-principle controllability of local measurement processes and in particular the probability of their outcome, and the implications of such controllability for the in-principle possibility of superluminal signaling in the context of the CSL models. But this question is not specific to the CSL model and (more generally) the dynamical models for state-vector reduction. It seems likely to arise also in other quantum theories that model measurements realistically. Here is why. Real measurements take time. And during that time, some physical variable, other than the state of the measured system and the setting of the measurement apparatus, might influence the chance (i.e., the single-case objective probability) of the measurement outcome. In particular, during the L-measurement in the EPR/B experiment, the chance of the L-outcome z-spin ‘up’ (‘down’) might depend on the value of some physical variable in the L-wing, other than the state of the particle pair and the setting of the L-measurement apparatus. If so, it will follow from the familiar perfect anti-correlation of the singlet state that the chance of R-outcome z-spin ‘up’ (‘down’) will depend on the value of such variable (for details, see Kronz 1990a,b, Jones and Clifton 1993, pp. 304-305, and Berkovitz 1998a, section 4.3.4). Thus, if the value of such a variable were controllable, controllable probabilistic dependence would obtain.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1230,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  If superluminal signaling were possible in the EPR/B experiment in any of the above theories, it would not require any continuous process in spacetime to mediate the influences between the two distant wings. Indeed, in all the current quantum theories in which the probability of the R-outcome depends on some controllable physical variable in the L-wing, this dependence is not due to a continuous process. Rather, it is due to some type of ‘action’ or (to use Shimony's (1984) terminology) ‘passion’ at a distance, which is the ‘result’ of the holistic nature of the quantum realm, the non-separability of the state of entangled systems, or the non-separable nature of the evolution of the properties of systems. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1231,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In sections 5-7, we considered the nature of quantum non-locality as depicted by theories that violate factorizability, i.e., the assumption that the probability of joint measurement outcomes factorizes into the single probabilities of these outcomes. Recalling section 3, factorizability can be analyzed into a conjunction of two conditions: OI (outcome independence)—the probability of a distant measurement outcome in the EPR/B experiment is independent of the nearby measurement outcome; and PI (parameter independence)—the probability of a distant measurement outcome in the EPR/B experiment is independent of the setting of the nearby measurement apparatus. Bohm's theory violates PI, whereas other mainstream quantum theories satisfy this condition but violate OI. The question arises as to whether violations of PI involve a different kind of non-locality than violations of OI.  So far, our methodology was to study the nature of quantum non-locality by analyzing the way various quantum theories account for the curious correlations in the EPR/B experiment. In this section, we shall focus on the question of whether quantum non-locality can be studied in a more general way, namely by analyzing the types of non-locality involved in violations of PI and in violations of OI, independently of how these violations are realized.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1232,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  It is frequently argued or maintained that violations of OI involve state non-separability and/or some type of holism, whereas violations of PI involve action at a distance. For notable examples, Howard (1989) argues that spatiotemporal separability (see section 4.3) implies OI, and accordingly a violation of it implies spatiotemporal non-separability; Teller (1989) argues that particularism (see section 4.3) implies OI, and thus a violation of it implies relational holism; and Jarrett (1984, 1989) argues that a violation of PI involves some type of action at a distance. These views are controversial, however.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1233,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  First, as we have seen in section 5, in quantum theories the violation of either of these conditions involves some type of non-separability and/or holism.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1234,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Second, the explicit attempts to derive OI from separability or particularism seem to rely (implicitly) on some locality conditions. Maudlin (1998, p. 98) and Berkovitz (1998a, section 6.1) argue that Howard's precise formulation of spatiotemporal separability embodies both separability and locality conditions, and Berkovitz (1998a, section 6.2) argues that Teller's derivation of OI from particularism implicitly relies on locality conditions. Thus, the violation of OI per se does not imply non-separability or holism.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1235,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Third, a factorizable model, i.e., model that satisfies OI, may be non-separable (Berkovitz 1995b, section 6.5). Thus, OI cannot be simply identified with separability.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1236,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Fourth, Howard's spatiotemporal separability condition (see section 4.3) requires that states of composite systems be determined by the states of their subsystems. In particular, spatiotemporal separability requires that joint probabilities of outcomes be determined as some function of the single probabilities of these outcomes. Winsberg and Fine (2003) object that as a separability condition, OI arbitrarily restricts this function to be a product function. And they argue that on a weakened formalization of separability, a violation of OI is compatible with separability. Fogel (2004) agrees that Winsberg and Fine's weakened formalization of separability is correct, but argues that, when supplemented by a certain ‘isotropy’ condition, OI implies this weakened separability condition. Fogel believes that his suggested ‘isotropy’ condition is very plausible, but, as he acknowledges, this condition involves a nontrivial measurement  context-independence.[33]",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1237,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Fifth, as the analysis in section 5 demonstrates, violations of OI might involve action at a distance. Also, while the minimal Bohm theory violates PI and arguably some modal interpretations do not, the type of action at a distance they postulate, namely action* at a distance (see section 5.2), is similar: In both cases, an earlier spin-measurement in (say) the L-wing does not induce any immediate change in the intrinsic properties of the R-particle. The L-measurement only causes an immediate change in the dispositions of the R-particle—a change that may influence the behavior of the R-particle in future spin-measurements in the R-wing. But, this change of dispositions does not involve any change of local properties in the R-wing, as these dispositions are relational (rather than intrinsic) properties of the R-particle. Furthermore, the action at a distance predicated by the minimal Bohm theory is weaker than the one predicated by orthodox collapse quantum mechanics and the GRW/Pearle collapse models; for in contrast to the minimal Bohm theory, in these theories the measurement on the L-particle induces a change in the intrinsic properties of the R-particle, independently of whether or not the R-particle undergoes a measurement. Thus, if the R-particle comes to possess (momentarily) a definite position, the EPR/B experiment as described by these theories involves action at a distance — a stronger kind of action than the action* at a distance predicated by the minimal Bohm theory.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1238,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  It was also argued, notably by Jarrett 1984 and 1989 and Shimony 1984, that in contrast to violations of OI, violations of PI may give rise (at least in principle) to superluminal signaling. Indeed, as is not difficult to see from section 7.1, in theories that satisfy λ-independence there is an asymmetry between failures of PI and failures of OI with respect to superluminal signaling: whereas λ-distribution and the failure of PI are sufficient conditions for the in-principle possibility of superluminal signaling, λ-distribution and the failure of OI are not. Thus, the prospects of superluminal signaling look better in parameter-dependent theories, i.e., theories that violate PI. Yet, as we have seen in section 7.2.1, if the Bohmian quantum-equilbrium distribution obtains, then Bohm's theory, the paradigm of parameter dependent theories, prohibits superluminal signaling. And if this distribution is obtained as a matter of law, then Bohm's theory prohibits superluminal signaling even in theory. Furthermore, as we remarked in section 7.1, if the in-principle possibility of violating λ-independence is not excluded, superluminal signaling may exist in theories that satisfy PI and violate OI. In fact, as section 7.4 seems to suggest, the possibility of superluminal signaling in theories that satisfy PI but violate OI cannot be discounted even when λ-independence is impossible.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1239,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Jarrett (1984, 1989), Ballentine and Jarrett (1997) and Shimony (1984) hold that superluminal signaling is incompatible with relativity theory. Accordingly, they conclude that violations of PI are incompatible with relativity theory, whereas violations of OI may be compatible with this theory. Furthermore, Sutherland (1985, 1989) argues that deterministic, relativistic parameter-dependent theories (i.e., relativistic, deterministic theories that violate PI) would plausibly require retro-causal influences, and in certain experimental circumstances this type of influences would give rise to causal paradoxes, i.e., inconsistent closed causal loops (where effects undermine their very causes). And Arntzenius (1994) argues that all relativistic parameter-dependent theories are impossible on pain of causal paradoxes. That is, he argues that in certain experimental circumstances any relativistic, parameter-dependent theory would give rise to closed causal loops in which violations of PI could not obtain.  ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1240,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  It is noteworthy that the view that relativity per se is incompatible with superluminal signaling is disputable (for more details, see section 10). Anyway, recalling (section 8.2), if λ-distribution is excluded as a matter of law, it will be impossible even in theory to exploit the violation of PI to give rise to superluminal signaling, in which case the possibility of relativistic parameter-dependent theories could not be discounted on the basis of superluminal signaling.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1241,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Furthermore, as mentioned in section 7.1 and 7.4, the in-principle possibility of superluminal signaling in theories that satisfy PI and violate OI cannot be excluded a priori. Thus, if relativity theory excludes superluminal signaling, the argument from superluminal signaling may also be applied to exclude the possibility of some relativistic outcome-dependent theories. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1242,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Finally, Berkovitz (2002) argues that Arntzenius's argument for the impossibility of relativistic theories that violate PI is based on assumptions about probabilities that are common in linear causal situations but are unwarranted in causal loops, and that the real challenge for these theories is that in such loops their predictive power is undermined (for more details, see section 10.3). ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1243,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In various counterfactual and probabilistic accounts of causation violations of PI entail superluminal causation between the setting of the nearby measurement apparatus and the distant measurement outcome, whereas violations of OI entail superluminal causation between the distant measurement outcomes (see Butterfield 1992b, 1994, Berkovitz 1998b, section 2). Thus, it seems that theories that violate PI postulate a different type of superluminal causation than theories that violate OI. Yet, as Berkovitz (1998b, section 2.4) argues, the violation of PI in Bohm's theory does involve some type of outcome dependence, which may be interpreted as a generalization of the violation of OI. In this theory, the specific R-measurement outcome in the EPR/B experiment depends on the specific L-measurement outcome: For any three different directions x, y, z, if the probabilities of x-spin ‘up’ and y-spin ‘up’ are non-zero, the probability of R-outcome z-spin ‘up’ will generally depend on whether the L-outcome is x-spin ‘up’ or y-spin ‘up’.  Yet, due to the determinism that Bohm's theory postulates, OI trivially obtains. Put it another way, OI does not reflect all the types of outcome independence that may exist between distant outcomes.  Accordingly, the fact that a theory satisfies OI does not entail that it does not involve some other type of outcome dependence. Indeed, in all the current quantum theories that violate factorizability there are correlations between distant specific measurement outcomes — correlations that may well be interpreted as an indication of counterfactual superluminal causation between these outcomes.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1244,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Parameter dependence (PI) postulates that in the EPR/B experiment the probability of the later, distant measurement outcome depends on the setting of the apparatus of the nearby, earlier measurement. It may be tempting to assume that this dependence is due to a direct influence of the nearby setting on the (probability of the) distant outcome. But a little reflection on the failure of PI in Bohm's theory, which is the paradigm for parameter dependence, demonstrates that the setting of the nearby apparatus per se has no influence on the distant measurement outcome.  Rather, it is because the setting of the nearby measurmenent apparatus influences the nearby measurement outcome and the nearby outcome influences the distant outcome that the setting of the nearby apparatus can have an influence on the distant outcome. For, as is not difficult to see from the analysis of the nature of non-locality in the minimal Bohm theory (see section 5.3.1), the setting of the apparatus of the nearby (earlier) measurement in the EPR/B experiment influences the outcome the nearby measurement, and this outcome influences the guiding field of the distant particle and accordingly the outcome of a measurement on that particle.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1245,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  While the influence of the nearby setting on the nearby outcome is necessary for parameter dependence, it is not sufficient for it. In all the current quantum theories, the probabilities of joint outcomes in the EPR/B experiment depend on the settings of both measurement apparatuses: The probability that the L-outcome is l-spin ‘up’ and the R-outcome is r-spin ‘up’ and the probability that the L-outcome is l-spin ‘up’ and the R-outcome is r-spin ‘down’ both depend on (l − r), i.e.,  the distance between the angles l and r. In theories in which the sum of these joint probabilities is invariant with respect to the value of (l − r), parameter independence obtains: for all pairs' states λ, L-setting l, and R-settings r and r′, L-outcome xl, and R-outcomes yr and yr′ :",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1246,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Parameter dependence is a violation of this invariance condition.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1247,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The focus of this entry has been on exploring the nature of the non-local influences in the quantum realm as depicted by quantum theories that violate factorizability, i.e., theories in which the joint probability of the distant outcomes in the EPR/B experiment do not factorize into the product of the single probabilities of these outcomes. The motivation for this focus was that, granted plausible assumptions, factorizability must fail (see section 2), and its failure implies some type of non-locality (see sections 2-8). But if any of these plausible assumptions failed, it may be possible to account for the EPR/B experiment (and more generally for all other quantum phenomena) without postulating any non-local influences. Let us then consider the main arguments for the view that quantum phenomena need not involve non-locality.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1248,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In arguments for the failure of factorizability, it is presupposed that the distant measurement outcomes in the EPR/B experiment are real physical events. Recall (section 5.3.3) that in Albert and Loewer's (1988) many-minds interpretation this is not the case. In this interpretation, definite measurement outcomes are (typically) not physical events. In particular, the pointers of the measurement apparatuses in the EPR/B experiment do not display any definite outcomes. Measurement outcomes in the EPR/B experiment exist only as (non-physical) mental states in observers' minds (which are postulated to be non-physical entities). So sacrificing some of our most fundamental presuppositions about the physical reality and assuming a controversial mind-body dualism, the many-minds interpretation of quantum mechanics does not postulate any action at a distance or superluminal causation between the distant wings of the EPR/B experiment. Yet, as quantum-mechanical states of systems are assumed to reflect their physical states, the many-minds theory does postulate some type of non-locality, namely state non-separability and property and relational holism.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1249,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Another way to get around Bell's argument for non-locality in the EPR/B experiment is to construct a model of this experiment that satisfies factorizability but violates λ-independence (i.e., the assumption that the distribution of all the possible pairs' states in the EPR/B experiment is independent of the measured quantities). In section 2, we mentioned two possible causal explanations for the failure of λ-independence. The first is to postulate that pairs' states and apparatus settings share a common cause, which correlates certain types of pairs' states with certain types of settings (e.g. states of type λ1 are correlated with settings of type l and r, whereas states of type λ2 are correlated with settings of type l′ and r′, etc.). As we noted, thinking about all the various ways one can measure properties, this explanation seems conspiratorial. Furthermore, it runs counter to one of the most fundamental presuppositions of empirical science, namely that in experiments preparations of sources and settings of measurement apparatuses are typically independent of each other. The second possible explanation is to postulate causation from the measurement events backward to the source at the emission time. (For advocates of this way out of non-locality, see Costa de Beauregard 1977, 1979, 1985, Sutherland 1983, 1998, 2006 and Price 1984, 1994, 1996, chapters 3, 8 and 9.) Maudlin (1994, p. 197-201) argues that theories that postulate such causal mechanism are inconsistent. Berkovitz (2002, section 5) argues that Maudlin's line of reasoning is based on unwarranted premises. Yet, as we shall see in section 10.3, this way out of non-locality faces some challenges. Furthermore, while a violation of λ-independence provides a way out of Bell's theorem, it does not necessarily imply locality; for the violation of λ-independence is compatible with the failure of factorizability. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1250,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  A third way around non-locality is to ‘exploit’ the inefficiency of measurement devices or (more generally) measurement set-ups. In any actual EPR/B experiment, many of the particle pairs emitted from the source fail to be detected, so that only a sample of the particle pairs is observed. Assuming that the observed samples are not biased, it is now generally agreed that the statistical predictions of orthodox quantum mechanics have been vindicated (for a review of these experiments, see Redhead 1987, section 4.5). But if this assumption is abandoned, there are perfectly local causal explanations for the actual experimental results (Clauser and Horne 1974, Fine 1982b, 1989a). Many believe that this way out of non-locality is ad hoc, at least in light of our current knowledge. Moreover, this strategy would fail if the efficiency of measurement devices exceeded a certain threshold (for more details, see Fine 1989a, Maudlin 1994, chapter 6, Larsson and Semitecolos 2000 and Larsson 2002). ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1251,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Finally, there are those who question the assumption that factorizability is a locality condition (Fine 1981, 1986, pp. 59-60, 1989b, Cartwright 1989, chaps. 3 and 6, Chang and Cartwright 1993). Accordingly, they deny that non-factorizability implies non-locality. The main thrust of this line of reasoning is that the principle of the common cause is not generally valid. Some, notably Cartwright (1989) and Chang and Cartwright (1993), challenge the assumption that common causes always screen off the correlation between their effects, and accordingly they question the idea that non-factorizability implies non-locality. Others, notably Fine, deny that correlations must have causal explanation. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1252,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  While these arguments challenge the view that the quantum realm as depicted by non-factorizable models for the EPR/B experiment must involve non-locality, they do not show that viable local, non-factorizable models of the EPR/B experiment (i.e., viable models which do not postulate any non-locality) are possible. Indeed, so far none of the attempts to construct local, non-factorisable models for EPR/B experiments has been successful. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1253,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The question of the compatibility of quantum mechanics with the special theory of relativity is very difficult to resolve. (The question of the compatibility of quantum mechanics with the general theory of relativity is even more involved.) The answer to this question depends on the interpretation of special relativity and the nature of the exact constraints it imposes on influences between events. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1254,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  A popular view has it that special relativity prohibits any superluminal influences, whereas theories that violate factorizability seem to involve such influences. Accordingly, it is held that quantum mechanics is incompatible with relativity. Another common view has it that special relativity prohibits only certain types of superluminal influence. Many believe that relativity prohibits superluminal signaling of information. Some also believe that this theory prohibits superluminal transport of matter-energy and/or action-at-a-distance. On the other hand, there is the view that relativity per se prohibits only superluminal influences that are incompatible with the special-relativistic space-time, the so-called ‘Minkowski space-time,’ and that this prohibition is compatible with certain types of superluminal influences and superluminal signaling (for a comprehensive discussion of this issue, see Maudlin, 1994, 1996, section  2).[34] ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1255,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  It is commonly agreed that relativity requires that the descriptions of physical reality (i.e., the states of systems, their properties, dynamical laws, etc.) in different coordinate systems should be compatible with each other. In particular, descriptions of the state of systems in different foliations of spacetime into parallel spacelike hyperplanes, which correspond to different inertial reference frames, are to be related to each other by the Lorentz transformations. If this requirement is to reflect the structure of the Minkowski spacetime, these transformations must hold at the level of individual processes, and not only at the level of ensembles of processes (i.e., at the statistical level) or observed phenomena. Indeed, Bohm's theory, which is manifestly non-relativistic, satisfies the requirement that the Lorentz transformations obtain at the level of the observed phenomena. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1256,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  However, satisfying the Lorentz transformations at the level of individual processes is not sufficient for compatibility with Minkowski spacetime; for the Lorentz transformations may also be satisfied at the level of individual processes in theories that postulate a preferred inertial reference frame (Bell 1976). Maudlin (1996, section 2) suggests that a theory is genuinely relativistic (both in spirit and letter) if it can be formulated without ascribing to spacetime any more, or different intrinsic structure than the relativistic  metrics.[35] The question of the compatibility of relativity with quantum mechanics may be presented as follows: Could a quantum theory that does not encounter the measurement problem be relativistic in that sense?  ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1257,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The main problem in reconciling collapse theories with special relativity is that it seems very difficult to make state collapse (modeled as a real physical process) compatible with the structure of the Minkowski spacetime. In non-relativistic quantum mechanics, the earlier L-measurement in the EPR/B experiment induces a collapse of the entangled state of the particle pair and the L-measurement apparatus. Assuming (for the sake of simplicity) that measurement events occur instantaneously, state collapse occurs along a single spacelike hyperplane that intersects the spacetime region of the L-measurement event—the hyperplane that represents the (absolute) time of the collapse. But this type of collapse dynamics would involve a preferred foliation of spacetime, in violation of the spirit, if not the letter of the Minkowski spacetime. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1258,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The current dynamical collapse models are not genuinely relativistic, and attempts to generalize them to the special relativistic domain have encountered difficulties (see, for example, the entry on collapse theories, Ghirardi 1996, Pearle 1996, and references therein). A more recent attempt to address these difficulties due to Tumulka (2004) seems more promising.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1259,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  In an attempt to reconcile state collapse with special relativity, Fleming (1989, 1992, 1996) and Fleming and Bennett (1989) suggested radical hyperplane dependence. In their theory, state collapse occurs along an infinite number of spacelike hyperplanes that intersect the spacetime region of the measurements. That is, in the EPR/B experiment a collapse occurs along all the hyperplanes of simultaneity that intersect the spacetime region of the L-measurement. Similarly, a collapse occurs along all the hyperplanes of simultaneity that intersect the distant (space-like separated) spacetime region of the R-measurement. Accordingly, the hyperplane-dependent theory does not pick out any reference frame as preferred, and the dynamics of the quantum states of systems and their properties can be reconciled with the Minkowski spacetime. Further, since all the multiple collapses are supposed to be real (Fleming 1992, p. 109), the predictions of orthodox quantum mechanics are reproduced in each reference frame. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1260,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  The hyperplane-dependent theory is genuinely relativistic. But the theory does not offer any mechanism for state collapses, and it does not explain how the multiple collapses are related to each other and how our experience is accounted for in light of this multiplicity.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1261,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Myrvold (2002b) argues that state collapses can be reconciled with Minkowski spacetime even without postulating multiple different collapses corresponding to different reference frames. That is, he argues with respect to the EPR/B experiment that the collapses induced by the L- and the R-measurement are local events in the L- and the R-wing respectively, and that the supposedly different collapses (corresponding to different reference frames) postulated by the hyperplane-dependent theory are only different descriptions of the same local collapse events. Focusing on the state of the particle pair, the main idea is that the collapse event in the L-wing is modeled by a (one parameter) family of operators (the identity operator before the L-measurement and a projection to the collapsed state after the L-measurement), and it is local in the sense that it is a projection on the Hilbert space of the L-particle; and similarly, mutatis mutandis, for the R-particle. Yet, if the quantum state of the particle pair represents their complete state (as the case is in the orthodox theory and the GRW/Pearle collapse models), these collapse events seem non-local. While the collapse in the L-wing may be said to be local in the above technical sense, it is by definition a change of local as well as distant (spacelike) properties. The operator that models the collapse in the L-wing transforms the entangled state of the particle pair—a state in which the particles have no definite spins—into a product of non-entangled states in which both particles have definite spins, and accordingly it causes a change of intrinsic properties in both the L- and the R-wing.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1262,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "   In any case, Myrvold's proposal demonstrates that even if state collapses are not hyperplane dependent, they need not be incompatible with relativity theory.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1263,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Recall (section 5.3) that in no-collapse theories, quantum-mechanical states always evolve according to a unitary and linear equation of motion (the Schrödinger equation in the non-relativistic case), and accordingly they never collapse. Since the wave function has a covariant dynamics, the question of the compatibility with relativity turns on the dynamics of the additional properties —the so-called ‘hidden variables’— that no-collapse theories typically postulate. In Albert and Loewer's many-minds theory (see section 5.3.3), the wave function has covariant dynamics, and no additional physical properties are postulated. Accordingly, the theory is genuinely relativistic. Yet, as the compatibility with relativity is achieved at the cost of postulating that outcomes of measurements (and, typically, any other perceived properties) are mental rather than physical properties, many find this way of reconciling quantum mechanics with relativity unsatisfactory. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1264,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Other Everett-like interpretations attempt to reconcile quantum mechanics with the special theory of relativity without postulating such a controversial mind-body dualism. Similarly to the many-minds interpretation of Albert and Loewer, and contrary to Bohm's theory and modal interpretations, on the face of it these interpretations do not postulate the existence of ‘hidden variables.’ But (recalling section 5.3.3) these Everett-like interpretations face the challenge of making sense of our experience and the probabilities of outcomes, and critics of these interpretations argue that this challenge cannot be met without adding some extra structure to the Everett interpretation (see Albert and Loewer 1988, Albert 1992, pp. 114-5, Albert and Loewer 1996, Price 1996, pp.  226-227, and Barrett 1999, pp. 163-173); a structure that may render these interpretations incompatible with relativity. Supporters of the Everett interpretation disagree. Recently, Deutsch (1999), Wallace (2002, 2003, 2005a,b) and Greaves (2004) have suggested that Everettians can make sense of the quantum-mechanical probabilities by appealing to decision-theoretical considerations. But this line of reasoning has been disputed (see Barnum et al. 2000, Lewis 2003b, Hemmo and Pitowsky 2005 and Price 2006). ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1265,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Modal interpretations constitute another class of no-collapse interpretations of quantum mechanics that were developed to reconcile quantum mechanics with relativity (and to solve the measurement problem). Yet, as the no-go theorems by Dickson and Clifton (1998), Arntzenius (1998) and Myrvold (2002) demonstrate, the earlier versions of the modal interpretation are not genuinely compatible with relativity theory. Further, Earman and Ruetsche (2005) argue that a quantum-field version of the modal interpretation (which is set in the context of relativistic quantum-field theory), like the one proposed by Clifton (2000), would be subject to serious challenges.  Berkovitz and Hemmo (2006a,b) develop a relational modal interpretation that escapes all the above no-go theorems and to that extent seems to provide better prospects for reconciling quantum mechanics with special relativity. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1266,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Recall (section 8) that many believe that parameter-dependent theories (i.e., theories that violate parameter independence) are more difficult or even impossible to reconcile with relativity. Recall also that one of the lines of argument for the impossibility of relativistic parameter-dependent theories is that such theories would give rise to causal paradoxes. In our discussion, we focused on EPR/B experiments in which the measurements are distant (spacelike separated). In a relativistic parameter-dependent theory, the setting of the nearby measurement apparatus in the EPR/B experiment would influence the probability of the distant (spacelike separated) measurement outcome. Sutherland (1985, 1989) argues that it is plausible to suppose that the realization of parameter dependence would be the same in EPR/B experiments in which the measurements are not distant from each other (i.e., when the measurements are timelike separated). If so, relativistic parameter-dependent theories would involve backward causal influences. But, he argues, in deterministic, relativistic parameter-dependent theories these influences would give rise to causal paradoxes, i.e., inconsistent closed causal loops.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1267,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "   Furthermore, Arntzenius (1994) argues that all relativistic parameter-dependent theories are impossible on pain of causal paradoxes. In his argument, he considers the probabilities of measurement outcomes in a setup in which two EPR/B experiments are causally connected to each other, so that the L-measurement outcome of the first EPR/B experiment determines the setting of the L-apparatus of the second EPR/B experiment and the R-measurement outcome of the second EPR/B experiment determines the setting of the R-apparatus of the first EPR/B experiment. And he argues that in this experiment, relativistic parameter-dependent theories (deterministic or indeterministic) would give rise to closed causal loops in which parameter dependence would be impossible. Thus, he concludes that relativistic, parameter-dependent theories are impossible. (Stairs (1989) anticipates the argument that the above experimental setup may give rise to causal paradoxes in relativistic, parameter-dependent theories, but he stops short of arguing that such theories are impossible.)",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1268,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Berkovitz (1998b, section 3.2, 2002, section 4) argues that Arntzenius's line of reasoning fails because it is based on untenable assumptions about the nature of probabilities in closed causal loops—assumptions that are very natural in linear causal situations (where effects do not cause their causes), but untenable in causal loops. (For an analysis of the nature of probabilities in causal loops, see Berkovitz 2001 and 2002, section 2.) Thus, he concludes that the consistency of relativistic parameter-dependent theories cannot be excluded on the grounds of causal paradoxes. He also argues that the real challenge for relativistic parameter-dependent theories is concerned with their predictive power. In the causal loops predicted by relativistic parameter-dependent theories in Arntzenius's suggested experiment, there is no known way to compute the frequency of events from the probabilities that the theories prescribe. Accordingly, such theories would fail to predict any definite statistics of measurement outcomes for that experiment. This lack of predictability may also present some new opportunities. Due to this unpredictability, there may be an empirical way for arbitrating between these theories and quantum theories that do not predicate the existence such causal loops in Arntzenius's experiment. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1269,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Another attempt to demonstrate the impossibility of certain relativistic quantum theories on the grounds of causal paradoxes is advanced by Maudlin (1994, pp. 195-201). (Maudlin does not present his argument in these terms, but the argument is in effect based on such grounds.) Recall (sections 2 and 9) that a way to try to reconcile quantum mechanics with relativity is to account for the curious correlations between distant systems by local backward influences rather than non-local influences. In particular, one may postulate that the correlations between the distant measurement outcomes in the EPR/B experiment are due to local influences from the measurement events backward to the state of the particle pair at the source. In such models of the EPR/B experiment, influences on events are always confined to events that occur in their past or future light cones, and no non-locality is postulated. Maudlin argues that theories that postulate such backward causation will be inconsistent. More particularly, he argues that a plausible reading of Cramer's (1980, 1986) transactional interpretation, and any other theory that similarly attempts to account for the EPR/B correlations by postulating causation from the measurement events backward to the source, will be inconsistent. ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1270,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  Berkovitz (2002, section 5) argues that Maudlin's argument is, in effect, that if such retro-causal theories were true, they would involve closed causal loops in which the probabilities of outcomes that these theories assign will certainly deviate from the statistics of these outcomes. And, similarly to Arntzenius's argument, Maudlin's argument also rests on untenable assumptions about the nature of probabilities in causal loops (for a further discussion of Maudlin's and Berkovitz's arguments and, more generally, the prospects of Cramer's theory, see Kastner 2004). Furthermore, Berkovitz (2002, sections 2 and 5.4) argues that, similarly to relativistic parameter-dependent theories, the main challenge for theories that postulate retro-causality is not causal paradoxes, but rather the fact that their predictive power may be undermined. That is, the probabilities assigned by such theories may fail to predict the frequency of events in the loops they predicate. In particular, the local retro-causal theories that Maudlin considers fail to assign any definite predictions for the frequency of measurement outcomes in certain experiments. Yet, some other theories that predicate the existence of causal loops, such as Sutherland's (2006) local time-symmetric Bohmian interpretation of quantum mechanics, seem not to suffer from this problem.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1271,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": " Bell’s Theorem |  intrinsic vs. extrinsic properties |  physics: holism and nonseparability |  quantum mechanics |  quantum mechanics: Bohmian mechanics |  quantum mechanics: collapse theories |  quantum mechanics: Everett’s relative-state formulation of |  quantum mechanics: Kochen-Specker theorem |  quantum mechanics: many-worlds interpretation of |  quantum mechanics: modal interpretations of |  quantum theory: the Einstein-Podolsky-Rosen argument in |  Reichenbach, Hans: common cause principle |  Salmon, Wesley |  supervenience |  Uncertainty Principle ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1272,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "  For comments on earlier versions of this entry, I am very grateful to Guido Bacciagaluppi.",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1273,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": " Copyright © 2007 by   Joseph Berkovitz &lt;jzberkovitz@yahoo.com&gt;     ",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1274,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "View this site from another server:",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1275,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1276,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/qm-action-distance/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "qm-action-distance"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1277,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Actualism is a widely-held view in the metaphysics of modality that arises in response to the thesis of possibilism. To understand the motivations for possibilism, consider first that most everyone would agree that things might have been different than they are in fact. For example, no one has free soloed the Dawn Wall route up El Capitan in Yosemite National Park and, given the almost superhuman physical ability and mental strength the feat would require and, more importantly, the massive risk it would entail, it is exceedingly unlikely that anyone ever will. But it is surely possible that someone pulls it off—the Dawn Wall has, after all, been successfully free climbed, so a free solo is not beyond sheer human  capacity.[1]  Thus, the following assertion (expressed in a somewhat stilted but unambiguous logical form for purposes here) is true:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1278,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Again, the current Pope (as of November 2022) Jorge Bergoglio, although childless, might have well have had children; instead of the priesthood, he could have chosen, say, tango dancing as his profession and married his longtime dance partner. So it is true that",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1279,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Possibilism emerges from the question of the truth conditions for such possibilities, the question of what it is about reality that accounts for their truth value. The assertion that there are tigers, for example, is true because reality, in fact, contains tigers; the assertion that someone has free soloed the Dawn Wall or is Bergoglio’s child is false because reality, in fact, contains no such things. But what accounts for their possibility? That is, what is it about reality that accounts for the truth of  (1)  and  (2)?",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1280,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " In the case of  (1),  the answer is easy: there are, in fact, many people who could free solo the Dawn Wall—notably, Tommy Caldwell and Kevin Jorgeson, the two who first free-climbed it. But it is at least logically possible that any human being do so—for any given person, it is easy to imagine perfectly consistent (if perhaps idealized and utterly improbable) scenarios in which they are massively healthier, stronger, and more skilled than they actually are and, so endowed, free solo the Dawn Wall. Thus,  (1)  is true because:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1281,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " A bit more generally (and philosophically) put,  (1)  is true in virtue of the modal properties of actually existing things, that is, equivalently put, in virtue of properties they could have had and, indeed, would have had if only things had been different in certain ways. Crucially, the same appears not to be so in the case of  (2).  For on the reasonable assumption that",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1282,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " it follows straightaway that no actually existing thing could have been Bergoglio’s child. Hence, the parallel to  (3),  viz.,",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1283,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " appears to be false. Unlike  (1),  then, it appears that we cannot provide truth conditions for  (2)  of the same satisfyingly straightforward sort as (3).[3]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1284,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Possibilists claim that we can: we must simply broaden our understanding of reality, of what there is in the broadest sense, beyond the actual, beyond what actually exists, so that it also includes the merely possible. In particular, says the possibilist, there are merely possible people, things that are not, in fact, people but which could have been. So, for the possibilist,  (4)  is true after all so long as we acknowledge that reality also includes possibilia, things that are not in fact actual but which could have been; things that do not in fact exist alongside us in the concrete world but which could have. Actualism is (at the least) the denial of possibilism; to be an actualist is to deny that there are any possibilia. Put another way, for the actualist, there is no realm of reality, or being, beyond actual existence; to be is to exist, and to exist is to be actual. In this article, we will investigate the origins and nature of the debate between possibilists and actualists.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1285,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The debate between possibilists and actualists is at root ontological. It is not—fundamentally, at least—a debate about meaning, or the proper linguistic primitives of our modal discourse, or the model theory of certain formal languages, or the permissibility of certain inferences. It is a disagreement over what there is, about the kinds of things that reality includes. Characterizing the nature of the debate precisely, however, is challenging. As noted in the preceding introduction, the debate centers around the question of whether, in addition to such things as you and me, reality includes possibilia, such as Bergoglio’s merely possible children, the children he does not actually have but could have had if only things had gone rather differently. Clearly, if there are such things in some sense, they differ from us rather dramatically: a merely possible child is not actually anyone’s child and indeed, we are inclined to say, does not actually exist at all and, hence, is not actually conscious but only could have been, does not actually have a body but only could have had one, and so on. As we will see in more detail in the following section, in many historical and more contemporary discussions, this alleged difference is characterized in terms of distinct ways, or modes, of being, and it will be useful, for now, to continue to frame the debate in these terms. Specifically, on this bi-modal conception of the debate, on the one hand, there is the more substantial and robust mode of actuality (or, often, existence) that you and I enjoy. And, on the other hand, there is the more rarefied mode (sometimes called subsistence) exhibited by things that fail to be  actual.[4]  While (as we will see) there has been some disagreement over the location of abstract objects like the natural numbers in this scheme, what uniquely distinguishes possibilia on the bi-modal conception is that, for the possibilist, they are contingently non-actual:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1286,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " It is clarifying to represent matters more formally. Accordingly, where \\(\\sfA!\\) is the actuality predicate, we have:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1287,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As noted in the above introduction, in its simplest form, actualism is just the denial of possibilism: there are no mere possibilia. However, the actualist’s denial is meant to be stronger: that possibilism is false is not a mere historical accident; rather, for the actualist, not only are there not in fact any possibilia, there couldn’t be any:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1288,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " or, again, more formally:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1289,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " For the actualist, then, the possibilist’s purported mode of contingent non-actuality, or mere possibility, is empty: necessarily, anything that could have been actual already is actual. Otherwise put, necessarily, there are no contingently non-actual  things.[5]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1290,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Actualism is quite clearly the preferred common sense position here: on a first hearing, the idea that the Pope’s unborn children dwell in some shadowy corner of reality is to most ears ludicrous on its face—and defending against this common sense intuition remains arguably the central challenge facing the possibilist. But the motivations for possibilism are surprisingly strong. We have already noted what is perhaps the strongest of these: possibilism yields a straightforward, unified semantics for our modal discourse. By appealing to possibilia, the possibilist can provide satisfying truth conditions for otherwise semantically problematic modal statements like  (2)  along the lines of those for  (1)  that ground their intuitive truth in the modal properties of individuals. As we might also put it: possibilism provides  truthmakers  for such statements as  (2)  that actualism is apparently unable to supply. But a powerful second motivation is that possibilism falls out as a consequence of the most natural quantified modal logic. In particular, in that logic,  (4)  is an immediate logical consequence of  (2).  (We will spell out these motivations further in the following two sections.) These motivations in turn present a twofold  challenge for the actualist:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1291,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " What makes the possibilism-actualism debate so interesting is that, while actualism is the overwhelming metaphysical choice of most philosophers, there is no easy or obvious way for the actualist to meet these challenges. We will explore a number of attempts in this essay.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1292,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " To fully appreciate what is at issue in the possibilism-actualism debate, as well as its framing in those terms, it is important to see its origins—more generally, the origins of the bi-modal conception of being—in the ancient, and vexing, philosophical problem of  non-existent objects.  Inklings of the bi-modal conception arguably trace back to the dawn of western philosophy in the goddess’s enigmatic warning to  Parmenides  not to be deceived by the “unmanageable” idea “that things that are not  are”.[6]  It finds clearer expression in Seneca’s description of the Stoics, for whom being included both physical objects and “incorporeals” (ἀσώματα) that “have a derivative kind of reality” (de Harven 2015: 406):",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1293,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The Stoics want to place above this [the existent] yet another, more primary genus…. Some Stoics consider “something” the first genus, and I shall add the reason why they do. In nature, they say, some things exist, some do not exist. But nature includes even those which do not exist—things which enter the mind, such as centaurs, giants, and whatever else falsely formed by thought takes on some image despite lacking substance. (Seneca, Letters 58:13–15, quoted in Long &amp; Sedley 1987: 162; see also Caston 1999.)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1294,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The Stoics’ motivation for their bifurcation of “nature” was clearly to explain the  intentionality  of our thought and discourse, our apparent ability to think and talk as coherently about the creatures of mythology and fiction as about ordinary physical existents. Later variations broadened the Stoics’ realm of incorporeal intentional objects to include possibilia. In the early medieval period, the Islamic Mutazilite theologians distinguished between thing (shayʹ) and existent (mawjūd)) to comport with two passages of the Quʹran (16:40, 36:82) suggesting that God commands non-existent things into existence (Wisnovski 2003: 147). Avicenna (1926: 54-56) under the influence of the Mutazilates, was more explicit still that these non-existent things are possibilia:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1295,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " It is necessary with respect to everything that came into existence that before it came into existence, it was in itself possibly existent. For if it had not been possibly existent in itself, it never would exist at all. Moreover, the possibility of its existence does not consist in the fact that an agent could produce it or that an agent has power over it. Indeed, an agent would scarcely have power over it, if the thing itself were not possible in  itself.[7]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1296,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Similar ideas were espoused by a number of other prominent medieval philosophers including  Giles of Rome,  Henry of Ghent,  John Duns Scotus,  William of Ockham, and  Francisco Suarez.[8]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1297,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Although the grounds of possibility and intentionality were prominent themes in the modern  period,[9]  the idea of explaining them in terms of any sort of bifurcation of being largely receded until the early nineteenth century beginning, notably, with the remarkable work of  Bernard Bolzano.  Specifically, in his work on the ground of possibility, Bolzano developed a sophisticated bi-modal account of being on which everything there is divides into those things (Dinge) with Wirklichkeit, usually rendered “actuality” by Bolzano’s  translators,[10]  and those with Bestand, typically rendered “subsistence”. Importantly, for Bolzano as well as for many of his successors, to be actual (wirklich) is to be part of the causal order and, hence, typically at any rate, to occupy a position in space and time—in a word (as commonly understood), to be  concrete.[11]  Subsistence, by contrast, is the mode of being shared by non-concrete objects, which in particular for Bolzano included both possibilia and abstracta like numbers and propositions. Unlike abstracta, however, Bolzano’s possibilia are only contingently subsistent, contingently non-concrete, and, hence, are capable of Wirklichkeit:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1298,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " [I]n addition to those things that have actuality (Wirklichkeit)…there are others that have mere possibility (bloße Möglichkeit), as well as those that could never make the transition to actuality, e.g., propositions and truths as such (an sich). (Bolzano 1837: §483, pp. 184–5)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1299,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Motivated chiefly to provide a ground for intentionality, several decades later,  Alexius Meinong  (1904b [1960], 1907) famously postulated a rich class of non-existent objects to explain our apparent ability to conceive and talk about, not only creatures of myth and fiction, but impossible objects like the round square. Roughly, in Meinong’s theory, for any class of “ordinary” properties (konstitutorische Bestimmungen) there is an intentional object (Gegenstand) having exactly those  properties.[12]  Presumably, then, although he did not broach the issue of possible objects  directly,[13]  among these objects would be those having (perhaps among others) the property being a possible child of Bergoglio. However, importantly, although he broadly accepted Bolzano’s bi-modal division of being into concrete and subsistent  objects,[14]  Meinong ascribed no variety of being whatsoever to his intentional objects, not even the subsistence (Bestand) enjoyed by abstracta like mathematical objects and  propositions.[15]  Although strongly influenced by Meinong, the early Russell (1903) spurned the idea that intentional objects are being-less but not the objects themselves, save for impossibilia like the round square. Rather, he simply moved them all into the subsistent realm alongside the objects of mathematics, reserving the “world of existence” for “actual objects” in the spatio-temporal causal  order:[16]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

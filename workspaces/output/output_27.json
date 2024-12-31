@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2600,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " where the inference is supposedly criterial, and z is the total illocutionary act potential—the potential to perform illocutionary acts I, J, K—that constitutes the meaning of x. The question at issue here is a species of a genus, the genus being whether intending that s is p is criterial evidence for s’s being p, with the differentia being that s is a piece of non-literary discourse and p a meaning, a speech act potential.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2601,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Answering this question requires taking a slight detour. In the 1950s and 1960s premises respecting behavior were frequently said to be criterial evidence for the existence of mental states of certain kinds (though the matter wasn’t very clearly delineated or explained, and the term “criterial evidence” didn’t exist). The most discussed example, originating in the work of Wittgenstein, concerned pain behavior and pain: a person’s pain behavior was said to be criterial evidence for his being in pain. The inference from (C) to (D) is, near enough, the converse inference, from a mental state to behavior or, more properly, from a mental state to an effect, an object (a piece of discourse) having a certain property (a certain speech act potential).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2602,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The central question to ask about any supposed criterial inference is whether we understand the nature of the phenomena mentioned in the premise and conclusion to be necessarily caught up with other, but not in such a way that the presence of either entails the other. If A is a criterion of B, then it’s a necessary truth that A is evidence for, or counts toward, B—so says Anthony Kenny in speaking of a criterion in the sense intended here. If a criterion is understood in this way—and the term is certainly being used in a technical, non-everyday sense if it is—there’s a fair amount of intuitive appeal to the claim that pain behavior is a criterion for being in pain. Our understanding of what pain and pain behavior are seems to connect the two necessarily. That’s true even if no one in pain ever exhibits pain behavior, or everyone exhibits pain behavior when not in pain. (Admittedly, the scenarios for either state of affairs would be very strange. Neither is impossible, though.) Likewise, although every act of lying could turn out to be right, and every act of non-lying turn out to be wrong, our understanding of what wrongness and lying are is such that the latter necessarily counts toward the former. On the other hand, our understanding of drinking arsenic and dying—of what they are—isn’t such that drinking arsenic is criterial for dying. It’s not that our understanding of dying is somehow necessarily caught up with the idea of drinking arsenic the way it is in the pain-pain behavior and lying-wrongness cases. Even if every time a person drank arsenic he died, and every time a person died he had drunk arsenic, the connection between the two is purely inductive.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2603,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " How is it then with the inference from",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2604,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Consider an example discussed on a number of occasions by Beardsley and already cited above: Humpty Dumpty. Humpty Dumpty says, “There’s glory for you!”, and his sentence, he claims, means there’s a nice knockdown argument for you. Alice doesn’t believe him. It means that, Humpty Dumpty explains, because “when I use a word, it means just what I choose it to mean—neither more nor less”. Alice doubts that he can make the sentence mean that just by choosing that it mean that. Common sense is certainly on her side. Beardsley’s reply is a little different. He says that because Humpty Dumpty has provided no stipulative definition of “glory”, he knows that Alice can’t be expected to “secure uptake”, that is, understand the novel meaning he attaches to use of the word, and thus can’t intend to perform the speech act of boasting that his argument for the superiority of unbirthdays to birthdays is a conclusive one. Since meaning is constituted by speech act potential, he therefore can’t intend to mean “nice knockdown argument” by “glory” (II: 202–203).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2605,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What Beardsley says here is basically correct. To show that the intentional fallacy is indeed a fallacy, however, to show that (C) isn’t criterial evidence for (D), the premise concerning the author’s intention should be assumed to be true, and the strength of the inference gauged on that assumption. If a fallacy has indeed been committed, the premise, considered simply by itself, will lend no support to the conclusion. But instead of examining the case of Humpty Dumpty as just indicated, Beardsley questions the truth of the premise, and correctly finds it wanting. That isn’t to the point.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2606,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In fact, several things might be said in favor of a criterial relation between (C) and (D). First, the cases of moral rightness and pain suggest that a natural home for criteria is in phenomena that are undeniable but unobservable. Much, if not all, of what can’t be observed but is obviously real needs a criterion or criteria to gain a foothold in our thinking and discourse. (It could even be argued that everything that figures in our thinking and discourse, whether observable or non-observable, stands in need of a criterion or criteria. Kenny, for one, holds as much.) Linguistic meaning seems to be just that sort of thing. Second, rightness, pain, and meaning, though real, seem to be ontologically slighter than paradigmatically real things, such as physical objects (stars), forces (electro-magnetism), or even everyday properties and property instantiations (weighing five pounds, Philadelphia’s being in Pennsylvania). Their conceptual connections to the well-anchored items of everyday life—rocks, gravity, shapes—are few in number, and re-identification of one and the same pain, for example, more inherently problematic. A pain is not something and not nothing, Wittgenstein wrote, and though the remark is cryptic, much the same seems to be true of meaning. Part of its life needs to be breathed into it by criteria. Third, there’s Beardsley’s own concession that “only intentional text production can generate illocutionary actions”, and therefore meaning, on his theory of meaning. If an author’s intention is necessary for a text to have a meaning at all, that suggests that the intention that x mean m is criterial—not logically necessary but criterial—for x’s meaning m. Bolstering this suggestion is the fact that it’s hard to imagine that x means m, but that no one has ever intended that x mean m in producing a text that contains x.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2607,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " These considerations, however, are more inconclusive hints at arguments than arguments themselves. First, the fact that meanings are unobservable but real suggests that we should be on the lookout for criteria; it doesn’t mean that they have criteria. More is needed to show that. Numbers, it might be argued, are also unobservable but real, yet stand in need of no criteria. Second, apart from the obscurity of the notion of ontological slightness, meanings are surely no more ontologically slender than numbers, which, again, seem to require no criteria. Finally, there’s the point that even if the promissory notes that really are the first two considerations can be made good on, all that would show is that meaning in general stands in need of a criterion or criteria. It wouldn’t show that a criterion of a text’s having meaning is an author’s intention that it have meaning, much less that a criterion for a text’s having the meaning that it has is the author’s intention that it have that meaning.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2608,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But the third consideration may come to the rescue here. Beardsley himself says that intentional text production is necessary for a text to have a meaning (an admission, incidentally, which goes against a number of things he wrote earlier in his career), and it’s a natural step from there to an author’s intention as criterial for textual meaning, indeed, as criterial for a conceptual correspondence between the two (intending to mean m, meaning m). In addition, even if it’s not a necessary truth that if ‘S’ means m, someone at some time intended that ‘S’ mean m in producing a token of ‘S’, the former is at least criterial for the latter.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2609,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But why the claim just mentioned isn’t a necessary truth is instructive. It’s not because it’s possible that A, the first and only user of ‘S’, mistakenly thought there was a linguistic convention according to which ‘S’ means n. Operating on that assumption, he uttered ‘S’, intending it to mean n. However, because of contextual clues respecting the surroundings in which ‘S’ was used, because of the topic under discussion when it was used, and because of ignorance and misunderstanding (of the language and of what A was driving at) on the part of his listeners, all his listeners took it that there was already a linguistic convention according to which ‘S’ means m. That’s how they understood ‘S’, and they thus believed and acted accordingly. A, oblivious to the misunderstanding on their part, soon forgets about ‘S’ and the meaning he attached to it. In these circumstances, ‘S’ means m because that’s what the language-using community takes it to mean: in effect, their beliefs and behavior establish a convention according to which ‘S’ means m. The meaning rests on what might be called “community uptake”, not individual uptake of speech act performance, as Beardsley has it, and not the speaker’s intention, as intentionalists have it.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2610,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " This strange little scenario is important not so much because it’s a counterexample to the claim that if ‘S’ means m, then at some time someone means m in using ‘S’, but as illustrating something of greater importance: the existence of a linguistic convention that ‘S’ means m is a criterion, in the technical sense explained above, for ‘S’ meaning m. It’s not a logically sufficient condition, not definitive evidence, at least as far as the meaning of a token sentence is concerned, for in specific circumstances other factors may override the meaning specified by the convention. That, in fact, has to be the case if metaphor, synecdoche, metonymy, and irony are to be possible at all. (Briefly, a token sentence is a sentence considered as a concrete particular, with a specifiable spatio-temporal location. Token sentences contrast with type sentences. A type sentence is an abstract particular, not locatable in space and time. All token sentences are tokens of a type, in much the same way that all token 2023 Toyota Corollas—spatio-temporal objects found on streets and highways—are tokens of a single type, 2023 Toyota Corolla. As far as sentences are concerned, what this amounts to is that a single type sentence, ‘S’, can have many tokens. There’s only one type sentence “The door is open”, but there are many tokens of that type, a number of which can be found in this article.) Linguistic conventions are one factor that has to be considered in every case of token sentence meaning. They may not be the last word in determining token sentence meaning—though they frequently are just that—but they’re always the first word.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2611,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Perhaps paradoxically, given what was just said, the counterexample also illustrates a more important claim, that a speaker’s intention that ‘S’ mean m is a criterion for its meaning m, or at least very nearly so. This is because: (1) linguistic convention is a criterion for token sentence meaning, and a linguistic convention, as the example shows, is a function of overall community understanding, treatment, and belief. (2) A speaker’s intention is one component in such understanding, treatment, and belief, and thus is criterial for linguistic convention. In other words, since a speaker of a language is a member of the linguistic community in which he speaks, and since, as Beardsley himself holds, an intention that ‘S’ means m involves a belief that ‘S’ means m, the speaker’s intention figures into the overall function that determines the creation or maintenance of a convention. (3) The relation “is criterial for” is transitive, or at least very nearly so. If X’s being criterial for Y and Y’s being criterial for Z doesn’t entail that X is criterial for Z, it still lends some near criterial support for Z. More briefly but slightly inaccurately, the argument is that since a speaker’s intention that ‘S’ means m is criterial for the existence of a convention that ‘S’ means m, and the existence of a convention that ‘S’ means m is criterial for ‘S’’s meaning m, a speaker’s intention that ‘S’ means m is criterial for ‘S’ meaning m. A speaker’s intention must thus be regarded as having some evidential weight in determining his sentence’s meaning. As far as everyday discourse is concerned, then, the intentional fallacy is no fallacy at all, strictly speaking.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2612,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But the letter of the law is one thing, its spirit quite another. Even if speaker intention counts for something, for two reasons, it doesn’t count for much, at least in the great majority of cases. One swallow is not a summer, and a single such intention or belief not a convention or, except in very odd circumstances, sufficient for one. Cases like those of Humpty Dumpty and the counterexample discussed above show how slight the weight of a speaker’s intention is in the face of a convention that’s already established (the case of Humpty Dumpty) or even in the process of being established (the case of A and his community). And the situation we in fact find ourselves in is just that of Alice. The weight carried by pre-existing linguistic conventions makes it look as if Humpty Dumpty’s intention has no weight at all. If what was argued above is correct, it doesn’t have no weight, but a microgram is, for practical purposes, weightless when counterbalanced by a boulder. Thus even if strictly speaking, there’s no intentional fallacy, it would be much more misleading in practice to say that there isn’t one than that there is one.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2613,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The case of Humpty Dumpty shouldn’t be misunderstood, however. The establishment or maintenance of a linguistic convention isn’t simply a matter of majority opinion within a speaking community. A convention is more than a collection of beliefs, understandings, and treatments. It carries normative force with it, and normative force, although undergirded by and impossible without community support, doesn’t simply sway in the direction that the breeze of majority opinion happens to be blowing at the time. The normative nature of a convention enables it to be relatively, though not wholly, resistant to contrary opinion. That’s why it’s possible for most people to spell “accommodate” incorrectly (the conventions of spelling call for it to be spelled with two ‘m’s, but most people spell it with one) and why it’s possible for most people to have an incorrect belief about the meaning of the word “fortuitous” (the conventions of the language call for it to mean by chance or accidental, but most people think it means lucky).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2614,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The second reason why the conclusion that, strictly speaking, there’s no intentional fallacy is of limited import is in effect pointed out by Beardsley. The notion of speaker meaning—a speaker’s intention that ‘S’ mean m in his utterance of ‘S’—is parasitic on that of a convention, and thus on sentence meaning. In intending what he does, that is, in intending that his sentence mean m, and not n, o, or p, a speaker is perforce trying to conform to what he takes to be a pre-existing convention. If he doesn’t take there to be such a convention, he needs to stipulate one—which itself involves invoking pre-existing conventions. If he doesn’t do that and doesn’t try to conform to a pre-existing convention, there’s no reason to think that he’s trying to communicate, to utter a sentence with a determinate meaning, or to perform any speech act at all. In other words, without the assumption of a pre-existing convention, there’s no content to the notion of an intention to mean anything at all, much less to mean m. Even if a speaker’s intention is criterial in determining conventions and sentence meaning, conventions have to be conceptualized as relatively independent of the speaker, as logically prior to speaker meaning, and as a constraint on speaker meaning.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2615,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The upshot is that, to put a fine point on it, there’s no intentional fallacy, but that a fine point shouldn’t be put on it. As far as everyday discourse is concerned, proper interpretive practice directs us to ignore speakers’ intentions. For considered in and of itself, in the context of a living, fully developed language, a speaker’s intention has vanishingly small weight, noticeable at all, if ever, only in a very small number of circumstances. An additional merit of this view is that it helps to explain the facts that (1) in the vast majority of cases, questions of speaker intention needn’t and don’t arise in interpreting a person’s remarks; (2) hard cases are possible—conventions are of necessity open-ended, somewhat indefinite, and possibly in tension with other conventions; (3) it’s natural, and not entirely unreasonable, to evoke speaker intention to resolve such hard cases; (4) the gnawing feeling that the meaning of an utterance isn’t altogether divorced from the meaning intention of its speaker has some basis; (5) despite (3), proponents of the intentional fallacy can always find ways of resolving hard cases without invoking the intentions of the speaker.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2616,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " So much for non-literary discourse. The second question is: Does what holds for non-literary discourse also hold for literary discourse? Beardsley’s convinced that it does. He sees no fundamental difference between the two. There’s a lot to be said for that view. It largely jibes with our interpretive experience and recognizes the continuity of all forms of discourse. It also doesn’t require us to read by a new set of rules when we put down The Racing Forum and pick up Ruskin, which is certainly appealing. Those are impressive reasons in its favor, and strongly recommend it for adoption.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2617,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But the key word here is “adoption”. The view is a proposal for how to conceptualize literature (and in the long run art in general); it isn’t dictated by the facts of the case or by the very concept of literature. An alternative proposal, and a popular one in many circles, is to conceptualize literature as much more closely tied to the life of the author, and to attach greater interpretive weight to his intentions than with non-literary discourse. This proposal does bifurcate discourse, but, advocates would claim, there are cultural and aesthetic advantages to doing so. Three of them are that (1) literature is thereby tied much more closely to biography, history, and culture in general, (2) the realm of the aesthetic is not as segregated from, but is much more integrated into, other valuational realms than it would otherwise be, and (3) natural, even irrepressible, urges to look beyond art to the artist aren’t automatically frustrated or denigrated, as far as criticism is concerned. The systematic virtues and vices of both this position and Beardsley’s can’t be pursued here, but it is important to note that the issue is a large and overarching one concerning how best to conceptualize art and its place in human life.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2618,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Broader than concerns about the artist’s intention and encompassing them is the distinction between external and internal evidence. The distinction is similar to, but diverges from, that between direct and indirect evident noted above. “Internal evidence”, Beardsley says, “is evidence from direct inspection of the object” (Aesth: 20). What is internal is publicly accessible;",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2619,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " it is discovered [in the case of poetry] through the semantics and syntax of a poem, through our habitual knowledge of the language through grammars, dictionaries, and all the literature which is the source of dictionaries, in general through all that makes a language and culture. (IF: 477)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2620,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " “External evidence”, on the other hand,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2621,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " is evidence from the psychological and social background of the object, from which we may infer something about the object itself. (Aesth: 20)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2622,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What is external is not publicly accessible; it is",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2623,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " private or idiosyncratic; not [again in the case of poetry] a part of the work as a linguistic fact: it consists of revelations (in journals, for example, or letters or recorded conversations) about how or why the poet wrote the poem—to what lady, while sitting on what lawn, or at the death of a friend or brother. (IF: 477–478)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2624,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In addition to internal and external evidence, there is",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2625,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " an intermediate kind of evidence about the character of the author or about private or semi-private meanings attached to words or topics by the author or by a coterie of which he is a member. (IF: 478)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2626,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " External evidence is verboten, but at least at the time of “The Intentional Fallacy”, intermediate evidence was admissible, the reason being that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2627,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " the meaning of words is the history of words, and the biography of an author, his use of a word, and the associations the word had for him, are part of the word’s history and meaning. (IF: 478)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2628,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Caution has to be exercised, though, for the line between intermediate evidence and external evidence isn’t sharp and",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2629,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " a critic who is concerned with [internal] evidence… and moderately with [intermediate] evidence will in the long run produce a different sort of comment from that of the critic who is concerned with [external] evidence and with [intermediate] evidence. (IF: 478)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2630,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The distinction thus drawn is far from clear, though. On the one hand, information gleaned from a poet’s diary, workbook, letters, and rough drafts, or information about what he was reading or thinking about as he created his work, isn’t internal evidence in that it can’t be had from directly inspecting his poem. On the other hand, it does seem to be internal, in that such information is publicly accessible, and might well be part of “all that makes a language and culture”. Resolving that tension is only part of the issue, however. “The character of the author” or the “private or semi-private meanings attached to words or topics by the author or by a coterie of which he is a member” might be revealed in a diary or workbook, and part of a “word’s history and meaning” might be recorded in a letter. That makes it sound like intermediate evidence. More than anything else, though, what a diary or a workbook contains is “evidence [respecting] the psychological and social background” of a work, and such information is no different from “revelations… in journals… or letters”. It would thus seem to be external evidence, as Beardsley talks about it. Is the information found in diaries, journals, workbooks, rough drafts, letters, and so on internal, external, or intermediate evidence, then? All three, it would seem.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2631,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Though the distinction between kinds of evidence isn’t well drawn by Beardsley, that may be because when he wrote “The Intentional Fallacy” his views weren’t as clear or definite as they were later to become, or because he later changed his mind and became more tough-minded. Intermediate evidence is never mentioned in Aesthetics or in any of his subsequent writings, and if the distinction between internal and external evidence is considered only as it’s drawn in Aesthetics, it’s relatively clean: internal evidence is evidence based on a direct inspection of the aesthetic object and nothing else; external evidence is evidence based on sources outside the object. That at least seems to draw a fairly bright line between the internal and the external. Unfortunately, drawing the distinction this way re-introduces the problems about not using external sources noted above in relation to the intentional fallacy.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2632,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " All of that said, the feeling remains that there has to be something to the internal/external distinction, even if it isn’t explicated in a satisfactory way by Beardsley. Intuitively, some properties are properties of a work, and some properties aren’t properties of a work. Related to this is what’s really at issue, the matter of proper methodology, or the epistemology of interpretation: some evidence is relevant to what a work means—and what else but properties of the work itself?—and some evidence isn’t logically relevant to what a work means—and what else but properties of things other than the work? Put this way, the distinction seems inevitable, and indeed, it’s hard to see how art criticism can get along without it. Rejecting it altogether is tantamount to inviting “chaos of thought and passion, all confused”—in other words, the potential relevance of anything and everything to interpretation, and thus no limits on what a work of art can justifiably be said to mean. Deconstructionists may well welcome such unlimited freedom, but lesser breeds who like the law—which includes historicist, romantic, psychoanalytic, and other critics, besides new critics—will wonder whether the very idea of interpretation has been lost in the midst of anarchy.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2633,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But even if an internal/external distinction of some sort is well-nigh necessary, it’s probably best not to couch it in exactly those terms. The real issue isn’t so much what’s in and what’s out as what’s relevant and what’s not. Beardsley’s terminology not only obscures that fact but skews the true substantive issue: strongly suggested by the very use of the terms “internal” and “external” is that relevant information is internal to a work, that is, propositions whose subject terms refer to the work or part of the work and whose predicate terms refer to properties discernible by experiencing the work; and irrelevant information is external to a work, that is, propositions whose subject terms refer to something other than the work or part of the work, or to properties not discernible by experiencing the work.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2634,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In the long run, the distinction will have to be drawn, just as the issue of the intentional fallacy will have to be decided, on the basis of a comprehensive theory of meaning in conjunction with a rich and well-worked-out conception of art.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2635,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " A much more comprehensive bibliography of Beardsley’s work is available upon request from the author.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2636,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " This article has concentrated on only a few of the many topics that Beardsley wrote on. Among others are aesthetic experience, aesthetic properties (regional qualities), criteria of critical evaluation, metaphor, and the place of the arts in human life. The bibliography of secondary literature that follows is, in the main, restricted to the topics discussed in this entry, but a few important articles on other topics are also included.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2637,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " aesthetic, concept of the |  aesthetics: aesthetic judgment |  art, definition of |  Austin, John Langshaw |  culture |  intention |  meaning, theories of |  music, philosophy of |  ontological commitment |  ontology of art, history of |  speech acts |  types and tokens ",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2638,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Acknowledgement goes here. ",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2639,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Copyright © 2022 by   Michael Wreen &lt;michael.wreen@marquette.edu&gt;     ",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2640,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": "View this site from another server:",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2641,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2642,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2643,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " 18th-century British aesthetics addressed itself to a variety of questions: What is taste? What is beauty? Is there is a standard of taste and of beauty? What is the relation between the beauty of nature and that of artistic representation? What is the relation between one fine art and another? How ought the fine arts be ranked one against another? What is the nature of the sublime and ought it be ranked with the beautiful? What is the nature of genius and what is its relation to taste?",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2644,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Although none of these questions was peripheral to 18th-century British aesthetics, not all were equally central. The question on which the others tended to turn was the question concerning the nature of taste. But this question was not simply how best generally to define taste. Everyone seems to have been in at least rough agreement with Joseph Addison’s early definition of taste as “that faculty of soul, which discerns the beauties of an author with pleasure, and the imperfections with dislike” (Addison and Steele 1879, no. 409). But agreeing with Addison meant agreeing only to use “taste” to refer to that faculty and to acknowledge that such discerning has something of the phenomenology of sensation. The central question was how to think of taste so defined. Is taste a higher, cognitive faculty, akin perhaps to reason, with objects of a primarily intellectual nature? Or is it a lower, bodily faculty, more akin to the five bodily senses, and with objects of a primarily material nature? The major theories that arose in response to this question can be grouped into three main lineages: (a) internal-sense theories, of which the theories of Shaftesbury (1711), Hutcheson (1725), Hume (1739–40, 1751, and 1757) and Reid (1785) are representative; (b) imagination theories, of which theories of Addison (1712) and Burke (1757/59) are representative; and (c) association theories, of which the theories of Gerard (1757) and Alison (1790) are representative.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2645,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Shaftesbury takes up aesthetic questions from time to time across his Characteristics of Men, Manners, Opinions, Times (first published in 1711), particularly within its third, fourth, and fifth Treatises. But it is perhaps only within this last treatise—the dialogue The Moralists, a Philosophical Rhapsody—that he can be said to develop a theory of taste. Near the beginning of the dialogue’s climactic section (Section II of Book III) Shaftesbury’s spokesman, Theocles, issues a pair of imperatives: one ought “never to admire the Representative-Beauty, except for the sake of the Original; nor aim at other Enjoyment than of the rational kind” (Cooper 1711 [2001, 221]). It is largely in the subsequent explication of these imperatives that Shaftesbury’s highly influential theory of taste emerges.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2646,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Shaftesbury does not intend the force of these imperatives to be negative merely. He clearly thinks that one ought to admire the original beauty referred to in the first imperative; indeed he later identifies it with the beauty of the divine mind. Moreover, the admiration of beauty referred to in the first imperative just is the enjoyment of the rational kind referred to in the second. Hence the two imperatives, reversing their order, might be paraphrased as follows: one ought to seek the enjoyment of beauty as opposed to the rival enjoyments that one might mistake for the enjoyment of beauty; and the enjoyment of beauty that one ought to seek ought always to be for the sake of the original as opposed to the sake of the representative merely. To say that the rival enjoyments that one might take for the enjoyment of beauty are not “of the rational kind” is to say that they are merely sensory or bodily in nature. Such non-rational enjoyments, moreover, are “interested” in the sense that they depend on the thought of, and beget a desire for, the use or possession of their objects. Theocles illustrates this point with a series of examples culminating in that of sexual pleasure taken at the sight of a human body. “I … was apprehensive,” says his interlocutor, Philocles, that",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2647,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " An example surfacing a bit later serves both to reinforce the distinction between such non-rational enjoyments and the rational enjoyment of beauty and to introduce the distinction between the admiration of representative beauty for its own sake and that for the sake of the original. Enjoyment taken in the sight of a coin is enjoyment taken in its beauty only if it arises not from any thought of what the coin may buy, but merely from the contemplation of the design or form of the coin’s inscription. Whether in addition this is admiration of the coin’s representative beauty for the sake of the original depends on whether one recognizes the representative nature of the coin’s beauty. Because the coin is beautiful in virtue of its design or form, it is beautiful not in virtue of its material properties but in virtue of the effect that some mind has had upon it. But if the coin is beautiful in virtue of the effect of some mind upon it, this can only be because that mind is itself beautiful, the beauty of the coin being representative merely of the original beauty of that mind. Hence to admire the beauty of the coin (or the beauty of any material object) without acknowledging that its beauty merely shadows the beauty of the mind that designed it is to fail to admire representative beauty for the sake of the original (Cooper 1711 [2001, 225–226]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2648,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But there is a complication. If the mind that formed the coin is a human mind, then, while its beauty is original relative to the coin, it is representative relative to the beauty of the mind that formed it. Hence there are “Three Degrees or Orders of Beauty”:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2649,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hence all beauty ultimately “resolves it-self” (Cooper 1711 [2001, 228]) into the beauty of the divine mind:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2650,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Thus admiring the representative beauty of the coin for the sake of the original requires tracing its beauty not merely to the mind that designed it, but also to the mind that designed that mind.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2651,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " A consequence of the view that the divine mind is the source of all beauty is that beauty is not relative to human nature merely, but is absolute and real. Indeed, given Shaftesbury’s pantheistic leanings, things turn out, on his view, to be beautiful quite literally from the point of view of the universe. A further consequence is that beauty, inhering only in mind or in its reflection, cannot be grasped by any bodily sense, but only by the mind itself:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2652,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But Shaftesbury does not rest with the claim that it is the mind that grasps beauty: he adds the claim that it is by a “mental” or “inward” sense that the mind does so. Though it is difficult to know just what Shaftesbury takes this claim to come to, the general idea is that the faculty by which the mind discerns beauty has enough in common with external sense to warrant the term “sense” and to be regarded as no less natural (or basic) than external sense. In The Moralists he observes that the discernment of beauty has the immediacy of external sensation and so must be regarded as natural as external sensation. No sooner is an object of the right kind placed before the mind",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2653,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " And, in a famous passage from An Inquiry concerning Virtue and Merit (Treatise IV), Shaftesbury observes that the discernment of beauty has the necessity or will-independence of external sensation and so again must be regarded as natural on a par with external sensation. Once an object of the right kind is placed before the mind, a verdict as to its beauty cannot be withheld:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2654,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Shaftesbury, it bears mentioning, did not originate the idea that it is by an inward sense that we lay hold of the sublime and the beautiful. That idea is an element of the neoplatonic tradition which Shaftesbury’s work extends, and can be traced back to St. Augustine (2005/389–391, De vera religione §59) and Plotinus (250 [1991, 1.6.7–9]), if not to Plato himself (1989, 210a-211d). ",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2655,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " On the title page of the first edition of his An Inquiry into the Original of Our Ideas of Beauty and Virtue (1725), Francis Hutcheson acknowledges a deep debt to Shaftesbury, announcing that “The Principles of the late Earl of Shaftsbury” would be explained and defended therein. But it is open to question whether Hutcheson overstates his debt. The debt is deepest with regard to the notion of internal sense, but Hutcheson can fairly be said to make this notion his own. That is certainly the judgment of history: anyone undertaking to explain, defend, or refute the notion of internal sense after 1725 took himself to be explaining, defending, or refuting the principles of Dr. Hutcheson.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2656,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hutcheson gives one argument for the sensibility, and another for the internality, of the power by which we discern beauty. His argument for its sensibility is largely a systematization and amplification of Shaftesbury’s. That the discernment of beauty is sensible follows from the immediacy, necessity, and disinterestedness of the arising of the pleasure by which beauty is discerned:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2657,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " It is in arguing for the internality of the power of discerning beauty that Hutcheson’s departure from Shaftesbury begins to show. Shaftesbury, it will be recalled, argues that the discernment of beauty is internal (or mental) on the grounds that the objects of beauty necessarily are: mind alone can discern beauty because mind alone is beautiful, external objects managing a degree of beauty only by having a bit of mind imprinted on them. But Hutcheson cannot make this argument because he does not think that objects of beauty are necessarily internal. Hutcheson does follow Shaftesbury in maintaining that things are beautiful in virtue of their proportion or order (Hutcheson’s preferred and more precise term is “uniformity amidst variety”) and he may follow Shaftesbury in thinking all proportion or order to be the effect of mind. But he importantly does not follow Shaftesbury in inferring from the premise that things are beautiful owing to the effect of mind to the conclusion that mind alone is beautiful.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2658,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hutcheson begins his argument for the internality of the power of discerning beauty by observing that the five external senses are insufficient for that discernment—one could have all five in perfect working order and yet be insensible to beauty (Hutcheson 1726 [2004, 23]). This observation, however, does not seem to show the discernment of beauty to be internal. It seems to show merely that such discernment cannot be identified with any known external power. But Hutcheson continues:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2659,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Here the reasoning is that the power of discerning beauty must be internal because some objects of beauty are. But given that Hutcheson concedes that many objects of beauty are not internal, the proper conclusion seems to be that the power of discerning beauty is neither exclusively internal nor exclusively external. In any case, the power of discerning beauty cannot be internal after Shaftesbury’s manner.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2660,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But after what manner is it internal then? Hutcheson simply never says in An Inquiry into the Original of Our Ideas of Beauty and Virtue, though he wastes no time supplying this deficiency in the immediately subsequent An Essay on the Nature and Conduct of the Passions and Affections (first published in 1727). An internal sense, he there clarifies, is one whose ideas arise only if certain other ideas have already arisen. Sight is not an internal sense since the arising of the idea of blue, for example, does not depend upon the previous arising of any other idea. But the sense of beauty is internal because the arising of the pleasurable idea of beauty depends “upon the previous Reception and Comparison of various sensible Perceptions … or intellectual ideas, when we find Uniformity … among them” (Hutcheson 1742 [2002, 16]). Another way of putting the point is to say that internal senses depend for their objects on the operation of other powers while external senses do not. Hence in point of internality internal senses are apparently on a par with the powers of reason and memory, for example: unless some other power or powers has operated to place an object before the mind, there is nothing about which to reason, nothing to remember, and nothing internally to sense. This use of “internal” and “external” may be thought misleading, given that it allows both external and internal powers to operate on objects both bodily and intellectual, both from within and from without. Hutcheson came to agree with this criticism apparently. In later works, he replaces “internal” with “reflex” or “subsequent” to refer to powers that depend on others for their objects, and “external” with “direct” or “antecedent” to refer to powers that do not. (Hutcheson 1747, 12–13 and 1744, 48).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2661,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " This transformation of Shaftesbury’s notion of an internal sense is not the only consequence of Hutcheson’s rejection of the view that mind alone is beautiful. It will be recalled that it is this view—or, more particularly, the view that all beauty reduces to the beauty of the divine mind—that undergirds Shaftesbury’s aesthetic realism and hence his absolutism. But Hutcheson has neither this nor any substitute view by which to prop up an alternative version of realism, and settles hesitantly on a version of idealism, and hence relativism, that understands the idea of beauty on the model of an idea of a Lockean secondary quality:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2662,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Moreover there seems to be no necessity that the idea of beauty should arise, as it does, in response to objects having uniformity amidst variety. Had it pleased him to do so, God might have given us a sense of beauty responsive to irregularity amidst simplicity (Hutcheson 1726 [2004, 80]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2663,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But that God might not have given us a sense of beauty responsive to uniformity amidst variety raises the question why he did. Though it is a question that never arises for Shaftesbury, Hutcheson gives it an answer that narrows the distance between the two. As Shaftesbury had famously stressed, the universe is highly ordered—at least “Uniformity, Proportion, and Similitude [are diffused] thro all the Parts of Nature which we can observe” (Hutcheson 1726 [2004, 81]). In such a universe, “[t]he manner of Knowledge by universal Theorems … must be most convenient for Beings of limited Understanding and Power” (Hutcheson 1726 [2004, 79]). But if such is the manner of knowledge most convenient for beings such as us, a benevolent God may be expected to provide some immediate motive—a motive, that is, that does not require that we reflect on what is most convenient for us—to our pursuit of it. Because a theorem by nature possesses uniformity amidst variety—a theorem simply is the unification of various particulars under a single principle (Hutcheson 1726 [2004, 36])—it stands to reason that",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2664,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " So it is in the perception of objects of intellect—theorems, namely—that the internal sense of beauty has its raison d’être, and it is by resembling theorems in point of uniformity that other objects, including material objects, are beautiful. In this way Hutcheson recovers an element of Shaftesbury’s theory that had apparently been lost in his transformation of Shaftesbury’s notion of internal sense—he recovers a priority of the intellectual over the material as object of beauty. This is not to say, however, that Hutcheson recovers Shaftesbury’s priority exactly. Shaftesbury’s priority is reductive, having its ground in the distinction he draws between representative and original beauty. Hutcheson draws no corresponding distinction and so allows material objects to be beautiful in their own right. That difference is consequential. If material objects can be beautiful, then the sense by which we find them so must be capable of training outward. If the notion of internal sense that Hutcheson took over from Shaftesbury is essentially the one we find in Augustine, Plotinus, and Plato, the notion of aesthetic perception that Hutcheson left to us is essentially the one we find in Frank Sibley (Sibley 2001). ",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2665,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hume takes his notion of taste over from Hutcheson. He regards taste as an “internal sense” which depends on the operation of other mental faculties to “pave the way” for its pronouncements by supplying it with an object upon which to pronounce (Hume 1751 [1986, 173]). Which mental faculties must operate, and which operations those faculties must perform, varies from object to object:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2666,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hume shows less interest than Hutcheson does in determining which feature or features of objects result in our finding them beautiful. Hutcheson, it will be recalled, argues that we take the pleasure of beauty in response to all and only objects in which we find uniformity amidst variety. Hume resists any such tidy formula, speaking of multiple principles of taste. The only time he elaborates on any particular principle is in The Treatise, where he holds, contra Hutcheson, that the beauty we find in many objects owes, at least in part, to their usefulness. Hutcheson had denied that the usefulness of an object could play any role in our finding it beautiful, on the grounds that judgments of taste are necessarily disinterested whereas judgments of usefulness are necessarily interested. Against this Hume observes that judgments of taste are necessarily disinterested only in the sense that they are necessarily non-self-interested, and that I might therefore judge a chair to be beautiful on the basis of its being useful to someone, though not on the basis that it is useful to me (Hume 1739–40 [1987, 363–365]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2667,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hume follows Hutcheson in regarding the idea of beauty as analogous to a Lockean secondary quality, and so follows Hutcheson in holding beauty to be subjective, having no existence outside of the mind that contemplates it (Hume 1757 [1987, 230]). But Hume reckons more directly than Hutcheson does with the price such a subjectivism exacts, namely, its apparent inconsistency with our practice of counting some judgments of beauty as correct and others as incorrect. This reckoning starts with the observation that the subjectivity of colors is no barrier to our counting some color judgments correct and some incorrect. Anyone who has the idea of redness can recognize the conditions under which we count an object as veridically manifesting redness, namely, “its appearance in day-light to the eye of a man in health” (Hume 1757 [1987, 233–234]). Similarly, Hume holds that anyone with the idea of beauty can recognize the conditions under which we count an object as veridically manifesting beauty (Hume 1757 [1987, 233–234]). These conditions are the appearance of beauty to those (1) whose taste is delicate (Hume 1757 [1987, 234–237]), (2) who have practiced (Hume 1757 [1987, 237–238]), (3) who have made certain comparisons (Hume 1757 [1987, 238]), (4) who lack prejudice (Hume 1757 [1987, 239–240]), and (5) whose understanding is sound (Hume 1757 [1987, 240–241]). Conditions (1), (2), and (5) are evidently supposed to guarantee that the object is grasped as having all and only the aesthetically relevant properties it has, whereas conditions (3) and (4) are evidently supposed to guarantee that a properly calibrated sentiment arises from the object as grasped. In sum, we take an object’s beauty to appear as it is, according to Hume, when and only when the right sentiment arises from the object rightly grasped.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2668,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Thomas Reid’s theory of taste, as developed in the final essay of his Essays on the Intellectual Powers of Man (first published in 1785), makes use of a range of theoretical resources that had become available by the last decades of the Eighteenth Century. Its account of sublimity owes to Burke; its treatment of novelty owes to Addison and to Gerard; the use it makes of association may owe to Gerard as well. But as an internal-sense theory its debt is principally to Hutcheson and to Shaftesbury.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2669,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Reid adheres to Hutcheson’s notion of internal sense rather than to Shaftesbury’s. Indeed Reid’s account of Hutcheson’s notion is arguably sharper than any Hutcheson ever gives:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2670,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But while Reid agrees with Hutcheson about what makes the sense of beauty internal, he disagrees with Hutcheson about what is “ingredient” to that sense (Reid 1785 [1969, 782]). Hutcheson, as Reid understands him, posits but one ingredient: an agreeable feeling or emotion resembling nothing in the object. But it is in restricting himself to this single affective ingredient, Reid thinks, that Hutcheson puts himself on the path to Lockean anti-realism with respect to beauty, since it may be thought that if the sensation of beauty consists merely in such a feeling it refers to nothing in the object, and if it refers to nothing in the object then it must refer merely to “the perception of some Mind” (Hutcheson 1726 [2004, 27]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2671,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Reid takes this position to be “not so much an error in judgment, as an abuse of words” (Reid 1785 [1969, 782]). There are words by which one may say of Virgil’s Georgics that it is the cause of a feeling, but these are not the words The Georgics is beautiful; there is no reason to think they say anything of The Georgics other than that it has the property of beauty (Reid 1785 [1969, 759]). Hence a theory of taste that does not contradict “the universal sense of mankind, as expressed by their language” (Reid 1785 [1969, 760]) must allow the internal sense of beauty to have, in addition to its affective ingredient, a cognitive one—a judgment ascribing a property to the object.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2672,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Reid appears to acknowledge that allowing the sense of beauty this cognitive dimension does not commit one to realism regarding beauty: he appears to acknowledge that it is one thing to allow that the deliverances of internal sense comprise judgments and yet another to allow that the positive judgments they sometimes comprise are sometimes true (Reid 1785 [1969, 783]). The case Reid makes for realism regarding beauty (and sublimity) is complex. He makes a straightforward appeal to common sense (Reid 1785 [1969, 770]). He argues, after Descartes, that our possession of an inherently fallacious sense would make a deceiver of God (Reid 1785 [1969, 783]). But his deepest and most complicated reason for thinking beauty real has to do with the nature of the properties that he takes to ground beauty. Following Burke, Reid identifies the affect properly inspired by beautiful objects as love (this contrasts with the affect properly inspired by sublime objects, which he identifies as admiration). Since we properly love only what is good, the properties that properly inspire love must be perfections or excellences of some kind. It follows that the beauty of an object has its ground in whatever perfections properly inspire our love for it, and so has whatever reality those perfections have.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2673,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Reid concedes that we are only sometimes able to specify the perfections in virtue of which we judge things beautiful. He refers to judgments in which the perfection cannot be specified as “instinctive” and judgments in which it can be as “rational” (Reid 1785 [1969, 785–787]). Hence it is necessarily from an incomplete set of data that his enquiry into beauty-grounding perfections proceeds. That enquiry begins with a consideration of those perfections in virtue of which we judge minds beautiful, that is, the perfections that inspire love for the minds that possess them. Reid finds that these perfections divide into three classes: first, the amiable moral virtues, which include “[i]nnocence, gentleness, condescension, humanity, natural affection, public spirit”; second, the amiable intellectual talents, which include, “knowledge, good sense, wit, humour, cheerfulness, good taste, excellence in any of the fine arts”; and, third, certain perfections pertaining to the mind’s active powers—perfections that “render the body a fit instrument for the mind”—including “health, strength, and agility” (Reid 1785 [1969, 792]). Reid finds further that these perfections are not relative to human nature but absolute:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2674,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Thus Reid concludes that “[t]here is therefore a real intrinsic excellence in some qualities of mind, as in power, knowledge, wisdom, virtue, magnanimity,” and that a mind in possession of such qualities is therein really beautiful (Reid 1785 [1969, 771]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2675,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " When Reid enquires next after the perfections in virtue of which we ascribe beauty to material objects, his account takes a Shaftesburian turn. Reid revives Shaftesbury’s distinction between original and representative beauty (though he prefers the term “derived” to “representative”) and also Shaftesbury’s claim that the beauty of material objects derives from the original beauty of minds. This allows him to maintain that the perfections in virtue of which we attribute beauty to material objects just are the perfections in virtue of which we attribute beauty to minds. But whereas Shaftesbury simply infers without further argument the reduction of material to mental beauty from the premise that material beauty is the effect of mind, Reid takes up instance after instance of material beauty, arguing with respect to each that it is best understood as a “sign” of some instance of mental beauty. The beauty we attribute to inanimate nature signifies the wisdom and goodness of the mind that fashioned it for our use (Reid 1785 [1969, 799–800]); the beauty we attribute to animals, insofar as we regard them as minded, signifies “their instincts, their appetites, their affections, their sagacity” (Reid 1785 [1969, 794]); the beauty we attribute to the human form signifies either “some perfection of the body, as a part of the man, and an instrument of the mind” or “some amiable quality or attribute of the mind itself” (Reid 1785 [1969, 806]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2676,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " It may be objected that such a reduction of material to mental beauty cannot serve Reid’s case for realism, at least as it applies to material objects. For it may seem that the beauty we attribute to material objects can never be real, by Reid’s lights, given that no material object ever can have any of the mental perfections capable of grounding beauty. But such an objection misses a subtlety of Reid’s position. Strictly speaking, material objects never are beautiful. But this does not imply that the beauty that we attribute to them never is real. It is real, at least generally, though strictly speaking it belongs only to the minds that the material objects in question signify. If it seems to us that these objects themselves possess beauty, this is because beauty is prone to be “transferred” or “communicated” from the minds that really have it to the material objects that merely signify it (Reid 1785 [1969, 788]). Reid never uses the term “association” to refer to the mechanism by which beauty is thus communicated from mental signified to material sign. But that he does not distance himself from association—the mechanism by then at the center of a great deal of theorizing about taste—makes it hard to deny that it has found a positive role in his own theory.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2677,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Joseph Addison’s theory of taste resides principally in the work Addison refers to as his “essay on the pleasures of the imagination” (Addison and Steele 1879, nos. 409 and 421). It comprises eleven papers—nos. 411 through 421—appearing in the journal The Spectator on successive days during the summer of 1712. The timing of the essay’s publication raises questions about its relation to Shaftesbury’s Characteristics, which had appeared one year earlier. But it is difficult to detect even a hint of Shaftesbury’s theory of taste in Addison’s. That the two theories deeply oppose one another might suggest that Addison’s is a reaction against Shaftesbury’s. But Addison does not engage Shaftesbury: rather he tends simply to assume what Shaftesbury simply denies and vice-versa. Moreover Addison understood himself to be undertaking something “entirely new” in advancing a theory of taste (Addison and Steele 1879, no. 409). It seems best to conclude, therefore, that there are two original British theories of taste. While it would be hard to say which was more influential, it is easy to say that each was greatly so: every subsequent British theory of taste, at least until the close of the Eighteenth Century, shows the strong influence of one, the other, or both.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2678,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Addison’s fundamental idea is that the pleasures of taste are pleasures of the imagination. This should not be taken to imply that Addison identifies taste with the imagination. Taste is a faculty of judgment: it discerns the perfections of an author with pleasure (Addison and Steele 1879, no. 409). Imagination is a faculty of representation: it represents things in images; it is the faculty of visual representation (Addison and Steele 1879, no. 411). Hence Addison’s fundamental idea comes to this, apparently: taste judges what the imagination represents; the perfections that taste discerns with pleasure are perfections that things have as objects of visual representation. But if objects of taste are objects of visual representation, then objects of taste are first and foremost material objects: mountain ranges, waterfalls, sexually attractive bodies are among the paradigms Addison offers (Addison and Steele 1879, no. 412). It is here that the contrast with Shaftesbury becomes plain. It will be recalled that Shaftesbury holds objects of taste to be first and foremost objects of intellect, and that the fundamental difficulty that his theory must overcome is to explain our intuition that material objects are also capable of beauty. With Addison it is just the reverse.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2679,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Addison distinguishes two classes of pleasures of the imagination: primary pleasures, which derive from images of objects currently present to sight; and secondary pleasures, which derive from images of objects currently absent from sight and so called up before the mind in some other way. He then divides primary pleasures into three classes: those proceeding from the sight of what is great (or sublime); those proceeding from the sight of what is novel; and those proceeding from the sight of what is beautiful. A great object is one so large as to strain the imagination’s capacity to render it: its apprehension flings the mind into a “pleasing astonishment” and a “delightful stillness and amazement” (Addison and Steele 1879, no. 412). A novel object is one new or strange to their viewer; its apprehension “fills the soul with an agreeable surprise” and “gratifies its curiosity” (Addison and Steele 1879, no. 412). A beautiful object is either an object of sexual attraction or one possessing a “gaiety or variety of colors” or “a symmetry or proportion of parts” (Addison and Steele 1879, no. 412); the apprehension of beautiful objects strikes the mind with a “secret [i.e., inexplicable] satisfaction and complacency” (Addison and Steele 1879, no. 412).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2680,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Addison’s chief interest in secondary pleasures owes to their comprising the pleasures of artistic representation: representational artworks, he maintains, function centrally to call up mental images of objects that are great, novel, or beautiful. So Homer excels in the representation of great things, Virgil in the representation of beautiful things, Ovid in the representation of novel things, and Milton in the representation of all three (Addison and Steele 1879, no. 417). But Addison acknowledges that this account of the pleasures of artistic representation is so far incomplete; indeed he devotes a good portion the latter part of the essay to its supplementation.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2681,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " It seems clear, for starters, that our interest in artistic representations is not exhausted by our interest in what they represent: we take pleasure in the representations themselves as representations. To supply this deficiency Addison proposes a “a new principle of pleasure, which is nothing else but the action of the mind, which compares the ideas that arise from [the representation], with the ideas that arise from the objects themselves” (Addison and Steele 1879, no. 418). The description of a beautiful scene pleases us, according to this proposal, both for the beauty of the scene and for “the aptness of the description to excite its image” (Addison and Steele 1879, no 418). But Addison himself seems less than fully convinced by this proposal, since there is no reason to think of a pleasure arising from an act of comparison as a pleasure of the imagination; such a pleasure, he concedes, “may be more properly called the pleasure of the understanding” (Addison and Steele 1879, no. 418).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2682,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " A second deficiency concerns our interest in the artistic representations of things positively disagreeable, such as our interest in the performances of tragedies. The difficulty is that it seems we ought always to prefer representations of the agreeable, since they alone are capable of pleasing according to both principles so far advanced. Hence Addison recruits a third principle of pleasure: representations of the disagreeable please us by the contrast they present between the disagreeable scene they represent and the comparatively agreeable situation in which we find ourselves:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2683,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " A third perceived deficiency derives from the common intuition that some pleasures of artistic representation derive from the representation of purely intellectual objects, such as abstract moral, critical, or scientific truths. Addison concedes the truth of this intuition, but maintains that pleasures derived from the representation of such intellectual objects are pleasures of taste only insofar as the objects are represented metaphorically as having material form:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2684,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " The materialist basis of Addison’s theory disposes it to a relativism and so to an anti-realism with respect to the perfections of taste, much as the intellectualist basis of the theories of Shaftesbury and Reid disposes them to an absolutism and so to a realism. Because the pleasures of taste are pleasures taken merely in the visual representation of material objects, there is no reason to think any creature capable of visual representation incapable of such pleasures. But there is also no reason to think all creatures capable of such pleasures capable of all the same pleasures from all the same objects. Indeed there is every reason to think that",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2685,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hence Addison concludes that “[t]here is not perhaps any real beauty … more in one piece of matter than another” and that beauty—and also greatness and novelty, presumably—exists in the mind merely merely (Addison and Steele 1879, nos. 412 and 413).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2686,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " The conception of imagination at work in Edmund Burke’s A Philosophical Enquiry into the Origin of our Ideas of the Sublime and the Beautiful (published in 1757 [1759]) is a successor to Addison’s, though it has undergone expansion along one dimension and contraction along another.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2687,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " The expansion presumably responds to a problem arising from the application Addison’s fundamental idea—the idea that the pleasures of taste are pleasures of visual representation—to objects that do not present themselves visually, such as literary and musical works. With respect to such objects Addison is forced to maintain either that they function mainly to prompt mental images of objects that do present themselves visually, or that the pleasures they afford are not mainly pleasures of taste (he takes the former line with respect to literary works and the latter, apparently, with respect to music (Addison and Steele 1879, no. 416)). It is presumably to mitigate this difficulty that Burke adopts a conception of the imagination that encompasses all five sense modalities. Thus whereas for Addison one can imagine merely how things look, for Burke one can also imagine how they sound, taste, smell, and feel. Though this broadened conception is not unique to Burke, it is unlikely that any other theorist of taste so fully exploits its breadth: each sense modality has its moment in A Philosophical Enquiry, from a section on the beauty of surfaces as revealed by touch (Burke 1757 [1990, 110–111]) to one on the sublimity of “Bitters and Stenches” (Burke 1757 [1990, 78–79]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2688,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " The contraction also presumably responds to problem in Addison, this time to an apparent inconsistency in the conception of imagination itself. Addison opposes the pleasures of the imagination to the pleasures of sense, on one hand, and to the pleasures of the understanding, on the other (Addison and Steele 1879, no. 411). But he also defines the pleasures of the imagination as those arising from the visual representation of things, and allows that some of those pleasures—those he calls “the primary pleasures of the imagination”—arise from things present to vision (Addison and Steele 1879, no. 411). Thus it becomes hard to say what the opposition between the pleasures of sense and the pleasures of the imagination can amount to. It is presumably to relieve this tension that Burke recasts Addison’s distinction between primary and secondary pleasures of the imagination as a distinction between “the primary pleasures of sense” and “the secondary pleasures of the imagination” (Burke 1757 [1990, 22]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2689,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " It is a complicated question whether Burke takes the primary pleasures of sense and the secondary pleasures of the imagination jointly to exhaust the pleasures of taste. In the 1759 addition to A Philosophical Enquiry (the “Introduction on Taste”) Burke allows that objects of the understanding constitute “a very considerable part of what are considered objects of Taste” (Burke 1757 [1990, 22]). But that objects of the understanding cannot be objects of taste seems a guiding assumption of much of the rest of the Enquiry: consider, for example, Burke’s claim that it is only as an object of the imagination, and specifically not as an object of the understanding, that God can be found sublime (Burke 1757 [1990, 62]). It is worth noting, moreover, that in other respects Burke’s theory is more thoroughly materialist than Addison’s. Although Addison maintains that the pleasures of taste are pleasures of the imagination, his explanations as to why certain objects of imagination please are not particularly materialist. He traces the pleasure we take in “an unbounded view,” for example, to our regarding it as “an image of liberty” (Addison and Steele 1879, no. 412). Burke’s tendency, by contrast, is to explain the pleasures of sense and imagination by appeal merely to our physical constitution. He holds the delight we take in the viewing very large objects, for example, to be a consequence of the retina’s being struck, all at once or in quick succession, by the relatively many light rays that very large objects reflect (Burke 1757 [1990, 124–125]).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2690,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But Burke’s chief innovation consists neither in his conception of the imagination, nor in the extent of his materialism, but in his theory of the perfections of taste. It will be recalled that Addison posits three such perfections—sublimity (or greatness), novelty, and beauty—though he offers no explanation as to why there should be just these three. Burke argues, briefly, that novelty is too superficial and ubiquitous to keep rightful company with sublimity and beauty (Burke 1757 [1990, 29]). And he argues, at length, that sublimity keeps rightful and exclusive company with beauty on the grounds that it stands to one great class of human passions as beauty stands to the other (Burke 1757 [1990, 30–50]). According to Burke’s account of the passions—which owes much to Hume’s—most all passions answer either to the ends of society or to the ends of self-preservation (Burke 1757 [1990, 35–36]). Moreover, all societal passions “turn” on pleasure, that is, each has either pleasure or its felt absence as a constituent (Burke 1757 [1990, 37]). The societal passion of love has pleasure as a constituent, for example, while the societal passion of grief has the felt absence of pleasure as a constituent (Burke 1757 [1990, 34–35, 39]). All self-preservative passions, by contrast, “turn” on pain, that is, each has either pain or its felt absence of pain as a constituent (Burke 1757 [1990, 37]). The self-preservative passion of simple terror has pain as a constituent, for example, while the self-preservative passion of astonishment—a passion which arises when pain threatens though from a relatively safe distance, and which combines feelings of sobriety, awe, and “tranquility shadowed with horror”—has the felt absence of pain as a constituent (Burke 1757 [1990, 32, 36–37, 53]). Thus there are both desirable and undesirable societal passions and desirable and undesirable self-preservative passions. The beautiful is that which excites the desirable societal passion of love, the sublime that which excites the desirable self-preservative passion of astonishment (Burke 1757 [1990, 36–37, 39, 53]). The objective foundations of beauty and sublimity turn out to be largely opposing: whereas the beautiful tends to the small, the smooth, the various, the delicate, the clear, and the bright, the sublime tends to the great, the uniform, the powerful, the obscure, and the somber. Hence Burke concludes that:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2691,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " The impact of Burke’s aesthetic dualism was immediate. Before its appearance, the sublime could be ignored: there is almost no mention of it in Shaftesbury, Hutcheson, or Hume. Afterward it could not be: indeed the major theorists of the second half of the century—Reid, Alison, and Kant—all advance substantial theories of the sublime. But toward the century’s end Burke’s dualism began to come under pressure, not from those who thought two perfections too many, but from those who thought it too few. Uvedale Price, following suggestions in the writings of William Gilpin, argued that there are objects—landscapes, paradigmatically—which please the eye, but which can be considered neither beautiful nor sublime. These objects cannot be considered sublime because they need not be grand (Price 1796, 106–107); they cannot be considered beautiful because they are not smooth, their pleasure depending on “sudden protuberance, and lines that cross each other in a sudden and broken manner” (Price 1796, 61–62). Because the play of form, color, light, and shadow afforded by such objects renders them ideal subjects for painting and drawing, Gilpin referred to them as “picturesque” (Gilpin 1794, 3–5). By the end of the century, the picturesque came to be regarded widely as occupying the position vacated by the novel, i.e., that of a third perfection of taste.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2692,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Alexander Gerard’s theory of taste, advanced in his 1759 Essay on Taste, is an attempt to mediate, or perhaps to transcend, the dispute between internal-sense and imagination theorists.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2693,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Gerard accepts as sound Hutcheson’s argument for the internal sensibility of taste: that the perceptions of taste are simple, that they arise immediately, and that they arise necessarily, show taste to be a sense; that they are separate from and consequent upon those of external sense and reflection show taste to be internal (Gerard 1759, 160–161). But Gerard rejects what Hutcheson regards as a corollary—that taste is an ultimate or irreducible power. Hutcheson may have taken the irreducibility of taste to follow from the simplicity of its perceptions. Or he may have taken the irreducibility of taste to follow, by analogy, from the irreducibility of the external senses. But whether taste is irreducible depends merely on whether its perceptions can be traced to some more basic mental power. Gerard believes that they can be: in fact he believes that they can all be traced to “certain exertions” of the more basic power of the imagination (Gerard 1759, 167). Thus while taste is “itself a species of sensation … in respect of its principles, [it is] justly reduced to imagination” (Gerard 1759, 160).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2694,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " But what Gerard means by “imagination” is not what either Addison or Burke means, though it is not wholly unrelated either. Officially at least, Gerard follows Addison and Burke in regarding imagination as a representational power and in opposing imagination to sense. But Gerard breaks from Addison and Burke crucially in also opposing imagination to memory. This allows him to group sense and memory together as representational powers that purport to present ideas in correspondence with reality and to isolate imagination as the representational power that does not. That imagination is thus untethered from reality does not, however, imply its utter lawlessness. It is governed by roughly Humean laws of association, according to which it",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2695,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Hence another way of putting the contrast between sense and memory, on the one hand, and imagination, on the other, is to say that the former present ideas according to “real bonds of union” whereas the latter presents ideas according to laws of association (Gerard 1759, 167). In this way association becomes an essential element of imagination. Indeed on Gerard’s view there seems, unofficially at least, to be no real difference between association and imagination—at most imagination is the locus of association.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2696,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " So when Gerard claims that the perceptions of taste can be traced to “certain exertions of imagination,” the exertions he has in mind are acts of association. The idea, roughly, is this. The reducibility of taste implies that the perceptions of taste, which are pleasures, are not natural to their objects in the way Hutcheson, for example, supposed. Objects of taste must, in other words, acquire their pleasurability, and association is the mechanism by which they do so. Just how they do so varies, and the variations are too numerous for cataloguing here. There is, however, a basic mechanism to which Gerard recurs often in his explanations. It seems that the mind forges very strong associations between its own processes and their objects, such that any pleasure natural to a mental process will transfer to its object. It also seems that any process that requires the mind “to exert its activity, and put forth its strength, in order to surmount any difficulty,” is naturally pleasurable, as is the mind’s consciousness of its success in surmounting any difficulty (Gerard 1759, 3). Hence any object whose processing is difficult enough to require the relevant exertion, but not so difficult as to prevent its success, will give pleasure (Gerard 1759, 3–4). Novel objects give pleasure because their unfamiliarity renders their conception just difficult enough (Gerard 1759, 5–6). Sublime objects give pleasure because their sheer scale renders their conception just difficult enough (Gerard 1759, 14). Imitations give pleasure because marking resemblances between them and their originals is just difficult enough (Gerard 1759, 49–51). And ridiculous (that is, humorous) objects give pleasure because marking dissonance or inconsistency amongst their elements is just difficult enough (Gerard 1759, 66–69).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2697,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " In these and similar ways Gerard reduces internal sense to imagination. An important consequence of the reduction is that it allows Gerard to be neutral on the question of the primacy of the intellectual or the material with respect to objects of taste, over which internal-sense theorists and imagination theorists had divided. Gerard, unique among the major British theorists of his century, shows no inclination to make one sort of object prior to the other. Indeed, within the essay’s first pages he offers a rural prospect, a scientific discovery, a philosophical theory, a poem, and a painting, all as equally uncontroversial examples of objects of taste (Gerard 1759, 6).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2698,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Archibald Alison, whose Essays on the Nature and Principles of Taste first appeared in 1790, follows after Gerard in several respects. He follows after Gerard in holding that objects of taste are not naturally pleasurable, as Hutcheson had supposed, and so follows after Gerard in holding that objects of taste must acquire their pleasurability from something else that is naturally pleasurable. He follows after Gerard, moreover, in holding that this acquisition depends centrally on association, and follows after Gerard, finally, in holding that the naturally pleasurable something else is—at least typically and at least in part—a mental operation of some sort. But he departs from Gerard regarding both the role of association and the identity of the naturally pleasurable mental operation. Whereas Gerard holds association merely to be a vehicle by which pleasurability is transmitted from the naturally pleasurable mental operation to the object of taste, Alison holds association also to be the central mental operation from which pleasurability is transmitted to the object taste.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2699,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " The process by which Alison takes the object of taste to acquire its pleasurability is complicated. It begins with the object’s eliciting some simple emotion, such as, cheerfulness, tenderness, melancholy, solemnity, elevation, terror, delicacy, grace, dignity, or majesty (Alison 1811, 57–58, 66). This simple emotion then awakens a train of associated ideas such that each idea is emotionally charged and each is united to each by a single associative principle, usually the principle of resemblance (Alison 1811, 53–57). The awakening of such a train of ideas is commonly known as “the seizing of the imagination” and is naturally attended with a simple pleasure (Alison 1811, 8, 103). This pleasure combines with the pleasure attending the emotion that awakens the train, and with the pleasures attending the emotions that arise from the ideas constituting the train, to form the complex pleasures attending the complex emotions of taste, namely, the emotions of beauty and of sublimity. The claim that the pleasures of beauty and sublimity are in this way complex is an important one, in that it obviates any need to posit a special internal sense by which the pleasures of taste arise:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

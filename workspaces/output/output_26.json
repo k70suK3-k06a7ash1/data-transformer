@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2500,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What can be said against the definition? Complaints could come from any number of quarters, but most would focus on its being too narrow. The definition simply doesn’t get the extension of “work of art” right, it would be argued, because of its antiquated focus on the aesthetic. Developments in art, art criticism, and the philosophy of art in the twentieth century have shown the independence of art and the aesthetic, with the result being a marked divergence in their extensions. Pieces of driftwood and stones, for example, have been displayed in museums and catalogued as works of art. Artifactuality thus isn’t a necessary condition of art. And many objects obviously have no aesthetic intention behind them, and yet are works of art. Duchamp’s famous Fountain, for example, a urinal turned upside down, is a work of art, but it was manufactured in a factory. No aesthetic intention stands behind it, it has no aesthetically interesting properties, and it doesn’t belong to a kind whose members are normally created with an aesthetic intention. Literally thousands of objects of the same sort can be found in museums and galleries today. They’re listed in museum catalogues, discussed in art history texts, and analyzed in journals of art criticism. If they aren’t works of art, what are they?",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2501,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley never explicitly responded to this objection, but he wouldn’t be fazed. The objection assumes that if an object is displayed in a museum—a fine arts museum, not a history museum or any other sort of museum—or if an art historian or art critic discusses an object, then it must be a work of art, or at least that there’s very strong reason to think that it’s a work of art. That it’s some reason to think so Beardsley wouldn’t deny; but that it’s necessarily a strong or definitive reason he certainly would. Fine arts museums sometimes display the working clothes or palettes of artists, but they aren’t works of art. This has to do with the fact that even if the primary business of a museum is to display art, it has other functions as well, and justifiably extends its mission in various ways. Palettes and working clothes are an extension in one direction, for one reason, but pieces of driftwood and stones are a different extension, in a different direction, and for a different reason. They’re displayed—in small numbers—because they’re aesthetically interesting, just as most works of art are. And Duchamp’s Fountain might be displayed not because it’s a work of art—although presenting an upside down urinal to a museum might be regarded as a small joke, and thus a minor work of art—but because (a) art, as a human endeavor, has a history, (b) museums, as a social institution, have a duty to acknowledge and exhibit that history, and (c) Fountain, as a well-chosen memorial to the joke, has a place in that history. Much the same can be said about the remarks of art critics and art historians respecting Fountain and its many kin. If such objects are called “works of art” for a long enough period of time, by a large enough group of people, the term can easily acquire a secondary sense or a number of derivative senses. Beardsley is probably alluding to as much in his remarks about the use of the term by or about the avant-garde. But that the appearance of coatracks, old shoes, broken sticks, and such like in museums, or that mention of them in books and journals by art critics and historians means that “art” in the primary sense is wrongly defined in terms of artifactuality and aesthetic intention—that hasn’t been shown, he would say. A perfectly good explanation of such phenomena can be provided in accord with a relatively traditional definition of art.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2502,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Despite his many books and articles, Beardsley is probably best known for his very first article in aesthetics. In “The Intentional Fallacy”, a paper co-written with William K. Wimsatt and published in 1946, he argued against the neo-Romantic view that a work of art means what the artist says it means, or what he intends it to mean. Since many pens have run dry in writing about—and in the great majority of cases attacking—The Intentional Fallacy, another pen will run dry in discussing it below.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2503,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The issue can be put in terms of the relation between",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2504,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " and",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2505,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " According to E.D. Hirsch,  (1)  entails  (2),  at least if w is a literary work, because the meaning of ‘x’ simply is what the writer meant or intended by ‘x’. Knowing the artist’s intention is thus knowing the work’s meaning (Hirsch 1967). That’s one end of the spectrum on the relation between  (1)  and  (2).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2506,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley sits at the other end. He holds that the intentions of the artist aren’t relevant to the interpretation of a work of art at all.  (1)  not only doesn’t entail  (2);  in and of itself, it provides no direct evidential support for  (2).  An artist’s intentions have nothing to do with what a work means.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2507,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Between Beardsley and Hirsch are any number of intermediate positions, in general characterizable as holding that the intentions of the artist provide some direct evidential support for  (2) but  not definitive support. Artists’ intentions have some weight, in other words, but not, as Hirsch in effect has it, infinite weight, weight that entails that the work means what the artist intends it to mean. Other factors may well outweigh that of the artist’s intention in a particular case, and the meaning of the work, or part of the work, not correspond to what the artist intends. Many philosophers, probably the majority, would subscribe to such an intermediate position. The question, however, isn’t which position is most popular, but which has the most to say for it.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2508,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " One steadfast conviction of Beardsley’s is that his does. He returned to the issue of the relation of intention and interpretation a number of times, and never wavered. In fact, he was more than consistent on the issue; he also held that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2509,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " provides no direct evidential support for",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2510,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " and that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2511,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " An artist’s intentions are utterly irrelevant to the descriptive, interpretive, and evaluative properties of his work. If we want to know what properties a work has, we should examine the work, not the worker.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2512,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " And in addition to “The Intentional Fallacy”, there’s also the lesser known and lesser discussed “The Affective Fallacy”. In a paper bearing that name (1949), also co-written with William Wimsatt, Beardsley argued that a person’s affective responses to a work of art are irrelevant to its descriptive, interpretive, and evaluative properties. If we want to know what properties a work has, we should look at the work, not those looking at the work.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2513,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley’s claims about the irrelevance of the artist’s intentions to the descriptive and evaluative properties of his work have elicited little in the way of critical response. That may or may not mean that philosophers are generally in agreement with him. As far as the irrelevance of the artist’s intentions to interpretation is concerned, however, there has been a great deal of dissent. Since there has, what follows will concentrate exclusively upon interpretation.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2514,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley’s arguments against intentionalism are of a variety of sorts. In “The Intentional Fallacy”, he says that the intentions of the artist are neither “available nor desirable”, with this meaning that such intentions aren’t always available and are never desirable. Since we frequently can and do correctly interpret a work of art with little or no knowledge about the artist, the fact that the artist’s intentions aren’t always available is enough to show that Hirsch’s position is wrong. But that it’s never desirable to consult the artist’s intentions when they’re available is what Beardsley has to prove.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2515,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Partial support can be found in his argument that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2516,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Judging a poem is like judging a pudding or a machine. One demands that it work. It is only because an artifact works that we infer the intention of the artificer…. A poem can be only through its meaning… yet it is, simply is, in the sense that we have no excuse for inquiring what part is intended or meant. (IF: 469)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2517,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In other words, a poem or other work of art is independent of its creator, just as any other artifact—a pudding or a washing machine—is. A pudding consists of milk, eggs, and other ingredients; a washing machine of a metal drum, rubber gaskets, and other parts; and a poem of words. In all three cases, the parts exist and are what they are independently of the artificers, and the artifacts are to be judged—and interpreted—on the basis of their properties. There’s no need to bring in the artificer, for he doesn’t remain behind in the parts, and critical judgment, including interpretation, concerns the how, why, what, and how well of the artifact, not the how, why, what, or how well of the artificer. The proof of the pudding is in the eating, not the chef’s intentions.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2518,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The principal point at which this argument—admittedly, an extended reconstruction of a few remarks in “The Intentional Fallacy”—might be questioned is in the assumption that works of art are like standard, garden-variety artifacts—lawn chairs and television sets—in leaving their creators behind. For Beardsley, a work of art isn’t fundamentally different from a pair of fingernail clippers: it’s made and then begins its own autonomous life. It is what it is—who knows or cares who created it, and with what intentions. This is a plausible position, but not an unassailable one. The alternative view is that not all artifacts lead autonomous lives, and that for some, works of art as well as, on many people’s view, linguistic artifacts of all kinds (sentence tokens, memos, book chapters, and so on), what they are is intimately linked to their creator, and more particularly to the intention-laden conditions of their origin. Put more concretely and slightly too strongly in terms of an imperfect analogy with physical objects: a rock isn’t space, and to understand a rock we can many times can ignore considerations of space, but if we remove space altogether from our understanding of a rock, there isn’t a rock to understand at all. On this view, then, a proper understanding of works of art—which includes correctly interpreting them—requires the admissibility of considerations of the artist’s intentions, even if those intentions aren’t always available or needed.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2519,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But why, Beardsley would ask in reply, are works of art so special? What makes them categorically different from your run-of-the-mill artifact? The view in question distinguishes kinds of artifact without providing a principled or well-argued basis for doing so. At the least, additional support is needed. Absent such support, the view is nothing but special pleading.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2520,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " One possible reply is that there is a non-arbitrary difference between works of art and other artifacts, namely that other artifacts aren’t essentially meaning-laden and works of art are. Still, in and of itself, this isn’t sufficient, Beardsley would say, for (i) some works of art, such as “pure music”, aren’t meaning-laden, (ii) many objects which aren’t works of art, such as newspapers, are meaning-laden, and (iii) even if (i) and (ii) weren’t true, the fact that all and only works of art are meaning-laden has to be shown to make for the relevance of artists’ intentions, and that hasn’t been done.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2521,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In Aesthetics, the attack is a little different. “We must distinguish between the aesthetic object and the intention in the mind of its creator”, Beardsley says, and the irrelevance of the latter to interpretation can be shown if we consider a certain sculpture, “a large, twisted, cruller-shaped object of polished teak, mounted at an oblique angle to the floor”. The creator of the sculpture intends it to “symbolize… Human Destiny”. Try as we might, however, we “see in it no such symbolic meaning”. The philosophical question then is:",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2522,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Should we say that we have simply missed the symbolism, but that it must be there, since what a statue symbolizes is precisely what its maker makes it symbolize? Or should we say, in the spirit of Alice confronting the extreme semantic conventionalism [intentionalism] of Humpty Dumpty, that the question is whether that object can be made to mean Human Destiny?",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2523,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Obviously, the latter, Beardsley thinks, for the former entails that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2524,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " anyone can make anything symbolize anything just by saying it does, for another sculpture could copy the same object and label it “Spirit of Palm Beach, 1938”. (Aesth: 18–19, 21)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2525,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The argument here is fine as far as it goes, but it doesn’t go as far as Beardsley apparently thinks it does. What it shows is that an artist’s say-so or intention isn’t absolute as far as the meaning of his work is concerned. That’s a far cry from showing that  (1)  is utterly irrelevant to  (2).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2526,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In addition to sculpture, the irrelevance of the author to the meaning of his text is also argued for by Beardsley, though only partly by counterexample. “Suppose someone utters a sentence”, he says.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2527,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " We can [then] ask two questions: (1) What does the speaker mean? (2) What does the sentence mean?",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2528,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Although answers to the two questions usually coincide, they can diverge; people can mean one thing and say another. The reason that’s possible is that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2529,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " what a sentence means depends not on the whim of the individual, and his mental vagaries, but upon public conventions of usage that are tied up with habit patterns in the whole speaking community.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2530,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Sentence meaning—that is, textual meaning—is thus one thing, and is anchored in the “the whole speaking community”, while speaker meaning—what the author meant—is quite another, and is anchored in his own, quite possibly idiosyncratic intentions. Thus an author can be wrong about what his own work means. A.E. Housman, for example, was probably wrong in claiming that his poem “1887” wasn’t ironic (Aesth:, 25–26).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2531,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Once again, there’s something wrong and something right in what Beardsley says. He’s undoubtedly right that sentence meaning and speaker meaning needn’t coincide, and that that proves that the two aren’t identical. Thus the author’s intention isn’t always the final word on what a text means. That, however, doesn’t prove that the author’s intention carries no evidential weight at all. According to the alternative position, it does, but in some cases, perhaps the majority of them, not enough to carry the day. In other cases, however, and perhaps Housman’s among them, the author’s intention can tip the scales in favor of one reading rather than another. In any case, the argument here might conclude, the unease that many people feel in dismissing Housman from the interpretation of his poem argues that we should accord his intentions at least some weight.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2532,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In The Possibility of Criticism, three arguments are advanced against intentionalism, which is again taken to be the view that the meaning of a work of art is what the artist intends it to mean. The first is that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2533,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " some texts that have been formed without the agency of an author, and hence without authorial meaning, nevertheless have a meaning and can be interpreted. (PC: 18)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2534,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What Beardsley has in mind is the kind of verbal mistake made at a publishing house, or by a computer in scanning a document. He cites the sentence “Jensen argued like a man filled with righteous indigestion” as an example of a text that can be read and interpreted, yet no agency, a fortiori no author’s intention, stands behind it. “Indignation” became “indigestion” at the printer’s, by mechanical error.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2535,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " True enough, his opponent would say in reply, but what that shows is that the author’s intention isn’t identical with the meaning of a text or needed in all cases to correctly interpret a text. What it doesn’t show is that the author’s intention, if present, is irrelevant to interpretation. Besides, the reply would continue, printer’s errors and similar cases are parasitic on normal cases in which there is authorial intent. Our conception of a text is that of an intentionally created artifact of a certain kind, and cases in which authorial intent is altogether missing are admitted as texts only by conceptual courtesy, based on the similarity of such texts to standard, intention-laden texts.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2536,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The second argument is that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2537,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " the meaning of a text can change after its author has died. But the author cannot change his meaning after he has died. Therefore, textual meaning is not identical to the authorial meaning.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2538,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Bolstering this argument is the fact that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2539,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " the OED furnishes abundant evidence that individual words and idioms acquire new meanings and lose old meanings as time passes; these changes can in turn produce changes of the meaning in sentences in which the words appear.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2540,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " As an example, Beardsley cites a line from a poem written in 1744, “He raised his plastic arm”, and notes that “plastic arm” has “acquired a new meaning in the twentieth century”. Thus the line “in which it occurs has also acquired a new meaning” (PC: 19).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2541,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " This argument is highly doubtful. Just as the doings of the homosexual community in the 1970s, and the terminology that such doings introduced, don’t mean that the line “Now we don our gay apparel” has acquired a new meaning in the Christmas carol, a call to dressing in drag, so the doings of the oil industry in the twentieth century, and the terminology surrounding petrochemical products that such doings introduced, don’t mean that the line “He raised his plastic arm” has acquired a new meaning in the poem, a meaning having to do with the movement of a prosthetic limb. Newer meanings of a term, distant from original meanings and far removed in time, are utterly irrelevant to the meaning of a line written long ago. In effect, the principle of interpretation underlying Beardsley’s argument, that new meanings of a term are relevant to the interpretation of older texts in which it occurs,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2542,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Although Beardsley might regard (a) as an acceptable consequence of his argument, at least if “unbridled anachronism” were replaced with a less loaded term, he’d undoubtedly be unhappy with (b) and (c). (b) challenges the objectivity of criticism, something that he’s at pains to establish, and (c) endangers his comprehensive outlook on art and art criticism. Perhaps that’s why he later seems to have renounced the argument, even if only implicitly (cf. Aesth: li).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2543,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The third argument is the familiar one that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2544,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " a text can have meanings that its author is not aware of. Therefore, it can have meanings that its author did not intend. Therefore, textual meaning is not identical to authorial meaning. (PC: 20)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2545,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " While all this can be granted, Beardsley’s critic would say, the last sentence gives the game away: the argument doesn’t show the complete irrelevance of the author’s intentions to the meaning of his work, just that the two aren’t identical.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2546,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " One line of argument to show that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2547,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " is logically or epistemically related to",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2548,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " begins by noting that the facts expressed by  (1)  and  (2)  may not be “constantly conjoined”, but there’s at least a very strong correlation between the two: the great majority of cases of (1) are cases of (2), and the great majority of cases of (2) are cases of (1). More than that, given our knowledge of the world, it’s plausible to assume that there’s a causal relation between type-(1) facts and type-(2) facts: in general, type-(1) facts bring about or cause type-(2) facts. A universal causal law of the form, All M-type facts bring about or cause N-type facts, wouldn’t be quite correct in this case, but neither would it be in the case of throwing rocks and breaking windows. The causal generalization is sound enough in both, however.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2549,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " That much is common sense and is readily admitted by Beardsley. The intention of the artist and the aesthetic object “are causally connected”, Beardsley says in Aesthetics (Aesth: 19), and if two things, for example, Jones, Sr. and Jones, Jr., are causally connected, then",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2550,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " any evidence about the height of either of them will be indirect evidence about the height of the other, in virtue of certain laws of genetics, according to which the tallness of the father affects the probability that the son will be tall, though it does not, of course, render it certain (Aesth: 19–20).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2551,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Thus, Beardsley adds,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2552,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In the case of aesthetic object and intention we have direct evidence of each: we discover the nature of the object by looking, listening, reading, etc., and we discover the intention by biographical inquiry, through letters, diaries, workbooks—or, if the artist is alive, by asking him. But also what we learn about the nature of the object itself is indirect evidence of what the artist intended it to be, and what we learn about the artist’s intention is indirect evidence of what the object became. (Aesth: 20)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2553,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " There are two important points to note about this passage. First, although Beardsley wrote that in his early work he was concerned",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2554,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " with the logical relevance of information about the intentions of an author to the interpretation… of his work,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2555,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " and he “took the position that there is no such relevance” (II: 188), in the last sentence he admits that there is a “logical relation” between  (1)  and  (2):  (1) is indirect, inductive evidence of a causal sort for (2). Reasoning from type-(1) facts to type-(2) facts is simply reasoning from causes to effects. Such reasoning doesn’t yield certainty, but it’s generally dependable nonetheless. Thus, in at least many cases, if we knew that the artist intended his work to mean p, we would have good, though not definitive, reason for believing that his work means p.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2556,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The second point concerns the distinction between direct and indirect evidence drawn by Beardsley. A diary entry is direct evidence of what the artist intended his work to mean; the artist’s intention is indirect evidence of what his work means. But why the difference? In both cases, the relation between the items is causal, yet in one the evidence is direct, and in the other indirect. If a diary entry is direct evidence of an artist’s intention (reasoning from an effect to a cause), then the artist’s intention ought to be direct evidence of what his work means (reasoning from a cause to an effect). That’s a conclusion Beardsley certainly wants to avoid. If, on the other hand, the artist’s intention is indirect evidence of what his work means (reasoning, as just noted, from a cause to an effect), then a diary entry ought to be indirect evidence of what he intended (reasoning, again as just noted, from an effect to a cause).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2557,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " This second way of resolving the tension in Beardsley’s remarks would probably be more acceptable to him, but it still carries problems in its train. What does the distinction between direct and indirect evidence amount to on it? Something like this: direct evidence that S is P is evidence gleaned from an inspection of S itself, no other objects being taken into consideration or made epistemic use of. Indirect evidence that S is P is evidence that takes objects other than S into consideration, or that makes epistemic use of such objects. Thus evidence respecting the height of Jones, Sr. is indirect evidence of the height of Jones, Jr., and conversely; diary entries are indirect evidence of an artist’s intentions, and conversely; and an artist’s intentions are indirect evidence of the meaning of his text, and conversely. Direct evidence of Jones, Jr.’s height requires scrutinizing him and not looking elsewhere, however, and by the same token direct evidence of the meaning of a work of art requires scrutinizing it and not looking elsewhere.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2558,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But the problem with drawing the distinction this way is that objects other than the work of art itself often have to be consulted in order to know what the work means, and many of these objects have to be regarded as legitimate sources of information, lest interpretation become impossible. The OED is consulted by even the best of critics, and social histories are many times needed to understand cultural and historical references. Beardsley knows as much and, from “The Intentional Fallacy” onward, insisted on the legitimacy of such sources. But as drawn, the distinction between direct and indirect evidence doesn’t distinguish between dictionaries and diaries, and Beardsley never did define the direct evidence/indirect evidence distinction with sufficient precision to put one on one side of the critical fence, and the other on the other, and have them stay put. Perhaps the distinction can be drawn in some way along the lines indicated above (which are suggested by Beardsley’s own remarks), but more rigor and a principled argument would be needed.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2559,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " A different way to draw the distinction, not hinted at by Beardsley but perhaps acceptable to him, would be in terms of the nature of the inferential relation between (1) and (2). (1) doesn’t entail (2), but, as Beardsley admits, it does provide inductive support for (2). (1) may or may not be criterial evidence for (2), however. What this last claim means can be made clearer by an analogy with W.D Ross’s theory of ethical reasoning.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2560,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " According to Ross,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2561,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " doesn’t entail",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2562,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " for A might be right even so, when all ethically relevant factors are taken into account. If A helps to save innocent people’s lives, for example, it’s right—actually right, as Ross says—even though it’s a lie. Nor is the relation between (L) and (W) causal or inductive. Lying doesn’t cause wrongness, and although it might be that most (or even all) lies are all-things-considered wrong—actually wrong—it might be that most (or even all) lies aren’t all-things-considered wrong—actually wrong. Regardless of which alternative (if either) is correct, (L) still provides some reason for thinking that (W) is true. That’s to say that the inference from (L) to (W) isn’t based on an empirical generalization of any kind. Rather than being deductive evidence or empirically based inductive evidence, (L) is criterial evidence for (W). All by itself, irrespective of any other considerations, any other premises, it lends some but not definitive support to (W). The inference is an immediate one, in other words, in the logician’s sense of the term, and since it is and isn’t grounded on empirical facts, it looks like a deductive inference. It’s not a deductive inference, however: unlike a standard deductive inference, but like a standard inductive inference, additional premises—such as “Act A saves many people’s lives”, or “Act A leads to many people’s deaths”—can affect the strength of the inference, weakening it in some cases, strengthening it in others, and having little to no effect on it in still others. As with a typical inductive argument, strength of inference isn’t an all-or-nothing affair. The inference is defeasible, in that countervailing considerations can weigh against the support the premise provides, even to the point of nullifying it altogether, or at least very nearly doing so; but it’s also buttressable, in that additional considerations can bolster or further strengthen such support, even to the point of making the inference well-nigh deductively sound. Or, of course, the inference can be strengthened by some considerations and weakened by others.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2563,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What this means is that there can be criterial evidence of an altogether different sort for (or against) (W).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2564,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " is also criterial evidence for (W), and there are many other examples of such evidence. Whether the wrongness of an act is constituted by such factors as lying and betrayal, or whether it’s a different property which supervenes on such factors, is of no moment as far as the matter at hand is concerned. The important point is the logic—or better, the epistemology—of the inferential relation.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2565,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What all this has to do with the intentional fallacy is this. The intentionalist shouldn’t claim that (1) entails (2), for that claim is subject to the numerous counterarguments that Beardsley makes full use of. But the anti-intentionalist, such as Beardsley, shouldn’t claim that there’s “no logical relation” between (1) and (2), for there clearly is, even on his own showing, a causally grounded, empirically based, standard inductive relation between the two. The intentionalist shouldn’t rejoice at this admission, however. For two reasons, such a relation tells us nothing of any significance about the proper way to interpret art. First, similar causal relations can be found to obtain in virtually every domain of inquiry, and they tell us nothing significant about proper methodology in those domains. The fact that tall parents generally have tall children, and tall children generally have tall parents, is of no help in establishing proper methodology in genetics, or even in telling us where to begin our investigation. Second, and more importantly, being founded on a causal connection between two distinct things, namely the artist’s intention and the meaning of his work, the empirical generalization that underlies the inference from (1) to (2) presupposes that there’s a way to identify the meaning of an artist’s work independent of consulting his intentions. That’s not something the intentionalist who relies only on a causal connection between the two should be very happy about, for it suggests that the artist’s intentions are altogether extrinsic to and independent of the meaning of the artist’s work.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2566,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The real debate about the intentional fallacy is, or at least should be, over whether (1) provides criterial evidence for (2). Beardsley argues against an entailment relation between the two, admits that there’s an inductive relation but relegates it to the category of indirect evidence, and thinks the job is done. The intentionalist typically wonders how the meaning of a work can be utterly divorced from the voice, the uttering or creating with an intended meaning, of the artist, and brings up hard cases to support the relevance of the artist’s intentions. But neither has focused the issue properly. Beardsley apparently takes direct evidence to be deductively adequate evidence or evidence gleaned from the object itself, and indirect evidence to be evidence based on empirical generalizations or gleaned from something other than the object itself. In neither sense is an artist’s intentions direct evidence of what his work means, and Beardsley is right that there’s an intentional fallacy. But if, as it should be, direct evidence is identified with criterial evidence, and indirect evidence with non-criterial but inductive evidence, Beardsley has failed to establish that there’s an intentional fallacy. On the other hand, the mere strong feeling of the intentionalist that the meaning of a work isn’t independent of the intentions of the artist who created it is no proof of anything, and the hard cases brought up in support of the relevance of the artist’s intentions—typically, cases that involve allusion, irony, or obscure passages—can almost always be explained or explained away, and not implausibly, by the anti-intentionalist. The mistake of Beardsley is to neglect a possibility and thus focus the issue wrongly. The mistake of the intentionalist is typically not to focus the issue with any degree of precision, and to rely on relatively vague but strongly held intuitions.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2567,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What’s needed to decide whether there’s an intentional fallacy, whether (1) does or doesn’t provide criterial evidence for (2), is, more than anything else, a theory of meaning. A theory of meaning is a theory of what it is for w (some object, in the broad sense of the term) to mean p. Beardsley was always aware of the need for a theory of meaning, and in Aesthetics he proposed one, a complicated theory which he later rejected. A few years later, however, in his final paper on the topic, he embraced a speech-act theory based on the work of William Alston and used it to defend the intentional fallacy.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2568,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Speech act theory in general is derived from the work of J.L. Austin, a British philosopher who flourished shortly after World War II. Austin distinguishes three things a person typically does in uttering a sentence, say, “The door is open”. He utters certain words—“the”, “door”, “is”, and “open”—with certain meanings; this is a locutionary act. He states that the door is open; this is an illocutionary act. And he convinces someone that the door is open; this is a perlocutionary act. As Austin says, it is in uttering a sentence with a certain meaning (that is, in performing a locutionary act) that we perform an illocutionary act. Illocutionary acts have come to be called speech acts. Asserting, requesting, arguing, ordering, promising, and so on are all examples of speech acts, but there are many, many different speech acts. Last, as Austin also says, it is by uttering a certain sentence with a certain meaning that we perform certain other acts, acts partly defined in terms of their effects on listeners: convincing, enraging, pleasing, deceiving, and so on. These are perlocutionary acts. I utter the words “The door is open”; in doing so, I state that the door is open; by so doing, I convince you that the door is open.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2569,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " These suggestive distinctions led Alston to believe that the meaning of a sentence is the sentence’s total speech act potential, its potential for performing all of the various speech acts it could be used to perform. In effect, this is to take the slogan “Meaning is use” very seriously, and to cash in “use” in terms of the performance of speech acts. Sentence meaning is primary on this theory, and word meaning secondary and derivative, since it’s defined in terms of a word’s contribution to the speech act potential of the sentences into which it can figure. Beardsley thought this theory correct and used it to argue that the intentional fallacy is indeed a fallacy.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2570,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In “Intentions and Interpretations” (1982), he claims that in composing a poem the poet doesn’t perform a speech act, but rather represents the performance of a speech act or acts. When Wordsworth writes",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2571,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Milton! Thou shouldst be living at this hour:  England hath need of thee—",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2572,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " his words are ostensibly addressed to a long-dead poet, but to perform an illocutionary, any illocutionary action, a person must believe that he can “secure uptake”, that is, secure understanding of his sentence and the speech act performed. Wordsworth, however, knew that Milton was long dead and had no such belief. He thus didn’t perform the illocutionary act of addressing Milton or stating that England needs him. He does represent the performance of those illocutionary acts, however. What poets and other authors of literary works do, Beardsley thinks, is represent the performance of illocutionary acts, not perform illocutionary acts themselves.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2573,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " To perform illocutionary acts A, B, and C is therefore one thing; to represent the performance of illocutionary acts, A, B, and C, quite another. The latter doesn’t entail the former, as the above example shows. In addition, even if the performance of an illocutionary act is necessarily intentional in one respect—and Beardsley says that “only intentional text production can generate illocutionary actions” (II: 195)—it doesn’t follow that the performance of illocutionary act x requires, as a condition for its performance, the intention to perform x. I can inadvertently insult or warn someone. Some illocutionary acts are defined in terms of an intention, of course—lying, for instance, is defined in terms of the intention to deceive—but that doesn’t mean lying is defined in terms of the intention to lie. That would be circular. And it also doesn’t mean that representing the act of lying requires the intention to deceive. Storytellers frequently represent the act of lying without having any such intention. A person could intend to lie, or intend to represent the act of lying, of course, but those are different matters.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2574,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The upshot of this is that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2575,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " it is… plain that representing [an illocutionary act, such as] an accusation cannot have as its condition an intention to accuse, and indeed these are somewhat at odds, for to take the representational stance is to renounce or withhold or suspend the illocutionary action. (II: 197)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2576,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The complete argument, then, is something like this:",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2577,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The proof of  (6)  is that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2578,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " This is an interesting and provocative argument, but it can be questioned at several points. One of its limitations is that, even if it’s successful, it proves only that an author’s intentions are irrelevant to the correct interpretation of his text. Essentially employing speech act theory as it does, it doesn’t apply to the interpretation of works of art other than literature—paintings, sculptures, and dances, for example. This is a minor point, though, as analogous concepts are probably available, or could be introduced without too much unnaturalness, in all the arts.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2579,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " More bothersome is that the key concept here is an unexplained and seemingly unexplainable one. No one has provided a rigorous definition of a speech act. Even these many years after Austin first introduced the concept in the 1950s, little more has been done to clarify and ground it than to cite some handy examples, place the foils of locutionary and perlocutionary acts to the left and right of it, and invoke the “in” versus “by” distinction found above and in virtually every other exposition of the notion. Most philosophers are at least somewhat hesitant to make a concept that’s technical yet so little explained or pinned down the mainstay of a substantial theory, such as a theory of meaning.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2580,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " That aside, speech act theories of meaning have received their own share of criticism over the years. One objection to a theory like Alston’s—and the acceptability of his theory can’t be pursued at length here—is that it explicates sentence meaning in terms of speech act potential, and thus requires that the illocutionary acts that a sentence can be used to perform be identifiable independently of and prior to the meaning of the sentence used to perform those illocutionary acts. But that’s impossible, the objection runs, and in fact gets things backward. To identify the act of stating that the door is open, rather than, say, the act of asking for an ice cream cone, as an act that the sentence “The door is open” can be used to perform—to identify the former but not the latter as part of the sentence’s speech act potential—requires that the meaning of the sentence first be understood and identified. Absent an understanding of its meaning, it’s anyone’s guess what acts it could be used to perform. Speech act potential is a function of meaning, not, as the theory has it, meaning a function of speech act potential.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2581,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Independent of these objections is the fact that the argument doesn’t really prove what it’s supposed to. If it’s correct, it shows that within and/or without literary discourse, it’s possible for ‘S’ to mean M without it being true that the speaker or author intended that ‘S’ mean M. But all that means is that",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2582,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " ‘S’ means M",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2583,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The speaker or author intended that ‘S’ mean M.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2584,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In effect, this is another demonstration that Hirsch is wrong, that sentence meaning isn’t identical with speaker meaning. The question at issue, however, is whether speaker meaning is criterial evidence for sentence meaning. For all that the argument shows, it could well be.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2585,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " There’s also the matter of whether literature is representation, that is, as Beardsley uses the term, one kind of “imitation of a compound illocutionary act”. “The writing of a poem”, Beardsley writes elsewhere (PC: 58, 59),",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2586,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " is not an illocutionary act; it is the creation of a fictional character performing a fictional illocutionary act.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2587,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But in his Essay on Man, does Pope create a fictional character who details his views, or does he simply speak his mind in poetic form? The more intuitive answer is the latter, but Beardsley is committed to the former. What makes the Essay on Man didactic, he says, is not that it contains arguments put forward by Pope (arguing is an illocutionary act), but that it contains imitations of arguments put forward by a fictional character (PC: 60–61). We know this because Pope",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2588,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " embodies his doctrines in a discourse that flaunts its poetic form (in sound and meaning) and directs attention to itself as an object of rewarding scrutiny.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2589,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The “illocutionary fuse is [therefore] drawn”, and the poem",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2590,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " relinquishes its illocutionary force for aesthetic status, and takes on the character of being an appearance or a show of living language use. (PC: 60)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2591,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Although this position can’t be definitively refuted, it’s implausible and subject to the rejoinder that what Pope did is himself speak in the poem, making sure that neither aesthetic interest nor useful instruction were ever altogether lacking. Independent of strong theoretical reasons for thinking otherwise, that’s a simpler and better explanation than Beardsley’s. The point can be reinforced if didactic literary works other than poems are considered. Aldous Huxley’s essays are literary works, but it’s even more implausible to posit a fictional speaker for them, and to think of them as imitations of compound illocutionary acts, rather than simply as compound speech acts performed by Huxley.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2592,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But even if Beardsley’s view that a literary work is a representation or imitation of a speech act is acceptable, still another curious feature of the argument concerns his treatment of the distinction between performing a speech act and representing the performance of a speech act. Beardsley writes as if the two were mutually exclusive. They’re not. While it’s true that it’s one thing to state that p and quite another to represent that someone is stating that p, representing (in language) is itself a speech act just as much as stating is. Representing that someone is stating that p is like stating that someone is stating that p—just a speech act with a more complicated conceptual content and structure than simply stating that p. Given that that’s so, the two halves of Beardsley argument,  (1)–(5)  and  (6)–(11),  merge.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2593,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " And it’s probably a good thing that representing is a speech act. If “Milton!” in Wordsworth’s poem were being used in a representation that wasn’t the performance of any speech act at all, that would presumably be because it had no speech act potential. On the Alston/Beardsley theory of meaning, it would then have no meaning. Since it evidently does have meaning, it has to have some speech act potential. And since it seems to share a good deal of its meaning with “Milton!” as bellowed by a seventeenth century fish-monger hailing the poet, its speech act potentials within and without the poem must overlap to a fair extent—all this on the assumption that the Alston/Beardsley theory of meaning is correct. The gulf that Beardsley sees between literary discourse and non-literary discourse, as far as speech acts are concerned, thus isn’t nearly as wide as he seems to think, even if a literary work is a representation or imitation of a speech act.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2594,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The problems with Beardsley’s argument are significant enough to conclude that it needn’t be accepted. The question still remains, however, whether an author’s intention that ‘S’ means M is criterial evidence for its meaning M. That question can be asked independently of Beardsley’s argument, but on the assumption that his preferred theory of meaning is correct (thereby, as in much of the above, putting to the side general objections to speech act theory and speech act theories of meaning) or on the assumption that another theory of meaning is correct. As far as the question at issue is concerned, in other words, it probably doesn’t make much difference whether the Beardsley/Alston theory is correct, or some other theory is. In all likelihood, the result would be the same. But regardless of whether it would or wouldn’t, exploring alternative theories of meaning is impossible in this context, so only the Alston/Beardsley theory will be considered below.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2595,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In addition, though, and as Beardsley’s argument in effect reminds us, there might be important differences between non-literary and literary discourse, such that what holds (or doesn’t hold) in one doesn’t hold (or holds) in the other. The very nature of literature might itself make a difference. Two determinations are needed, then, one respecting the relevance or irrelevance of an authors’ intentions in non-literary discourse and one respecting whether the fact that a discourse is literary makes it importantly different from non-literary discourse as far as the relevance of authors’ intentions is concerned. In what follows, the issue concerning non-literary discourse will be discussed first and at length; the issue concerning literary discourse, second and much more briefly.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2596,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " On a speech act theory of meaning, the inference from",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2597,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " to",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2598,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " is the inference from",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2599,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Further glossed in terms of speech acts (but slurring over considerations of intensionality), this is the inference from",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

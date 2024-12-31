@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2400,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " [Remark: this claim need not be one about words like “dainty” and “delicate”, but it is about the particular substantive judgments that we linguistically express in such words on particular occasions. Both Beardsley and Sibley seem to have made the mistake of casting these issues at the linguistic level rather than at the level of thought; they should have focused not on aesthetic words but on aesthetic judgments and responses. Sibley did say in footnote 1 of Sibley 1959 that he was concerned with “uses” of aesthetic words, but he and everyone else ignored that qualification.]",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2401,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " Let us now see how this hierarchical proposal works. Consider an abstract pattern of curving lines, which is elegant. It might be necessary that that pattern is beautiful. This is because the beauty depends on or is determined by that specific pattern. But it is not part of what it is to be that pattern that it is beautiful. That is, the pattern is necessarily beautiful but it is not essentially beautiful. (On the general distinction between necessity and essence, see Fine 1994.) Furthermore, we can think of that pattern without thinking of it as beautiful.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2402,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " By contrast, it is both necessary and essential that something that is elegant is beautiful. And this is reflected in our concepts and judgments. We can think of the pattern without thereby thinking of it as beautiful, but to think of the pattern as elegant is to think of it as beautiful, at least in certain respects. Hence elegance is an aesthetic concept.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2403,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " The hierarchical proposal thus seems to characterize a non-arbitrary and useful notion of the aesthetic. If so, the contemporary broad notion of the aesthetic can be vindicated. We need a hierarchical rather than an egalitarian conception of aesthetic notions.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2404,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " To see how this works, consider representational properties. Are they aesthetic properties? Suppose that a painting represents a tree and is a beautiful representation of a tree. It is not merely beautiful and a tree representation but beautiful as a tree representation (Zangwill 1999). Of course, that the painting represents a tree is “relevant” to whether it is beautiful because it is part of what its beauty depends on. But being beautiful is not part of what it is to be a representation of a tree. Moreover, to think that the painting represents a tree is not thereby to think that it is beautiful. Being beautiful is not an essential property of the representation, and thinking of the representation does not mean thinking of it as beautiful, even though it may be necessary that it is beautiful. Hence representational properties are not aesthetic properties.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2405,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " The proposal faces a challenge, however. Jerrold Levinson has argued that not all substantive properties have evaluative valence (Levinson 2001). One of his examples is of “starkly grim”. Being starkly grim seems not always to be a way of being beautiful or ugly. The defender of hierarchy could reply that it is specific uses of these words, in context, that pick out features that have evaluative valences. If so, the particular instance of stark grimness might be a valuable aspect of a thing however it is with other instances of stark grimness. But it might be replied that particular instances of stark grimness may be value-neutral? The issue is a difficult one.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2406,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " If the hierarchical suggestion fails, then we lack one way of vindicating the notion of the aesthetic, and it is not clear that there is another way. Levinson’s thinks of aesthetic properties as a certain kind of appearance properties. But, firstly, this will rule out the aesthetic properties of abstract objects by fiat; and secondly, there remains the question of what kind of appearance properties aesthetic properties are.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2407,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " One notion that is hard to place among other aesthetic notions is that of sublimity. There is a long and venerable tradition of thinking that beauty and sublimity share equal status as fundamental aesthetic categories. Sublimity comes in different varieties. Kant distinguishes “mathematically” and “dynamically” sublime, roughly, corresponding to our sense of the enormity or power of things. The fundamental question about beauty and sublimity is whether they exclude each other. According to the long and venerable tradition, if something is sublime then it is not beautiful and vice versa. Many have conceived of sublimity such that it excludes beauty. But this is questionable.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2408,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " If we conceive of beauty narrowly, where it merely means a certain elegance and prettiness (as Levinson does in Levinson 2012), then that would be a narrow concept of beauty, which would be a substantive aesthetic property. That notion of beauty may exclude sublimity. However, it is not clear that there is reason to restrict beauty in this way. If, on the contrary, beauty (or at least a concept of beauty) is a generic over-arching aesthetic value, then one suggestion would be that sublimity should be understood as a kind of beauty. In that case, it would turn out that it is sublimity that is a substantive aesthetic concept, not beauty. On that view, beauty and sublimity are not opposed to each other. Instead sublimity is a kind of magnificent beauty or a spectacular or extraordinary way of being beautiful.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2409,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " Edmund Burke links sublimity with pain as well as pleasure, perhaps drawing on Aristotle’s idea of “catharsis” (Burke 1757). The idea seems to be that judgments of sublimity are grounded on both pleasure and pain, whereas judgments of beauty are grounded only on pleasure. While this may fit the aesthetic experience of wind and rain in a storm at sea or up a mountain, it does not fit the sublimity of the stars in the sky and sublime delicacy of a spider’s web, where there is no exciting terror. So the pain account is not generally true of the sublime.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2410,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " Richard Wagner claimed that there was musical sublimity in Beethoven’s Ninth Symphony, and that was its great innovation, to take us beyond the merely musically-beautiful to the sublime (Wagner 1870, contrast Hanslick 1950, 1986. Many musicologists follow Wagner, (such as Richard Taruskin [1989, forthcoming]). But on that view, where sublimity is associated with danger and extremity, it is not clear that we have a plausible story of why people seek out the sublime in music. Is it a kind of thrill-seeking, like fairground rides or rock climbing, where people believe themselves to be in danger or at least cannot help imagining that they are? Is their experience of Beethoven’s Ninth mixed with pain in this way? This seems unlikely. Pain and fear have natural expressions on the human face, but the human faces of the audience listening to Beethoven’s Ninth is not noticeably different from the human faces listening to Mozart, Chopin or Tchaikovsky. Their faces are unlike those of those on fairground rides or rock climbers who have to make difficult moves. Furthermore, the audience of the Ninth are not motivated to flee from the concert hall. Do they have to be strapped into their seats to prevent escape as on a fairground ride? By contrast, on the substantive view of the sublime as a kind of beauty, there is a distinctive kind of pleasure that characterizes the experience of the sublime, on which judgments of the sublime are based. It is an intense pleasure, to be sure. But intensity does not entail a mixture with pain.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2411,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " Sublimity in a representational art such as painting is a different matter. John Martin’s wonderful painting Apocalypse, for example, does evoke a kind of terror, at least imagined terror. And then we might plausibly say that this sublimity is not a kind of beauty. It is a kind of artistic excellence. What this suggests is that is that we should avoid a unitary theory of the sublime. Some sublimity is a way of being beautiful, and some is not.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2412,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " Substantive aesthetic judgments attracted much attention in the latter half of the twentieth century. If the hierarchical proposal is right, they cannot be studied in isolation, for the role of such judgments is to serve verdictive aesthetic judgments of beauty and ugliness. Beauty and ugliness are the primary aesthetic notions, which give sense to the wider class that contemporary aestheticians include as “aesthetic”. The broad notion of the aesthetic can be fixed by what it is to judge that something is beautiful or ugly, or that it has aesthetic merit or demerit. By seeing beauty and ugliness as the preeminent aesthetic notions we can make sense of a unitary category of the aesthetic, which includes the dainty and the dumpy, elegance and sublimity, and which excludes physical, sensory and representational properties of things, as well as their agreeableness. The hierarchical proposal seems to allow us to make the aesthetic/nonaesthetic distinction in a useful way and answer Beardsley and Sibley’s critics. Thus, the notion of the aesthetic can be defended. Some readers may think that Levinson is right about substantive aesthetic concepts and judgments, in which case the notion of the aesthetic will have a question mark hanging over it.",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2413,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " aesthetic, concept of the |  Aristotle, General Topics: aesthetics |  Hume, David: aesthetics |  Kant, Immanuel: aesthetics and teleology |  pleasure |  relativism ",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2414,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": " Copyright © 2019 by   Nick Zangwill &lt;zangwillnick@gmail.com&gt;     ",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2415,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": "View this site from another server:",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2416,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2417,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-judgment/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "aesthetic-judgment"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2418,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Monroe Beardsley (1915–1985) was born and raised in Bridgeport, Connecticut, and educated at Yale University (B.A. 1936, Ph.D. 1939). He taught at a number of colleges and universities, including Mt. Holyoke College and Yale University, but most of his career was spent at Swarthmore College (22 years) and Temple University (16 years).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2419,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley is best known for his work in aesthetics—and this article will deal exclusively with his work in that area—but he was an extremely intellectually curious man, and published articles in a number of areas, including the philosophy of history, action theory, and the history of modern philosophy. Indeed, his interests weren’t confined to “pure philosophy” or even to philosophy broadly conceived. Practical Logic, his first book (1950), was one of the first informal logic or critical thinking texts of the contemporary era, and Thinking Straight, (1950) a related book, saw four very different editions over a period of 25 years. Outside of philosophy, he wrote literary criticism and books and articles on style, writing, and the humanities. In short, Beardsley had broad humanistic interests that were centered in philosophy, and aesthetics in particular.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2420,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Three books and a number of articles form the core of Beardsley’s work in aesthetics. Of the books, the first, Aesthetics: Problems in the Philosophy of Criticism (1958; reissued with a postscript, 1981), is by far the most substantial, comprehensive, and influential. More than that, it’s also the first systematic, well-argued, and critically informed philosophy of art in the analytic tradition. Although not the main purpose of the book, it showed that analytic philosophy and a keen interest in the arts needn’t exist in isolation but can, and should, inform each other. It’s part of the book’s achievement that that’s taken for granted today. It wasn’t at the time it was written, and many people, both in Anglo-American philosophical circles and in art-critical circles, thought exactly the opposite in the mid-1950s. Given the wide range of topics covered in Aesthetics, the intelligent and philosophically informed treatment accorded them, the historically unprecedented nature of the work, and its effect on subsequent developments in the field, a number of philosophers, including some of Beardsley’s critics, have argued that Aesthetics is the most impressive and important book of twentieth century analytic aesthetics.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2421,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The Possibility of Criticism (1970), the second of the three books, is more modest in scope and less groundbreaking. Exclusively concerned with literary criticism, it limits itself to four problems: the “self-sufficiency” of a literary text, the nature of literary interpretation, judging literary texts, and bad poetry. Views propounded and defended in Aesthetics are further explained and defended in The Possibility, and several new concepts, for instance, that of an illocutionary act, are introduced and put to work. As with all of Beardsley’s writing, many poets, novelists, short story writers, essayists, critics, and philosophers are quoted and discussed. The style, tone, and approach are also characteristic Beardsley: eminently clear and guileless prose, gentle in tone but firm in argumentation.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2422,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The last of the books, The Aesthetic Point of View (1982), is a collection of papers, most old, some new. The book takes its title from the lead article, but the title is also emblematic, indicating Beardsley’s approach to the philosophy of art as a whole: the necessity of taking the aesthetic point of view. Fourteen papers, largely on the nature of the aesthetic and art criticism, are reprinted, and six new pieces are added. The new pieces are of special interest because they constitute Beardsley’s final word on the topics covered, and the topics are themselves central ones: aesthetic experience, the definition of art, judgments of value, reasons in art criticism, artists’ intentions and interpretation, and art and culture.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2423,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In Aesthetics, Beardsley develops a philosophy of art that is sensitive to three things:",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2424,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " More than anyone else, Beardsley took a love of the arts, independent of overarching philosophical commitments, seriously, and tried to make sense of it. Although he didn’t automatically defer to pre-reflective opinion about or interest in art, he, like Aristotle, thought they deserved respect and balked at any philosophy of art that didn’t make contact with them, or cavalierly dismissed or overrode them. His was a philosophy of art based on a love of the arts—that, and not a love of philosophy or any agenda, psychological, political, religious, philosophical, or otherwise. The copious examples and discussions of individual works of art in his writings illustrate as much, as do his philosophical arguments and conclusions. Much the same can be said of his concern with, and respect for, but far from automatic deference to, the remarks of art critics.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2425,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The historical backdrop against which Beardsley developed his philosophy of art in the late 1940s and early 1950s includes the three elements mentioned at the beginning of the preceding paragraph. There were developments in the arts—new forms in music, painting, and literature had appeared and were appearing—but there was also a well-established and relatively large canon of works almost universally regarded as aesthetically superior and worthy of attention. Art criticism had become an industry, with major schools of all sorts flourishing: Marxist, Formalist, psychoanalytic, semiotic, historical, biographical. And philosophy had changed in rapid and unexpected ways. Analytic philosophy, with its emphasis on language and strong empiricist tendencies, had gained ascendancy in American universities in little more than 20 years, and dominated the philosophical scene.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2426,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley responded to each of the three. His position on developments in the arts is probably best described as open-minded moderation. He welcomed new developments, and reference to new works and works that lack the luster of fame, notoriety, or ready recognition appear frequently in Aesthetics and his other work. He didn’t automatically embrace the latest fad, fashion, or movement, however, but tried, as he said, to get something out of a work. Failing that, a work could be ignored, though tentatively and perhaps temporarily—the fault might be his and not the object’s, he always thought. Certainly, though, the well-established works of the Western tradition—the Bachs, Goyas, and Popes—had to be respected and accounted for in any philosophy of art worthy of the name.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2427,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " As for art criticism, Beardsley thought that a great deal of it read like the ruminations of a batter who kept his eyes on the scoreboard, the fans, his contract, his place in history, or his wife in the stands—instead of on the ball. Much of it, in other words, ignored what should be the main object of attention, the work itself. The school of criticism that attracted Beardsley, and that his philosophy of art ultimately underwrites, is the so-called New Criticism. Based in literature, the New Criticism made the literary work the center of critical attention, and denied, or at least greatly devaluated, the relevance of facts about the origin of literary works, their effects upon individual readers, and their personal, social, and political influence. Close reading is what is required of a critic, not biographical information about the author, a rundown of the state of society at the time the work was written, data about the psychology of creation, predictions about the effects of the work on society, and certainly not a piece of autobiography detailing the critic’s own personal response to the work. New Critics were explicators more than anything else, and investigated literary works, and especially poetry, as if they were found objects—worthwhile ores, rare jewels, and mundane rocks, each with its own unique properties. As an expert assayer, the critic must thoroughly and sensitively examine the objects before him in order to discover their exact nature and, in the best cases, special value. The rallying cry, in Allen Tate’s words, was, “We must return to, we must never leave, the poem itself” (Tate 1955, 63). Much the same sentiment is expressed in Beardsley’s remark that “[the critic’s] task is to keep [his] eye on… textual meaning” (PC: 34). Though based in literary criticism, the New Criticism could be, and should be, extended to the other arts, Beardsley thought: all art criticism should make a serious effort to recognize its objects as special, autonomous, and important in their own right, and not subservient to ulterior aims or values; all art criticism should attempt to understand how works of art work and what meanings and aesthetic properties they have; all art criticism should strive for objective and publicly accessible methods and standards to test its pronouncements. The New Criticism did just that, and did what other criticism, and especially Romantic criticism (in a broad sense of the term), did not: studiously focused on the work of art itself, as an object existing in its own right, with its own properties. Far too much criticism was essentially Romantic, the New Critics thought, and concentrated on the artist, not the art.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2428,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Developments in philosophy were a different story. In general, the philosophy of art has always been regarded as a backwater by philosophers, as by far the least rigorous and least important of the major branches of the field (a sentiment that remains widespread today), but the low regard in which aesthetics was held was even more pronounced at the time that Beardsley began work on Aesthetics. In its early, palmy days, analytic philosophy tended toward logical positivism, which dismissed judgments of aesthetic value—the core of art criticism, in Beardsley’s estimation—as cognitively meaningless, and ordinary language philosophy, a species of analytic philosophy that flourished briefly after World War Two, was unsystematic in its treatment of problems and even anti-systematic in its objectives—strong philosophical theses were either verboten, a sign of mistake, or an aberration. Neither brand of analytic philosophy boded well for aesthetics as a systematic field of study. There was, however, also a general form of analytic philosophy not connected with either approach, that is, analytic philosophy without an overarching commitment to the scientism of logical positivism or the dogged adherence to everyday language of ordinary language philosophy. Philosophers like Bertrand Russell, G.E. Moore, and C.D. Broad, among many others, were analysts without an agenda, and Beardsley was more in their camp—that is, no definite camp of analytic philosophy at all—than anyone else’s. For him, an analytic approach to the philosophy of art meant no more than critically examining the fundamental concepts and beliefs underlying art and art criticism. Doing philosophy of that sort required clarity, precision, and a good eye for identifying, exposing, and evaluating arguments, but left aesthetics, as a systematic study, as a real possibility.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2429,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Not all the arts could be covered in detail in even so long a book as Aesthetics—it’s over 600 pages—so Beardsley had to content himself with concentrating on three relatively disparate arts: literature, music, and painting. In keeping with the conception of philosophy mentioned above, aesthetics was thought of as meta-criticism. “There would be no problems of aesthetics”, Beardsley says, “if no one ever talked about works of art…. We can’t do aesthetics until we have some critical statements to work on” (Aesth: 1, 4]). Aesthetics is concerned with “the nature and basis of criticism,… just as criticism itself is concerned with works of art” (Aesth: 6). The then-current and still widespread view that philosophy is a second-order, meta-level, and essentially linguistic activity, taking as its object of study the pronouncements of first-order activities, such as chemistry, religion, or history, is reflected in Beardsley’s view on the nature of aesthetics.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2430,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " It’s a problematic view, however, and one somewhat belied by Beardsley’s own philosophic practice. Questions like, What sort of being or existence do works of art have?—a question of ontology, and one of Beardsley’s questions—arise from the statements of art critics only in that critics use the term ’work of art’ and, with that concept available, inquiry into the ontological status of the objects that answer to it is then possible. But the question isn’t itself one that arises out of, or concerns the nature and basis of, critical practice, at least not in any significant sense of the term. For one thing, others besides critics use the term “work of art”—art dealers and art suppliers, for example—so the case could just as easily be made that the ontological question arises out of, and concerns the nature and basis of, art dealership or art supply-manship. A related point is that the same argument applies outside the arts. Farmers and grocers speak of apples, and unless we had some such term as “apple”, the question, What sort of being or existence do apples have?—again, a question of ontology—couldn’t be posed. It isn’t a question that arises out of the cultivation or sale of apples, however—not in any very direct or meaningful way—nor is it one that concerns the nature and basis of apple farming or running a supermarket. Critics, like farmers and art suppliers, do very well without ontological inquiries; ontological questions don’t lurk in the background, waiting to be asked. In short, Beardsley’s meta-philosophical view that aesthetics is meta-criticism is underdetermined by the reasons that he advances for it, inaccurate or correct only if the term “meta-criticism” is stretched beyond its usual bounds, and belied to some extent by Beardsley’s own philosophic practice. All of that is not to deny, however, that a great deal of aesthetics can be profitably viewed as meta-critical, as a critical examination and evaluation of the nature and basis of at least some of the statements that art critics make, at least if art critics are conceived broadly enough to include almost everyone who has ever stood before a painting, listened to a piece of music, or read a novel, and then ventured a judgment about it.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2431,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Critical statements are of three kinds, Beardsley thinks: descriptive, interpretative, and evaluative. The first concerns non-normative properties of works of art that are simply in it, in some sense, and are available, at least in principle, to anyone of normal eyes and ears if sufficiently sensitive, attentive, and experienced. “There is a small red patch in the upper right-hand corner of the painting” is a descriptive statement, but so is “Haydn’s 23rd Symphony abounds in dynamic tension”. The philosophical problems that descriptive statements give rise to involve the concept of form, Beardsley thinks. Interpretive statements are also non-normative but concern the “meaning” of a work of art, with “meaning” here referring to a semantic relation, or at least a purported semantic relation, between the work and (a small number of exceptions aside) something outside it. “That’s a picture of Notary Sojac” is an interpretive statement, as are “That’s a picture of a unicorn”, “The passage refers to Brutus’s betrayal of Caesar”, and “The thesis of Macbeth is exceedingly simple: Thou shalt not kill”. Last, critical evaluations are normative judgments that basically say that a work of art is good or bad, or how good or bad it is. “Mozart’s ‘Turkish March’ is an excellent short piano piece” is a critical evaluation, and so is “‘The Face on the Barroom Floor’ is wretched verse”. The judgment “This is beautiful”—the paradigm of a judgment of taste according to Kant—is sometimes thought of as a critical evaluation (Aesth: 9), but more often (e.g., Aesth: 463, 507), and always in Beardsley’s later writing, as a descriptive judgment, and one that frequently forms at least a partial basis for a critical evaluation.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2432,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The first chapter of Aesthetics is in part devoted to the ontology of art—or aesthetic objects, as Beardsley was then wont to say. The term “work of art” was largely avoided by him at the time, because, as he later admitted, he did",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2433,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " not [want] to become enmeshed… in [the question of the definition of “work of art”, a question] that… [had] not convince[d] [him] of its importance or promise[d] any very satisfactory and agreeable resolution. (Aesth: xviii)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2434,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " That was to change, and Beardsley later did offer a definition of art. In any case, it’s the ontology of “aesthetic objects” that’s first discussed in Aesthetics.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2435,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The ontology argued for begins with a distinction between physical objects and perceptual objects. In speaking of a thing being six feet by six feet in size and at rest, we’re speaking of a physical object; in speaking of a thing being dynamic and frightening, we’re speaking of a perceptual object. Perceptual objects are the objects we perceive, objects “some of whose qualities, at least, are open to direct sensory awareness” (Aesth: 31). Aesthetic objects are a subset of perceptual objects. This doesn’t necessarily mean that aesthetic objects aren’t physical objects, however. Aesthetic objects might be other than physical objects—the conceptual distinction might mark a real distinction—or they might be physical objects—the conceptual distinction, though somewhat misleadingly couched in terms of objects, might simply mark “two aspects of the same” thing (Aesth: 33). At first indifferent as to which alternative is opted for—Beardsley mentions that he doesn’t “see that it makes much difference which terminology [that of objects or aspects] is chosen” (ibid.)—he then proceeds to develop an ontology that stresses objects more than aspects.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2436,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The ontology is phenomenalistic in its leanings, though open to a more physicalist interpretation. A presentation of an aesthetic object is defined as the object as experienced by a particular person on a particular occasion. Essentially, presentations are sense-data of aesthetic objects. Aesthetic objects aren’t presentations, however, for that would invite not just an uncontrollable population explosion of aesthetic objects, but chaos in criticism; and neither are aesthetic objects classes of presentations, for aesthetic objects must have at least some perceptual properties, but classes, as abstract entities, have none. However,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2437,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " whenever we want to say anything about an aesthetic object, we can talk about its presentations. (Aesth: 54)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2438,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " This, Beardsley says,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2439,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " does not “reduce” the aesthetic object to a presentation; it only analyzes statements about aesthetic objects into statements about presentations (Aesth: 54).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2440,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In effect, this is a form of linguistic phenomenalism, and commits Beardsley to adequate translations of statements about aesthetic objects into statements about the presentations of such objects—in effect, statements about experiences of such objects. As linguistic phenomenalism as a general ontology—or surrogate for ontology—has met with very strong criticism over the years, Beardsley’s ontology would have problems enough if it stopped here.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2441,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But it doesn’t. Not satisfied, Beardsley presses on to distinguish",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2442,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The same distinctions hold across the arts, though differently in different arts, and somewhat more naturally in some than others. There is Beethoven’s D Minor Symphony (the artifact), a production of it (The Philadelphia Symphony Orchestra’s recording of it), a particular performance of it (my playing the recording last night, in my house), and particular presentations of it (mine and other people’s experiences of it last night, in my house). At least in many arts, a single artifact can have many productions; a single production can have many performances; and a single performance can give rise to many presentations. As Beardsley notes, these distinctions collapse to some extent in some of the arts, and would have to be stretched a bit to fit them all. In reading a poem silently, he says, the production is the presentation (and I would also think the performance); “in architecture, the architect’s plans are the artifact; the completed building is the production” (Aesth: 57–58) (and also presumably the performance); and in painting and sculpture, “the distinction between artifact and production almost disappears” (Aesth: 58) (with the performance presumably being identical with both).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2443,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But what is the aesthetic object, the object of critical attention? It’s not a presentation or class of presentations, and it’s not the artifact—Beethoven’s 9th Symphony, for example. If the aesthetic object were the artifact, it would have contradictory characteristics, since different recordings of the 9th have different, incompatible characteristics: some are shorter than 60 minutes long, some longer. What’s left, and what the aesthetic object must be, is the production. Thus the primary object of critical attention is the production of an artifact, and the basic job of the critic is to describe, interpret, and evaluate such productions.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2444,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " While interesting, original, and elegant, this position has its problems. Difficulties with carrying out the translation program that Beardsley is committed to aside, linguistic phenomenalism is little more than an attempt to enjoy the benefits of a reductive, sense-data ontology without paying the price for it. Reductive translations have commitments; there would be little point in proposing and defending an elaborate, difficult, counterintuitive, and otherwise inexplicable translation program, even in schematic form, unless it had some point beyond translation for the sake of translation. There’s either an ontology and a philosophical purpose behind such translations—and there certainly seems to be both (an adequate reductive translation of ‘p’ as ‘q’ entails commitment only to the entities mentioned in ‘q’)—or there is not—in which case the possibility of such translations may be of interest to linguists and those who like odd parlor games but no one else. In short, arguing that one can, in principle, avoid speaking of one sort of entity in favor of another is indirect ontology if it’s philosophy at all, and avoiding taking an explicit stand on ontology doesn’t change the fact. Beardsley would thus seem to be committed to phenomenalism, despite his explicit claim that aesthetic objects aren’t presentations.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2445,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But presentations are ill-suited objects of critical attention in any case. They’re too numerous and variable to ground objective criticism, and thus too unwieldy to make criticism of any kind worth the effort. In addition, taking aesthetic objects to be presentations conflicts with much of the practice—that is, many of the remarks—of critics themselves. None of this would be news to Beardsley—he says as much himself in several places—but it does mean that he shouldn’t have walked down the phenomenalist road as far as he did.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2446,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Phenomenalism, even in linguistic dress, also conflicts with identifying aesthetic objects with productions, since in a great many cases the production of an aesthetic object isn’t the same thing as a presentation of it. But even if phenomenalism is put to the side and Beardsley is simply taken at his word, and aesthetic objects are identified with productions, there are still anomalies. The first and most important is that the ontological status of aesthetic objects would be variable to the point of being of little philosophical interest. A production of a novel, if read silently, is something mental, a series of thoughts, perhaps conjoined with images. The production of a play or symphony, however, isn’t mental at all, but a publicly accessible event or process. It thus has whatever ontological status events or processes do. In architecture, the production is a building (or a bridge or a walkway), and thus a physical object (or a cultural object, with physical properties, some would say). Such wide variability suggests that there’s no real ontology of art at all, nothing firm, finite, or systematically related enough among the arts to be worth taking note of. A second problem with taking aesthetic objects to be productions is that, since some aesthetic objects are mental objects, the problems with phenomenalism noted at the end of the last paragraph reemerge in at least some cases, literature among them. A third problem, one in effect already noted, is that even within one art aesthetic objects would have a shifting ontological status. In the case of poetry, for example, if a poem is read silently, the production, and thus the aesthetic object, is a mental thing, but if the same poem is read publicly, to an audience, the production, and thus the aesthetic object, is an event.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2447,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " By themselves, these objections don't refute Beardsley’s views on the ontology of art. What they show is the price that has to be paid for them. Perhaps alternative views offer less insight, or perhaps they offer more insight but at a higher cost, that is, generate more or even greater anomalies. Beardsley’s views might still be the best, all things considered. If so, the moral to be drawn may be that the ontology of art isn’t a very fruitful or important area of philosophical investigation, and that no harm to philosophy or art criticism is done by ignoring it.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2448,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " One view that Beardsley certainly did think unacceptable, even if, as he later came to realize, his own early position wouldn’t do, is that works of art are “essentially institutional”. Depending on the context, this could be a claim either about the definition of “art” or about the ontology of art. Beardsley rejects both claims, but it’s important to distinguish them.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2449,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In speaking of money as “essentially institutional”, a person is probably claiming no more than that the definition or truth conditions of “this is money” include a reference to social institutions. The claim isn’t that quarters, dimes, nickels, and so on fall under a distinct ontological category other than physical objects, namely, cultural or institutional objects.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2450,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " If taken ontologically, on the other hand, the force of the claim is that a work of art isn’t a physical object but a different kind of object altogether, an object whose nature and existence are in part constituted by culture, tradition, or social institutions. Arthur Danto’s distinction between artworks and “mere real things”(1981, 1), with beds and ties being paradigms of mere real things, suggests just such an ontological distinction. For Danto, it’s (1) theories of art and (2) the “aboutness” of art, or the fact that art is necessarily subject to interpretation, that make mere real things transform, so to speak, into artworks, and gain a new ontological status. The nature of a theory of art is never spelled out by Danto, but apparently all such theories require an object to be properly placed in an “artworld” to be a work of art, and not just anyone, at any time, can do such placing. But even if the indefinite and unexplained nature of Danto’s key concepts is put aside, and the fact that many works of art (for example, a typical concerto) don’t seem to be about anything at all, or subject to interpretation in any significant sense (at least until something for it to be about or interpreted in terms of is cooked up, such as that it’s about the very notes being played, or that it comments on the history of concertos)—even if that’s also put aside, it’s hard to see how (1) and (2) can effect ontological transformations, how things which are otherwise physical objects become, ontologically speaking, different objects. Rather, Beardsley thinks, what (1) and (2) suggest is that if a physical object is a work of art, it has, or at least can have, properties it wouldn’t otherwise have. If a person’s a policeman, he has properties—being able to arrest people, for example—that he wouldn’t otherwise have, but a policeman has whatever ontological status a person has, no more and no less. Receiving a certificate from the police academy and putting on a badge may “transform” a man, but a new object, an essentially institutional or cultural object, a policeman, doesn’t enter the world because of such doings. The argument that works of art are cultural objects, not physical objects, because the former have properties the latter don’t, is thus rejected by Beardsley.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2451,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Although Beardsley’s early views on ontology tended to either linguistic phenomenalism or unsystematic pluralism, there were hints, even at that time, of a simpler and more commonsensical view. That ontology can be seen lurking beneath the surface of his postulates of art criticism:",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2452,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Taking “aesthetic object” to mean “work of art”, the underlying ontology isn’t a sense-datum ontology or a mixed-category ontology at all. Several of the postulates—2, 4, and 6; possibly 3 and 7—are in fact prima facie incompatible with a sense-datum ontology. Rather, what 1–7 strongly suggest is that a work of art is a physical object: it’s perceptible, publicly or inter-subjectively available in both time and space, can appear differently from different points of view and at different times, may not be exhaustively understood on any given occasion, has properties that may be correctly or incorrectly perceived, and is such that attributions to it obey the law of non-contradiction.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2453,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Not surprisingly, after 1958 Beardsley",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2454,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " moved steadily in the direction of some form of non-reductive materialism, of seeing how far it is possible to go in treating artworks as physical objects. (Aesth: xxiv)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2455,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The materialism is non-reductive in that works of art have properties that physical objects generally don’t. Such materialism works well with “singular” works of art, such as paintings, Beardsley thinks, but “multiple artworks”—musical compositions which have many performances, poems which exist in multiple printings—present problems. The musical composition isn’t any single score or performance, the poem any single printed text. For that reason, Beardsley once again is driven back in the direction of ontological pluralism: perhaps works of art are either physical objects (the singular works) or kinds of physical object (the multiple works), with “physical object” construed broadly here so as to include events (such as a dance). This position is only slightly more economical than Beardsley’s earlier one—no works of art are ideas, which is good, since taking works of art to be ideas doesn’t fit in well with a number of his critical postulates—and only slightly tidier—essentially, the proliferation of ontological categories is limited by the broad but abstract concept of a kind.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2456,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Most philosophers would be dissatisfied with such a disjoint ontology, and Beardsley was no exception. There are basically two ways to avoid it:",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2457,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " (A third possibility is to subsume both under a broader, inclusive category. Absent a relatively revisionist ontology, however, it’s hard to see what such a third category would be.) Both strategies involve assigning primacy to one of the categories, but each requires that that be done in a way that does justice to what we say and think about art.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2458,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The first proposal, to subsume physical objects under kinds, entails that the Mona Lisa isn’t a physical object but a kind of painting. One difficulty with this is that as a kind, the Mona Lisa wouldn’t have any perceptual properties, which is both strange and in violation of Beardsley’s critical postulates. A second difficulty is that it’s a necessary truth—or at least many philosophers think it’s a necessary truth—that there’s only one Mona Lisa, yet the view in question entails that there could be many Mona Lisas, many instances of the kind.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2459,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Neither objection is definitive, however. Although Beardsley discusses neither objection, the first can be deflated by noting that although, strictly speaking, the Mona Lisa is a kind, it has perceptual properties in that all of its instances do. In other words, since all instances of the kind have perceptual properties, instances-of-a-kind are near enough to kinds to allow kinds to have perceptual properties in an extended sense of the term, by a small conceptual courtesy. That’s close enough for government work (as the saying goes). Even if this response is acceptable, however, the question of what the perceptual properties of the Mona Lisa are, if two of its instances differ markedly in their perceptual properties (due, say, to exposure to sunlight), would remain an odd one. Not an unanswerable one, however. That question and others like it could be answered by taking the Mona Lisa to be, in effect, an etching, with the first of its instances as a reference point for others.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2460,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " That reply, in fact, previews a response to the second objection. Perhaps it’s simply a contingent, historical fact that we can’t create extremely accurate duplicates of paintings, and for that reason attach great importance to first instances of painting-kinds. That may be why we’re very reluctant to admit—reluctant to the point of thinking it impossible—that there could be more than one Mona Lisa.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2461,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Even if both objections can be rebutted, though, Beardsley is still inclined to reject the view that works of art are, all of them, kinds.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2462,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " He’s also inclined to reject the second view, that works of art are, all of them, physical objects. Though the topic isn’t pursued at length, his reasons center around the fact that many works of art—woodcuts, for instance—have multiple instances, and it’s impossible to account for that fact if every work of art is a physical object. Is Pastijn’s The Last Supper in Rome or in Paris? If it’s a physical object, it can’t be in both places, so which of the two is it? Since both “Paris” and “Rome” seem wrong, the correct thing to do is to reject the assumption that the woodcut is a physical object. Rather, it’s a kind, and has instances that are located in Paris and Rome.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2463,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " But if that’s enough to quell doubts about some works of art being kinds, it should also be enough, for the reasons mentioned two and three paragraphs back, to quell doubts about all works of art being kinds. The remaining barrier to the first reductive view, that works of art are, all of them, kinds, would then be removed.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2464,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " On the other hand, the overall argument could just as easily cut the other way. If it’s physical objects that literally have perceptual properties, then why not take works of art, all of them, to be physical objects, with kinds being granted the title in an extended sense of the term, by a small conceptual courtesy? As traditionally interpreted, Aristotle holds that in the primary sense a substance is an individual, but in a secondary sense, by extension, a species is also a substance. Why not say something similar about works of art? Why not say, that, strictly speaking, works of art are physical objects, but in a secondary sense, works of art are kinds?",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2465,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley doesn’t pursue the issue to the lengths that it has been here, so it’s impossible to know how he’d respond to the above. On the record, though, he embraces the untidy pluralism he’d rather avoid. Doing so doesn’t especially bother him, however, as he doesn’t think ontological questions as important as many other questions in aesthetics.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2466,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " As mentioned above, Beardsley “sedulously avoided” (Aesth: 59) the term “work of art” as much as possible in Aesthetics. Even so, he came close to defining it. “Aesthetic object” is his surrogate term, and he does offer a schematic definition of it.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2467,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The genus of “aesthetic object” is perceptual object. What is its differentia? It’s not, Beardsley argues,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2468,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What’s needed is objective differentia, not subjective ones like (a), (b), and (c). Such differentia could be of either of two sorts. First, it could express the characteristics of perceptual objects that all and only aesthetic objects have. This, Beardsley thinks, can’t be done until a great deal of knowledge of aesthetic objects and the philosophy of art is at hand; and it isn’t. Second, an objective definition could proceed by first dividing up aesthetic objects into classes according to their sensory fields—as seen, heard, felt, and so on—and then, within each field, determining what objective characteristics distinguish aesthetic objects from other perceptual objects.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2469,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The second route is the one Beardsley takes in Aesthetics. Schematically, an aesthetic object is: a visual perceptual object that isn’t in the class of things that plastic forks, crumpled pieces of paper, and so on are in; or an auditory perceptual object that isn’t in the class of objects that scratches, noises, and so on are in; etc. This is more the beginnings of an outline of an approach to a definition than the beginnings of a definition itself—something Beardsley realizes—and it has problems of its own. The interesting question, however, isn’t what those problems are or the ultimate success or failure of this “divide and conquer” approach, but why he adopted it in the first place, and why he later abandoned it.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2470,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " He adopted it for two reasons. First, approaches of the (a), (b), and (c) sort have numerous and serious problems (Aesth: 60–63). Second, if art criticism can amount to knowledge, as Beardsley believes it can, then what’s called for is an object of study that can be examined in its own right, in respect to its own objective qualities. Both of these factors led him in search of an objective definition of “aesthetic object”. Since, however, identifying necessary and sufficient conditions seemed out of the question—there was too much variety among aesthetic objects, and too much disagreement among philosophers—“divide and conquer” seemed a better strategy.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2471,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The reason why he later abandoned it is that he came to realize not only that his objections to an (a)-type definition weren’t definitive, but that there’s much to be said for an intentionalistic definition, a definition couched in terms of the artist’s intention.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2472,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Before he arrived at that view, though, he spent some time arguing against a popular definition proposed by George Dickie. According to Dickie,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2473,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " a work of art in the classificatory sense is (1) an artifact, (2) a set of aspects of which has had conferred upon it the status of candidate for appreciation by some person or persons acting on behalf of a certain social institution (the artworld). (Dickie 1974, 34)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2474,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley has no quarrel with (1), but he finds fault with (2) on several counts.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2475,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " First, he wonders whether the “appreciation” spoken of can be any sort of appreciation at all—historical, moral, personal, professional, or whatever. If it can, the definition is far too broad. Perhaps, though, it’s distinctly aesthetic appreciation that’s meant. In that case, Dickie would have to square his second condition with his attack on the idea of aesthetic appreciation as a distinct sort or kind of appreciation.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2476,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Second, the idea of candidacy for appreciation is problematic. A candidate for appreciation can’t be merely something, some property (or aspect), that’s potentially appreciable. Too many properties of too many things are potentially appreciable. If “candidacy” is interpreted more narrowly and strictly, however, the idea that a property needs a status like “candidate for appreciation” bestowed upon it seems wrongheaded. A candidate for President of the United States, for example, isn’t just anyone who’s eligible but someone who has taken at least some steps toward attaining that office, or someone who has had an official endorsement. But what’s comparable in the case of aspects of works of art?",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2477,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " What sort of preparation or endorsement is contained in the assignment of candidacy for appreciation? The term suggests that something cannot be appreciated until it has been declared a candidate for appreciation. (APV: 133)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2478,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " but being appreciated, or even appreciable, stands in need of no one’s imprimatur.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2479,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Third, there’s the question of who confers the status of candidate for appreciation. Dickie’s explicit answer is “some person or acting on behalf of a certain social institution (the artworld)”, with the artworld itself being",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2480,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " a bundle of systems: theater, painting, sculpture, literature, music, and so on, each of which furnishes an institutional background for the conferring of the status on objects within its domain (Dickie 1974, 33).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2481,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In calling the artworld an institution, Dickie says, he’s saying that “it is an established practice” (1974, 31). Music, painting, literature, and so on are social practices.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2482,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Beardsley will have none of this. What it is to act on behalf of an institution is clear enough when an identifiable social institution, such as a university, is in question. The president of Marquette University, for example, declares a tuition hike, or signs a document granting tenure to David Decker. He acts on behalf of the institution in doing so, because there are clearly defined rules, roles, rights, responsibilities, powers, positions, concepts, and acts that constitute the institution that is the university, and he fits into it in a way that enables him to raise tuition, or to confer the status of tenured professor. There’s nothing remotely comparable in “the artworld”—no formal, identifiable set of interlocking rules, roles, relations, and so on constituting an institution, and so nothing like an institutional token (comparable to Marquette University or the Department of the Treasury) with empowered individuals capable of conferring the status of painting, literature, or music on objects. What there are are loose collections of people of various sorts interested in painting, music, and literature. The same is true of gardening and cooking, however, and roses and veal cutlets need no social institutions, no “gardenworlds” or “foodworlds”, to be what they are. Neither, Beardsley thinks, do paintings, poems, or concertos need social institutions, subdivisions of the “artworld”, to be what they are. Museums, books of poetry, academies of music, and journals of art criticism exist because of a felt need to accommodate, promote, explore, and otherwise reap the benefits of pre-existing, logically prior objects known as works of art. And as for practices,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2483,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Does it make any sense to speak of acting on behalf of a practice? Status-awarding authority can center in an institutional token, but practices, as such, seem to lack the requisite source of authority. Perhaps the artworld, as Dickie conceives it, could not confer status. (APV: 134)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2484,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Last, and independent of the other objections, there is the problem of circularity. Works of art are defined in terms of the artworld; the artworld consists of people who have some sort of special doings with works of art. Ultimately, art is defined in terms of itself. To the response to this—basically, Dickie’s—that the circle is large enough to make the definition interesting and informative, Beardsley shakes his head in dismay: if works of art are",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2485,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " ultimately defined in terms of themselves, some important piece of the truth must not have been encompassed in the circle. (APV: 134)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2486,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Although some of these objections apply to Dickie alone, most, Beardsley thinks, apply in one form or another to every institutional definition of art.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2487,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " His own preferred view is neo-Romantic and intentionalistic—perhaps surprisingly, since Beardsley opposes Romanticism and intentionalism in the philosophy of art on every other front. A work of art is defined as",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2488,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " either an arrangement of conditions intended to be capable of affording an experience with marked aesthetic character or (incidentally) an arrangement belonging to a class or type of arrangements that is typically intended to have this capacity. (APV: 299)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2489,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The first disjunct is the more important one; it says that something’s a work if it’s an artifact, “an arrangement of conditions”, that was intended by its creator to be capable of providing an experience with non-negligible aesthetic character. It’s important to realize what’s not being said here. First, the definition doesn’t say that a work of art is intended to provide (or be capable of providing) a full-blown aesthetic experience. Only “an experience with marked aesthetic character” is required. Second, the definition doesn’t say that a work of art doesn’t or can’t have a utilitarian function, in the everyday sense of the term. A work of art could be a chair that’s many times simply sat in, for example. Third, the definition doesn’t say that the primary intention behind the creation of the artifact is an aesthetic one. The primary intention behind the creation of a religious icon, for example, could be to bring worshipers closer to God. What makes such an icon a work of art, however, is not that intention but another one: the intention that it be capable of affording viewers an experience with marked aesthetic character. How marked this character must be isn’t specified, but that may be all to the good. As the exact extension of “work of art” is somewhat indefinite, so is the extension of “artifact created with the intention of being capable of affording an experience with marked aesthetic character”. If the extensions of the two are the same or very nearly so, and the objects in the “gray areas”, the areas not definitely within or without the extension of the two, are also the same or very nearly so, then so much the better for the definition.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2490,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The second part of the definition picks up those objects that definitely are works of art but were created in a mechanical, almost an assembly-line fashion, or as just another instance of its kind. Some beautiful vases may fall into the first class, and many medieval icons into the second. To make sure that the extension of the definiens matches that of the definiendum, the second disjunct of the definition is needed.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2491,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Why accept the definition? For several reasons, Beardsley thinks. First, a definition",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2492,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " chosen for a role in aesthetic theory should mark a distinction that is… significant for aesthetic theory (APV: 299),",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2493,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " and Beardsley’s does. Second,",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2494,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " in selecting key terms for aesthetic theory we ought to stay as close as convenient to ordinary use (APV: 300).",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2495,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " Not everyone’s use of a term needs to be captured in fashioning a definition, which would be impossible in any case with a term as elastic and tendentiously used as “work of art”. Beardsley’s definition has the merit of capturing",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2496,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " reasonably well a use that has been prominent for some centuries and still persists quite widely today, outside the speech and writing of or about the avant-garde. (APV: 300)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2497,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " In other words, Beardsley’s definition captures the ordinary extension of a term. The fact that it may not capture the extension of a term as used by the avant-garde—who may claim that Waltina Weber’s arthritis is a work of art—doesn’t count against it to any appreciable extent. Third, a definition of “work of art”",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2498,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " should be of the greatest possible utility to inquirers in other fields besides aesthetics—fields to which aesthetics itself should (sometimes) be thought of as a support and underpinning. (APV: 304)",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2499,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/beardsley-aesthetics/",
+        "text": " The fields Beardsley has in mind, more than any other, are art history and anthropology. Fourth and last, a definition of “work of art” should “conceptually link… art and the aesthetic” (APV: 312). That Beardsley’s does in spades, directly defining art in terms of the aesthetic as it does.",
+        "category": "beardsley-aesthetics"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

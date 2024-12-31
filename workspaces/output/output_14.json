@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 1300,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Being is that which belongs to…every possible object of thought….Numbers, the Homeric gods, relations, chimeras and four-dimensional spaces all have being, for if they were not entities of a kind, we could make no propositions about them. Thus being is a general attribute of everything, and to mention anything is to show that it is….Existence, on the contrary, is the prerogative of some only amongst beings….[T]his distinction [between being and existence] is essential, if we are ever to deny the existence of anything. For what does not exist must be something, or it would be meaningless to deny its existence; and hence we need the concept of being, as that which belongs even to the non-existent.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1301,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Russell’s thoroughgoing modal skepticism led him to exclude possibilia from his non-existent  objects.[17]  Nonetheless, were he to have admitted them into his ontology, the subsistent realm would be their natural place in his bifurcated ontology. Quine (1948: 22), in the voice of his fictional possibilist metaphysician Wyman—and undoubtedly influenced at the time by recent work of C. I. Lewis (1943) and Rudolf Carnap  (1947)[18]—made  exactly this move in a justly famous and widely-cited paper that played a pivotal role in both framing the philosophical issues and fixing modern terminology:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1302,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Pegasus…has his being as an unactualized possible. When we say of Pegasus that there is no such thing, we are saying, more precisely, that Pegasus does not have the special attribute of actuality. Saying that Pegasus is not actual is on a par, logically, with saying that the Parthenon is not red; in either case we are saying something about an entity whose being is unquestioned. (1948: 22)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1303,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " To be a mere possibile, then, according to Wyman, is to be unactualized, i.e., it is, unqualifiedly, to be but to fail to exemplify “the special attribute of actuality”; it is to subsist rather than to exist (Quine 1948:  23).[19]  But perhaps equally important for fixing the nature of the modern possibilism-actualism debate was Quine’s explicit break from his nineteenth and early twentieth century predecessors on the ontological status of abstracta; speaking now in his own voice, he says:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1304,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " If Pegasus existed he would indeed be in space and time, but only because the word “Pegasus” has spatio-temporal connotations, and not because “exists” has spatio-temporal connotations. If spatio-temporal reference is lacking when we affirm the existence of the cube root of 27, this is simply because a cube root is not a spatio-temporal kind of thing, and not because we are being ambiguous in our use of “exist”. (1948: 23)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1305,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " For Quine, that is, their necessary non-concreteness notwithstanding, abstract objects exist no less robustly than we and, hence, in the context of the possibilism-actualism debate, are fully  actual.[20]  A particular advantage of this view of abstracta for the debate is that, assuming that there could be no necessarily non-actual objects, possibilia are the only things lacking actuality in the possibilist’s universe and, hence, actualism can take a particularly common and familiar form:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1306,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, more formally put once again:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1307,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " But the most important consequence of this wholesale shift in the ontological status of abstracta is that it opened the door to perhaps the most prominent form of contemporary actualism—dubbed (rather tendentiously) ersatz modal realism by David Lewis (1986: §3.1)—on which modal phenomena are understood in terms of abstracta of various sorts and, hence, in terms of actually existing things only, as per  \\(\\textbf{Act}^{*}\\).[21]  (Ersatz modal realism is discussed in more detail in  §4.2  and  §4.4  below and in §2.2 of the Encyclopedia’s entry on  possible worlds.)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1308,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " One final matter requires attention. Quine’s choice of Pegasus as his paradigmatic possibile in the above quote highlights the fact that even relatively modern discussions often conflate the two motivations for non-existent objects and, consequently, conflate fictional objects and possibilia, and this leads to an important confusion about the nature of possibilia that is important to avoid. It is particularly evident in another well-known Quinean passage. Returning to his own voice, in an attempt to show that possibilism is ultimately incoherent, Quine asks a series of rhetorical questions, beginning with the following:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1309,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Take, for instance, the [merely] possible fat man in that doorway; and, again, the [merely] possible bald man in that doorway. Are they the same possible man, or two possible men? How do we decide? How many possible men are there in that doorway? (1948: 23)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1310,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, on this characterization of possibilism, a merely possible F is something that (contingently) fails to be actual but, nonetheless, like a Meinongian intentional object, is actually an F—a merely possible man in that doorway has the property of being in the given doorway; hence the purportedly unanswerable questions about whether or not he is identical with the indefinitely many other merely possible but somewhat differently described men who can also be said to occupy the same space. However, as Linsky and Zalta (1994: 445) emphasize, a merely possible F needn’t (and indeed typically won’t) be an F. Rather, a merely possible F is (typically) something that is not in fact an F but rather only could be an  F.[22]  In particular, a merely possible bald man in that doorway is neither bald, nor a man, nor in that doorway—indeed, it has the complements of all those properties. Rather, it is only something that could have those properties.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1311,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " With that problem corrected, this Quinean framing has by and large become the dominant conception of the possibilism-actualism distinction in the contemporary  literature.[23]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1312,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " We have characterized actualism as, first and foremost, the denial of possibilism, defined as the thesis  (Poss)  that there are things that contingently fail to be actual. Following the historical precedents just detailed, actuality has been depicted as the more robust of two purported modes of being. However, work by Linsky and Zalta (1994, 1996) and Williamson (1998, 2013) casts doubt upon the viability of the possibilism-actualism distinction under this bi-modal conception. Williamson questions its coherence: what, exactly, is the nature of the “robustness” that allegedly distinguishes actuality from the merely possible; as Williamson (2013: 23ff) puts it: “being actual had better be actually doing something harder than just being…. But what is that harder thing…?” Convinced there is no cogent answer to the question, Williamson proposes scotching the possibilism-actualism distinction entirely in favor of an allegedly much clearer distinction between necessitism and contingentism, that is, between the thesis that, necessarily, all things exist necessarily (\\(\\Box\\forall \\sfx \\Box\\exists \\sfy\\,\\sfy=\\sfx\\)) and its denial. (This distinction will be discussed in greater detail  below.)[24]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1313,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Linsky and Zalta (1994: §4) do not so much question the coherence of the possibilism-actualism distinction (under the bi-modal conception) as dissolve  it.[25]  Specifically, they show that, for all that the thesis  (\\(\\textbf{Act}^{*}\\))  that, necessarily, everything is actual tells us, there is nothing to prevent avowed possibilists like  themselves[26]  from simply rejecting the idea that Bergoglio’s merely possible children “have a [mode] of being that is less than the full-fledged existence” that we enjoy, and insisting instead that they too are fully actual and, hence, exist as robustly as we  do.[27]  It’s just that we, by sheer happenstance, are concrete and they are not; we, that is, happen to exist in the spatio-temporal causal order and they do not. But things might just as well have been the other way ’round: existence-wise, we are all on an ontological par. There are thus no possibilia in the sense of  Poss  at all; necessarily, everything is actual, as per  \\(\\textbf{Act}^{*}\\).  On this telling, then, Linsky and Zalta and their ilk all turn out to be fully-fledged actualists, their ontological commitments notwithstanding.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1314,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Clearly, however, even if one is skeptical of the bi-modal conception, the core of the intended debate remains: whether or not to countenance the likes of Bergoglio’s possible children. In response to those who do, actualists define themselves simply as those who do not. The historical trajectory sketched above explains why the debate has often come to be framed in terms of distinct modes of being—actuality and mere possibility. But this bi-modal framing is inessential: when the intended debate is kept in the foreground, “actuality”, for the actualist, is best understood simply as a placeholder for whatever it is that allegedly distinguishes the likes of us (and abstract objects such as the numbers) from the likes of Bergoglio’s merely possible children. Linsky and Zalta (1994: §4) and Williamson (2013: §1.2) themselves, in fact, just re-introduce what is essentially Bolzano’s characterization of possibilia: they are contingently non-concrete. On this characterization, possibilism can take a form that clarifies the debate without any mention of modes of being and, hence, avoids the above critiques:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1315,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " or, more formally, where \\(\\sfC!\\) is concreteness:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1316,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Accordingly, actualism becomes:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1317,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " or, more formally:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1318,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " So on this framing, for the possibilist, what allegedly distinguishes the likes of us (and the likes of the natural numbers) from possibilia in the sense of \\(\\textbf{Poss}_{\\sfC}\\) is: not being contingently non-concrete. Taking this, then, to be what “actuality” signifies, with a bit of propositional logic, we have:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1319,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, on this framing, to be actual is to be either concrete or necessarily non-concrete; or, more simply put, it is to be either concrete or abstract. It is a straightforward exercise to show that, under this definition of actuality, \\(\\textbf{Poss}_{\\sfC}\\) is equivalent to the original definition  Poss  and that \\(\\textbf{Act}_{\\sfC}\\) is equivalent to the principle  \\(\\textbf{Act}^{*}\\)  that, necessarily, everything is  actual.[28]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1320,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Of course, possibilists who are more inclined toward the bi-modal conception will still prefer the original framing of the debate in terms of a primitive notion of actuality as per Poss and Act. But even the most committed bi-modalist will agree that contingent non-concreteness is at least necessarily coextensive with mere possibility and, hence, its complement with actuality. So, for those skeptical of the original framing, nothing essential to the debate is lost if it is simply understood in terms of concreteness as per \\(\\textbf{Poss}_{\\sfC}\\) and \\(\\textbf{Act}_{\\sfC}\\) .",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1321,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Note on David Lewis. The influential and highly original late twentieth century philosopher  David Lewis  also rejected bi-modalism and famously defended a view that is often characterized as a variety of possibilism. In fact, Lewis’s possibilism is orthogonal to the classical possibilism-actualism debate under discussion in this entry. See the supplemental document  Classical Possibilism and Lewisian Possibilism  for details.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1322,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Possibilism would almost surely not be taken as seriously as it is were it not for the dramatic development of possible world semantics for modal logic in the second half of the twentieth century. For it not only enables the possibilist to formulate truth modal conditions with particular clarity and cogency, it yields a natural and elegant quantified modal logic, known as SQML, in which possibilism’s fundamental metaphysical principles fall out as logical truths. In order to appreciate the cogency of possibilism, therefore, it is important to understand basic possible world semantics.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1323,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Possible world semantics is built upon  Tarski’s  (1936, 1944) epochal theory of truth in the first half of the twentieth century. Tarski’s theory provided a rigorous account of the fundamental semantic connections between the languages of classical logic and non-linguistic reality that determine the truth conditions for the sentences of those languages. By generalizing Tarski’s theory to modal  languages,[29]  possible world semantics promised an equally rigorous account of the semantic connections between those languages and modal reality, and thereby an equally rigorous account of modal truth conditions. It is illuminating therefore to start with an account of Tarskian semantics.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1324,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Given a standard first-order language \\(\\scrL\\) with the truth functional operators \\(\\neg,\\,\\to,\\) a distinguished identity predicate \\(=,\\) and the universal quantifier \\(\\forall,\\) a Tarskian interpretation \\(\\calI\\) for \\(\\scrL\\) specifies a nonempty set \\(D\\)—the universe of \\(\\calI\\)—for the quantifiers of \\(\\scrL\\) to range over and assigns appropriate semantic values to the terms (i.e., the (individual) constants and variables) and predicates of \\(\\scrL\\). Specifically, to each term \\(\\tau\\) of \\(\\scrL,\\) \\(\\calI\\) assigns a referent \\(\\tau^\\calI \\in D\\) and, to each n-place predicate \\(\\pi\\) of \\(\\scrL,\\) \\(\\calI\\) assigns a set \\(\\pi^\\calI \\subseteq D^n\\) of n-tuples of members of \\(D,\\) often referred to as the extension of \\(\\pi\\) in  \\(\\calI\\).[30]  The extension \\(=^\\calI\\) assigned to the identity predicate, of course, is always stipulated to be the “real” identity relation for \\(D,\\) i.e., the set \\(\\lbrace\\langle a,a\\rangle:a \\in D\\rbrace\\). Those assignments to the terms and predicates of \\(\\scrL,\\) in turn, completely determine the truth values of all the formulas of \\(\\scrL\\) by means of a familiar set of recursive clauses. To facilitate the quantificational clause, let \\(\\calI[\\frac{\\nu}{a}]\\) be the interpretation that assigns the individual \\(a\\) to the variable \\(\\nu\\) and is otherwise exactly like \\(\\calI\\). This apparatus then delivers a  compositional  theory of meaning for \\(\\scrL,\\) that is, an account on which the meaning (in this case, the truth value) of a complex formula is determined by its grammatical structure and the meanings of its semantically significant parts and hence, ultimately, in the Tarskian case, by the semantic values assigned to the terms and predicates of the language:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1325,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Clauses for the other standard truth-functional operators and the existential quantifier under their usual definitions follow straightaway from these clauses. In particular, where",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1326,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " it follows that:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1327,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " A set \\(\\Sigma\\) of formulas of \\(\\scrL\\) is said to be satisfiable if there is an interpretation for \\(\\scrL\\) in which every member of \\(\\Sigma\\) is true. A formula \\(\\varphi\\) is valid, or a logical truth—written \\(\\vDash\\varphi\\)—if it is true in every interpretation for \\(\\scrL\\).",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1328,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The above definitions yield a logic, in one standard sense: a class of formal languages for which we’ve provided a model theoretic semantics that determines a rigorous notion of logical  truth.[31]  And the logic they define is classical (first-order) predicate logic.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1329,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Strictly speaking, truth in an interpretation is a purely mathematical relation between the formulas of a formal language and rigorously defined mathematical objects of a certain type. However, in practice, most formal languages are applied languages and this will enable us to define an objective notion of truth simpliciter for classical predicate logic. More specifically, an applied formal language \\(\\scrL\\) is designed to clearly and unambiguously formalize a range of discourse about some real world domain (e.g., the stars and planets, the US electorate on 6 November 2020, the natural numbers, etc)—call this the intended domain of \\(\\scrL\\). Hence, each constant of \\(\\scrL\\) symbolizes a name in the given discourse and each predicate of \\(\\scrL\\) symbolizes a predicate of the  discourse.[32]  An interpretation \\(\\calI\\) for \\(\\scrL\\) will be intended, then, just in case its universe \\(D\\) comprises exactly the individuals in the intended domain of \\(\\scrL\\) and \\(\\calI\\) assigns to the constants and predicates of \\(\\scrL\\) the actual semantic values of the names and natural language predicates they are meant to symbolize. The compositional truth condition of a sentence \\(\\varphi\\) in an intended interpretation thus traces \\(\\varphi\\)’s truth value down to the basic atomic facts on which it ultimately depends or, as we might put it, the atomic facts on which its truth value is grounded. Thus, a sentence \\(\\varphi\\) of an applied language \\(\\scrL\\) will be true just in case it is true\\(^\\calI,\\) for some intended interpretation \\(\\calI\\) for \\(\\scrL\\).",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1330,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Intuitively, a Tarskian interpretation of an applied non-modal language represents a possible world, a way in which the properties and relations expressed by the predicates of the language might be exemplified by the things in the universe of the interpretation. The idea underlying possible world semantics is simply to interpret a modal language \\(\\scrL_\\Box\\) by bringing a collection of Tarskian interpretations together to represent a modal space of many possible worlds in a single interpretation of  \\(\\scrL_\\Box\\).[33]  So let \\(\\scrL_\\Box\\) be the result of adding the modal operator \\(\\Box\\) to some standard first-order language \\(\\scrL\\). As with a Tarskian interpretation of \\(\\scrL,\\) an SQML interpretation \\(\\calM\\) for \\(\\scrL_\\Box\\) specifies a nonempty set \\(D\\) to serve as its universe. Also as in Tarskian semantics, \\(\\calM\\) assigns each term \\(\\tau\\) of \\(\\scrL_\\Box\\) a semantic value \\(\\tau^\\calM \\in D\\). Additionally, however, \\(\\calM\\) specifies a nonempty set \\(W\\)—these are typically called the set of “possible worlds” of \\(\\calM\\) but can be any nonempty set. One member \\(w^\\ast\\) of \\(W\\) is designated as the “actual world” of \\(\\calM\\). To give substance and structure to these “worlds”, \\(\\calM\\) then assigns extensions to the predicates of \\(\\scrL_\\Box\\) relative to each world—that is, for every n-place predicate \\(\\pi\\) of \\(\\scrL\\) and each world \\(w \\in W,\\) \\(\\calM\\) assigns a set \\(\\pi_w^\\calM \\subseteq D^n\\) of n-tuples of members of \\(D,\\) the extension of \\(\\pi\\) at  \\(w\\);[34]  in particular, the extension \\(=_w^\\calM\\) of the identity predicate at all worlds \\(w\\) is stipulated to be \\(\\lbrace\\langle a,a\\rangle:a \\in D\\rbrace\\). In this way \\(\\calM\\) represents the different ways that the properties and relations expressed by those predicates can change (or not) from world to world.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1331,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Given an SQML interpretation \\(\\calM,\\) then, the Tarskian truth conditions above are generalized by relativizing them to worlds as follows: for any possible world \\(w\\) of \\(\\calM\\) (the world of evaluation),",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1332,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Putting the clause for universally quantified formulas together with the clause for negated formulas and the definition  ∃Def  of the existential quantifier, we have",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1333,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " And to these, of course, is added the critical modal case that explicitly interprets the operator \\(\\Box\\) to be a quantifier over possible worlds:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1334,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The possibility operator \\(\\Diamond\\) is defined as usual in terms of \\(\\Box\\):",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1335,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, intuitively, to say that a statement is possible is just to say that its negation isn’t necessary. The structural similarity between \\(\\Diamond\\textbf{Def}\\) and ∃Def should be unsurprising given that, semantically, the necessity operator \\(\\Box\\) is literally a universal quantifier over the set of worlds. Accordingly, it follows from \\(\\Diamond\\textbf{Def}\\) and the semantic clause for necessitations that",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1336,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " We say that a formula \\(\\varphi\\) of \\(\\scrL_\\Box\\) is true in an SQML interpretation \\(\\calM\\) for \\(\\scrL_\\Box\\) if it is true\\(_{w^\\ast}^\\calM\\), i.e., true in \\(\\calM\\) at the “actual world” \\(w^\\ast\\) of \\(\\calM\\). Satisfiability and logical truth are defined exactly as they are  above  for classical predicate logic, albeit relative to modal languages \\(\\scrL_\\Box\\) and the preceding notion of truth in an SQML interpretation; in particular, a formula \\(\\varphi\\) of \\(\\scrL_\\Box\\) is logically true if it is true in every SQML interpretation. The logic so defined is, of course, SQML.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1337,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The definition of truth simpliciter above for formulas of an applied non-modal language \\(\\scrL\\) stems from the fact that a Tarskian interpretation \\(\\calI\\) for \\(\\scrL\\) can take the things in (some relevant chunk of) the actual world and represent how they actually exemplify the properties and relations expressed by the predicates of \\(\\scrL\\). But if we can represent the actual world (or a relevant chunk of it) by means of an intended Tarskian interpretation, then there is no reason that we can’t represent a merely possible world in which those same things exist but have different properties and stand in different relations and, hence, define objective notions of truth at a world and of truth simpliciter for the formulas of a modal language as well, that is, notions of truth that are not simply relative to formal, mathematical interpretations but, rather, correspond to objective modal reality. So let \\(\\scrL_\\Box\\) be an applied modal language whose individual constants and predicates represent those in some ordinary range of modal discourse and let \\(D\\) be its intended domain. Say that \\(\\calM\\) is an intended interpretation of \\(\\scrL_\\Box\\) if",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1338,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Then, where \\(\\calM\\) is an intended interpretation of \\(\\scrL_\\Box,\\) we can say that a formula \\(\\varphi\\) of \\(\\scrL_\\Box\\) is true at a world \\(w\\)—true\\(_w\\)—just in case \\(w \\in W\\) and \\(\\varphi\\) is true\\(_w^\\calM\\), and that \\(\\varphi\\) is true just in case it is true\\(_{w^\\ast}\\).",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1339,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Ideally, a logic \\(\\mathfrak L\\) has a sound and complete proof theory, that is, an accompanying deductive system whose theorems—the formulas provable in the system—are exactly the logical truths of \\(\\mathfrak  L\\).[36]  There is such a system for SQML—for convenience, we’ll refer to it by setting “SQML” in italics: SQML. (We will follow this convention for logics generally.)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1340,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " “SQML” is an acronym for “simplest quantified modal logic”, and it is so-called because it is a straightforward amalgam of the most popular and semantically least complicated propositional  modal logic  S5 and  classical first-order logic  (with  identity)—FOL,  for  short.[37]  The deductive system SQML, accordingly, is an amalgam of the corresponding deductive systems S5 and  FOL.[38]  S5 builds on the foundation of classical propositional logic—PL, for short—whose deductive system PL takes every instance of the following schemas as its axioms and Modus Ponens as its inference rule:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1341,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " On top of this foundation the system S5 adds the rule of Necessitation and every instance of the following three schemas:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1342,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " K is a fundamental principle common to all the modal logics we will survey here: if a conditional is necessary, then its consequent is necessary if its antecedent is. T expresses that necessity implies truth, and 5 expresses that what is possible is not a mere matter of happenstance; no possibility could have turned out to be impossible; or again: what is possible in the actual world is possible in every world. The basic normal deductive system K is the result of adding (every instance of) K and the rule of Necessitation to PL; the system T is the result of adding all instances of T to K; and the system S5 is the result of adding all instances of 5 to  T.[39]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1343,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Two important principles (that is, every instance of them) can be proved in  S5:[40]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1344,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " 4 says of necessities what 5 says about possibilities: necessity is not a matter of happenstance; the necessary truths of our world are necessary in every world. B says that anything that is in fact the case had to have been possible; the truths in our world are, at the least, possibilities in every other world.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1345,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Schemas T, 5, 4, and B all have common equivalent forms it is useful to note:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1346,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " We obtain the full deductive system SQML by adding the quantificational and identity axioms of FOL and the rule of Generalization to S5:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1347,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Proofs and Theorems  The notions of proof and theoremhood are defined as usual; we define them generally as they will apply to each of the deductive systems discussed in this entry. Specifically, for any deductive system S, a proof in S is a finite sequence of formulas of the language \\(\\scrL\\) of S—\\(\\scrL_\\Box,\\) in the case of SQML—such that each formula is either an axiom of S or follows from preceding formulas in the sequence by a rule of inference of S. A proof is a proof of the formula occurring last in the sequence. A formula \\(\\varphi\\) of \\(\\scrL\\) is a theorem of S—\\(\\vdash_{S} \\varphi\\)—if there is a proof of it in S. And if \\(\\Gamma\\) is a set of formulas of \\(\\scrL,\\) then \\(\\varphi\\) is a theorem of \\(\\Gamma\\) (in S)—\\(\\Gamma \\vdash_{S} \\varphi\\)—if, for some finite subset \\(\\{\\psi_1,\\ldots,\\psi_n\\}\\) of \\(\\Gamma,\\) \\(\\psi_1 \\to (\\ldots \\to (\\psi_n \\to \\varphi)\\ldots)\\) is a theorem of S.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1348,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As the role of an individual constant in a theorem of SQML is essentially indistinguishable from that of a free variable, it is useful to note the following:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1349,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Metatheorem: Let \\(\\psi\\) be a formula of \\(\\scrL_\\Box\\) that contains an individual constant \\(\\kappa\\) of \\(\\scrL_\\Box\\) and let \\(\\nu\\) be a variable that doesn’t occur in \\(\\psi\\). Then if \\(\\psi\\) is a theorem of SQML, so is  \\(\\forall\\nu\\psi^\\kappa_\\nu.\\)[42]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1350,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The metatheorem justifies the following derived rule of inference, where \\(\\varphi,\\) \\(\\kappa,\\) and \\(\\nu\\) are as indicated there:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1351,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, informally put, if a formula containing an individual constant is a theorem, we can effectively generalize on it as if it were a free variable.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1352,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " In addition to the degree of clarity it brings to the issues, a compelling reason for expressing the possibilism-actualism debate in formal terms is how starkly it illustrates the inextricable link between logic and metaphysics, in particular, the dramatic impact our metaphysical choices have on quantified modal logic. Arguably the best known illustration of this is seen in the validity of the inference from  (2)  to  (4)  in SQML and, more generally, in the validity of the Barcan  Formula:[43]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1353,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, informally, if there could be something satisfying any given description \\(\\varphi,\\) then there is something that could satisfy that description, a thing that is possibly \\(\\varphi.\\) The validity of BF in SQML rests on two facts:  first,  that in the model theory of SQML (as in all varieties of possible world semantics), the possibility operator \\(\\Diamond\\) is literally an existential quantifier ranging over all possible worlds; and  second,  that, in evaluating an existentially quantified formula \\(\\exists\\nu\\varphi\\) at a possible world \\(w,\\) the initial occurrence of \\(\\exists\\nu\\) in the formula ranges unrestrictedly over all individuals. Hence, switching the order of adjacent occurrences of \\(\\Diamond\\) and \\(\\exists\\nu\\) in a formula will not alter its truth value; to say that some world and some object are thus and so is to say no more and no less than that some object and some world are thus and  so.[44]  And this is what warrants, in particular, the inference from  (2)  to  (4).  Letting “\\(\\sfB\\)” represent the predicate “is Bergoglio’s child”, the logical form of  (2)  is \\(\\Diamond\\exists \\sfx\\, \\sfB\\sfx\\). Expressed semantically in SQML: some world and some individual are such that, in that world, that individual is Bergoglio’s child. But that is to say no more and no less than that some individual and some world are such that, in that world, that individual is Bergoglio’s child, \\(\\exists \\sfx\\,\\Diamond \\sfB\\sfx,\\) i.e.,  (4).",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1354,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " In its validation of BF, then, SQML underwrites in general, and as a matter of logic, the possibilist’s thesis that de dicto modal truths like  (2)  asserting simply that there could be things that are thus and so are in fact grounded in de re modal truths about the modal properties of individuals, i.e., the properties they have at some or all possible  worlds.[45]  If, as in the case of  (2),  that appears to commit us to things like merely possible human beings, things that, for actualists anyway, intuitively do not in any sense exist, things that in no sense are, so much the worse for actualist intuitions; or so says the possibilist.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1355,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " BF is not the only controversial logical truth of SQML or even, perhaps, the most controversial one. Another is its converse:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1356,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, informally, if there is, in fact, something that could satisfy a given description \\(\\varphi,\\) then it is possible that something satisfy that description. CBF is valid for exactly the same reason that BF is: the order of adjacent occurrences of \\(\\exists\\) and \\(\\Diamond\\) in a formula does not alter its logical content.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1357,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " To see why CBF is controversial, especially for typical actualists, note that most all of us believe that there are contingent beings, things that reality might just as well have lacked as to have contained, things like you and me that simply might have failed to be identical to anything:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1358,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " However, CBF is incompatible with the existence of contingent beings! For, as an instance of CBF we have",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1359,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Hence, by MP, we can infer",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1360,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " which says that there could be something that is distinct from everything (including, in particular, itself) and that, of course, is logically impossible. Hence, CB is logically false in SQML and so it is a logical truth of SQML that there are no contingent beings, i.e., that, rather, everything is necessarily identical with something:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1361,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Indeed, since logical truths in SQML are all necessary, N is itself a necessary truth:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1362,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " So SQML yields not only possibilism (given BF and  (2)  and its ilk) but necessitism, that is, the thesis that everything there is and, indeed, everything there ever could be, is a necessary  being;[46]—you,  me, the Eiffel Tower, Bergoglio’s possible children, merely possible members of exotic species that never in fact evolved, merely possible suns that never formed, etc. Otherwise put: everything there could possibly be already is and, moreover, could not have failed to be.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1363,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Although it is a logical truth of SQML, necessitism is not analytically entailed by possibilism. There is, in particular, nothing in the idea of a mere possibile that demands its necessity, nothing that rules out worlds from which it might be altogether absent, worlds (in addition to those in which it is either concrete or non-concrete) in which nothing is identical to it. This might lead one to wonder whether SQML, by building necessitism into its logical foundations, has (from a possibilist perspective) gotten the logical cart before the philosophical horse. On reflection, however, it is clear that necessitism is, not only a natural complement to possibilism, but an essential component of it. For, as we’ve seen, the central justification for possibilism is that it provides truthmakers for modal propositions like  (2);  it grounds them in the modal properties of individuals. If the purported truthmakers for those propositions could fail altogether to be, if it could be that there are no such things, then, for all we know, it might just as well be that there are in fact no such things and, hence, that there are no truthmakers for  (2)  and its ilk after all; and with that, possibilism’s central philosophical justification collapses. Necessitism closes the door on this prospect: both possibilia and actually existing things alike are necessary  beings.[47]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1364,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " At first sight, of course, necessitism is a shocking philosophical doctrine. For, most compellingly, the urgent intuition of our own contingency—that at one time in the past we did not exist and that at another in the not too distant future we will forever cease to be—is a central element of our lived human experience. But by necessitism, not only have we always existed and will so continue forever into the future, we—no less than God and the number 17—could not have failed to be. The possibilist, however, will respond that the worry here has badly conflated existence in the sense of being, in the sense of mere identity with something, and existence in the sense of actuality. More specifically, the worry has confused two corresponding notions of contingency, viz., contingency as the possibility of absolute non-being, i.e.,",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1365,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " and contingency as the possibility of non-actuality, i.e.,",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1366,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As per SQML, says the possibilist, contingency\\(_{\\boldsymbol{\\exists}}\\) is a logical impossibility. However, they continue, contingency\\(\\sfA!\\) comports fully with our lived experience and, in fact, is all that our experience warrants: our sense of our own contingency is rooted in our possible, indeed imminent, non-actuality and, hence, in the fact that, in the not-too-distant future, we shall forever cease to be actual. We shall thus forever cease to be conscious, to be embodied, to love and be loved, etc.; nothing distinctive of our human existence will survive. That something identical to each of us—a mere possibile, a featureless point in logical space—remains at worlds and times where we are non-actual offers no existential solace. (See Williamson 2013: Ch. 1, esp section 3, 6, and 8 for related reflections on necessitism.)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1367,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The actualist, of course, in denying possibilism, i.e., in denying that there could be any contingently non-concrete objects, allows no daylight between being, existence, and actuality: to be is to exist and to exist to be actual. Hence, for the actualist, contingency∃, the possibility of non-being, is the only concept of contingency on the table. As contingency in this sense is a logical impossibility according to SQML, the actualist clearly needs an alternative quantified modal logic tuned to their metaphysical sensibilities.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1368,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " SQML thus throws the twofold challenge that possibilism presents to actualism into stark relief. The notion of an intended SQML interpretation of an applied modal language, with its single domain of actual and merely possible individuals and its recursive account of truth at a world, vividly traces the semantic dependence of complex propositions down to the individuals on which their truth values are grounded. And the corresponding deductive system SQML provides the possibilist with a clean, complete framework in which to represent their reasoning. In the remaining sections of this entry we will look at prominent actualist responses to the two-fold possibilist challenge.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1369,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " There are any number of representatives of, and variations on, actualism. For brevity, I will focus on several particularly important accounts. We will begin with a close look at the extraordinarily influential work of Saul Kripke. Although Kripke himself does not appear to have been particularly motivated by any great commitment to actualism, both his version of possible world semantics and its corresponding deductive system capture important elements of the actualist perspective.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1370,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Given the controversial consequences of SQML, it seems clear that actualists need an alternative quantified modal logic on which BF, CBF, and \\(\\Box\\textbf{N}\\) fail to be logically true; ideally, it will also have a sound and complete deductive system in which, consequently, those principles are not derivable as theorems. The system of Kripke 1963b satisfies both of these desiderata and, hence, meets the second element of the possibilist’s two-fold challenge; as we will see, whether it meets the first—a satisfying account of the truth conditions for modal propositions like  (2)—is  a more delicate matter.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1371,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Just as necessitism is not analytically entailed by possibilism, its denial—i.e., that there at least could be contingent (i.e., henceforth, contingent∃) beings—is not analytically entailed by actualism. An actualist could consistently maintain that, necessarily, everything is necessarily identical with something and hence in particular, given their rejection of contingent non-concreta, that, necessarily, every concrete thing is necessarily identical to some concrete thing—put another way, that, necessarily, if something is concrete at any time at all, it is necessarily and eternally concrete.  (Spinoza  might be ascribed such a view, insofar as  God-or-Nature  is taken to be concrete and is, ultimately, the only concrete thing.) For typical actualists, however, it is fundamental to their view that there are in fact many contingent beings, many things that could have failed to be identical with anything; reality could have altogether lacked many things that just happen to exist. A natural (if, as we’ll see, not entirely unproblematic) way of expressing this is to say that there are possible worlds where at least some things in the actual world are simply absent; more generally, it is to say that what exists—that is, for the actualist, what there is in the broadest sense—varies from world to world. This fundamental actualist intuition is at the heart of Kripke’s semantics for quantified modal languages.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1372,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Recall that an SQML interpretation \\(\\calM\\) for a first-order modal language \\(\\scrL_\\Box\\) specifies nonempty sets \\(D\\) and \\(W\\)—the “individuals” and “worlds” of \\(\\calM\\)—along with a distinguished element \\(w^\\ast\\) of \\(W,\\) the “actual” world of the interpretation; it then assigns a denotation \\(\\tau^\\calM \\in D\\) to each term \\(\\tau\\) and an extension \\(\\pi_w^\\calM \\subseteq D^n\\) to each n-place predicate \\(\\pi\\) at each world \\(w\\). A Kripke interpretation \\(\\calK\\) of \\(\\scrL_\\Box\\) is exactly like an SQML interpretation except for one modification that reflects the fundamental actualist intuition noted above, viz., the addition of a function \\(\\textit{dom}\\) that assigns to each world \\(w\\) of \\(\\calK\\) a subset \\(D_w\\) of \\(D\\)—intuitively, of course, the individuals that exist in \\(w\\). No restrictions are placed on the domain of any world; any set of individuals, including the empty set, will do, although it is required that \\(D = \\bigcup\\{\\textit{dom}(w):w \\in W\\},\\) i.e., that \\(D\\) consists of exactly the individuals that exist in some  world.[48]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1373,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The definition of truth at a world in a Kripke interpretation \\(\\calK\\) is defined exactly as it is for an SQML interpretation \\(\\calM\\) except for the quantified clause, where the difference between Kripke interpretations and SQML interpretations just noted comes to the fore. Specifically, when a quantified formula \\(\\forall\\nu\\varphi\\) is evaluated at a world \\(w,\\) the quantifier ranges only over \\(\\textit{dom}(w),\\) the set of objects in the domain of \\(w\\). Thus, the modal clause in the definition of truth at a world is revised as follows:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1374,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " And, accordingly:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1375,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The definitions of truth, satisfiability and logical truth are unchanged. Call the logic determined by Kripke semantics KQML.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1376,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " A Note on “Serious” Actualism. KQML takes over the semantics of predicates from SQML  without modification: by the above condition \\(\\pi_w^\\calK \\subseteq D^n,\\) the extension \\(\\pi_w^\\calK\\) that a Kripke interpretation \\(\\calK\\) assigns to a predicate at a world consists of arbitrary n-tuples of individuals in \\(D.\\) However, as Kripke himself (1963b, p. 86, fn 1) notes,",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1377,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " [i]t is natural to assume that [a predicate] should be false in a world…of all those individuals not existing in that world….",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1378,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Many actualists strongly agree, for the following reason: predicates express properties and relations. Hence, if a (1-place) predicate \\(\\pi\\) is true of an individual \\(a\\) at a world \\(w,\\) it means that \\(a\\) exemplifies the property that \\(\\pi\\) expresses at \\(w\\). But (these actualists continue) it is surely an undeniable metaphysical principle—dubbed serious actualism by Plantinga (1983)—that an object must exist, must be identical with something, in order to exemplify properties; an object cannot both be utterly absent from a world and yet have properties there. To rule this prospect out in Kripke’s model theory, then, rather than allowing an n-place predicate’s extension at a world to contain arbitrary n-tuples of individuals, we need to restrict \\(\\pi\\)’s extension at \\(w\\) to n-tuples of individuals in \\(w\\). More formally put, we need to replace the offending condition \\(\\pi_w^\\calK \\subseteq D^n\\) with the more felicitous condition \\(\\pi_w^\\calK \\subseteq \\textit{dom}(w)^n.\\)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1379,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " However, others (notably Pollock (1985) and Fine (1985)) respond that, while most properties and relations obviously entail existence—being a horse, say, or being taller than—it is far from clear that all do. Notably, if I fail to exist at a world, then that in some sense clearly seems to characterize me at that world and what else is characterization than property exemplification? Thus (these philosophers continue), it seems entirely reasonable to say that, at worlds in which I fail to exist, I have the property non-existence, as well as the complements of all the distinctly human properties noted above—non-consciousness, non-embodiment, etc., my nonexistence  notwithstanding.[49]  So for these philosophers, the condition \\(\\pi_w^\\calK \\subseteq D^n\\) on the assignment of extensions to predicates is fine as it stands.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1380,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Serious actualism—also known as property actualism (Fine 1985), the (modal) existence requirement (Yagisawa 2005; Caplan 2007) and the being constraint (Williamson 2013: §4.1)—is a substantive logical and philosophical issue. However, as it is for the most part a domestic dispute among actualists, it is largely orthogonal to the possibilism-actualism debate proper. Consequently, it will not be pursued here in any greater depth. For further discussion in addition to the references above see Plantinga 1985 (which contains replies to Pollock and Fine), Salmon 1987, Menzel 1991 and 1993, Deutsch 1994, Bergmann 1996 and 1999, Hudson 1997, Stephanou 2007, Hanson 2018, and Jacinto  2019.[50]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1381,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " All three of the controversial logical truths of SQML—BF, CBF, and \\(\\Box\\textbf{N}\\)—are invalid in KQML, that is, in KQML, they are not logically true. The key in each case is KQML’s modification of the way that quantified formulas are evaluated at worlds. As we saw in  §3.3  above, the validity of BF in SQML—its truth in every interpretation—depends essentially on the fact that, in evaluating an existentially quantified formula \\(\\exists\\nu\\varphi\\) at an arbitrary possible world \\(w,\\) the initial occurrence of \\(\\exists\\nu\\) in the formula ranges unrestrictedly over all individuals. In KQML, by contrast, the range of the initial quantifier \\(\\exists\\nu\\) is restricted to \\(\\textit{dom}(w),\\) to the individuals that exist in \\(w\\). And, because what exists can vary from world to world, this renders BF invalid: from the fact that some world and some individual existing in that world are thus and so it certainly does not follow that some individual existing in the actual world and some world are thus and so. Notably, while in some worlds there are children of Bergoglio, nothing here in the actual world is a child of Bergoglio in any world, i.e., \\(\\Diamond\\exists \\sfx\\, \\sfB\\sfx\\) is true and \\(\\exists \\sfx\\Diamond \\sfB\\sfx\\) is false. Hence, the BF instance",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1382,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " expressing the inference from  (2)  to  (4)  is false as  well.[51]  (See the preceding note for a more formal demonstration of the invalidity of BF.)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1383,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As we also saw in  §3.3,  CBF entails the principle N that everything (i.e., everything there happens to be) is necessarily identical to something. And, obviously, so too does the full necessitism principle \\(\\Box\\textbf{N}\\). But N is clearly invalid in KQML: because world domains can vary, an individual \\(a\\) in the actual world might not exist in another world, i.e., it might be that nothing is identical to \\(a\\) in some  worlds.[52]  Hence, since N is invalid in KQML, so are CBF and  \\(\\Box\\textbf{N}\\).[53]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1384,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As noted in  §3.2,  the deductive system SQML is sound and complete for SQML—all and only the logical truths of SQML are provable in SQML, including the three controversial principles BF, CBF, and \\(\\Box\\textbf{N}\\). Since, as we just saw in the previous section, those principles are all invalid in KQML, to formulate a sound and complete deductive system of his own, Kripke had to modify SQML rather severely to block the derivation of those principles without also blocking any of KQML’s valid formulas.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1385,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Kripke’s solution is nicely illustrated by means of a (somewhat compressed) proof in SQML of  BF*  (the structure of which will be shared by the proof of any non-trivial instance of BF):",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1386,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " It is clear where the problem lies: the universal instantiation schema Q2 is invalid in KQML! To see this in the particular case of line 1, suppose that \\(\\forall \\sfx \\Box \\neg \\sfB\\sfx\\) is true in (i.e., true at the “actual world” of) a given Kripke interpretation \\(\\calK\\) with individuals \\(D\\) and worlds \\(W\\). Then, by  the quantificational clause  in the definition of truth at a world in Kripke’s semantics, everything that exists in the “actual world” \\(w^\\ast\\) of \\(\\calK\\) is not in the extension of \\(\\sfB\\) at any world \\(u\\) in \\(W,\\) i.e., for all \\(a \\in \\textit{dom}(w^\\ast)\\) and for all \\(u \\in W,\\) \\(a \\notin \\sfB^\\calK_{u}\\). Recall, however, that the value \\(\\sfx^\\calK\\) assigned to \\(\\sfx\\) can be anything in the set \\(D\\) of individuals of \\(\\calK\\); in particular, \\(\\sfx^\\calK\\) might not exist in \\(w^\\ast\\) and, hence, might well be in the extension of \\(\\sfB\\) at some other world of \\(\\calK,\\) in which case \\(\\Box\\neg \\sfB\\sfx\\) will be false in  \\(\\calK.\\)[56]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1387,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Here we begin to see the logical challenge that confronts the actualist: a logically valid principle of SQML—in this case, a standard principle of classical logic—is rendered invalid when we attempt to revise our modal semantics so as to accommodate actualist intuitions. The challenge is then how (or whether) to revise the principle in question, and this in turn often requires a choice between several competing possibilities, each of which may require further revisions still. Kripke himself avoids several options that might suggest themselves in light of the invalidity of Q2 in KQML. For instance, taking a lead from Prior (1957: 33–35), an actualist might argue that terms—individual constants and variables (when they occur freely)—are directly referring expressions like proper names and demonstratives and, hence, that an accurate model theoretic representation of actualism should require that the value \\(\\tau^\\calK\\) that \\(\\calK\\) assigns to an arbitrary term \\(\\tau\\) should be restricted to the domain of the actual world \\(w^\\ast\\) of \\(\\calK\\)—one cannot, after all, refer to individuals that don’t actually exist. This modification of KQML would indeed preserve the validity of Q2 but at the cost of invalidating Nec—notably, it would render the inference from line 1 to line 2 in the above proof invalid. For, while line 1 might now be true at the actual world \\(w^\\ast\\) of an arbitrary interpretation \\(\\calK\\) because we’ve stipulated that \\(\\sfx^\\calK\\) exist in \\(w^\\ast,\\) that very fact could well render line 1 false at some other world \\(u\\): \\(\\forall \\sfx \\Box \\neg \\sfB\\sfx\\) might be true at \\(u\\) but our actually existing individual \\(\\sfx^\\calK,\\) although not in the extension of \\(\\sfB\\) in the actual world, might well be in its extension at \\(u\\). So, under the proposed modification, the question for the actualist instead becomes how to modify Nec—perhaps by limiting how it applies to formulas involving individual constants and free variable occurrences in some  way.[57]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1388,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The most common actualist response to the invalidity of Q2, rather than to try to preserve it by modifying the semantics of KQML, is simply to replace it with its  free logical  counterpart (see, e.g., Fine 1978, Menzel 1991):",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1389,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, what is true of everything—i.e., everything that actually exists—will be true of anything in particular if it is actual. Unlike Q2, FQ2 is valid in KQML as it stands and, moreover, every instance of it is necessary: what is true of everything in a given world will be true of anything in particular if it is identical with something in that world. Hence, FQ2 raises no problems for Nec. And, critically, outfitted with FQ2 instead of Q2, it is no longer possible to prove  BF.[58]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1390,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " However, Kripke (1963b, p. 89, note 1) is loath to adopt a solution that, like the ones just suggested, involves “revising quantification theory or modal logic”. So instead Kripke opts for another that he borrows from Quine. In his account of quantification, Quine (1951: §15) points out that any occurrence of a name in an ordinary logical truth is inessential to its truth: what is said of the referent of the name could just as well be said of anything. Thus, it is not in virtue of any distinctive properties of God or Socrates that the following proposition is true:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1391,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " (∗), that is, would have been true no matter what “God” and “Socrates” refer to. If anything, then, names obscure the grounds of logical truth. Hence, the discerning logical eye sees name occurrences in the likes of (\\(*\\)) as implicitly quantified variables and, hence, sees the completely general logical form that underlies  it:[59]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1392,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The same goes for free variable occurrences—semantically, variables are essentially names, so free variable occurrences in logical truths should also be seen as implicitly universally quantified. Hence, properly expressed, the axioms of a logical system, a system designed to have all and only logical truths as its theorems, should be purely general and, hence, should be purged of individual constants and free variable occurrences. In particular, universal instantiation, properly expressed, will replace the instantiated term \\(\\tau\\) in the consequent of  Q2  with a universally quantified variable:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1393,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Accordingly, line 1 of the proof of BF* requires an initial universal quantifier to bind the free occurrence of \\(\\sfx\\):",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1394,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Application of Nec to line 1* now yields only",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1395,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " and the intended proof to BF* stalls out. To continue along the lines of the SQML proof above we would need to be able to swap the initial necessity operator \\(\\Box\\) in line 2* with the universal quantifier to infer",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1396,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " That is, we would need to be able to prove the relevant instance of",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1397,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " But, as the label indicates, this is just an equivalent form of CBF and, as Kripke (1963b, 88–9) notes, attempting to prove it under the proposed revision KQ2 of Q2 stalls out for the same  reason.[60]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1398,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The necessitism principle \\(\\Box\\textbf{N}\\) meets a similar fate. A standard proof of \\(\\Box\\textbf{N}\\) in SQML begins with an instance of Q2 and proceeds as follows:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1399,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " But with KQ2 replacing Q2, critically, we are unable to wedge the necessity operator in between the two quantifiers; we can only get the likes of the following:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

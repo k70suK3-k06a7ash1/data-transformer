@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2700,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " When the object of taste is a material object the process by which it becomes pleasurable is more complicated still. The complication is that material objects are not naturally productive of any emotion; they are often naturally productive of simple pleasures and pains, but these are sensations merely. Yet it cannot be doubted that material objects often do produce the complex emotions of beauty and sublimity, and so must also produce the simple emotions that initiate unified trains of ideas of emotion. Hence, material objects, in order to acquire the capacity to produce the complex pleasures of taste, must first acquire the capacity to produce simple emotions. They do so, according to Alison, by coming to signify, through association, qualities of mind that are naturally productive of emotion (Alison 1811, 105–107). These include both active and passive qualities of mind,",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2701,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Just how material qualities come to be associated, and hence to signify, such qualities of mind is a topic Alison considers in great detail, devoting separate and sometimes lengthy chapters to the sublimity and beauty of sounds (Alison 1811, 113–163), of colors (Alison 1811, 163–176), of forms (Alison 1811, 176–310), of motion (Alison 1811, 310–315), and of the human countenance and form (Alison 1811, 315–417).",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2702,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Of course the doctrine that the beauty of matter derives from the beauty of mind is not new to Alison, who acknowledges a particular debt to Reid:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2703,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " What is perhaps new, at least to eighteenth-century Britain, is Alison’s thorough uncoupling of this Platonic doctrine from that of internal sense.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2704,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Alison’s theory of taste, perhaps more than any other here considered, is apt to strike the present-day aesthetician as alien to her concerns. But it is perhaps not so alien. Alison differs from his present-day counterpart by defining the qualities she now terms “aesthetic” according to the distinctive emotions he takes each to produce. Hence many of Alison’s claims about the emotions of beauty and sublimity and about the simple emotions on which these depend can be translated into claims about aesthetic qualities. Consider, for example, the claim—central and distinctive to Alison’s theory—that the emotions of beauty and sublimity depend on simple emotions such as delicacy, grace, dignity, and majesty. Surely it is a precursor to present-day claims about the dependence—e.g., the supervenience—of comparatively evaluative aesthetic qualities on comparatively descriptive aesthetic qualities.",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2705,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " aesthetic, concept of the |  aesthetics: aesthetic judgment |  aesthetics: French, in the 18th century |  aesthetics: German, in the 18th century |  Burke, Edmund |  Hume, David: aesthetics |  Reid, Thomas |  Scottish Philosophy: in the 18th Century |  Shaftesbury, Lord [Anthony Ashley Cooper, 3rd Earl of] ",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2706,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": " Copyright © 2022 by   James Shelley &lt;shelljr@auburn.edu&gt;     ",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2707,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": "View this site from another server:",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2708,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2709,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-18th-british/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "aesthetics-18th-british"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2710,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " This entry concerns the ways in which work in cognitive science, broadly conceived, is or may be of importance for work in philosophical aesthetics. Our focus is largely on analytic, primarily Anglophone, aesthetic writing and its ancestry in the empirical tradition. Aesthetic work occurs elsewhere, inside philosophy and beyond, but it is within the analytic tradition that connections with the sciences of mind have been most investigated, and it is that tradition which has been most receptive to empirical theories and results (the work of Merleau-Ponty in the phenomenological tradition is an exception; for his influence see, e.g., Solli &amp; Netland 2021).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2711,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Cognitive science spans the disciplines of psychology, linguistics, neuroscience and philosophy, and its relatively brief history has been dominated by the idea that human information processing depends on inner representations which are subject to computation (Boden 2006). It now encompasses approaches which challenge this idea, seeking to replace or augment inner representation with dependence on the environment. This concern with human cognitive architecture is exemplified in such developments as Marr’s theory of vision (1982), Brooks’ subsumption architecture for robots (1986), and predictive processing theories of perception and cognition (Friston 2010, see also below,  Section 3).  A survey of this large domain must be very selective and we have tried to identify, for each topic, a small number of key ideas on which to build our discussion. Throughout we have focused on sources that highlight the issues that confront us when we try to decide when some contribution from the empirical sciences of mind provides a rethink of some aesthetic doctrine, when the two disciplines offer complementary perspectives, and when the one is of no particular relevance to the other.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2712,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Writers on aesthetics in the empiricist tradition such as Shaftsbury, Hume, and Reid thought of their contributions as broadly empirical (see Shelley 2006 [2020]), and among the very first experimental investigations in psychology were studies of aesthetic preferences and responses, for example Fechner’s attempt to discover whether the “golden section” is especially preferred to other ratios (1871). The late nineteenth and early twentieth centuries were rich in work of this kind, and there were more speculative studies of “embodied” responses to architectural structures, a debate that brought the term “empathy” to the English language (Vischer 1873; Lipps 1903). But for most of the twentieth century aesthetics was seen, by its proponents and its detractors, as an “armchair” project. Wittgenstein, whose conception of philosophy strongly influenced the field’s direction in the century’s latter half, said",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2713,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " There doesn’t seem to be any connection between what psychologists do and any judgement about a work of art. (1967, 19; on Wittgenstein’s own experimental work on the perception of rhythm see Guter 2020)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2714,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " To the extent that aesthetics in this period was influenced by thinking about the mind it was more often prompted by ideas from psychoanalysis (Wollheim 1993). The last thirty years have seen a shift back towards empirical inquiry, assisted by a resurgence of interest in the imagination, now often treated as a capacity with an evolutionary and developmental history (Fuentes 2020; Harris 2000) and as subject to selective damage (Currie 1996).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2715,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " It has never been plausible to think of aesthetics as wholly a priori. Even those who think its main business is the analysis of widely shared folk concepts (Dickie 1962) will agree that a philosopher of music should have a good deal of knowledge of the history, art making practices and traditions of criticism of some musical tradition. In this respect aesthetics is closer to the philosophy of physics or economics than it is to metaphysics. There is also a frequently acknowledged connection between aesthetics and the study of perception. When Baumgarten (1750–58) first introduced the term “aesthetics” he called it a “science of perception” and according to Nanay (2014: 101)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2716,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " many, maybe even most traditional problems in aesthetics are in fact about philosophy of perception and can, as a result, be fruitfully addressed with the help of the conceptual apparatus of the philosophy of perception.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2717,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " This is a stronger claim than many would make (see Margolis 1960; Sibley 1965; Schellekens 2006; and Robson 2018) but theses in aesthetics do sometimes depend on claims, including scientifically tractable claims, about the nature of perception. A notable example is the debate about whether perception is cognitively penetrable; if it is, the way a picture looks or a piece of music sounds may depend on what the observer knows about contextual factors (for the rejection of cognitive penetrability see Danto 2001; for criticism see Rose &amp; Nanay 2022).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2718,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Philosophical doubts about the relevance of empirical work to aesthetics are of various kinds. Some authors merely suggest that philosophers are apt to make hasty generalisations from slender experimental evidence, give insufficient attention to their details and limitations, and fail to acknowledge the existence of conflicting expert opinion (Konečni 2013; Stock 2014). Philosophers, aestheticians among them, can certainly overestimate their expertise on occasion and it may well be that they are even more prone to do so when it comes to empirical matters. None of this points to anything in principle problematic about their enthusiasm for the empirical. Other doubters emphasise what they see as more systemic dangers. Roger Scruton (2014) suggests a tendency to try to assimilate aesthetic phenomena to available scientific frameworks that turn out to be ill fitting; he cites the attempt to use Chomskian linguistics to found a generative theory of music which, he claims, fails to accommodate either music’s structure or purpose. Gordon Graham (2014), contrasting Hume’s aesthetic theory unfavourably with that of Reid, says that the project of an “aesthetic science” must ignore or deny the role of reason and judgement. Again, one may be alive to both kinds of dangers while retaining an openness to empirical work. In particular, Graham’s challenge might be responded to by noting that studies of the role actually played by reasons in aesthetic judgement point to a sometimes striking disconnect between what people think of as their reasons and the factors that determine their preferences (Lopes 2014 and Irvin 2014; see also below,  Section 3);  this can hardly be irrelevant to someone investigating the rationality of aesthetic judgement. Further, work which aestheticians have thought of as conceptual analysis in a broad sense has often presumed answers to what are in fact empirical questions. Noel Carroll says that",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2719,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " The supposition that aesthetic properties are objective also explains better how we talk about them than does the projection theory. …people involved in disputes about aesthetic properties … speak as if one side of the disagreement is right and the other wrong. (Carroll 1999: 117)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2720,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Studies in the new field of “experimental philosophy” (for some overviews of this field, as applied to aesthetics, see Cova &amp; Réhault 2018 and Torregrossa 2020) challenge this view. One study (Cova, Olivola, et al. 2019) gathered more than two thousand responses across 19 countries to an imagined disagreement about whether an object of aesthetic interest is beautiful. It found that in all populations the least popular view was that “someone is right and someone is wrong”. The study itself has come in for criticism (Zangwill 2018) but, regardless of its success, it highlights the general point that we should not assume without evidence that the philosopher’s understanding of folk concepts (or folk practice) matches that of the folk themselves: something that should be of concern to those, such as Dickie, who conceive of the work of aestheticians as largely involving the elucidation of folk concepts.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2721,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " The question discussed above and to which Carroll and the members of the Cova team give such different answers is a higher order question, concerning whether people think of aesthetic judgements as having normative force. We can ask similar questions about lower level judgements. Consider the claim that we shouldn’t form aesthetic judgements on the basis of testimony, a claim said to be supported by our supposed practice of refraining from forming such judgements (Kant 1790 [2000: 9]; Nguyen 2020: 1127). Contrary to this, Robson (2014) argues that this descriptive claim about our judgement forming practice is mistaken—something which would, if true, undermine one significant motivation for the normative claim.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2722,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " From an entirely different perspective, there are those who think that philosophers have very little role to play in answering key aesthetic questions and that we should seek to replace, rather than merely supplement, traditional philosophical methods with more scientific approaches. Exemplifying this tendency, Semir Zeki says",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2723,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " no theory of aesthetics that is not substantially based on the activity of the brain is ever likely to be complete, let alone profound,",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2724,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " going on to say that painting is an inquiry into the laws of the brain and that what pleases us is what pleases our brains (1999: 1–2). While attitudes such as this may not constitute a complete dismissal of philosophical aesthetics they show little awareness of its results, or understanding of the limitations of neurological studies. Facts about brain processes do not tell us—at least without some substantive and controversial bridging premises—what objects are art works, or what works have value (see Hyman 2010 for wide ranging criticism of this approach). The relations between empirical work and normative aesthetics will recur throughout this entry.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2725,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " A good deal of empirical work on the aesthetic, while not deriving from hostility to philosophical ideas, adopts a “bottom up” approach, focusing on the immediate reactions of untutored subjects to simple stimuli. We have seen that, by contrast, philosophical aesthetics is much concerned with normative issues of judgement and value, and with the claimed dependence of these things on training, knowledge and what is sometimes called “taste”, But these empirical studies are not philosophically irrelevant; we should not assume that the aesthetic responses of experts are discontinuous with those of naïve subjects (though for a discussion of the burden of proof here see Williamson 2011), nor that expert judgements are sensitive only to the factors that experts themselves endorse. It is important to ask whether there are baseline aesthetic responses, perhaps invariant across cultures, from which the great variety of aesthetic traditions emerge, and which may impose limits on those traditions and their products (for a defence of this “bottom up” approach to experiments in aesthetic see McManus 2011). Wölfflin, a founder of modern art history, had an interest in questions framed in this way: he claimed, for example, that there is a general tendency to prefer a rightward placement of a significant object within an image (1928). Subsequent research suggests a more complex picture, with preference dependent on physical and cultural factors: handedness, and whether one reads/writes left-to-right or right-to-left (see Palmer, Gardner, &amp; Wickens 2008 for references and discussion; Chahboun et al. 2017 found some limited support for the idea that placement preference depends on the subject’s direction of reading/writing). Other studies have shown robust preferences for certain colours (Palmer &amp; Schloss 2010), shapes, positioning of objects within a frame (Palmer, Gardner, &amp; Wickens 2008) and size (Linsen, Leyssen, Sammartino, &amp; Palmer 2011). These preferences often turn out to be ecologically driven; for example, people tend to like the colours of liked objects, with strong and culturally invariant liking of saturated blue and invariant hostility to colours associated with faeces and vomit. There are cultural variations; for example Japanese subjects appear to be unusual in their lack of enthusiasm for dark red (Palmer &amp; Schloss 2010). Some colour preferences are very culturally specific, as with the preferences of college students for colours associated with their schools (Schloss, Poggesi, &amp; Palmer 2011).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2726,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Studies such as these may be thought valuable in their capacity to explain persistent features of aesthetic artefact-making but are unlikely to provide more than a general background against which aesthetic preferences and judgements, debates and disagreements concerning particular artefacts are played out. Saturated blue will be the right colour in a certain context, while muddy brown will be right in another. We cannot say that the presence of saturated blue in a picture is in general a reason, even a pro tanto reason, for admiring it or preferring it to a picture without that colour. When it comes to aesthetic reasons and judgements rather than unreflective preferences—when, that is, we consider top-down effects—cognitive science so far offers little to help us. This may to some extent be due to the nature of human cognition itself. Aesthetic reasons, in so far as we have them at all, are highly resistant to formulation in general terms (Sibley 1959), and once we abandon the view that aesthetic qualities supervene on an object’s appearance narrowly described (colour, shape and size in the case of visual art), there is no obvious way to limit the factors that legitimately impact on such judgements. This suggests a domain where, roughly speaking, everything is relevant to everything: the isotropy that is crucial to Fodor’s (1983) scepticism about a cognitive science of thinking. One recent study does attempt a unification of top-down and bottom-up approaches. Bullot and Reber (2013) develop a “psycho-historical” process that begins with a perceptual confrontation with the work, and culminates in artistic understanding, mediated by the viewer’s adoption of the design stance which involves reconstructing the genealogy of the work. This approach encounters two difficulties. First is their assumption that progress between stages is able to be done largely by the extraction of information from the perceptual signal. In fact the work’s appearance is often ambiguous or misleading as to its history—as when a work is carefully constructed to look haphazard in its construction (Levinson 2013; Ross 2013). The model needs to recognise the importance of art-historical knowledge gained from such sources as lectures and text books, knowledge which will often precede and inform the first stage. The second objection concerns the role of presumed essentialist assumptions in people’s approach to art works. Bullot and Reber argue that the historical nature of appreciation is explained by our commitment to psychological essentialism which makes us look beyond a things appearance to investigate its essence (2013: 132). But an inclination to look beyond appearances need not depend on essentialism; it might be that the interest or value of a thing sometimes resides in its relational and contingent properties (Korsgaard 1983). Valuing a work on account of its history of making no more implies an essential connection between the work and its history than valuing an object because it was a gift from a loved one implies an essential connection between the object and the giver.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2727,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " As well as studies designed to elicit preferences, there are empirically motivated theories that purport to explain them. Among the earliest is Wundt’s (1874) suggestion that we judge a form pleasing to the extent that the eye finds it easy to follow the contour. Recent work generalises this thought: there is said to be a tendency for stimuli to be experienced positively when our perceptual or cognitive grasp on them comes easily (Reber, Schwarz, &amp; Winkielman 2004). This idea of processing fluency is not limited to the aesthetic domain; we generally find a proposition more believable, apparently, if it is expressed in rhyme or in an easy to read font and this is said to be because these things increase fluency (Reber &amp; Schwarz 1999; McGlone &amp; Tofighbakhsh 2000). So aesthetic and fluent phenomena are not coextensive, and no reduction of the one to the other is possible. The most that can be said (and this is not insignificant) is that certain kinds of fluency underpin experiences of aesthetic pleasure and displeasure, symmetry offering a plausible example; for comments on the significance of such research into underlying mechanisms see  Section 4  below.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2728,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " One concern about an approach to the aesthetic by way of fluency is that fluency apparently encourages a less careful examination of the stimulus (Song &amp; Schwarz 2008), a suggestion at odds with the aesthetic ideal of a finely discriminating attitude to art. Another is that fluency-based likings for stimuli seem to have very limited application in aesthetics beyond the domain of simple shape preferences. Pictures which are visually complex are often widely admired and not merely by the art-world elite (see for example Frith’s busy genre paintings). It is said that the pleasure derived from fluency is relative to expectation: pleasure taken in a Bach fugue depends on it being more fluent than one expects (Reber 2012: 228, citing Hansen, Dechêne, &amp; Wänke 2008). But why must lovers of Bach have unrealistic expectations about the fluency of his music? Finally (a theme we will return to) citing fluency would not be a reason for admiring the picture or fugue in question; this approach seems to focus on pleasure and leave notions of reason and judgement out of account. (For criticism of the fluency program in aesthetics see Cochrane 2021a, Section 2.3.)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2729,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Another aspect of fluency is said to be the mere exposure effect: our tendency to find a statement more believable if we have heard it often, repeated hearings leading to progressively more fluent processing (Begg, Anas, &amp; Farinacci 1992). Cutting (2003) investigated an aesthetic variant of the idea: liking for a picture is increased by repeated exposure to it. This, it is suggested, may explain the stability of the artistic canon: works canonical at t are more available to be seen, and the mere exposure effect raises the likelihood of their being canonical at t + 1. Cutting does not claim that exposure is the only factor contributing to aesthetic judgement, so accepting this view does not make one an error theorist about aesthetic value. It does, however suggest that the critical robustness of canonical judgements has been overestimated, since one’s exposure to a picture is not a reason for thinking it good. However, Meskin, Phelan, and colleagues (2013) compared the effect of mere exposure to (what critics have widely judged to be) good and bad art, finding that there was increased liking for good art but decreased liking for bad art, the implication being that increased exposure makes observers more aware of the objective qualities of the work (see also Delplanque et al. 2015). In that case significant exposure to a work, while not a reason why it is good or bad, is a reason why one’s judgement of it is reliable and so may be said to belong to the space of aesthetic reasons. Cutting (2017), while offering some methodological reservations, expresses broad agreement with the Meskin et al. study.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2730,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Recently the link between aesthetic effects and pervasive features of perception and cognition has been highlighted again by the theory of predictive processing: the idea that the fundamental activity of the brain is to make predictions and test and revise them against incoming information from the senses, the goal being the reduction in predictive errors or what is also called reduction in uncertainty (for a survey of philosophical applications of this idea see Hohwy . It is suggested that positive affect is the product of such reductions, while negative affect results when uncertainty is increased. Works of art are said to provide the brain with exercises, sometimes challenging ones, in error reduction (van de Cruys &amp; Wagemans 2011). But why should we seek more exercises in prediction error reduction than the many that the world throws at us continually? What is to say that the eventual reduction in error outweighs the initial increase posed by a work of art?",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2731,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " We see, then, that there are a number of suggestions for how empirical work may shed light on our aesthetic preferences and their aetiology, while doubts remain about the capacity of this work to illuminate the normative structure of aesthetic judgement, which is said to be reason-focused and involve Kantian features such as disinterestedness (though see Meskin, Phelan, et al. 2013: 140–1). A second and familiar objection is the Wittgensteinian thought that merely explaining the origins of a phenomenon doesn’t give us the kind of explanation which philosophers are concerned with (Vrahimis 2020). However, the idea of reasons in aesthetics itself deserves critical interrogation, given the evidence that the reasons people give seem often to be confabulations and that focusing on reasons while making a judgement can make you a worse judge rather than a better one (see Irvin 2014 and Lopes 2014, mentioned above,  Section 1).  Nor is the problem here confined to the aesthetic domain: Hugo Mercier and Dan Sperber (2017) argue that, quite generally, reasoning works well as an instrument of public debate but poorly as a guide to personal judgement and decision.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2732,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " German aesthetics of the late nineteenth century was particularly focused on explaining human attraction to form in picturing, sculpture and building. Not always easy to interpret in detail, the broader themes of this work include the ways that our bodily and ecological situation determine the aesthetic preferences we have for such things as symmetry (Wölfflin 1886), how architectural form is appreciated in terms of its capacity to facilitate movement through space (Schmarsow 1894, and how a sense of beauty arises from our projecting the feelings provoked by an external object into that object (Lipps 1903, see Currie 2011 for discussion). After a long period of neglect, these and related topics have reappeared under the banner “embodied cognition.” Freedberg and Gallese (2007) have drawn attention to the ways our bodies tend to reproduce the posture of a statue, to produce implicit or simulated movements that mirror those that seems to have produced a brush stroke or chisel mark, to resonate sympathetically with the pain of a represented figure. These, they say, are intrinsic aspects of aesthetic experience neglected by theorists who emphasise an intellectualist approach to art. They also claim that evidence for these effects based on introspective reports can now be supplemented by an empirically verified theory of brain processing that appeals to mirror and canonical neurons. Critics have alleged that this approach neglects the aesthetic impact of top-down factors (Kesner &amp; Horáček 2017) and that motor responses are absent in many encounters with art (Casati &amp; Pignocchi 2007: 410). Arguably though, Freedberg and Gallese seek only to identify an aesthetic factor of some significance and need not claim either exclusiveness or universality for it. Formalists in art might object even to this restricted claim, arguing that what Freedberg and Gallese have identified are obstructions to the sort of “purely optical” attention to pictures that Greenberg (1960) advocated (on which see Steinberg 1965; Currie 2007). But here again aesthetic prescription cannot afford to ignore empirical work: standards of aesthetic attention that no one has ever lived up to are not to be taken seriously.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2733,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Attempting to illuminate aesthetic phenomena by appeal to mirror neurons and other neurological processes is now so common that we have a substantial genre of neuroaesthetic writings (see Chatterjee 2013 for the field’s growth over 30 years). What remains controversial, though, is the significance (if any) this research into brain structures and processes has for aesthetics. We have already seen that—despite the bold claims sometimes made by neuro-aestheticians—some critics are inclined to dismiss this kind of work as irrelevant to evaluating the kinds of claim which aestheticians are concerned with. Gallese and Freedberg, responding to critics, say that",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2734,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " no esthetic judgment is possible without […] mirroring mechanisms in the forms of simulated embodiment and empathetic engagement that follow upon visual observation. (2007: 411)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2735,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " But to understand the aesthetic significance of facts about such mechanisms we need to distinguish between two claims:",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2736,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " The evidential claim is more plausible than the constitutive claim. Consider first the evidential relevance of cognitive and neurological mechanisms for aesthetics. We have just now referred to a dispute about how much of our experience of visual art depends on a work’s tendency to encourage bodily empathy with what is depicted. While people sometimes report experiences of these kinds it may be that they vary in accessibility, with some unnoticed without high levels of attention, though still making a contribution to our overall liking for/valuing of the work. Studies of brain activity across a range of artistic stimuli might suggest that these empathic responses are very common indeed—or that they are relatively unusual—because (let us suppose) empathy has an identifiable neurological signature. Such studies would be useful as evidence for the claim that something needs to be factored in to an account of aesthetic experience. But the relevant something would be the empathic response, not the brain process (See Carroll, Moore, &amp; Seeley 2012: 54 where studies of this kind are described as “data” for aesthetic theories).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2737,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " The difference between aesthetic effects and the mechanisms that realise them is an important one. Take the shimmering quality we find in impressionist art. It is said that this depends on the fact that the visual system involves two separate processing streams and that certain colour combinations are processed exclusively by one of them (Livingstone 2002). Should this fact, if it is one, be regarded as an aesthetic fact? Arguably no. What matters aesthetically is the experienced shimmering quality; a world in which just that shimmering quality was produced by some other mechanism of perceptual processing would not be aesthetically different from our world, at least in this respect. The same applies to scientific studies of the stimuli themselves; chemical analysis of an ancient pigment might show that it was a hard medium to work in, and that would be relevant to understanding the works of art produced by its means. But what matters is the difficulty of the medium; discovering its chemical formula simply provides evidence for that.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2738,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " A Kant-inspired view of long standing is that aesthetics is concerned not with how things are but with how they appear (e.g., Urmson 1957), a view sometimes called aesthetic empiricism (Currie 1989) On this view aesthetics takes no cognisance of authenticity, which depends on history and not on appearance; a fake Vermeer does not become authentic by being visually indistinguishable from a genuine one. Is an object’s history really aesthetically irrelevant? Those with an interest in art, craft and the design of artefacts generally are much concerned with the object’s history, and there are arguments to support the view that the application of at least some aesthetic properties depends on assumptions about that history. Consider two such attributions from Sibley’s (1959) extensive list of aesthetic properties: being delicate and being dynamic. A line that is seen as delicate when thought to be drawn by hand may not seem so when revealed as the product of a machine, and Walton (1970) argued that, of two works which are visually indistinguishable, one may be fairly described as dynamic and the other not, depending on differences in their category membership (for defences of aesthetic empiricism concerning visual art see Zanwill and, on music, Dodd; for the aesthetic relevance of genuineness or authenticity see Korsmeyer 2019). The suggestion of at least the first of these examples (being delicate) is that the aesthetic properties of a thing, and the aesthetic values that possession of these properties entails, depend on the kind of achievement that the fashioning of the work represents. What may be a considerable achievement for one person at one time may be a greater, lesser or at least a different achievement for someone else, working with different materials or in a distinct artistic culture (Dutton 1979; Currie 1989; Huddleston 2012; Levinson 2016); James Grant (2020) suggests that we do better to think in terms of a work’s capacity to exhibit the skills of its maker rathen than in terms of its constituting an achievement of the maker (see also Currie 2018).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2739,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Both formulations imply a close connection between valuing the work and valuing the maker, helping thereby to explain how an interest in the authenticity of a work can belong to the space of aesthetic reasons. It also suggests a connection with our desire to preserve and possess otherwise unremarkable objects because of their relation to some person or event that interests us (JFK’s sweater). Some psychologists have thought to bring art works and other valued artefacts together under the heading of contagion, the idea that",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2740,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " a person’s immaterial qualities or ‘essence’ can be transferred to an object through physical contact; (Newman, Diesendruck, &amp; Bloom 2011)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2741,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " an idea that goes back to early anthropological work by Frazer (1890 [1994]) and others. As the examples just given indicate, the idea that a person’s essence is transferable to an object does not depend on the object’s aesthetic merits, and this severely limits the usefulness of this idea in explaining the role of authenticity in the arts (see, however, Korsmeyer 2019 where it is argued that genuineness is itself an aesthetic property). Bloom and colleagues stress the role of physical contact in the contagion process: “An original Picasso may be valuable because Picasso actually touched it” (Newman &amp; Bloom 2012: 3). But Picasso may have got no closer than a brush length from Guernica, a picture likely to command higher art-world respect (and higher prices) than a restaurant napkin sketch he then wiped his hands on. However, a more general and perhaps rather vague sense of “closeness” to the artist and their act of making does seem to be explanatory of some art-world practices, such as a preference for lower numbered (and hence earlier) prints even where there is no decline in quality across later ones (Smith, Newman, &amp; Dhar 2016).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2742,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Bloom and colleagues offer another explanation for our interest in authentic items, this one closer in spirit to the suggestion above that aesthetic judgements are sensitive to achievement or the manifestation of ability:",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2743,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " [A]n original is different from a forgery because it is the end point of a different sort of performance . The original is a creative work while the forgery is not. (Newman &amp; Bloom 2012: 559)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2744,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Guernica, very likely, is a more creative work than the napkin sketch and plausibly valued more for that reason. A question which arises is this: how do people make judgements of the quality of, say, a painting, if not solely on the basis of how it looks? For a few highly trained experts the answer may be: through deep immersion in the cultural and artistic context of the work. The rest of us, where we make a judgement at all, may be dependent on short cuts such as the “effort heuristic”, which treats evidence of effort as evidence of quality. In an experiment, people asked to judge the relative merits of pictures A and B tended to judge A as better than B when told A took longer to paint, while the group who were told that B took longer preferred B. This effect was found equally among experts and among laypersons, though the experts were “self-described” (Kruger et al. 2004).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2745,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Wollheim (1980) said that what is distinctive about pictorial representation is its capacity to generate a certain kind of experience: the experience of “seeing the subject in the picture”. For many this has seemed to capture something deeply important about the nature of depictive representation, though Wollheim’s specific claims about it are disputed. What exactly is seeing-in? One subsequent suggestion has been that we see something, X, in a picture when we experience a resemblance between the outline shape visible in the picture and the outline shape that would be presented from that same perspective by X (Hopkins 1998; for a related proposal see Peacocke 1987). Another proposal is that we see X in a picture when we are prompted by it to imagine, of our act of seeing the picture, that it is a seeing of X (Walton 1992). Is cognitive science able to help us adjudicate between rival theories in this area? It does look as if these ostensibly philosophical theories are committing themselves, if somewhat vaguely, on empirical issues. Surely, we cannot settle from the armchair whether the perception of pictures draws on imaginative capacities. Scientists have gone a long way towards locating areas of the brain implicated in certain kinds of functions, emotion and the forms of perception being good examples. But we are not similarly able to localise imaginative activity and there may be an in-principle barrier to our doing so; there is some reason to suppose that there are not dedicated mechanisms of imaginative activity, but that imagining involves the reuse of systems designed for other purposes. This issue has been a central contention in the debate over how we understand the minds of other people, a debate originally drawn in terms of two opposing outlooks, theory-theory and simulation theory, though other approaches have come into view (Gallagher &amp; Hutto 2008). Theory-theory attributes to us a (perhaps tacit) theory of the mental states of others, their connection to action and so forth, from which we derive predictions and explanations of behaviour (Fodor 1992; Carruthers 1996). Simulationism, by contrast, argues that we have a capacity to use our own mental systems of inferring and deciding to model or simulate the thoughts and decisions of others (Gordon 1986). While Heal has emphasised what she takes to be the a priori principle that when we examine the thinking of another person we have to reproduce in our own minds the contents of and the logical relations between the propositions thought (1986), others have developed an empirically oriented version, postulating causal mechanisms by which practical and theoretical reasoning can be taken “off-line”, or disconnected from experiential inputs and behavioural outputs (A. I. Goldman 1989). It has been suggested that the simulation approach, understood largely in this empirically oriented way, enables us to explain a good deal about our interest in and responses to fiction (Currie &amp; Ravenscroft 2002). Questions about causally effective mental architecture have played a role in other aesthetic debates such as the explanation of our capacity to become immersed in a narrative (Schellenberg 2013) and of the contrary tendency to “resist” imaginative involvement with stories we perceive as morally or in other ways problematic (Weinberg &amp; Meskin 2006; Miyazono &amp; Liao 2016).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2746,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " While some of these ideas come with a detailed “boxology” that describes the cognitive implementation of the proposal, they are generally the product of work at the more philosophical and speculative end of inquiry into the architecture of mind where evidence is at best very indirect. An exception is the suggestion that there is empirical confirmation for Wollheim’s (1998) notion of twofoldness in picture perception, according to which spectators are simultaneously aware of both the surface qualities of the picture and the depicted content. In particular, it has been argued that",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2747,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " the twofold experience of pictures Wollheim talks about corresponds to the dichotomy between our dorsal visual processing of the surface of the picture and our ventral visual processing of the depicted scene. (Nanay 2011: 464)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2748,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Support for this idea comes from evidence that people with damage to their ventral processing often have difficulty deciphering the content of a picture without corresponding difficulty in perceiving the ordinary properties of the surface of the picture (Turnbull, Driver, &amp; McCarthy 2004). This illustrates another way that the investigation of mechanisms may further aesthetic inquiry. An aesthetic phenomenon—in this case twofoldness—is postulated and the question arises as to whether there is a plausible story about how this is implemented. If no such story were available, doubt would be thrown on the claim.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2749,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " A good deal of aesthetic thinking has been taken up with arguing about the limits to its capacity to appeal to the emotions. Two issues are particularly notable, one descriptive and the other, in part, normative. What, first of all, are the facts about our (apparently) emotional responses to fictions? Do we really admire, despise or pity people we know do not exist? This sounds like an empirical question, perhaps one to be resolved by studies of the brains of people engaged by fictional work. But the prospects for this approach are poor, and not only because of practical difficulties in data gathering (see Cova &amp; Teroni 2016). Those who deny that we pity Anna Karenina do no deny that readers may display all the physiological signs that go with that emotion. What they claim is that genuine fear has a cognitive component lacking in this case: belief in the object of one’s fear. Suppose we could show empirically that readers of Tolstoy do experience all the pity-relevant physiological states while failing to believe in the existence of Anna Karenina, having instead cognitive states such as “imagining that Anna exists”. The philosophical problem would remain: are people with that psychological profile genuinely in a state of pitying, or is their state merely one of what Walton (1978) calls “quasi-pity”, which involves the typical physiological and psychological reactions of pity but which falls short of being full-fledged pity because it does not go with belief in its objects, or with the typical corresponding dispositions to action? We might at this point wonder whether what looked like a substantive question about fear and pity has been shown to be merely one about labelling. However, there are empirical considerations that bear indirectly on the issue. Gendler and Kovackovick suggest that plausible assumptions about the evolutionary proper function of the emotions tells against the idea that fear requires belief. It is likely on Darwinian grounds that our emotions were shaped not merely by their capacity to have us avoid present dangers, but also to have us avoid merely possible ones. Imagining a dangerous creature lurking in the forest may be enough to send me by a safer route, raising my chances of surviving and passing on my genes. If imagined dangers are part of the reason fear has been selected for and retained why insist that responses to the imagined creatures and events of fiction are, as Walton (1978) claims, merely quasi-fears? For other connections between aesthetics and evolutionary thinking see below,  Section 9.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2750,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " A similar problem arises when we consider our responses to music. We sometimes talk of sad music making us sad, though the music does not provide us with any reason for thinking that something sad has happened (sad music sometimes reminds us of a sad event, but this is not a general feature of cases where sad music affects us). Here appeal to the imagination seems less helpful; unlike fictional narratives, emotionally affecting music does not usually provide us with the materials for imagining some sad event. Kivy has argued that sadness on the part of those who listen to sad music is, where it occurs, irrelevant to musical appreciation and will indeed not occur in episodes of listening which instantiate his preferred model of musical listening, one which requires exclusive attention to the structural, phenomenological, and expressive properties of the music (1990: ch. 8). Kivy does not deny however that musical listening can and indeed should be a deeply emotional experience; we may be overwhelmed by the compositional and performance qualities the work represents. Some attempt has been made to challenge Kivy on empirical grounds by presenting evidence that music does reliable engender the emotions or moods it expresses (Sizer 2007). But Kivy denied this possibility only for the case of canonical music listening, and says that there is no reason to think that subjects in the relevant experiments were listening in that canonical way (2007). Certainly it would not be easy to control experimental conditions so as to rule-out listening which is non-canonical in Kivy’s sense (see also Kivy 2006; Carroll 2003; Carroll &amp; Moore 2007). However, if experimental tests do consistently provide evidence of emotion-generation concordant with the emotions expressed by the music, it will not do simply to say that we have not yet tested the right listeners. The friend of Kivy will have to find robust instances of the sort of listening he approves of, and not depend merely on the personal testimony of those who favour his theory. We take it, after all, that Kivy’s ideal mode of listening is presented as a practically achievable goal. Zangwill 2004 represents a formalism that is less willing to accommodate the emotions; for a more limited defence of the formalist position see Cochrane 2021b.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2751,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Another aesthetically important question about the emotions is this: why are we attracted to representations and other devices that generate negative emotions such as sorrow and fear? It is not a satisfactory answer to this question to make the suggestion referred to above that we do not really fear Dracula and other creatures of fiction but merely quasi-fear them, because fear and quasi-fear are supposed to be qualitatively the same, so if fear is unpleasant quasi-fear is also. The question can be asked about both narrative works and about music; recall that even Kivy grants that (non-canonical) musical listening may generate sadness. However, fiction has been the greater part of this discussion, and will be here also. On this issue philosophers have tended to take one of three positions (but see Smuts 2009 for a wider range of options):",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2752,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Neutrality is a general claim about the emotions and relevant here as one way to argue in favour of conversion. But a conversion theorists need not be committed to Neutrality. We focus here on the contrast between Compensation and Conversion. Compensation, unlike Conversion, appeals to a type of psychological process that is hardly controversial; we accept many kinds of unpleasant experiences because avoiding them will have even less desirable consequences. Conversion sounds more problematic: how can an emotion “flip” its hedonic value and still be the same emotion? Psychologists interested in negative emotions in art have cited research which purports to reveal hedonic flip for pain: subjects who expected an intense pain but experienced only a moderately painful stimulus described the experience as “pleasant”, while subjects expecting nonpainful warmth described the same stimulus as unpleasant (Leknes et al. 2013). This doesn’t by itself show that the same thing can happen in the case of tragedy or horror, but it suggests that the conversion claim is less outlandish than it might initially seem.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2753,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " While compensation may appeal to a familiar kind of trade off, it needs to tell us what specific compensatory benefits are to be had from the negative emotions provoked by art. Philosophers have long cited epistemic benefits: the distressing events of tragedy are a source of moral and psychological learning, sometimes about ourselves (Collingwood 1938; Schier 1983). Empirical scientists have added to the list: painful emotions generate strong pro-social feelings that help to unite us with both characters and authors (Bastian, Pe, &amp; Kuppens 2017; Egloff 2017).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2754,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " While philosophers have long offered theories to resolve this “paradox of tragedy,” only one substantial study of it claims to be grounded in empirical research. Menninghaus and colleagues propose what they call the “the Distancing-Embracing model” (Menninghaus, Wagner, Hanich, et al. 2017) according to which an aesthetic context, as with watching a play or film, distances us from the situation represented and allows the positive effects of tragic emotions, notably their capacity to focus attention, to sustain them. While a large and relevant body of empirical work is called on in support of the idea, its theoretical commitments are unclear. In some of their formulations the function of distancing seems to be the reduction in unpleasantness of negative emotions to the point where they are “not inevitably incompatible with art-specific expectations of hedonic reward” (2017: 6); this leaves them open to the charge made against compensation theories that the work’s being apt to generate negative emotions seems to be a major factor in attracting people to the work, rather than something negative we can be persuaded to live with. In other formulations they speak of the factors “involved in making negative emotions enjoyable” (2017: 3), which suggests the conversion theory. Yet they claim that their theory is a version of neither of these approaches (2017: 15; see S. Davies 1997). (For more on the relationship between fiction and emotion see the supplement to Liao &amp; Gendler 2018 [2020]). See below,  Section 7  for further remarks on fiction and emotion.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2755,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " To conclude the discussion of fiction, we note another direct appeal to work at the empirical level. Derek Matravers (2014) argues that it has been a mistake of recent theorising about fiction to appeal to the imagination. Matravers claims that work on mental models does a good job of explaining our processing and comprehension of, and responses to, both fictional and nonfictional narratives without any need to distinguish fictional cases by their connection with the imagination.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2756,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Through the latter part of the twentieth century, theoretical and interpretive studies of literature have been somewhat hostile to both cognitive and aesthetic inquiry, often thought of as irrelevant to serious interpretive work and a distraction from favoured political agendas. Cognitive studies of literature have developed somewhat in the last twenty years but remain a minority enterprise (Hartner 2017). One question of long standing that has concerned scholars in psychology, literary studies and aesthetics is the idea that we learn from literature about the world beyond the text, an idea treated with some suspicion by those influenced by deconstructive or post-modern theorising, who argue that such ambitions depend on failing to realise that characters of fiction are not, and are not like, real people (Cixous 1974). Others argue that such cognitive benefits, if they exist, are not aesthetically relevant (Lamarque &amp; Olsen 1994: ch. 17; for criticism see Gaut 2007: ch. 7; Currie 2020: §9.6). There is, however, a strong tendency to suppose that the artistic merit of, say, a Shakespearean drama depends in part on our sense that it is revelatory of deep insights into the human condition. Similar claims are made for other arts; contemplating van Gogh’s lithograph Sorrow Kendall Walton notes responding imaginatively to the woman in ways that “gain for me an understanding of what a particular sorrow is like” (2008: 78).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2757,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Recently efforts have been made to test the idea that literature does, on occasion, provide cognitive benefits. It has been claimed that exposure to fiction—even single episodes of reading—measurably improves empathy and theory of mind (Kidd &amp; Castano 2013); the effects, if real, seem to be small and the claimed results have been hard to replicate (Panero et al. 2016; Kidd &amp; Castano 2019). Other work in this growing field also does not point in a single direction. Some studies suggest that fiction has a capacity to improve aspects of social cognition (Calarco et al. 2017; Mar 2018a,b) while others find no such effect (e.g., Wimmer et al. 2021a, b; see Currie 2020; chs 9–11 for general discussion). Humanistic scholars who claim educative effects for fiction may respond that these effects are slow and cumulative, and unlikely to be visible in studies of single episodes of reading; testing such claims will be difficult. But their claims are, nonetheless, empirical.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2758,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Among other examples of the cognitive study of literature are investigations of emotional responses. While aestheticians have tended to focus on the apparently “paradoxical” aspects of our emotional responses to fictions (for example why we are emotionally affected by the non-existent, see above  Section 7),  researchers in the cognitive sciences has begun a broader attempt to understand the role of emotions of all kinds in generating and maintaining interest in narrative and poetry (Menninghaus, Wagner, Wassiliwizky, et al. 2017); Jenefer Robinson’s (2005) is an example of work from within aesthetics that takes up this broader ambition while being strongly informed by empirical work. More recently, Kukkonen (2020) attempts an alignment between the expectations of a reader sometimes surprised by plot development and the predictive processing approach to perception and cognition (see above  Section 3).  It is an open question whether the predictive processing account sheds aesthetically relevant light on the reader’s experience rather than simply providing an account of the mechanisms involved (see above  Section 4).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2759,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " A striking example of an area long thought of as resistant to theory from outside the domain of art and the aesthetic is that of literary language. Insight into the kind of language we think of as distinctive of poetry, drama and the novel has traditionally been sought from those whose expertise is literature itself rather than from those developing general theories of communication, a view endorsed by Peter Lamarque, who regards the idea that there is value in seeing literary works as akin to quotidian genres of utterance such as letter-writing or political speech making as “utterly misconceived” (Lamarque 2007: 34). But advocates of relevance theory, a naturalistically inclined development of Gricean pragmatics, reject the idea that there is anything fundamentally special or autonomous about literary language, claiming that",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2760,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " stylistic and poetic effects traditionally associated with figurative utterances arise naturally in the pursuit of relevance, and call for no special treatment not required for the interpretation of ordinary literal utterances. (D. Wilson 2018: 191)",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2761,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " (for work that seeks empirical confirmation for relevance theory see, e.g., Happe 1993; Sperber &amp; Wilson 2002; van der Henst, Carles, &amp; Sperber 2002; Noveck &amp; Posada 2003; and van der Henst &amp; Sperber 2004).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2762,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " One ambition of relevance theory is to encourage us to see “poetic uses” of language, where an idea is very indirectly suggested by the words used, as less marginal than we would if we thought of the paradigm of communication as the case where an agent utters a sentence that means exactly what the speaker wishes to communicate. Relevance theorists say that such cases of literal meaning are rare or non-existent and do not constitute any kind of communicative ideal. They point to the widespread phenomenon of “weak implicature”: audiences draw a range of conclusions from an utterance, some of them obviously intended but others harder to identify as intended (Sperber &amp; Wilson 1995: 197–9). On this view the totality of what is meant, even in mundane cases, is never more than vaguely specifiable and would, if we bothered to investigate, be subject to the same unresolvable disputes as we find in poetic criticism. It need not be concluded that poetic discourse is entirely of a piece with over-the-garden-wall conversation; the relevance theorist’s point is that the differences are ones of degree and not of kind.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2763,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Theories of human evolution over the last two million years are severely limited by the very incomplete fossil record and the fact that soft tissue disappears quickly. Given these constraints it is surprising the extent to which cognitive theorising has reached into the very distant past, though its claims are agreed on all hands to be highly provisional. A vital resource has been the study of stone artefacts going back two million years or more, artefacts which preserve very well and which are available in great quantities. We are able to reconstruct a good deal about the methods of their construction and to speculate in a reasonably informed way on the cognitive capacities they require. Based on these speculations innovations in stone tool manufacture have been linked to the development of language (Higuchi et. al. 2009).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2764,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Any topic on which aesthetic and evolutionary methods converge is likely to be approached with two questions in mind.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2765,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " It might be thought that the second question arises only if one answers the first in a way that gives an important explanatory role to biology. But culturally determined “phenotypes” can also be adaptive, maladaptive or neutral. Cooking, certainly a cultural innovation, is highly adaptive and has led to significant change in gut size and perhaps in brain size as well (Godfrey-Smith 2013; for scepticism concerning the relation to brain size see Cornélio et al. 2016). Human biological and cultural evolution are closely connected.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2766,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " On the question whether there is a role for biological explanation when it comes to human aesthetic activity, there is a constituency of scholars hostile to this idea; they argue that “art” and “aesthetic” are notions of recent and essentially western invention, the application of which to other and older cultures is mistaken (Gell 1998: 97). Opponents of this view readily grant the huge cultural variability of aesthetic activity. They argue that there are enough commonalities between the ways very different cultures invest in the shaping and decoration of objects, in music, dance and in story-telling to make it plausible that biology provides both the initial impetus to and a set of constraints on these activities (Dutton 2009; Currie 2012). If we thought, as we once did, that these activities could be traced no further back than the cave depictions of the European Upper Paleolithic it would be likely that the aesthetic is too late-emerging to have a biological basis. Very recent discoveries have now suggested a somewhat earlier origin; depictions in Indonesia have been given dates prior to 45,000 years ago (Brumm et al. 2021). More dramatically, though, the temporal depth of aesthetic activity is vastly increased if we turn our attention to the stone tools mentioned above, many of which show a notable symmetry of construction. Hand axes from the Acheulean industry which arose about 1.7 million years ago are sometimes too large, small or sharply pointed to be practical implements and strongly suggest an interest in the display of skilful making that we commonly recognise in, say, the art of the European renaissance (see Currie &amp; Zhu 2021 and Gowlett 2021, both of which in different ways emphasise the importance of seeing aesthetic practices emerging in a social context). Some have seen these elaborated instruments as products of sexual selection, as peacock’s tails are said to be: reliable indicators of the maker’s qualities as a mate (Kohn &amp; Mithen 1999). Another view has it that they were indicators of trustworthiness, and hence of one’s value as a co-operator (Spikins 2012); for criticism of both views see Hiscock 2014.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2767,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Hand axes are unlike a peacock’s tail in being detached from the body and so may be passed from one person to another—one reason to doubt their reliability as signals of any particular agent’s suitability as a mate. Where symmetry of the body itself is at issue that objection does not apply, and bodily and especially facial symmetry has been offered as an example of something evolution has tuned our sensibilities to because it is an indicator of health in a reproductive partner. However, robust evidence has been hard to find. One recent study did “not support the idea that facial symmetry acts as a reliable cue to physiological health” (Pound et al. 2014; see also Kalick et al. 1998), another that there is “little evidence that female appearance predicted health” (Foo et al. 2017; this study did support a connection between male facial appearance and fertility). For ethical arguments, supported by empirical findings, that we should rethink our standard approach to the aesthetics of human appearances, see Irvin 2017.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2768,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " It should be noted that even a very early dating of the emergence of aesthetic interests does not establish that they have a biological origin; the Acheulean period seems to have been marked by high levels of planning and organisation that suggest strong social relations (Hiscock 2014). In this sense aesthetic activity may be a culturally derived “technology”, as writing is, rather than an adaptation, as language may be (S. Davies 2012: ch. 10). Could we account, on that hypothesis, for the seeming ease with which young children take to forms of aesthetic activity such as drawing and singing? By contrast, learning to write is effortful and requires great investment in pedagogy. Recent work (Heyes 2021) seeks to reshape our assumptions about what is learned, arguing that such an early and reliably developing ability as interpersonal understanding is really a socially acquired “gadget” (Heyes &amp; Frith 2014). To add to a complex menu of options we also note that what begins as a gadget or technology might, under certain circumstances fall under complete or partial genetic control. This so-called “Baldwin effect”, once despised in evolutionary thinking, has attracted interest more recently (Weber &amp; Depew 2003). It proposes a mechanism by which acquired characteristics can become biologically heritable, without giving any ground to the Lamarkian idea that changes that accrue in an organism’s lifetime can be passed directly to the next generation. For example, if advantages flow from learning a skill, there may be selective pressure to ease the burden and uncertainty of learning by making the skill, or some of its components, innate (Papineau 2005). Given the multiply crossing paths between cultural and biological evolution there is little definite to be said about the origins of aesthetic interests other than that we see evidence for it in human populations more than half a million years ago.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2769,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " We turn now to our second question: Is art-making an adaptation or a non-adaptive consequence of developments which may themselves have adaptive advantages? Or something else entirely? Strong and contrary views have been expressed on this question; some have argued that the development of depiction, story-telling and music have been crucial for social bonding (Dissanayake 1992, 2000, 2017) or mate-choice (Miller 2000; Dutton 2009; for criticism see, e.g., C. Wilson 2016), others say that the creation of aesthetic artefacts offers no adaptive advantage but that they gained their hold on us because they provide rewards to sensory and other mechanisms in the mind that arose for quite other purposes (Pinker 1997). From a somewhat different perspective it is suggested that we do best by seeing human aesthetic activity as simply the continuation of ubiquitous practices of signalling and manipulation in the world of plants and animals. An interesting feature of this idea is that it replaces the traditional distinction between the aesthetics of artefacts and the aesthetics of nature with a distinction between, on the one hand artefacts and natural entities such as animal calls and flower colouring, and on the other natural objects such as rocks, sunsets and the night sky which “do not coevolve with sensory evaluations of them” (Prum 2013: 821; see also De Tiège, Verpooten, &amp; Braeckman 2021). It is not clear whether we currently know enough to decide between the available alternatives (S. Davies 2012: ch. 12; for the case of fiction, Currie 2020; §7.4). But would deciding whether art-making is adaptive advance the cause of aesthetic inquiry? That is doubtful. The question whether art is an adaptation concerns whether the reason we have art now is that it contributed to the fitness of our species. That could be true without it also being true that art now enriches our lives in any of the ways commonly claimed—giving pleasure, educating our emotions, instructing us about morality. And it is possible that art does now have all those advantages while having been an evolutionary irrelevance. It is also true that even if art was not originally adaptive, it might have become adaptive (an “exaptation”) at some stage and might be adaptive now. Different answers may apply to different art forms. It is said that the novel is a particularly appropriate means by which to exercise our capacities for empathy and mind reading (Nussbaum 1990, 1995; Mar and Oatley 2008); perhaps these advantages did not appear until the eighteenth or nineteenth centuries. While questions about art posed in evolutionary terms are certainly of scientific interest, what matters to the aesthetician is more likely to be the values that art currently and historically exemplifies and the ways those values are currently and historically responded to by us.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2770,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " We have referred rather briefly to the aesthetics of the natural and humanly constructed environment and we conclude with a brief selection of aesthetically and cognitively relevant work in this area. Much of this discussion continues the evolutionary theme. Note that some of this work relies for its evidence on people’s responses to pictures of environments rather than to the environments themselves, leaving it uncertain how much of the response is to the environment and how much to its representation.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2771,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " The empirical study of environmental preferences has long been of interest to planners, and largely represents the bottom-up mode of inquiry referred to above (see  Section 2),  as the aim is to discover what people in general like rather than to assess their likings against the normative constraints of connoisseurs and philosophers. Topics explored include the differences in preference across age groups, ethnicity, education and income (e.g., Kaplan &amp; Talbot 1988). One conclusion often drawn is that there is a widespread, perhaps universal, human preference for savanna landscapes, even among communities whose own historically stable habitat is very different, and that this preference is reflected in the design of parks and gardens (Falk &amp; Balling 2010). It is further asserted that this is the product of our evolutionary development in an East African context (E. O. Wilson 1975 is an early source of this idea); for detailed discussion, references, and some reservations see S. Davies 2012: ch. 6.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2772,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " The non-prescriptive nature of much empirical research into responses to the environment contrasts with a view influential in philosophical aesthetics according to which there are quite demanding cognitive requirements for a correct aesthetic appreciation of nature. The question mirrors one we have already discussed for the arts: what factors, other than the sensory appearance of an object, are relevant to enjoying, appreciating and judging it aesthetically? In the case of the arts we saw that one answer is to consider the work’s category—the (artistic) kind of thing it is (Walton 1970; see above  Section 5).  Allen Carlson (2000) extends this idea to the aesthetics of nature, arguing that a scene or object must be understood as belonging to a natural kind, and as having the causal history characteristic of that kind; that is the right way to perceive it and aesthetic judgements about it are correct only if they are tied to that category. This implies that much human aesthetic experience of nature has been radically incorrect, being uninformed by the relevant scientific facts and often infused with notions of supernatural creation. Some will find this an acceptable consequence; we are used to thinking that many long-standing human ethical judgements have been radically mistaken, and aesthetic judgements might go the same way. Others however, question whether the aesthetic delight one takes in, say, a bird in flight depends for its acceptability on understanding the natural history of the creature (Budd 2001).",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2773,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " A different and perhaps more accommodating approach to identifying what is distinctive in aesthetic appreciation of the environment connects an older way of thinking with recent work on cognition. The eighteenth century focused attention on notions of the sublime (notably Burke [1757], but in a line of thought from Longinus) and the picturesque (Gilpin 1782, with roots in the older concept of pittoresco). These, particularly the former, have generated controversies about their relations to beauty—are they subspecies of beauty or categories distinct from it?—and about their extensions—is it only nature that can be sublime? The question also arises as to whether terms like “the sublime” pick out a class of objects to which there is actually a common aesthetic response. This sounds like something on which we could get help from the cognitive sciences, and work by Keltner and Haight (2003), drawing on a range of empirical and reflective sources, has been particularly noticed. Their work was on the concept of awe rather than the sublime but they note obvious connections, given the thought that the sublime involves a response to things physically or conceptually vast. They suggest that awe involves the recognition of the apparent vastness of the object or scene attended to and the inability of the subject to assimilate it to their existing mental schemas. Other research suggests a strongly pan-cultural component in nonverbal expressions of this emotion (Keltner et al. 2019), and its association with a diminished sense of self (Piff et al. 2015; Tom Cochrane (2012) has argued that the sublime is characterised by a feeling of self-negation). It is suggested therefore that the experience of the sublime is an aesthetic form of awe wherein the object is attended to for its own sake (Clewis 2019; Arcangeli et al. 2020), an idea elaborated by Shapsay (2021) who suggests that the sublime sometimes takes a cognitively elaborated form involving reflection of the challenge posed to existing schemata by the scene or object one confronts.",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2774,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " aesthetics: British, in the 18th century |  authenticity |  cognitive science |  emotion |  empathy |  imagination |  linguistics: philosophy of |  neuroscience, philosophy of |  perception: the contents of ",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2775,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": " Copyright © 2022 by   Jon Robson &lt;jonvrobson@gmail.com&gt; Gregory Currie &lt;gregory.currie@york.ac.uk&gt;     ",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2776,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": "View this site from another server:",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2777,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2778,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-cogsci/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "aesthetics-cogsci"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2779,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " R. G. Collingwood (1889–1943) was primarily a philosopher of history, a metaphysican and archaeologist, and considered his work in aesthetics—the principal work being his The Principles of Art (1938)—as secondary (for more about his general philosophy, see the entry on  Robin George Collingwood).  But the work in aesthetics has enjoyed a persistent readership that continues into the present. In the years after WWII he was probably the most widely read and influential aesthetician to have written in English since Addison, Hutcheson and Hume (not counting Ruskin as an aesthetician), and to this day continues to make his way into anthologies as a principal proponent of the expressive theory of art. In the field of the philosophy of history, Collingwood famously held the doctrine of ‘Re-enactment’: since the subject is human beings in action, the historian cannot achieve understanding by describing what happened from an external point of view, but must elicit in the reader’s own mind the thoughts that were taking place in the principal actors involved in historical events. Similarly, the aesthetic procedure is one whereby the artist and spectator jointly come to realize, to come to know, certain mental states (see Guyer 2018). Art is fundamentally expression. Collingwood saw two main obstacles to general understanding and acceptance of this: First, the word ‘art’ has surreptitiously acquired multiple meanings among ordinary folk which should be disentangled; second, a philosophical theory of the phenomenon of expression is needed to show that it is an essential part of the life of the mind, not just a special activity that poets go in for. (Collingwood actually published an earlier theory of art in Outlines of a Philosophy of Art, but came to regard that theory as mistaken, superseded by the one in Principles of Art; what follows, and all references, concern the latter only).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2780,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " There are four concepts of human activity which are commonly called ‘art’, but which according to Collingwood, should be sharply distinguished from what he calls ‘art proper’. The implication is that those things are improperly so-called, that is, are commonly but wrongly called art. Since today the tendency in aesthetics is to insist that all things called ‘art’ are rightly so-called, it is important emphasize this fact; the Institutional Theory of Art, and the Theory of Mass Art, would no doubt be viewed by Collingwood as pernicious linguistic confusions. But in fact it is worse than this. Art proper is often found within the context of those other things; even particular works of art (proper) may at the same time be instances of those things. Furthermore, it is not as if ‘art’ once had the true meaning appertaining to art proper, and then got extended to these other things; the word has always been more or less subject to at least some of these confusions. The task, then, is to distinguish the concept from those of many other competing related human activities, and to claim that it alone deserves to be called art.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2781,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " The first of these things that is easily confused with art proper has the recommendation of having been espoused by Plato and Aristotle. This is the ‘technical’ theory of art, or the theory that art is craft (from the Greek word ‘technê’), by which we mean a fully worked out theory of crafts such as watchmaking, joinery, carpentry and so on. In fact, the theory of craft, along with the thesis that art is not craft, suffices to show that art proper is a distinct activity from the other three things, by showing that they are essentially crafts.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2782,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " The term ‘craft’ refers to activities which typically exemplify the following six characteristics. None is individually necessary, but the less of them that an activity exemplifies, the less sense there is in calling it a craft: (1) The applicability of a distinction amongst actions as means and actions as ends; a baker, for example, whips the egg whites in course of mixing the batter, for the eventual end of baking a cake. (2) A distinction between planning and execution; a carpenter, for example, may draw up a plan for a table, and then in a separate action or set of actions construct a table. (3) In planning, ends precede means in that the latter are chosen for the sake of the former, but in execution the means precede the end. (4) We can distinguish between raw material and finished product. (5) A distinction can be drawn been form and matter. (6) Crafts stand in three sorts of hierarchy: (a) The raw material of one craft is the finished product of another; for example the sawmill produces plywood, which is in turn the raw material for builders. (b) One craft has as its end product the tools which are employed as means in another. (c) Some trades work in concert to bring about the finished product; for example, the manufacture of a computer may involve separable manufacture of the chip, the hard disc, the monitor and so on, so that the final assembly is ‘only the bringing together of these parts’.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2783,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " The point is not that works of art never display any of these features; the point is that some works of art involve none of them, without its detracting from their status as art. Therefore the essence of art cannot have to do with any features correctly treated by a theory of craft. A pure case might be the poet for whom the poem simply comes to mind, unbidden, without its being written down or even said aloud. There is no distinction to be drawn between planning and execution in such a case, and none between actions as means and actions as ends. (If the poet had in mind something analogous to a blueprint for the poem, he would already have composed it.)",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2784,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " That takes care of (1)–(3), and (6) (a)–(c). What of (4)? It might be tempting to think of the words as the raw material, the poem as the finished product. But T. S. Eliot for example did not choose the words needed for The Wasteland and then proceed to arrange them into the poem. The poet can, however, be conceived as ‘converting emotions into poems’; but this is ‘a very different kind of thing’ from, say, the pasta maker’s conversion of flour into spaghetti. Collingwood simply leaves this point hanging, because it would require his own positive account of art as expression to explain it; that will come later. (He also neglects the possibility that the raw material of the poet is simply the language as a whole.)",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2785,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Finally, the distinction between form and matter as it applies to art is not the sort required by (5). That distinction requires that the self-same matter be capable of having different forms placed upon it; if we cannot identify the matter in the first place, then the distinction cannot get a grip.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2786,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " It bears repeating that the claim is not that no works of art have any craft-like features; it simply that any definition of art in terms of those features would exclude some unimpeachable works of art (29). Or rather, success in being craft is strictly immaterial to its being art; no craft-features make an object into a work of art. Collingwood is well aware that for example an opera requires a great deal of planning, technique, raw materials, and so on. And because of this, he is well aware that the craft-theory is widely if implicitly held, and devotes a lively excursus to its modern manifestation, namely ‘Art as a Psychological Stimulus’. This is the account of art whereby it is the craft (or ‘technique’) of manipulating certain objects (paint, sound, words and on) so as to bring about psychological states in the audience, which in turn are known, or least knowable, in advance. But this is to assimilate works of art to mere means; Collingwood is quite serious in his denial of this. The artist is not ‘a purveyor of drugs’ (34).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2787,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Although as we will see in a moment Collingwood holds that there is more to it than this, representation is, in the first instance, the relation that a portrait bears to its sitter. It is plainly a matter of skill, of technique, since one can envisage a successful outcome before undertaking it. So art cannot be representation (or ‘mimesis’, in any straightforward sense). But the theory that it is is so venerable and influential that it demands separate attention. (Not, however, because of Plato and Aristotle; Collingwood holds that despite popular opinion, they did not hold it!).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2788,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood advances a very liberal notion of representation, such that a great deal more artefacts than one would initially think could rightly qualify as representative. For the standard for fidelity is not resemblance, but that the feeling evoked by the artefact resembles that evoked by the original. Representation comes in three, overlapping degrees. The first is that of the ordinary photograph, or paintings and the like which attempt that sort of literalness. The second is that whereby the painter – he mentions van Gogh – ‘leaves out some things that he sees, modifies others, and introduces some which he not does see in his sitter at all’ (53–4). At the extreme, he may paint mere patterns, for example, of a dance, leaving out the dancers. The third is ‘emotional representation’, which represents the inner aspect of emotion, but which is nevertheless distinct from expression. Some types of music, on this view, represent the mind undergoing its experiences, such the feeling of ‘lying in deep grass on a summer’s day watching clouds drift across the sky’ (56). Collingwood does not say what the exact difference is between representation and expression, but I assume that it depends first of all on whether or not the artist has a clear conception of what he is trying to represent; if he does, then his activity is craft, not art proper. As we will see below, this is not implausible because the artist, at least according to Collingwood, does not literally know the expressive content of his artwork in advance of expressing it. It would be in keeping with Collingwood’s approach to add that the expressed content is individual, whereas represented contents are always general; perceptually quite different works can represent exactly the same thing.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2789,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood takes pains to analyze the notion of magic because properly understood, magic is much more closely intertwined with art proper than one would have thought; nevertheless, it too falls prey to the master argument: it is a kind of craft, and art is not craft.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2790,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Magic is not, contra the prevailing anthropology of the time, mere bad science—‘superstitious’ false beliefs like that of not walking under ladders because of the evil that will surely follow. Nor is it explicable as Freudian neurosis, which assumes that every society employing magical practices is to that extent sick. Magic is the ritualized representation of useful emotion, not for the sake of catharsis, but for the practical value of the emotion. The war-dance, for example, instills courage by dint of drums and spears, and frightens the enemy should he catch a glimpse. Of course false beliefs may play a role, which the theory of magic-as-bad-science seizes upon; the rain dancer may think he increases the probability of rain. But that is a ‘perversion’ of magic; the true magical effect is the reinforcement of hope and hard work that a drought puts to the test. The Freudian theory regards the representation as omnipotent wish-fulfilment and therefore fails to account for this latter effect, which indeed Collingwood supposes to be vital to any healthy society. Happily, our society, or our societies, are replete with magical phenomena. Religion, patriotism, sport, social customs such as dinner parties, weddings, funerals, dances, and so on all involve in one way or another ritualized actions that are undertaken at least partly for magical reasons. (Of course magical phenomena are probably on the wane.)",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2791,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Art proper is often bound up with magical ‘art’, and indeed it is common amongst critics to confuse them. Religious art—say a twelfth-century crucifix—may be aesthetically fine as well as induce a pious awe in the mind of the believer. But the fact that a suitably kitschy product may also serve the latter purpose shows that the magical effect can be aimed at independently from the aesthetic (admittedly, Collingwood underestimates the problem of disentangling these purportedly different responses—for some people, only an aesthetically fine thing can generate strong pious emotions; perhaps Collingwood can allow that some art proper may be instrumentally necessary for the achievement of magical ends). Frequently, the particular form of this mistake is to think that an attitude towards the subject-matter embodied in a work is rightly taken as the object of purely aesthetic criticism. Thus it is common to hear for example of a play praised for taking a salutary view of sexual politics and would therefore encourage the sexes to get on better; to say so is to say that the play is very good at what Collingwood is calling ‘magic’, but is neither here nor there as regards its status as art.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2792,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " The aim of amusement art is to stimulate an emotion by ‘make believe’ means, and to discharge it. If the emotion is intended to remain undischarged—if the aim is that the audience should leave the theatre indignant at global warming for example—then the work is one of magic; if the emotions it evokes are intended to be ‘earthed’, the work is one of amusement. Most of literature and drama are actually amusement—not only for example Thackeray but most of Shakespeare are included. But remember that amusement and art proper can co-exist, i.e., in the same work (in Shakespeare’s case, the same work is often actually a bundle of works, some magical, some amusement, and some, at least in favourable cases, of art proper). Collingwood stresses—in 1938—the rise of decadent amusement works, especially pornography but also for example the case of literature or film appealing to our love of imaginatively dwelling amongst the upper classes. And he warns of a danger they present to our society (or rather of the danger of the conditions that give rise to an ever growing demand for them); that is what Plato meant to proscribe in his famous banishment of the ‘artist’ from his republic, and Collingwood sees Plato as having foretold the eventual doom of Greco-Roman civilisation. Now all this is by the way; amusement is craft, not art. But the points he raises in this connection are important to his main subject, because a certain tradition wrongly identifies the success-conditions of arts of amusement as the standard of taste for art proper. Hume, for example, wrote as if the criterion for success in a work of art is the excitation of pleasure in suitably refined individuals. But pleasure has a name; the ‘artist’ who busies himself with arousing that particular emotion is merely a craftsman.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2793,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " If art proper is not the stimulation of preconceived emotion, and not the representation of it either, then what precisely does it mean to say that, nevertheless, art is the expression of emotion? The key is to remember that art is not craft—Collingwood assumes that the reader will accept this, once it is pointed out—and hence the distinction between means and ends does not, strictly speaking, apply. Nor does the distinction between planning and execution. Instead, Collingwood writes in a passage that is often quoted, when a person expresses an emotion, he is",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2794,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " The following three points emerge from this. 1. To express is to become conscious of an emotion: that is why the distinction between plan and execution cannot be applied. 2. Expression individualises; rather than describing the emotion in words whose signification is in principle general, the expression is a intrinsic feature of the utterance, of the ‘utterance itself’ (although he does not credit him, this is an evident example where Collingwood follows Croce). Thus we cannot speak of the emotion embodied in a work of art as if it were the content which the art provides the form. 3. The ‘lightening’ of which Collingwood speaks is not that of catharsis, which provides an outlet for the emotion and may take place without its agents being conscious of it at all. It is the achievement of clarity, of focus of mind, which may indeed intensify what is felt rather than attenuate it (though typically it does not).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2795,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " This last point suggests that there is such a thing as an ‘aesthetic emotion’, but it ‘is not a specific kind of emotion pre-existing to the expression of it’ (117). Instead, it is an ‘emotional colouring which attends the expression of any emotion whatever’ (ibid.) Expression, in this sense, must be sharply distinguished from the betrayal of emotion; one’s tears may be said to ‘express’ one’s sadness, or stamping one’s feet ones anger, but these can occur without the making lucid and intelligible of the emotion that is requisite for expression in Collingwood’s sense. Betrayal can even occur that is wholly unconscious; one can blush without noticing it. The relation between expressive object and emotion is that of embodiment or realization, not of inference.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2796,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " To conceive art as the craft of emotional stimulation or arousal—whether for the sake of amusement or magic—is to regard the material work of art as the intended means towards a preconceived end. The falsity of that conception—assuming that art is essentially the expression of emotion—shows that the work of art as not an artifact at all (so artworks are not artifacts; Collingwood was aware that language sometimes suggests theoretical mistakes). Instead, the artistic process is a specialized type of making that Collingwood calls creation: to create something is to make it non-technically, but ‘consciously and voluntarily’ (128), and hence intentionally. The creator ‘need not be acting in order to achieve any ulterior end; he not be following a preconceived plan; and he is certainly not transforming anything that can be properly be called a raw material’ (129).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2797,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Now take for example a lecture given on a scientific topic. There are, in Collingwood’s view, actually at least two things: The lecture as a created thing, and the lecture as a particular sound-event. The former may be complete in advance of, or indeed without ever, being uttered or written down: the actual speech-event, as a sequence of noise, enables a suitably equipped listener to reconstruct the created thing is his own mind, therefore to grasp its scientific content, but is inessential to it. And so it is with works of art. A tune, for example, needn’t be sung, played or written down in order to exist. Thus Collingwood:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2798,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood is not supposing that every work of art could in point of fact exist only people’s minds; of music, for example, he writes ‘[P]erhaps no one can do that [possess himself of the music] unless he does hear the noises’ (140; of course there are some prima facie counterexamples to this; later Beethoven, for example). The human imagination is typically too weak; in most cases we have to depend on the ‘bodily’ work of art for sensory helps. But in principle, the ‘total imaginative experience’ that constitutes the proper work of art must be conceived as only contingently related to the bodily work.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2799,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " What precisely is the motivation for this move, the conception of the work of art as imagined or ideal object? Leave aside the special cases of music and poetry, which Richard Wollheim notes have the special feature that they can be written down (see Wollheim 1972). Why not conceive painting, for example, as the creation of certain painted objects? This would be consistent with the thesis that painting is a not craft. The answer given by Collingwood is clear, but leads to trouble when we consider the question of interpretation. An experience of a painting involves a great deal that no one would say is ‘in the painting’, which is, after all, a nearly flat canvas with paint on it. Not only do we see things that are not really present, but for example we have impressions of space and mass, perhaps by means of what Berenson called ‘ideated sensations’—those which involve imaginary motor or kinaesthetic sensations. These phenomena are not literally features of the canvas, but they are in some sense features of the work. So Collingwood, in brief, includes within the work of art proper all that would normally be ascribed to the (correct) interpretation—the (correct) experience—of the artwork. But there is no reason to accept this, any more we should include all the relational facts—sowing, fertilization, watering and so on—that contribute to a growing plant to the plant itself. On contrary, the position makes it impossible for two spectators to disagree on the interpretation of a work. Irrespective of the concern with the privacy of the experience, if they attribute different properties to the object—that is, they find different properties in their respective total imaginative experiences—they are simply concerned with different objects, and their verdicts are compatible. We could set the artist’s own experience as a criterion of understanding the work, but that would make his death significant in way that we do not actually recognize, and would run against the grain of Collingwood’s antipathy to aesthetic individualism and the ‘cult of genius’, discussed below. As a matter of speculation, Collingwood perhaps thought that aesthetically relevant properties—expressive properties—have to be intrinsic properties of the work of art; in that case, perhaps his conclusion does follow. But it is much more satisfactory to hold that what we are arguing over when we disagree over the expressive properties of a work of art is the same object.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

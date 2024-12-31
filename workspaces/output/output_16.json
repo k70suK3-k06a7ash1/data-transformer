@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 1500,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " \\(\\sfL\\sfp \\to \\sfL\\sfp\\) is now still provably necessary:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1501,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " But, because \\(\\Box(\\sfL\\sfp \\to \\sfL\\sfp)\\) depends essentially on E!A, its necessitation is not provable. And if one soldiers on in an attempt to replicate the reasoning in the above proof to derive necessitism:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1502,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " one can proceed no further, as the proof of \\(\\sfE!\\sfp\\) in line 6 depends on \\(\\sfE!\\sfp\\) qua instance of E!A in line 3.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1503,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The modal schemas  K  and  T,  with their simple modalities, are unaffected by MSA but not so for the schemas  4,  B, and  5,  all three of which involve nested modalities. The example of \\(\\Box(\\sfL\\sfp \\to \\sfL\\sfp)\\) above motivating NecA has already shown that singular necessities might not themselves be necessary and, hence, serves as well to illustrate the invalidity of 4: \\(\\sfL\\sfp \\to \\sfL\\sfp\\) is true at all possible worlds, and hence, necessary, \\(\\Box(\\sfL\\sfp \\to \\sfL\\sfp)\\); but \\(\\Box(\\sfL\\sfp \\to \\sfL\\sfp)\\) fails to be true at Prior-free worlds and, hence, is not itself necessary, i.e., \\(\\neg\\Box\\Box(\\sfL\\sfp \\to \\sfL\\sfp)\\). B’s invalidity is illustrated by any contingent singular truth; that Prior is a logician, say, \\(\\sfL\\sfp\\). By MSA, \\(\\sfL\\sfp\\) is not possible at Prior-free worlds, and, hence, it is not necessarily possible, \\(\\neg\\Box\\Diamond \\sfL\\sfp\\). And, of course, since it is also in fact possible that Adams is a philosopher, \\(\\Diamond \\sfL\\sfp,\\) the same example shows that 5 is invalid.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1504,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The natural fix for Adams, of course, is to qualify the nested modalities in each case with the condition that the proposition in question  exists:[91]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1505,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As with KQML, only T and 5A are needed for A; 4A and BA are derivable from them. And, similar to what was observed with Q, it is easy to show that, if one extends A with the thesis of necessitism by replacing E!A with its necessitation,",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1506,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " the system simply collapses into SQML.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1507,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Summarizing, then: Adams’ distinction between truth in a world and truth at a world motivated a number of intuitive semantic principles that, when formalized, yield a “perspectivalist” modal logic A:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1508,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " As noted, A restores a number of intuitively desirable logical features that were lost in Prior’s Q, in particular, the logical equivalence of necessity and impossible falsehood, and the necessity of singular logical truths. Within modal contexts, however, properties similar to Q return, albeit in a milder form: where Q requires the necessary existence of a proposition in order for it to be possible or necessary in a modal context, A requires only de facto existence. The final approach that will be examined here argues that the strict actualist needn’t even concede that much.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1509,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " A number of philosophers who are at least sympathetic to strict actualism have pointed out that, contrary to Adams, strict actualism does not entail  MSA—in  effect, the principle that a singular modal propositions cannot be true without existing—and, hence, that the still rather severe restrictions of A are unnecessary (Menzel 1990, 1993; Turner 2005; Mitchell-Yellin &amp; Nelson 2016). Moreover, they suggest that Adams’ own distinction between truth in a world and truth at a world provides the intuitive semantic foundation for this claim. Thus Menzel (1993: 132) notes that, just as we can consider a negated proposition to be true at a world where it doesn’t exist by considering it from our perspective in the actual world where it does, we can do the same for modal propositions. Turner spells out the idea as follows regarding an arbitrary de re modal proposition \\(\\Diamond \\sfP\\sfa,\\) where \\(a\\) is an actually existing object that, in fact, has the property \\(P\\):",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1510,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Return to the “picture thinking” that truth at a world is supposed to capture. We are standing outside of a world, looking into it, and using the propositions, objects, properties, and relations of our own world to describe what we see. It makes sense to think that which predications of \\(a\\) are true at a world is determined solely by things going on in that world—how could facts from other worlds ever get into the picture? But we tend to think that modal truths are not made true solely by what is going on in any one world but by what goes on in the entire space of possible worlds. Furthermore, on the model of “standing outside” of a world looking into it, it is not implausible to think that we should be able to “see” the entire space of possible worlds. We can say, of a non-\\(a\\) world \\(W,\\) that at that world it is possible that \\(a\\) is \\(P,\\) precisely because, standing outside of \\(W,\\) we can see other worlds – worlds where \\(a\\) exists and is \\(P\\). (2005: 205)",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1511,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " On this take, then, Adams fails to fully embrace his distinction between truth in a world and truth at a world. He evaluates negated propositions at worlds where they fail to exist from our perspective in the actual world, but does not extend the idea to modal propositions; instead, to evaluate a modal proposition \\(\\Box\\varphi\\)/\\(\\Diamond\\varphi\\) at a world \\(w,\\) he switches back to an internal perspective that requires the existence of \\(\\varphi\\) in \\(w,\\) i.e., the evaluative perspective that Prior adopted across the board. It is unsurprising, then, that Adams’ logic A restores only some of the logical truths that were lost in Prior’s Q. But, as Turner notes, a broader embrace of Adams’ perspectivalism would have us evaluate all propositions from our standpoint in the actual world. So “situated”, a modal proposition \\(\\Box\\varphi\\)/\\(\\Diamond\\varphi\\) can then be considered true at a world \\(w\\) simply if \\(\\varphi\\) is (from our standpoint, not \\(w\\))’s) true at all/some worlds. As in the shift from Prior to Adams, then, there is no change to the metaphysics of strict actualism but only a shift in the underlying (intuitive)  semantics.[92]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1512,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " The logical implications of maintaining this fixed perspective in the actual world are quite dramatic. First and foremost, it undermines the motivation for MSA entirely and, with it, the arguments against the validity of the principles \\(\\Box\\Diamond,\\) 4, B, 5, and the rule of necessitation Nec*. All of those can therefore be embraced without the existence qualifications of \\(\\Box\\Diamond_A,\\) 4\\(_A\\), B\\(_A\\), 5\\(_A\\), and \\(\\textbf{Nec}_A\\). Substituting the unqualified principles and the rule  Nec*  in their place results in what might be called a fully perspectivalist modal logic A* for the strict actualist that restores everything that was lost in Prior’s Q, and does so without the expressive restrictions of Kripke’s KQML.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1513,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " A* (under the name “A”) is proved sound and complete in Menzel 1991.",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1514,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " [Please contact the author with suggestions.]",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1515,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Bolzano, Bernard |  compositionality |  Duns Scotus, John |  essential vs. accidental properties |  Giles of Rome |  Henry of Ghent |  identity |  intentionality |  Lewis, David |  logic: classical |  logic: free |  logic: modal |  material constitution |  Meinong, Alexius |  mereology |  modality: medieval theories of |  nonexistent objects |  Ockham [Occam], William |  Parmenides |  plural quantification |  possible objects |  possible worlds |  Prior, Arthur |  Spinoza, Baruch |  Spinoza, Baruch: modal metaphysics |  states of affairs |  Suárez, Francisco |  Tarski, Alfred |  truthmakers ",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1516,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": " Copyright © 2022 by   Christopher Menzel &lt;cmenzel@tamu.edu&gt;     ",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1517,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": "View this site from another server:",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1518,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1519,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/possibilism-actualism/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "possibilism-actualism"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1520,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Suppose that you have been invited to attend an ex-partner’s wedding and that the best thing you can do is accept the invitation and be pleasant at the wedding. But, suppose furthermore that if you do accept the invitation, you’ll freely decide to get inebriated at the wedding and ruin it for everyone, which would be the worst outcome. The second best thing to do would be to simply decline the invitation. In light of these facts, should you accept or decline the invitation? (Zimmerman 2006: 153). The answer to this question hinges on the actualism/possibilism debate in ethics, which concerns the relationship between an agent’s free actions and her moral obligations. In particular, it focuses on whether facts about how an agent would freely act in certain contexts play any role in determining the agent’s moral obligations. Historically, the debate has primarily arisen in the work of impartial consequentialists with an interest in deontic logic. However, its relevance is not limited to such versions of consequentialism. The debate concerns the scope of acts that are relevant options for the agent, which is an issue that cuts across, and has substantive implications for, a wide range of normative ethical views. As such, the debate brings into focus issues of central importance for any normative ethical theory.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1521,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " For contingent historical reasons, this debate has unfolded in such a way that the following background assumptions are made in the literature. First, likely for ease of exposition, everyone writes as if counterfactual determinism is true (Goldman 1976: 469; Greenspan 1978: 77). That is, it is assumed that there are facts about how an agent would (not simply might) act in any given situation. This assumption, however, is not necessary for the purposes of the debate (Portmore 2011: 56 fn. 1). Second, since everyone writes as if both counterfactual determinism is true and as if agents can act in a way in which they do not in fact act, those in the debate seem to assume compatibilism. Interestingly, the concerns raised by the actualism/possibilism debate still arise even if libertarianism about free will is assumed (Portmore 2011: 167 fn. 21). Describing the debate in libertarian terms, however, does add an extra layer of complexity to the discussion. Third, some form of maximizing consequentialism is generally assumed, again, likely for ease of exposition. The debate actually arises for any normative ethical theory that holds that there are at least pro tanto reasons to bring about the good, and so the importance of this debate extends far beyond forms of maximizing consequentialism (Bales 1972; Goldman 1976: 458 fn. 13). Fourth, the various positions in the debate are understood in terms of objective, rather than subjective, obligations, though the same issues arise with respect to both. Objective obligations are those determined by all of the normatively relevant facts, which include facts of which the agent may be unaware. By contrast, subjective obligations are determined by the agent’s epistemic state (such as her beliefs, or beliefs that would be supported by her evidence) concerning the normatively relevant facts (cf. Zimmerman 1996: 10–20; Portmore 2011: 12–23). Following the norms of the literature, these assumptions operate in the background of this encyclopedia entry as well. However, none actually need to be made in order for the debate to get off the ground.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1522,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The historical origins of the debate may be traced back to work by Lars Bergström and Hector-Neri Castañeda. In his A Problem for Utilitarianism (1968), Castañeda argues that, given a few standard assumptions, utilitarianism is formally incoherent. His argument may be stated rather straightforwardly. First, Castañeda assumes a principle of deontic logic known as “ought distributes through conjunction”. This principle holds that if an agent S ought to do both A and B, then S ought to do A and S ought to do B (1968: 141). The term “ought” is used in a variety of different ways in the ethics literature. However, when it is used in the formulation of views in the actualism/possibilism literature, it should be understood as denoting the ought of moral obligation. This idea may be represented more formally as  Ought Distributes Through Conjuction: ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1523,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In other words, if an agent is obligated to perform a set of acts, then that agent is obligated to perform each of the acts in that set. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1524,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Second, Castañeda considers a principle he refers to as (U), which he takes to be a basic commitment of all existing forms of utilitarianism.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1525,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Some who have responded to Castañeda, such as Zellner (1972: 125), took (U) not only to be a commitment of utilitarianism, but a formulation of act-utilitarianism itself. Now, here’s the supposed problem. According to Castañeda, (ODC) and (U) generate contradictory prescriptions. To see why he believed this, suppose that an agent S’s performing the conjunctive act-set \\(\\langle A \\lamp B\\rangle\\) brings about a greater balance of good over bad than any alternative act-set (singleton or plural) that S can perform. It is supposed to follow from (U) that S is obligated to perform \\(\\langle A \\lamp B\\rangle\\). Now, given (ODC), it follows that S is obligated to perform \\(\\langle A\\rangle\\) and that S is obligated to perform \\(\\langle B\\rangle\\). But, Castañeda claims, given (U), performing \\(\\langle A\\rangle\\) would result in more net good than performing any alternative, including \\(\\langle B\\rangle\\). Moreover, given (U), performing \\(\\langle B\\rangle\\) would also result in more net good than performing any alternative, including \\(\\langle A\\rangle\\). Hence the supposed contradiction. Performing \\(\\langle A\\rangle\\) cannot result in both more good and less good than performing \\(\\langle B\\rangle\\). This consequence may be illustrated with an example, drawn from Westphal (1972: 83–84). ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1526,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Naturally, the act-set of ⟨opening the window &amp; shutting the door⟩ is the best that Tom can do in the circumstances he is in at the start on the warm day in question. Given Castañeda’s argument, Tom is obligated to ⟨open the window⟩ and he is obligated to ⟨shut the door⟩. But if he is obligated to do each of them, then ⟨opening the window⟩ must produce more net good than any alternative and ⟨shutting the door⟩ must produce more net good than any alternative. But, Castañeda claims, each of these acts cannot be uniquely optimific.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1527,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Castañeda’s short article spawned a number of replies with various proposed solutions. Castañeda himself argued that the problem stemmed from the “only if” clause in  (U)  and concluded that it should be removed. However, he believed that, even once this clause has been removed, it remains an open question whether utilitarianism could identify necessary conditions for obligatory actions (1968: 142).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1528,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The most numerous, and influential, replies were written by Lars Bergström, who argued that the contradiction arises only if it is assumed that \\(\\langle A\\rangle\\) and \\(\\langle B\\rangle\\) are alternatives in the relevant sense. He argued that \\(\\langle A\\rangle\\) and \\(\\langle B\\rangle\\) are not, in fact, alternatives since they are compatible (Bergström 1968b: 43). Notably, this is an issue of which Bergström was clearly aware of in his (1966: ch. 2) book in which he argued that “two actions can reasonably be regarded as alternatives (in the morally relevant sense) only if they are incompatible or mutually exclusive”. If, by hypothesis, S is obligated to perform \\(\\langle A \\lamp B\\rangle\\), then \\(\\langle A\\rangle\\) and \\(\\langle B\\rangle\\) must be compatible and so are not alternatives (1968b: 44). The subsequent literature consisted of a back-and-forth between Bergström and Castañeda that primarily revolved around identifying the morally relevant set of alternatives and Bergström’s attempts to formulate a utilitarian principle that avoids Castañeda’s objection (Bergström 1968a,b, 1971, 1973, 1976; Castañeda 1968, 1969, 1972). As will be shown in the subsequent sections, the issue of identifying the morally relevant set of alternatives forms the crux of the actualism/possibilism debate.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1529,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Dag Prawitz (1970) and Fred Westphal (1972) both suggested revising  (U)  by indexing actions to the time they would need to be performed in order to bring about the uniquely optimific outcome. So, if performing the joint act \\(\\langle A \\at t_1 \\lamp B \\at t_2\\rangle\\) would result in the greatest net amount of good, then S is obligated to perform \\(\\langle A \\at t_1\\rangle\\) and to perform \\(\\langle B \\at t_2\\rangle\\) and, Westphal claims, this avoids the contradiction. At \\(t_1\\), \\(\\langle A\\rangle\\) supposedly is the act that would produce the greatest net amount of good in comparison to any other act performable at \\(t_1\\). At \\(t_2\\), \\(\\langle B\\rangle\\) supposedly is the act that would produce the greatest net amount of good in comparison to any other act performable at \\(t_2\\). Finally, from among the performable act-sets that might occur from \\(t_1\\)–\\(t_2\\), \\(\\langle A \\lamp B\\rangle\\) is the act-set that would produce the greatest net amount of good. Thus, each act is the uniquely optimific act at the time it is performed, or so Westphal claims. Notably, Prawitz (1968, 1970) and Westphal (1972) each argue that an act is permissible if and only if it is part of an act-set that, if performed, would bring about the greatest net good of any of the acts available to the agent. In making this argument, Prawitz and Westphal were giving what may be considered the earliest defenses of possibilism. However, they did not yet refer to this view as possibilism. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1530,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " While possibilism itself remains a viable view in the literature, Harold Zellner demonstrated that Prawitz’s and Westphal’s responses did not solve the specific problem Castañeda identified for utilitarianism. This is because, while performing \\(\\langle A \\at t_1 \\lamp B \\at t_2\\rangle\\) may be uniquely optimific, it does not follow that performing either of these individual acts at their respective times would be uniquely optimific. For instance, performing \\(\\langle A \\at t_1\\rangle\\) may not be uniquely optimific if the agent would not perform \\(\\langle B \\at t_2\\rangle\\)if she first performs \\(\\langle A \\at t_1\\rangle\\). Zellner (1972: 125) illustrates this with the following case. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1531,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Again, it would be best if Tom ⟨commutes to campus &amp; teaches⟩, second best if he ⟨plays Cupid⟩, and worst if he ⟨commutes to campus &amp; skips class⟩. Thus, the value of the act-sets may be ranked from best to worst as follows.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1532,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Zellner points out that, since Tom would \\(\\langle{\\sim}B\\rangle\\) if he were to \\(\\langle A\\rangle\\), the value of performing \\(\\langle A\\rangle\\) is not uniquely optimific even though the value of performing \\(\\langle A \\lamp B\\rangle\\) is uniquely optimific. Thus, in such cases,  (U)  combined with  (ODC)  still generates contradictions, even if each act is indexed to their respective times. Zellner argued that, to solve the problem, (U) should be rejected because it is inconsistent with a supposedly basic principle of inference, referred to as (NI), which holds that if an agent is obligated to perform \\(\\langle A\\rangle\\) and her performing \\(\\langle A\\rangle\\) entails her performing \\(\\langle B\\rangle\\), then she is obligated to perform \\(\\langle B\\rangle\\) (1972: 125). This rule is sometimes referred to as Normative Inheritance or as Permissibility is Closed Under Implication. It may be represented more formally in the Standard Deontic Logic system as (Feldman 1986: 41):",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1533,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " This literature on the coherence of utilitarianism directly gave rise to the actualism/possibilism literature. Most importantly, (i) it made salient the importance of determining the relevant act-alternatives available to the agent and (ii) cases such as Teach, Play Cupid, or Skip Class raised questions about the relationship between an agent’s free actions and her moral obligations. As will be illustrated in the next section, actualists and possibilists are divided over cases with this exact structure.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1534,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Suppose someone is trying to determine whether she is obligated to teach a summer school course that students would greatly benefit from, but only if taught well. Do facts about how an agent would teach the course (e.g., well or poorly) have any role in determining whether she is morally obligated to teach the course? Actualists answer in the affirmative and possibilists in the negative. Possibilists hold that the deontic status of an act \\(\\phi\\) depends on facts about how an agent could act were she to \\(\\phi\\). So, according to possibilists, what determines whether she should teach the summer school course is whether she could teach it well, irrespective of whether she would teach it well. Actualists, by contrast, hold that the deontic status of an act \\(\\phi\\) depends, in part, on facts about how an agent would act (under certain conditions) were she to \\(\\phi\\). So, according to actualists, roughly what matters in determining whether one should teach the summer school course is whether she would teach it well, irrespective of whether she could teach it well.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1535,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " These views, and their differences, can best be understood by considering the standard case in the literature, viz. Professor Procrastinate. Holly M. Smith (formerly Holly S. Goldman) provides the original version of this case in her (1978: 185–186) essay, and variations of it appear throughout the literature (Jackson &amp; Pargetter 1986: 235; Carlson 1995: 124; Vorobej 2000: 131–132; Portmore 2011: 180, 2019: ch. 5; Timmerman 2015: 1512; Timmerman &amp; Cohen 2016: 673–674; Cariani 2016: 400). ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1536,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The value of the act-sets that Procrastinate can perform are ranked from best to worst as follows.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1537,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Furthermore, Procrastinate would \\(\\langle{\\sim}b\\rangle\\) regardless of whether she would \\(\\langle a\\rangle\\). In other words, the following counterfactuals are true.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1538,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " On a rough definition, according to actualism, Procrastinate is obligated to decline to review the paper because what would actually happen if she were to decline is better than what would actually happen if she were to agree to review the paper. By contrast, according to possibilism, Procrastinate is obligated to agree to review the paper because doing so is part of the best series of possible actions that Procrastinate can perform over her life. Now that we’ve covered how these views generally come apart, we will focus on the more precise formulations of these views in subsequent sections. It should also be noted that counterfactuals like (1) and (2) are assumed to be true at least partly in virtue of Procrastinate’s imperfect moral character. However, such counterfactuals can also be true as a result of an agent’s ignorance, as a result of lacking the dexterity to perform an act, and as a result of an agent’s inability to comprehend some future act (Goldman 1978:198; Bykvist 2002: 50). For the purposes of this entry, we will focus on an agent’s imperfect moral character since this factor seems to be the driving force behind many points of disagreement between actualists and possibilists.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1539,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  In its simplest form, possibilism is the view that an agent is obligated to perform an act just in case it is part of the best series of acts she can perform over the course of her life. It may be defined more formally as follows.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1540,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " According to possibilism, the act-sets that have their deontic status directly (i.e., they do not have their deontic status in virtue of the deontic status of any other act-set) are the act-sets that agents can perform over the course of their entire lives, which we will refer to as maximal act-sets (Åqvist 1969). Moreover, any non-maximal act-set has its deontic status indirectly (i.e., its deontic status is determined by the deontic status of a maximal act-set of which it is a part). In Professor Procrastinate, assuming that Procrastinate cannot perform any acts after doing either \\(\\langle X\\rangle\\), \\(\\langle Y\\rangle\\), or \\(\\langle Z\\rangle\\), possibilists hold that Procrastinate is obligated to \\(\\langle a\\rangle\\) because the best maximal act-set she can perform over the course of her life includes \\(\\langle X\\rangle \\), and \\(\\langle X\\rangle \\)-ing requires \\(\\langle a\\rangle\\)-ing.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1541,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Possibilism has been given slightly different definitions in the literature. However, unlike the different definitions of actualism discussed in the next section, typical definitions of possibilism are essentially synonymous. Patricia Greenspan (1978) does not offer a formal definition of possibilism, but defends the view by way of rejecting Holly Goldman’s actualist principle, referred to as (G*1). Greenspan does so in the process of defending her (1975) view in a related debate concerning whether ought-statements should be dated differently from their objects and about whether they hold from different temporal standpoints. Fred Feldman defines possibilism in terms of possible worlds. Feldman refers to his theory as (MO). As he characterizes (MO), what S is morally obligated to do, “as of a time, t”, is ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1542,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " to see to the occurrence of a state of affairs, p, iff p occurs in some world accessible to S at t, and it is not the case that \\({\\sim}p\\) occurs in any accessible world as good as (or better than) that one. (Feldman 1986: 38)",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1543,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Michael Zimmerman defines possibilism in the simpler, standard sense given above (2006: 153; 2017: 119). However, he also develops and defends (MO)-inspired formulations of possibilism. In his (1996) book, he provides a formulation of what he refers to as “world possibilism” (WP) that invokes the notion of “deontic value” instead of “intrinsic value”, so as to prevent the formulation of possibilism from assuming impartial consequentialism. In his (2006: 166) essay, he defends a prospective version of (WP), where the value in question is the expected value of all the acts an agent can intentionally perform, which he refers to as “adjusted core prospective value”.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1544,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  There are other views that deviate from the above standard definitions of possibilism. Carlson (1995: 99–109; 1999) defends a view that bears resemblance to possibilism in which the sole obligatory act-set is a unique minimally specific invariably optimal act-set. At t an act-set is optimal for an agent S just in case its outcome is at least as good as any other act-set that is performable for S at t. An invariably optimal act-set is one which is optimal no matter what S does at t. An invariably optimal act-set is minimally specific just in case it is not a proper part of some other invariably optimal act-set available to S. A minimally specific invariably optimal act-set is unique just in case there is no other minimally specific invariably optimal act-set available to S. Thus, in contrast to standard formulations of possibilism, no act-set that is a proper part of a unique minimally specific invariably optimal act-set has a deontic status. Vorobej (2000) defends a view he refers to as “prosaic possibilism”, which may be considered an intermediary between possibilism and actualism. In his (2009) article, which contains an argument against possibilism, Woodard defines the view in terms of normative reasons for action rather than moral obligations. As a final example, in his (2016) article, Vessel proposes what he takes to be a “possibilist variant” of a view known as moral securitism, which will be discussed in  section 4.  The first possibilist definition given in this section, however, captures the standard understanding of possibilism and the commitments of its proponents, including Greenspan (1978), Thomason (1981), Humberstone (1983), Feldman (1986: 38), and Zimmerman (1990; 1996: 190; 2006; 2008: ch. 3; 2017). On this definition, Procrastinate is obligated to agree to review the paper since it is part of the best series of acts that she can perform over the course of her life.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1545,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  In contrast to possibilism, standard forms of actualism hold that Procrastinate is obligated to decline to review the paper because what would actually happen if Procrastinate were to do this is better than what would actually happen if she were to agree to review the paper. For, what would happen if Procrastinate were to decline the invitation is that the student would receive a second-rate job offer. However, if she were to agree to review the paper then she would not review it and the student would receive no job offer. A simple, but not unproblematic, version of actualism holds the following:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1546,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " One problem with this definition is that it blurs together the intrinsic value of the consequences of an act and the deontic value of that act. An actualist’s stance with respect to the relationship between these different types of value depends upon her preferred normative ethical theory. We will discuss more precise and informative definitions of actualism in  section 3.  However, the above definition suffices to illustrate the primary difference between actualism and possibilism.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1547,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  It is natural to initially diagnose the disagreement between actualists and possibilists as a disagreement about which act-sets agents can perform. However, the actualism/possibilism debate cuts across debates about the relevant sense(s) of “can”. Actualists and possibilists may agree with one another about which act-sets agents can perform in any given case. At bottom, their disagreement concerns which acts, from among the acts the agent can perform, are normatively relevant options for the agent. Less abstractly, actualists and possibilists may agree that Procrastinate can \\(\\langle X\\rangle\\), \\(\\langle Y\\rangle\\), or \\(\\langle Z\\rangle\\). After all, by stipulation, she can \\(\\langle a\\rangle\\) and if she \\(\\langle a\\textrm{-s}\\rangle\\), then by stipulation she can \\(\\langle b\\rangle\\) and if she does that, then she will have performed \\(\\langle X\\rangle \\). Procrastinate can \\(\\langle X\\rangle\\), though one may still wonder whether she has the relevant kind of ability to \\(\\langle X\\rangle \\). That is, one may wonder whether \\(\\langle X\\textrm{-ing}\\rangle\\) is a relevant option for the agent. It is this question that divides actualists and possibilists. Goldman (1976: 453 and 1978: 153) initially suggested that \\(\\langle X\\textrm{-ing}\\rangle\\) is a relevant option for the agent, appealing to the following account of ability.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1548,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Interestingly, Goldman (1978) later rejects this account of ability after considering cases where, at \\(t_1\\), the agent can \\(\\langle a\\rangle\\), but would not \\(\\langle b\\rangle\\) and thus would not \\(\\langle X\\rangle \\), regardless of her intentions at \\(t_1\\). Such cases are ones where it’s possible for the agent to \\(\\langle X\\rangle\\), but Goldman argues that it would be “pointless to use this account of ability when assessing the range of activities which a moral principle should assess”. This is because agents “could not make practical use of” prescriptions to perform such alternatives. These types of cases will be discussed in more detail the next section. For now, the important takeaway is that while an agent can perform such conjunctive act-sets in the sense picked out by Ability 1, there may be times before the agent acts during which she cannot ensure that she will perform these act-sets. So, while it’s possible for Procrastinate to \\(\\langle X\\rangle\\) by intending to \\(\\langle a\\rangle\\) at \\(t_1\\) and then intending to \\(\\langle b\\rangle\\) at \\(t_2\\), it may also be true that, at \\(t_1\\), Procrastinate would not \\(\\langle b\\rangle\\) at \\(t_2\\) no matter what she intends to do at \\(t_1\\). In light of such cases, Goldman proposes the following account of ability. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1549,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " So, for any given act-set, actualists and possibilists will agree about whether an agent has Ability 1, Ability 2, or both to perform that act-set and thus will agree about each sense in which agents can perform these act-sets. Yet, they will disagree about which sense of ability picks out the morally relevant set of options for an agent. Possibilists (e.g., Feldman 1986; Zimmerman 1996), hybridists (Timmerman &amp; Cohen 2016), and some actualists (e.g., Jackson &amp; Pargetter 1986; Jackson 2014) take Ability 1 to be a morally relevant sense of ability. Most actualists and all securitists (e.g., Portmore 2011, 2018) will take Ability 2, or something close to it, to be the morally relevant sense of ability.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1550,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Possibilism has a lot going for it. Most notably, it generates the intuitively correct moral verdicts in a wide range of cases. It preserves  (ODC),  (S), and related, similarly attractive, principles in deontic logic (Goldman 1978: 80; Feldman 1986: 41–44; Zimmerman 1990: 58–60; Zimmerman 2006: 154–155; Vessel 2009; Kiesewetter 2018). It is thought to avoid the main objection leveled against actualism. That is, since possibilism requires agents to perform the best act-set they can over the course of their lives, it is not thought to let agents off the hook too easily. It also avoids the other objections leveled against actualism discussed in the next section. Also, see Zimmerman (1996: fn. 72 &amp; fn. 122 and 2017: ch. 3) for a nice review of some of possibilism’s additional, lesser appreciated, virtues. While there is much to be said in favor of possibilism, it also faces certain challenging objections.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1551,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Perhaps the primary objection to possibilism is that it can generate obligations that, if acted on, would result in the worst possible outcome. Versions of this objection have been raised throughout the literature, (Goldman 1976: 469–70; Sobel 1976: 202–203; Feldman 1986: 52–57; Almeida 1992: 461–462; Woodard 2009: 219–221; Portmore 2011: 211; Ross 2012: 81–82; Gustafsson 2014: 593; Timmerman &amp; Cohen 2016: 674). Possibilism generates this consequence because it implies that facts about how agents would freely act play no role in determining deontic verdicts. So, this potentially objectionable consequence of possibilism is a product of a core commitment of the view.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1552,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " To illustrate the issue, consider Professor Procrastinate again. According to possibilism, Procrastinate is obligated to ⟨agree to review the paper &amp; review the paper⟩ and thus is obligated to ⟨agree to review the paper⟩. However, if Procrastinate were to act on her obligation to ⟨agree to review the paper⟩, she would ⟨not review the paper⟩, thereby bringing about the worst possible outcome. This may not sound so counterintuitive in Professor Procrastinate where the worst outcome isn’t tragic. Yet, this objection has more intuitive force in high-stakes variants. Suppose that no matter what Procrastinate were to intend today, she would freely ⟨not review the paper⟩ if she ⟨agrees to review the paper⟩. Suppose furthermore that if Procrastinate were to ⟨not review the paper⟩, then the student would not receive any job offers and commit suicide. Possibilism still renders the verdict that Procrastinate is obligated to ⟨agree to review the paper⟩ and it renders this verdict no matter how terrible the consequences of ⟨agreeing to review the paper⟩ happen to be. This objection to possibilism may be stated more precisely as follows. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1553,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Possibilists have responded by suggesting that the intuitive force of this objection stems from failing to appreciate the distinction between conditional and unconditional obligations. The possibilist obligation is meant to pick out agents’ unconditional obligations and it supposedly is not problematic for agents to have unconditional obligations that, if acted upon, would result in the worst possible outcome (Greenspan 1978: 81; Zimmerman 2017: 126–128). So, while it’s true that possibilism entails that Procrastinate has an unconditional obligation to ⟨agree to review the paper⟩ in virtue of her unconditional obligation to ⟨agree to review the paper &amp; review the paper⟩, it may also be true that she has a conditional obligation to ⟨decline to review the paper⟩ given that she would ⟨not review the paper⟩ if she were to ⟨agree to review the paper⟩. More generally, possibilists can respond by holding that agents have an unconditional obligation to do the best they can, but incur conditional obligations to bring about the next best outcome if they won’t bring about the best outcome. The distinction between conditional and unconditional obligations will be further explored in  section 5.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1554,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " A closely related objection appeals to considerations about moral advice (Goldman 1976: 470; Greenspan 1978: 81; Feldman 1986: 55–57). Suppose that Procrastinate asks her friend whether she should \\(\\langle a\\rangle\\). Knowing that Procrastinate would almost certainly fail to \\(\\langle b\\rangle\\) if she were to \\(\\langle a\\rangle\\), it seems that her advisor ought to advise Procrastinate to \\(\\langle{\\sim}a\\rangle\\). The basic idea is that since Procrastinate’s advisor ought to tell Procrastinate to \\(\\langle{\\sim}a\\rangle\\), Procrastinate is, contrary to what possibilists claim, obligated to \\(\\langle{\\sim}a\\rangle\\).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1555,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Possibilists who accept that one ought to advise Procrastinate to \\(\\langle{\\sim}a\\rangle\\) will deny that this suggests that Procrastinate truly has an obligation to \\(\\langle{\\sim}a\\rangle\\). Rather, they’ll hold that Procrastinate’s advisor has an obligation to advise Procrastinate to do something she is obligated to refrain from doing. Possibilists will point out that Procrastinate’s advisor, just like Procrastinate, is obligated to do the best she can. In this case, doing the best she can requires advising Procrastinate to \\(\\langle{\\sim}a\\rangle\\) since Procrastinate won’t \\(\\langle a \\lamp b\\rangle\\) no matter what Procrastinate’s advisor says. Thus, the best Procrastinate’s advisor can do is to get Procrastinate to \\(\\langle{\\sim}a \\lamp{\\sim}b\\rangle\\) and that requires telling Procrastinate that she ought to \\(\\langle{\\sim}a\\rangle\\). Erik Carlson gives this response in his (1995: 127) article. Fred Feldman gives this response in his (1986: 57) book and puts the point thusly.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1556,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  When we give moral advice, we morally ought to advise in the best way we can. That is, we should advise in the way we advise in the best world open to us. When things go smoothly, our advice will be true…But when things go awry, we may find that to advise in the best possible way, we must give false advice. Reflection on a more extreme case should make this clear. Suppose an ornery child always does the opposite of what we tell him to do. Suppose we know that he ought to turn right, and that hundreds of lives depend upon it. Should we tell him to turn right? Obviously not.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1557,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Both Holly Goldman (1976: 469–470) and Christopher Woodard (2009) argue that possibilism is committed to an implausible asymmetry between moral and prudential reasons, whereas actualism treats such reasons symmetrically. To motivate this objection, Woodard asks one to consider an intrapersonal case of prudence that is structurally identical to typical actualist/possibilist cases.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1558,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Suppose each option is equally morally good. However, the prudential value of the act-sets may be ranked from best to worst as follows.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1559,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Again, the following counterfactuals are true.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1560,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Prudentially, what ought Smith to do? Woodard suggests that intuitively Smith prudentially ought to \\(\\langle{\\sim}A\\rangle\\), writing that it’s hard ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1561,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " to believe that the fact that [Smith] would choose \\({\\sim}B\\) were [she] to choose A is irrelevant to whether [Smith] should choose A or not. (2009: 221) ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1562,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " However, if possibilists treat prudential reasons in the same way they treat moral reasons, they would be committed to holding that Smith prudentially ought to \\(\\langle A\\rangle\\) even though this would result in her wasting her money on a plane ticket she wouldn’t use. In light of intuitive judgments about prudential cases, Woodard concludes that unless ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1563,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " there is a sharp asymmetry between prudential and moral oughts…the parallel [case concerning moral reasons also] affects Smith’s moral obligation to choose A or \\({\\sim}A\\). ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1564,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Woodard’s thought is that prudential cases support actualist judgments and, to avoid positing an implausible asymmetry between moral and prudential reasons, we should think actualism is true in moral cases as well.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1565,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " It’s worth noting that this sort of question about prudential cases arises in the rational choice literature. The analogous question concerns whether rationality requires one to choose suboptimal courses of action by predicating one’s present behavior on what will seem most attractive to one at a later time (see McClennen 1990: ch. 8–9; Gauthier 1994). The subsequent literature suggests that intuitions about prudential cases are at least mixed.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1566,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In response to Woodard, possibilists could again appeal to the distinction between unconditional and conditional (prudential) obligations. Perhaps what Smith is unconditionally prudentially obligated to do is ⟨purchase the plane ticket &amp; board the plane⟩ and thus has an unconditional obligation to ⟨purchase the plane ticket⟩. However, given that she wouldn’t ⟨board the plane⟩ if she were to ⟨purchase the plane ticket⟩, she may incur a conditional (prudential) obligation to ⟨not purchase the plane ticket⟩. Given that she won’t do what she prudentially ought to do, she conditionally ought to do the next best thing.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1567,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Zimmerman’s response is to deny that there is an asymmetry, arguing that what “matters, according to possibilism, is what one can control” (2017: 128). In other words, both prudential cases and moral cases are treated symmetrically in the sense that what matters for any case, according to possibilism, concerns what is under an agent’s control. To illustrate, in contrast to this purely prudential case, consider a similar case in which Smith’s not boarding the plane will result in result in her friend, Fred, being deeply disappointed that he and Smith will not get an opportunity to catch up in person. In both of these cases, Smith’s control with respect to performing \\(\\langle A \\lamp B\\rangle\\) is exactly the same. So, according to Zimmerman, it doesn’t matter that, in either case, Smith would in fact \\(\\langle{\\sim}B\\rangle\\) if she were to \\(\\langle A\\rangle\\); Smith is still obligated to perform \\(\\langle A \\lamp B\\rangle\\), and, a fortiori, perform \\(\\langle A\\rangle\\). Zimmerman may be right that possibilists are not committed to treating moral and prudential reasons differently. However, by treating them symmetrically, it may still be true (as Goldman and Woodard suggest) that possibilists are committed to counterintuitive verdicts in certain prudential cases, as illustrated in Plane Tickets. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1568,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The objections considered in this section are some of the most influential or instructive objections that apply to possibilism, generally construed. However, they do not exhaust the objections that may be levelled against the view. Even if possibilists are able to provide adequate responses to these objections, other considerations may count in favor of an alternative view. In the next section, we turn to possibilism’s main competitor: actualism.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1569,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  When it comes to cases concerning agents who are disposed to act wrongly, actualists consider their possibilist counterparts to be overly idealistic by theorizing about our moral obligations without considering the moral imperfections that result in our failing to do the best that we can. According to actualists, the specific way in which our imperfections need to be considered is by taking into account the truth-value of certain counterfactuals of freedom, i.e., certain facts about what we would freely do if we were in some circumstances. The only counterfactuals that are relevant to our objective obligations are ones in which the circumstances in the antecedent are fully described (Jackson 1985: 178, 186; Jackson &amp; Pargetter 1986: 240). This is because strengthening the antecedent of a counterfactual, i.e., adding information to the antecedent, can alter the counterfactual’s truth-value (Stalnaker 1968; Lewis 1973).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1570,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Most, if not all participants, in the actualist-possibilist debate seem to assume that the agents have the ability at one time to perform an act that they would not in fact perform at a later time if they were in the relevant circumstances. For example, although Professor Procrastinate can ⟨agree to review the paper &amp; write the review⟩, she would, as a matter of fact, ⟨not write the review⟩ if she were to ⟨agree to review the paper⟩. In other words, she would do something (not write) other than what she can do (write). By holding fixed the fact that Procrastinate would ⟨not write the review⟩ even if she were to ⟨agree to review the paper⟩, it follows from actualism that Procrastinate ought to ⟨decline to review the paper⟩, even though she can ⟨agree to review the paper &amp; write the review⟩. This is because actualism roughly states that an agent ought to \\(\\phi\\) just in case \\(\\phi\\)-ing would result in a better outcome than any other alternative to \\(\\phi\\)-ing. Recall the generic definition offered in the previous section.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1571,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Now, what would happen if Procrastinate were to ⟨decline to review the paper⟩ is better than what would happen if Procrastinate were to ⟨agree to review the paper⟩. As this example illustrates, the value that actualists assign to an option is determined by what would happen if that option were performed, rather than by being a member of the best act-set that the agent can perform over time. ⟨Agreeing to review the paper⟩ is part of the best act-set that is presently available to Procrastinate. But the value of ⟨agreeing to review the paper⟩ is less than the value of ⟨declining to review the paper⟩ because of what would happen if these respective options were to be performed. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1572,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Beyond this minimal agreement among all versions of actualism that Professor Procrastinate ought (given certain descriptions of the case) to ⟨decline to review the paper⟩, actualists diverge on other substantial issues concerning the scope of our obligations. Holly S. Goldman and Jordan Howard Sobel independently developed and articulated the first versions of actualism. We will begin by introducing Goldman’s formulation which is motivated in part by the need to avoid prescribing jointly unfulfillable obligations.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1573,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  The above formulation of actualism is subject to the problem of jointly unfulfillable obligations. That is, it generates multiple obligations such that it is impossible for the agent to fulfill all of them. For example, Procrastinate is obligated to ⟨decline to review the paper⟩ because this would result in a better outcome than the outcome that would follow ⟨agreeing to review the paper⟩. On the other hand, Procrastinate is obligated to ⟨agree to review the paper &amp; write the review⟩ because doing so would have a better outcome than the outcome of ⟨declining to review the paper &amp; not reviewing the paper⟩. This is a problem for Jackson and Pargetter’s version of actualism, to be discussed below. Goldman’s and Sobel’s versions of actualism are formulated precisely to avoid this problem.  To see how Goldman avoids this problem, consider the following formulation of actualism that Goldman (1976: 471) considers and rejects:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1574,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  The basic idea behind (G) is captured in the aforementioned rough definition of actualism. Here are the details. “\\(A_i\\)” may apply to a single act or a sequence of acts over time. The main problem that Goldman finds with (G) is that even if \\(A_i\\) satisfies (1) and (2), (G) does not take into account the following sort of case: “\\(A_i\\)” refers to a sequence of acts over time, the following counterfactual is true: “if the agent were to perform the first half of \\(A_i\\), then the agent would not perform the second half of \\(A_i\\)”, and the sequence of acts that would follow the performance of the first half of \\(A_i\\) would be worse than the sequence of acts that would follow an alternative to the first half of \\(A_i\\). (G) implies that in this sort of case the agent has jointly unfulfillable obligations at the same time t, viz. an obligation at t to perform \\(A_i\\) and an obligation at t to refrain from performing the first half of \\(A_i\\). For example, according to (G) Procrastinate ought to ⟨agree to review the paper &amp; write the review⟩ from \\(t_1\\)–\\(t_2\\) because the sequence of acts that would follow this act sequence from \\(t_2\\) is better than any sequence from \\(t_2\\) which would follow any alternative act sequence at \\(t_1\\)–\\(t_2\\), including the alternative of ⟨declining to review the paper &amp; not writing the review⟩ from \\(t_1\\)–\\(t_2\\). But, on the other hand, according to (G) Procrastinate ought to ⟨decline to review the paper⟩ at \\(t_1\\) because the sequence of acts that would follow this from \\(t_1\\) is better than any sequence from \\(t_1\\) which would follow any alternative act at \\(t_1\\), including the alternative of ⟨agreeing to review the paper⟩. Obviously, it cannot be the case that both obligations are fulfilled.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1575,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Goldman (1976: 467) illustrates the possibility of jointly unfulfillable obligations with the following example.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1576,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Although ⟨going to the office⟩ is a prerequisite for the best outcome (viz. the outcome that follows ⟨voting for a language requirement⟩), ⟨going to the office⟩ would, in fact, result in the worst outcome (viz. the outcome that follows ⟨discouraging the student from seeking psychiatric aid⟩). ⟨Staying home⟩ rather than ⟨going to the office⟩ would result in a better outcome (viz. the outcome of ⟨writing lecture notes⟩). Here is Goldman’s chart, which summarizes Jones’s predicament:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1577,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Figure 1: [An  extended description of figure 1  is in the supplement.]",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1578,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " As a matter of stipulation, the act-set which would follow the act-set that terminates with ⟨voting for the language requirement⟩ at \\(t_3\\) is better than the act-set which would follow any other \\(t_1\\)–\\(t_3\\) act-set available to Jones at \\(t_1\\). So  (G)  implies that, at \\(t_1\\), Jones ought to do the best she can. However, (G) also implies that, at \\(t_1\\), Jones ought to ⟨stay home⟩ at \\(t_1\\) rather than ⟨go to the office⟩ at \\(t_1\\). This is because both acts are performable for Jones at \\(t_1\\), and the act sequence which would follow ⟨staying home⟩ is better than the act sequence which would follow ⟨going to the office⟩. So, according to (G), Jones has at least two obligations that are jointly unfulfillable, A: ⟨going to the office, then going to the faculty meeting, then voting for the language requirement⟩, and B: ⟨staying home⟩. Jones cannot perform both \\(\\langle A \\lamp B\\rangle\\). There is no possible scenario in which both obligations are fulfilled.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1579,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  To avoid the problem of jointly unfulfillable obligations, Goldman (1976: 473) proposes the following version of actualism:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1580,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Unlike  (G),  (G*1) assesses an act’s deontic status in a procedural manner, starting with the options that are immediately available to the agent, and then proceeding to the next immediately available options. To illustrate, part (A) of (G*1) tells us to first evaluate all of the options that are immediately performable for Jones at \\(t_1\\), and those options are either ⟨going to the office⟩ or ⟨staying home⟩. The latter option is obligatory because it would result in a better act-set than the act-set that would result if Jones were to ⟨go to the office⟩. Part (B) of (G*1) tells us that, as of \\(t_1\\), Jones ought to perform an immediate successor to ⟨staying home⟩ at \\(t_1\\) that would result in a better sequence of acts than any alternative option that is an immediate successor to ⟨staying home⟩ at \\(t_1\\). So, at \\(t_1\\), Jones ought to ⟨stay home and then do research for lectures⟩ from \\(t_1\\)–\\(t_2\\). Similarly, at \\(t_1\\), Jones ought to perform an act-set that terminates with ⟨writing lecture notes⟩ at \\(t_3\\), given the assumption that the act-set that would follow ⟨writing the lecture notes⟩ at \\(t_3\\) is better than the act-set that would follow ⟨fixing lunch⟩ at \\(t_3\\).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1581,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  The application of  (G*1)  to the case of Jones explains why (G*1) does not imply the possibility of jointly unfulfillable obligations. Although what would happen if Jones were to ⟨go to the faculty meeting⟩ at \\(t_2\\) is better than what would happen if she were to do anything else at \\(t_2\\) that, as of \\(t_1\\), she can do, Jones is nevertheless not obligated at \\(t_1\\) to ⟨go to the faculty meeting⟩ at \\(t_2\\). This is because if Jones were to perform one of the acts required for ⟨going to the faculty meeting⟩, viz. ⟨going to the office⟩, then the worst outcome would occur. As of \\(t_1\\), any act that precludes ⟨staying home⟩ at \\(t_1\\) is impermissible.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1582,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": "  Jordan Howard Sobel (1976: 196) similarly defends a version of actualism that avoids jointly unfulfillable obligations:",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1583,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " A life L is a sequence of acts over time, or, in the terminology of this article, an act-set over time, such that this act-set is not contained in some other act-set that an agent S can perform over time. Hence, a life is identical to the possibilist’s notion of a maximal act-set. A life L is securable for S at time t if at \\(t\\) \\(S\\) can immediately perform the first moment of x, x is in L, and if x were to occur, then L would occur (Sobel 1976: 199). An obligatory life is determined in part by the set of immediately performable fully specific minimal acts available to the agent. A minimal act is one whose completion cannot be stopped by the agent once it is initiated. As such, all instantaneous acts are minimal acts (if there are any such acts). Moreover, a minimal act is fully specific just in case it is not entailed by two or more minimal acts available to the agent.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1584,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Like  (G*1),  and unlike  (G),  (S) does not imply that Jones ought to do the best she can over time in the sense affirmed by possibilists. This is because, according to (S), all lives that contain ⟨voting for the language requirement⟩ are not securable for Jones at \\(t_1\\). At \\(t_1\\), there is no fully specific minimal act that Jones can immediately perform such that if Jones were to perform it then Jones would perform a sequence of acts that includes ⟨voting for the language requirement⟩. Similarly, ⟨writing the review⟩ is not securable for Procrastinate at \\(t_1\\) because, at \\(t_1\\), there is no fully specific minimal act that Jones can immediately perform such that, if Jones were to perform it, then Jones would ⟨write the review⟩.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1585,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In contrast to the views of Goldman and Sobel, other forms of actualism embrace the possibility of jointly unfulfillable obligations while simultaneously resisting the claim that actualism implies the possibility of obligation dilemmas, i.e., scenarios in which all of the options available to an agent over time result in a failure to fulfill at least one obligation. Consider Frank Jackson and Robert Pargetter’s (1986: 233) formulation of actualism.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1586,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " [T]he values that should figure in determining which option is best and so ought to be done out of a set of options are the values of what would be the case were the agent to adopt or carry out the option, where what would be the case includes of course what the agent would simultaneously or subsequently in fact do: the (relevant) value of an option is the value of what would in fact be the case were the agent to perform it.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1587,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Jackson and Pargetter (1986: 244–245) maintain that there are different sets of options out of which different obligations arise. For instance, from the set of all \\(t_1\\)–\\(t_3\\) act-sets available to Jones at \\(t_1\\), the option with the highest value consists of the act-set that includes ⟨Jones’s voting for the language requirement⟩ at \\(t_3\\). Therefore, out of the \\(t_1\\)–\\(t_3\\) act-set, at \\(t_1\\) Jones is obligated to ⟨go to the office, then go to the faculty meeting, and then vote for the language requirement⟩. This is because what would happen if this act-set were to occur is better than what would happen if some other \\(t_1\\)–\\(t_3\\) act-set were to occur. But on the other hand, from the set of immediately performable acts available to Jones at \\(t_1\\), the option with the highest value consists of Jones’ ⟨staying home⟩ because what would happen if Jones were to ⟨stay home⟩ is better than what would happen if Jones were to ⟨go to the office⟩. Therefore, out of the performable \\(t_1\\) acts, at \\(t_1\\) Jones is obligated to ⟨stay home⟩. Like  (G),  Jackson and Pargetter’s view does not assess an act’s deontic status in the procedural manner with which Goldman’s  (G*1)  or Sobel’s  (S)  assesses an act’s deontic status. Moreover, like (G), Jackson and Pargetter’s view implies the possibility of obligations that cannot be jointly fulfilled. We will henceforth refer to their view as contextualist actualism because what an agent is obligated to do depends on the set of options being considered within a certain context.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1588,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The possibility of jointly unfulfillable obligations initially seems to imply the possibility of obligation dilemmas, i.e., scenarios in which all of the options available to an agent over time result in a failure to fulfill at least one obligation. But this is not the case given the assumption taken for granted in the actualist-possibilist debate: that agents have control over the truth-value of certain counterfactuals. In other words, agents can perform certain acts, and if they were to do so, then certain counterfactuals that are in fact true would instead be false. For example, Procrastinate can ⟨agree to review the paper &amp; then write the review⟩. If she were to do this, then the following counterfactual that is false would be true instead: “If Procrastinate were to ⟨agree to review the paper⟩, then she would ⟨write the review⟩”. Moreover, if this counterfactual were true, then Procrastinate would not be obligated to ⟨decline to review the paper⟩. This is because, in this counterfactual scenario, what would follow from ⟨declining to review the paper⟩ would be worse than what would follow from ⟨agreeing to review the paper⟩. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1589,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Jackson and Pargetter rightly conclude from this that Procrastinate can avoid violating any obligation because if Procrastinate were to do something that she can do, viz. ⟨agree to review the paper &amp; then write the review⟩, then Procrastinate wouldn’t be obligated to ⟨decline to review the paper⟩ in the first place, and thus there would be no unfulfilled obligations (Jackson 1985: 194; Jackson &amp; Pargetter 1986: 242–243; Louise 2009: 330; Jackson 2014: 636). In this sense, according to contextualist actualism, the obligation to ⟨agree to review the paper &amp; then write the review⟩ overrides the obligation to ⟨decline to review the paper⟩. More generally, at time t an agent can do something over time such that, if it were done, then their primary obligation would be fulfilled, and the agent would not have any unfulfilled obligations from t onwards. Jackson and Pargetter’s view is more similar to possibilism in comparison to standard formulations of actualism insofar as Jackson and Pargetter agree with possibilists about an agent’s obligation to perform the same maximal act-set. The difference between contextualist actualism and possibilism is that the former view affirms the existence of additional obligations that arise from sets of options that do not include this maximal act-set.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1590,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Jackson and Pargetter (1986: 246–249) believe that incompatible prescriptions are objectionable only when they arise from the same set of alternatives. But their view never generates incompatible prescriptions out of the same set of alternatives. Out of the set of alternatives of ⟨agreeing to review the paper⟩ at \\(t_1\\) or ⟨declining to review the paper⟩ at \\(t_1\\), ⟨declining to review the paper⟩ is obligatory. But out of the \\(t_1\\)–\\(t_2\\) alternatives available to Procrastinate at \\(t_1\\), ⟨agreeing to review the paper and then writing the review⟩ is the obligatory option. Hence, according to contextualist actualism, as long as actualism does not prescribe incompatible obligations from the same set of alternatives, incompatible prescriptions are unproblematic. Still, one might object that their view is not action-guiding in the sense that their theory does not say whether the overriding obligation takes priority over the other obligations (cf. Jackson 2014: 636).",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1591,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " By relativizing obligations to different sets of options, contextualist actualism is subject to the so-called lumping problem. This is the problem of lumping alternatives to an option O into a single alternative (not-O) (Wedgwood 2009  [Other Internet Resources, OIR];  Ross 2012; Cariani 2016). Here is an example. Suppose that the following increasingly worse options are available to an agent A: ⟨go to work⟩, ⟨gamble at home⟩, ⟨kill someone at home⟩. Suppose furthermore that the following four counterfactuals are true.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1592,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In that case, what would happen if A were to ⟨gamble at home⟩ is better than what would happen if A were to ⟨not gamble at home⟩. For, if A were to ⟨not gamble at home⟩, then A would ⟨kill someone at home⟩. Now, when we consider A’s options to be ⟨gambling at home⟩ or ⟨not gambling at home⟩, contextualist actualism implies that A ought to ⟨gamble at home⟩. This should seem very implausible, even by actualists’ own lights, because what would actually happen if A were to ⟨go to work⟩ is better than what would happen if A were to make any other choice at the time in question. Those who find this result counterintuitive have suggested that an obligatory act O must have a higher value than all of the non-supererogatory options available to the agent, rather than only having a higher value than not-O. In response to this worry, Jackson and Pargetter can remind us that it is also true that A ought to ⟨go to work⟩ out of a different set options, viz. ⟨going to work⟩, ⟨gambling at home⟩, and ⟨killing someone at home⟩. ",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1593,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " The relativization of obligations to different sets of options has led Jackson and Pargetter to reject the “ought distributes over conjunction” (ODC) principle (1986: 247). Recall that ODC holds that if an agent S ought to do both A and B, then S ought to do A and S ought to do B (Castañeda 1968: 141). While they accept that Procrastinate ought to ⟨agree to review the paper &amp; then write the review⟩, they deny that Procrastinate ought to ⟨agree to review the paper⟩. Similarly, their view implies that Jones ought to ⟨go to the office, then go to the faculty meeting, and then vote for the language requirement⟩. However, Jones ought not to ⟨go to the office⟩ since Jones ought to ⟨stay home⟩.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1594,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Goldman’s  (G*1)  and Sobel’s  (S)  enjoy the theoretical and practical virtue of simplicity by prescribing a single obligatory act sequence at a time rather than multiple, jointly unfulfillable prescriptions at a time. But this theoretical virtue comes at the cost of a possibilist objection: their views allow agents to avoid incurring moral obligations simply in virtue of having an imperfect moral character, and this allows agents to, morally speaking, get off the hook too easily (Jackson &amp; Pargetter 1986: 240; Zimmerman 1996: 193–194, 2006: 156; Portmore 2011: 207; Baker 2012: 642–43; Timmerman 2015; Timmerman &amp; Cohen 2016; Cohen &amp; Timmerman 2016). For example,  Procrastinate avoids incurring an obligation to comment on a student’s paper simply because she is disposed to behave badly. Actualism is committed to this even in cases in which an agent is disposed to behave badly just because they intend to behave badly. But, possibilists claim, agents cannot avoid incurring an obligation to \\(\\phi\\) simply because they intend to \\(\\phi\\) poorly. More generally, possibilists claim that being disposed to do wrong does not allow one to avoid incurring obligations to do good.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1595,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Proponents of  (G*1)  or  (S)  may retort by reminding us that this apparently problematic implication is the result of taking into account the relevant counterfactuals, and that not taking them into account is too costly. While Procrastinate’s ⟨agreeing to review the paper⟩ is part of the best act-set that she can perform over time, it is also part of the worst act-set that she can perform over time, and the worst act-set would be performed if Procrastinate were to ⟨agree to review the paper⟩ (Jackson &amp; Pargetter 1986: 237). Similarly, Jones’ ⟨going to the office⟩ is part of the best act-set that she can perform over time, but it is also part of the worst act-set that she can perform over time, and the worst act-set would be performed if Jones were to ⟨go to the office⟩.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1596,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " Contextualist actualism can, in a sense, sidestep this possibilist objection since contextual actualists agree with possibilists that an agent ought to do the best that she can over time, and, in addition, they consider this obligation to override all other obligations in the aforementioned sense (Jackson 1985: 194; Jackson &amp; Pargetter 1986: 242–243; Jackson 2014: 636). Possibilists may not be satisfied with this response. Since possibilists accept ODC, they infer that Procrastinate is obligated to ⟨agree to review the paper⟩ from the fact that Procrastinate is obligated to ⟨agree to review the paper &amp; then write the review⟩. Contextualist actualism denies that Procrastinate is obligated to ⟨agree to review the paper⟩ at the cost of rejecting ODC.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1597,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " All of these versions of actualism face a second possibilist objection: they prescribe bad behavior that the agent can easily avoid (Wedgwood 2009  [OIR];  Ross 2012: 75–76). For example, Procrastinate can easily avoid ⟨declining to review the paper⟩ by ⟨agreeing to review the paper⟩ and, once Procrastinate ⟨agrees to review the paper⟩, she can easily ⟨write the review⟩. Nevertheless, all of these versions of actualism maintain that Procrastinate should ⟨decline to review the paper⟩ rather than ⟨agree to review the paper⟩. Other extreme actualist-possibilist scenarios highlight the force of this objection. Suppose that the following act-set is the best one available to a mass murderer M at \\(t_1\\): ⟨kill no  one⟩ at \\(t_1\\) and ⟨kill no one⟩ at \\(t_2\\).  Suppose, however, that the best immediately available option for M is ⟨killing someone at \\(t_1\\)⟩ because of the truth of the following two counterfactuals: “if M were to ⟨kill someone⟩ at \\(t_1\\), then M would ⟨kill no one⟩ at \\(t_2\\)”, “if M were to ⟨kill no one⟩ at \\(t_1\\), then M would ⟨kill ten people⟩ at \\(t_2\\)”. Possibilists claim that M should ⟨kill no one⟩ from \\(t_1\\)–\\(t_2\\) and thus that M should ⟨kill no one⟩ at \\(t_1\\). Actualists, however, claim that M should ⟨kill someone⟩ at \\(t_1\\). Contextualist actualism at least allows one to say that although ⟨killing someone⟩ at \\(t_1\\) is obligatory, doing this violates M’s obligation to ⟨kill no one⟩ from \\(t_1\\)–\\(t_2\\). Goldman and Sobel’s versions cannot accommodate this appeasing judgment.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1598,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " It is worth noting that possibilism is thought to be subject to a related problem. While it doesn’t allow agents to avoid incurring moral obligations for having a vicious moral character, it does allow agents to avoid incurring moral obligations to curtail their vicious moral character (Timmerman and Swenson 2019). To illustrate the problem, suppose that one of the optimific act-sets Apathetic Andy can perform over time includes ⟨playing video games tonight and donating his expendable income to charity tomorrow⟩. Andy is, however, quite apathetic. As such, he won’t ⟨donate his expendable income to charity tomorrow⟩ unless he first ⟨reads work by Peter Singer tonight⟩. If he ⟨plays video games tonight⟩, he will merely reinforce his selfish nature and ⟨use his expendable income to purchase more video games tomorrow⟩. Here’s the catch. The other optimific act-set Apathetic Andy can perform is to ⟨read work by Peter Singer tonight and donate his expendable income to charity tomorrow⟩. Moreover, if Andy ⟨reads work by Peter Singer tonight⟩, he would ⟨donate his expendable income to charity tomorrow⟩. Performing this optimific act-set won’t be pleasant for Andy, though, since he finds reading philosophy to be tedious. Here’s the problem. Possibilism renders the verdict that Andy is permitted to ⟨play video games tonight⟩, which would not only result in a suboptimal outcome, but also exacerbate (rather than curtail) his bad moral character. By contrast, actualism entails that Andy is obligated to improve his moral character by ⟨reading work by Peter Singer tonight⟩, and actualism thus ensures that Andy would ⟨donate his expendable income to charity tomorrow⟩. So, both possibilism and actualism seem to let agents with vicious moral characters off the hook too easily, albeit in different circumstances and in different ways.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1599,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/actualism-possibilism-ethics/",
+        "text": " In the next section we will consider an additional objection to actualism that has led to the development of views that may be considered intermediaries of actualism and possibilism. According to these views, a counterfactual is relevant to an agent’s present obligation only if the agent presently lacks a specific kind of control over the truth-value of that counterfactual.",
+        "category": "actualism-possibilism-ethics"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

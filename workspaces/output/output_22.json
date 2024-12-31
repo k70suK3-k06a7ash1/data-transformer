@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2100,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But such a criticism seems to overlook a subtlety of Bullough’s view. While Bullough does hold that aesthetic appreciation requires distance “between our own self and its affections” (Bullough 1995, 298), he does not take this to require that we not undergo affections but quite the opposite: only if we undergo affections have we affections from which to be distanced. So, for example, the properly distanced spectator of a well-constructed tragedy is not the “over-distanced” spectator who feels no pity or fear, nor the “under-distanced” spectator who feels pity and fear as she would to an actual, present catastrophe, but the spectator who interprets the pity and fear she feels “not as modes of [her] being but rather as characteristics of the phenomenon” (Bullough 1995, 299). The properly distanced spectator of a tragedy, we might say, understands her fear and pity to be part of what tragedy is about.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2101,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The notion of the aesthetic attitude has been attacked from all corners and has very few remaining sympathizers. George Dickie is widely regarded as having delivered the decisive blow in his essay “The Myth of the Aesthetic Attitude” (Dickie 1964) by arguing that all purported examples of interested attention are really just examples of inattention. So consider the case of the spectator at a performance of Othello who becomes increasingly suspicious of his own wife as the action proceeds, or the case of the impresario who sits gauging the size of the audience, or the case of the father who sits taking pride in his daughter’s performance, or the case of the moralist who sits gauging the moral effects the play is apt to produce in its audience. These and all such cases will be regarded by the attitude theorist as cases of interested attention to the performance, when they are actually nothing but cases of inattention to the performance: the jealous husband is attending to his wife, the impresario to the till, the father to his daughter, the moralist to the effects of the play. But if none of them is attending to the performance, then none of them is attending to it interestedly (Dickie 1964, 57–59).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2102,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The attitude theorist, however, can plausibly resist Dickie’s interpretation of such examples. Clearly the impresario is not attending to the performance, but there is no reason to regard the attitude theorist as committed to thinking otherwise. As for the others, it might be argued that they are all attending. The jealous husband must be attending to the performance, since it is the action of the play, as presented by the performance, that is making him suspicious. The proud father must be attending to the performance, since he is attending to his daughter’s performance, which is an element of it. The moralist must be attending to the performance, since he otherwise would have no basis by which to gauge its moral effects on the audience. It may be that none of these spectators is giving the performance the attention it demands, but that is precisely the attitude theorist’s point.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2103,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But perhaps another of Dickie’s criticisms, one lesser known, ultimately poses a greater threat to the ambitions of the attitude theorist. Stolnitz, it will be recalled, distinguishes between disinterested and interested attention according to the purpose governing the attention: to attend disinterestedly is to attend with no purpose beyond that of attending; to attend interestedly is to attend with some purpose beyond that of attending. But Dickie objects that a difference in purpose does not imply a difference in attention:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2104,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " There is again much here that the attitude theorist can resist. The idea that listening is a species of attending can be resisted: the question at hand, strictly speaking, is not whether Jones and Smith listen to the music in the same way, but whether they attend in the same way to the music they are listening to. The contention that Jones and Smith are attending in the same way appears to be question-begging, as it evidently depends on a principle of individuation that the attitude theorist rejects: if Jones’s attention is governed by some ulterior purpose and Smith’s is not, and we individuate attention according to the purpose that governs it, their attention is not the same. Finally, even if we reject the attitude theorist’s principle of individuation, the claim that there is but one way to attend to music is doubtful: one can seemingly attend to music in myriad ways—as historical document, as cultural artifact, as aural wallpaper, as sonic disturbance—depending on which of the music’s features one attends to in listening to it. But Dickie is nevertheless onto something crucial to the degree he urges that a difference in purpose need not imply a relevant difference in attention. Disinterest plausibly figures in the definition of the aesthetic attitude only to the degree that it, and it alone, focuses attention on the features of the object that matter aesthetically. The possibility that there are interests that focus attention on just those same features implies that disinterest has no place in such a definition, which in turn implies that neither it nor the notion of the aesthetic attitude is likely to be of any use in fixing the meaning of the term ‘aesthetic.’ If to take the aesthetic attitude toward an object simply is to attend to its aesthetically relevant properties, whether the attention is interested or disinterested, then determining whether an attitude is aesthetic apparently requires first determining which properties are the aesthetically relevant ones. And this task seems always to result either in claims about the immediate graspability of aesthetic properties, which are arguably insufficient to the task, or in claims about the essentially formal nature of aesthetic properties, which are arguably groundless.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2105,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But that the notions of disinterest and psychical distance prove unhelpful in fixing the meaning of the term ‘aesthetic’ does not imply that they are mythic. At times we seem unable to get by without them. Consider the case of The Fall of Miletus—a tragedy written by the Greek dramatist Phrynicus and staged in Athens barely two years after the violent Persian capture of the Greek city of Miletus in 494 BC. Herodotus records that",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2106,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " How are we to explain the Athenian reaction to this play without recourse to something like interest or lack of distance? How, in particular, are we to explain the difference between the sorrow elicited by a successful tragedy and the sorrow elicited in this case? The distinction between attention and inattention is of no use here. The difference is not that the Athenians could not attend to The Fall whereas they could attend to other plays. The difference is that they could not attend to The Fall as they could attend to other plays, and this because of their too intimate connection to what attending to The Fall required their attending to.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2107,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Theories of aesthetic experience may be divided into two kinds according to the kind of feature appealed to in explanation of what makes experience aesthetic: internalist theories appeal to features internal to experience, typically to phenomenological features, whereas externalist theories appeal to features external to the experience, typically to features of the object experienced. (The distinction between internalist and externalist theories of aesthetic experience is similar, though not identical, to the distinction between phenomenal and epistemic conceptions of aesthetic experience drawn by Gary Iseminger (Iseminger 2003, 100, and Iseminger 2004, 27, 36)). Though internalist theories—particularly John Dewey’s (1934) and Monroe Beardsley’s (1958)—predominated during the early and middle parts of the 20th century, externalist theories—including Beardsley’s (1982) and George Dickie’s (1988)—have been in the ascendance since. Beardsley’s views on aesthetic experience make a strong claim on our attention, given that Beardsley might be said to have authored the culminating internalist theory as well as the founding externalist one. Dickie’s criticisms of Beardsley’s internalism make an equally strong claim, since they moved Beardsley—and with him most everyone else—from internalism toward externalism.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2108,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " According to the version of internalism Beardsley advances in his Aesthetics (1958), all aesthetic experiences have in common three or four (depending on how you count) features, which “some writers have [discovered] through acute introspection, and which each of us can test in his own experience” (Beardsley 1958, 527). These are focus (“an aesthetic experience is one in which attention is firmly fixed upon [its object]”), intensity, and unity, where unity is a matter of coherence and of completeness (Beardsley 1958, 527). Coherence, in turn, is a matter of having elements that are properly connected one to another such that",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2109,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Completeness, by contrast, is a matter having elements that “counterbalance” or “resolve” one another such that the whole stands apart from elements without it:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2110,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Dickie’s most consequential criticism of Beardsley’s theory is that Beardsley, in describing the phenomenology of aesthetic experience, has failed to distinguish between the features we experience aesthetic objects as having and the features aesthetic experiences themselves have. So while every feature mentioned in Beardsley’s description of the coherence of aesthetic experience—continuity of development, the absence of gaps, the mounting of energy toward a climax—surely is a feature we experience aesthetic objects as having, there is no reason to think of aesthetic experience itself as having any such features:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2111,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Dickie raises a similar worry about Beardsley’s description of the completeness of aesthetic experience:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2112,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Though these objections turned out to be only the beginning of the debate between Dickie and Beardsley on the nature of aesthetic experience (See Beardsley 1969, Dickie 1974, Beardsley 1970, and Dickie 1987; see also Iseminger 2003 for a helpful overview of the Beardsley-Dickie debate), they nevertheless went a long way toward shaping that debate, which taken as whole might be seen as the working out of an answer to the question “What can a theory of aesthetic experience be that takes seriously the distinction between the experience of features and the features of experience?” The answer turned out to be an externalist theory of the sort that Beardsley advances in the 1970 essay “The Aesthetic Point of View” and that many others have advanced since: a theory according to which an aesthetic experience just is an experience having aesthetic content, i.e., an experience of an object as having the aesthetic features that it has.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2113,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The shift from internalism to externalism has meant that one central ambition of internalism—that of tying the meaning of ‘aesthetic’ to features internal to aesthetic experience—has had to be given up. But a second, equally central, ambition—that of accounting for aesthetic value by grounding it in the value of aesthetic experience—has been retained. The following section takes up the development and prospects of such accounts.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2114,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " To count as complete a theory of aesthetic value must answer two questions:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2115,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The literature refers to the first question sometimes as the aesthetic question (Lopes 2018, 41–43; Shelley 2019, 1) and sometimes as the demarcation question (van der Berg 2020, 2; Matherne 2020, 315; Peacocke 2021, 165). It refers to the second as the normative question (Lopes 2018, 41–43; Shelley 2019, 1; Matherne 2020, 315).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2116,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The prevailing answer to the aesthetic question is aesthetic formalism, the view that aesthetic value is aesthetic because objects bear it in virtue of their perceptual properties, where these encompass visual, auditory, gustatory, olfactory, and tactile properties. Aesthetic formalism rose to prominence when and because artistic formalism did, during the late 19th and early 20th centuries (see Section 5.1). Because everyone then took artistic value to be a species of aesthetic value, artistic formalism could gain prominence only by dragging aesthetic formalism in its train. But whereas artistic formalism has since fallen from favor, aesthetic formalism has held its ground. The explanation, arguably, has to do with the way aesthetic formalism honors the conceptual link between the aesthetic and the perceptual. Any adequate answer to the aesthetic question must meet what we may call the perceptual constraint, that is, it must plausibly articulate the sense in which aesthetic value is perceptual. Aesthetic formalism does this in the clearest possible terms.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2117,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Versions of aesthetic formalism come in varying strengths. Its strongest versions hold objects to have aesthetic value strictly in virtue of their perceptual properties (Bell 1958/1914; Danto 2003, 92). Weaker versions either allow objects to have aesthetic value in virtue of their non-perceptual content so long as that content expresses itself perpetually (Zangwill 1998, 71–72) or require merely that objects paradigmatically have aesthetic value in virtue of their perceptual properties (Levinson 1996, 6). All versions of aesthetic formalism struggle, one way or another, to accommodate our long-standing practice of ascribing aesthetic value to objects that do not address themselves primarily to the five bodily senses. Consider works of literature. We have been ascribing aesthetic value to them for as long as we have been ascribing aesthetic value to artworks of any kind. How might the aesthetic theorist square her theory with this practice? A first approach is simply to dismiss that practice, regarding its participants as linguistically confused, as applying terms of aesthetic praise to objects constitutionally incapable of meriting it (Danto 2003, 92). But given how extremely revisionist this approach is, we ought to wait on an argument of proportionately extreme strength before adopting it. A second approach allows that literary works bear aesthetic value, but only in virtue of their sensory properties, such as properties associated with assonance, consonance, rhythm, and imagery (Urmson 1957, 85–86, 88; Zangwill 2001, 135–140). But this approach accounts for a mere fraction of the aesthetic value we routinely ascribe to works of literature. Suppose you praise a short story for the eloquence of its prose and the beauty of its plot-structure. It seems arbitrary to count only the eloquence as a genuine instance of aesthetic value. A third approach treats literary works as exceptional, allowing them, alone among works of art, to bear aesthetic value in virtue of their non-perceptual properties (Binkley 1970, 269; Levinson 1996, 6 n.9). The difficulty here is to explain literature’s exceptionality. If literary works somehow bear aesthetic value in virtue of non-perceptual properties, what prevents non-literary works from doing the same? Moreover, to whatever degree we allow things to have aesthetic value in virtue of their non-perceptual properties, to that degree we sever the connection the formalist asserts between the aesthetic and the perceptual and so undermine our reason for adopting aesthetic formalism in the first place.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2118,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " We might be forced to choose from among these three formalist approaches to literature if aesthetic formalism constituted the only plausible articulation of the sense in which aesthetic value is perceptual, but it doesn’t. Instead of holding that aesthetic value is perceptual because things have it in virtue of their perpetual properties, one might hold that aesthetic value is perceptual because we perceive things as having it. This would be a corollary of the immediacy thesis as defined in Section 1.1. If, as that thesis holds, aesthetic judgment is perceptual, having all the immediacy of any standard perceptual judgment, then aesthetic properties are perceptual, grasped with all the immediacy of standard perceptual properties. That aesthetic properties are thus perceptual is Sibley’s point in the following:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2119,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Sibley says that people have to see the grace or unity of a work and they have to feel the power of a novel. He doesn’t say that they have to see the properties in virtue of which a work has grace or unity or feel the properties in virtue of which a novel has power: the properties in virtue of which a work has grace or unity need not be perceptual and the properties in virtue of which a novel has power presumably will not be. Thus the literature problem, over which formalism stumbles, does not arise for Sibley, nor for anyone else committed to the immediacy thesis, including Shaftesbury (Cooper 1711, 17, 231), Hutcheson (1725, 16–24), Hume (1751, Section I), and Reid (1785, 760–761), among others. For the immediacy theorist, the aesthetic value we ascribe to literary works is aesthetic because we perceive literary works as bearing it.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2120,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The prevailing answer to the normative question is aesthetic hedonism, the view that aesthetic value is value because things having it give pleasure when experienced. Aesthetic hedonism achieved prominence in the 19th century, roughly when aesthetic formalism did. Schopenhauer played a pivotal role in bringing it to prominence by reassigning disinterested pleasure from the role it had been playing in aesthetic judgment to the role of grounding aesthetic value (Schopenhauer 1818 [1969], 195–200). Bentham (1789, ch. 4) and Mill (1863 [2001]; ch. 2) arguably played larger roles by popularizing value hedonism, that is, the view that pleasure is the ground of all value. But whereas value hedonism no longer holds much sway in ethics, and Schopenhauer no longer exerts much influence in aesthetics, aesthetic hedonism has held its ground. The explanation presumably has to do with the apparent ease with which aesthetic hedonism explains why we seek out objects of aesthetic value. Any adequate answer to the normative question must meet what we may call the normative constraint, that is, it must plausibly identify what a thing’s having aesthetic value gives us reason to do. Aesthetic hedonism, locating that reason in the pleasure taken in experiencing aesthetically valuable objects, does this in the clearest possible terms.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2121,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Advocates of aesthetic hedonism include Schopenhauer 1818 [1969], Clive Bell 1914 [1958], C. I. Lewis 1946, Monroe Beardsley 1982, George Dickie 1988, Alan Goldman 1990, Kendall Walton 1993, Malcolm Budd 1995, Jerrold Levinson 1996, 2002, Gary Iseminger 2004, Robert Stecker 2006, 2019, Nick Stang 2010 and Mohan Matthen 2017. It is only quite recently that any sustained opposition to hedonism has arisen, a fact that may go some way toward explaining why hedonists, as a rule, see no need to argue for their view, opting instead to develop it in light of objections an imagined opposition might make.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2122,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Beardsley, for instance, leads with this simple formulation of hedonism:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2123,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But he then anticipates a fatal objection. Sometimes we undervalue aesthetic objects, finding them to have less value than they actually have; other times we overvalue aesthetic objects, finding them to have greater value than they actually have. The simple formulation above is consistent with undervaluation, since it is possible to take less aesthetic pleasure from an object than it has the capacity to provide, but inconsistent with overvaluation, since it is impossible to take greater aesthetic pleasure from an object than it has the capacity to provide (Beardsley 1982, 26–27). To remedy this problem, Beardsley appends a rider:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2124,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Suppose we refer to the italicized portion of this formulation as the epistemic qualification and the non-italicized portion as the hedonic thesis. The epistemic qualification renders the hedonic thesis consistent with overvaluation, given that you can misapprehend an object such that you take greater aesthetic pleasure from it than it has the capacity to provide when apprehended correctly and completely.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2125,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Beardsley’s version of aesthetic hedonism has served as a model for subsequent versions (Levinson 2002, n. 23); at least all subsequent versions consist of an epistemically qualified hedonic thesis in some form. Beardsley’s version, however, seems open to counter-example. Consider Tony Morrison’s Beloved, for instance, or Cormac McCarthy’s Blood Meridian. Taking pleasure from works designed to cause shock, horror, despair, or moral revulsion may seem perverse; surely, it may seem, such works do not have whatever aesthetic value they have in virtue of any pleasure they give. One way to accommodate such cases is to cast aesthetic pleasure as a higher-order response, that is, a response that depends on lower-order responses, which in some cases might include shock, horror, despair, and moral revulsion (Walton 1993, 508; Levinson 1992, 18). Another way is to broaden the field of experiences that may ground aesthetic value. Though pleasure as a rule grounds aesthetic value, in exceptional cases certain non-hedonic yet intrinsically valuable experiences—which may include horror, shock, despair, and revulsion—may also do so (Levinson 1992, 12; Stecker 2005, 12). The literature refers to this latter, broadened variety of hedonism as aesthetic empiricism; it hasn’t settled on a name for the former variety, but we may call it tiered hedonism, given the varying levels of response it takes aesthetic experience to comprise.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2126,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Yet another objection, anticipated by hedonists, holds hedonism to imply the heresy of the separable experience (Budd 1985, 125). It is a commonplace that for any object bearing aesthetic value nothing other than it can have just the particular value it has, excepting the improbable case in which something other than it has just its particular aesthetic character. The worry is that hedonism, given that it regards aesthetic value as instrumental to the value of experience, implies that for any object bearing aesthetic value something wholly other from it, such as a drug, might induce the same experience and so serve up the same value. The hedonist’s usual reply is to assert that aesthetic experience is inseparable from its object, such that for any aesthetic experience, that experience is just the particular experience it is because it has just the particular aesthetic object it has (Levinson 1996, 22–23; Budd 1985, 123–124; S. Davies 1994: 315–16; Stang 2012, 271–272).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2127,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Actual opposition to hedonism did not materialize until the present century (Sharpe 2000, Davies 2004), and most all of that during the past decade or so (Shelley 2010, 2011, 2019; Wolf 2011; Lopes 2015, 2018; Gorodeisky 2021a, 2021b). Why the opposition took so long to show up is a good question. It is tempting to think its answer resides in the obvious truth of the hedonist’s central premise, namely, that aesthetically valuable objects please us, at least in general. Anti-hedonists, however, have taken no interest in denying this premise. One useful way to think of the dialectic between hedonists and their opponents is to regard each as grasping one horn of an aesthetic version of the Euthyphro dilemma, where hedonists hold things to have aesthetic value because they please and anti-hedonists hold things to please because they have aesthetic value (Augustine 2005/389–391, De vera religione §59; Gorodeisky 2012a, 201 and 2021b, 262). Seen this way, the fact that aesthetically valuable things please tells not at all in favor of the hedonist; indeed, it is precisely this fact that the anti-hedonist thinks the hedonist cannot explain.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2128,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " For instance, Wolf, in the context of an extended, nuanced case against value welfarism, argues that aesthetic hedonism cannot account for the fact that Middlemarch is a better novel than the Da Vinci Code,given that most people apparently like the latter better, presumably because it gives them greater pleasure (Wolf 2011, 54–55; see also Sharpe 2000, 326). The hedonist has a ready reply in the claim that all standard versions of hedonism are now epistemically qualified, that while most people may derive greater pleasure from the Da Vinci Code, a fully informed reader—that is, a reader who gives both texts a correct and complete reading—will not, assuming Middlemarch to be the better novel. But it’s not clear how much appeal to the epistemic qualification ultimately helps the hedonist. The anti-hedonist will want to know what best explains the fact that a fully informed reader will derive greater pleasure from Middlemarch (Wolf 2011, 55; D. Davies 2004, 258–259; Sharpe 2000, 325). Suppose we say that it owes to the fully informed reader’s grasping the superiority of Middlemarch’s structure, the higher quality of its prose, the greater subtlety and depth of its character development, and the greater penetration of the insights it affords (Wolf 2011, 55). Wouldn’t we then be saying that it owes to her grasping the greater aesthetic value of Middlemarch? Wouldn’t that be part of what a fully informed reader is fully informed about?",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2129,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Of course, the hedonist may allow Middlemarch to be aesthetically better because of its superior structure, prose, character development, and insight; to allow this, from her point of view, is simply to allow that these are the elements in virtue of which a fully informed reader will derive greater pleasure. But here it would be good if the hedonist had an argument. Otherwise, the anti-hedonist will rightly wonder how it is that a correct and complete experience of Middlemarch will be an experience of every value-conferring feature of Middlemarch yet not an experience of the value conferred by those features. She will rightly wonder whether the hedonist fails to honor her own commitment to externalism about aesthetic value; she will rightly wonder, in other words, whether the hedonist fails to distinguish between a valuable experience and an experience of value, just as the internalist about aesthetic value fails to distinguish between a coherent and complete experience and an experience of coherence and completeness.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2130,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Earlier we attributed the appeal of hedonism to the apparent ease with which it explains our seeking out objects of aesthetic value. Anti-hedonists take that ease to be apparent merely. Some anti-hedonists, for instance, argue that at least some aesthetically valuable objects offer up pleasure only on condition that we do not seek it (Lopes 2018, 84–86; Ven der Berg 2020, 5–6; see also Elster 1983, 77–85). Lopes puts the point this way:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2131,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Lopes’s choice of example is not arbitrary. There are particular art-critical reasons for thinking that Chardins will frustrate the hedonically motivated viewer (Fried 1980, 92; cited in Lopes 2018, 85), and Lopes is careful to claim that only “some aesthetic pleasures are essential by-products of acts motivated by other considerations” (Lopes 2018, 85). But it’s not as if Lopes’s claim is specific to Chardins. Consider again Wolf’s assertation that most readers take greater pleasure from The Da Vinci Code than from Middlemarch. If that assertion is correct, as it plausibly is, perhaps this is because (a) most readers read for pleasure, and (b) The Da Vinci Code affords pleasure to readers who read for it, whereas (c) Middlemarch withholds pleasure from such readers, affording pleasure instead on readers who read in pursuit of some non-hedonic good.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2132,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " There is an apparent tension, moreover, between the hedonist’s reliance on the epistemic qualification and her claim that pleasure rationalizes our aesthetic pursuits. Consider the less-than-fully-informed reader who overvalues The Da Vinci Code and undervalues Middlemarch. The epistemic qualification is designed to allow the hedonist to explain how this might occur: such a reader takes greater pleasure from The Da Vinci Code, and less (or lesser) pleasure from Middlemarch, than she would were she fully informed. The epistemic qualification, moreover, allows the hedonist to explain why the uninformed reader has aesthetic reason not to undervalue Middlemarch: she is missing out on pleasure that would be hers if only she gave Middlemarch a fully informed reading. But the hedonist struggles to explain why the uninformed reader has reason not to overvalue the Da Vinci Code. If The Da Vinci Code gives the reader greater pleasure when she overvalues it, not only has she no aesthetic reason to be fully informed, she has aesthetic reason not to be. It therefore seems that if pleasure rationalized our hedonic pursuits, we would take ourselves to have reason to experience aesthetic objects in whatever way maximizes our pleasure. To the degree that we instead take ourselves to have reason to experience aesthetic objects completely and correctly—to the degree that we instead take ourselves to have reason to experience aesthetic objects as having the aesthetic values they in fact have—suggests that pleasure is not the aesthetic good we’re after (Shelley 2011).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2133,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But if pleasure is not the aesthetic good we’re after, what is? Part of hedonism’s perceived inevitability over the past century or so has owed to our inability even to imagine alternatives to it. If opposition to hedonism has been slow to materialize, alternatives have been slower still. To date, the only fully realized alternative to hedonism is Lopes’s network theory of aesthetic normativity, articulated and defended in his ground-breaking Being for Beauty: Aesthetic Agency and Value (2018).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2134,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Earlier we noted how Lopes challenges the hedonist on her own terms, objecting that she cannot adequately explain why we seek out objects of aesthetic value, given that aesthetic pleasure is at least sometimes an essential by-product of our seeking after something else (2018, 84–86). Lopes’s deeper challenge, however, targets the hedonist’s very terms. Aesthetic considerations rationalize a very great variety of aesthetic acts, according to Lopes: appreciating objects of aesthetic value is one such act, but so too is hanging a poster one way rather than another, selecting this book rather than that one for a book club, building out a garden this way rather than that, conserving one video game rather than another, pairing this dish with this wine rather than that one, and so on ad infinitum (2018, 32–36). If a theory of aesthetic value is to accommodate such a vast range of aesthetic acts, without singling out any one as more central than the others, it will have to conceive of aesthetic normativity as a species of some very general kind of normativity. Lopes, accordingly, conceives of aesthetic normativity as a species of the most generic form of practical normativity; that aesthetic acts ought to be performed well follows from the premise that all acts ought to be performed well for the simple reason that they are acts (2018, 135–137). As Lopes puts it: “Aesthetic values inherit their practical normativity from a basic condition of all agency—agents must use what they have to perform successfully” (2018, 135). Just which competencies an aesthetic agent may call upon to perform successfully on any given occasion depends on the particular role they happen to be playing in the particular social practice in which they happen to be performing (2018, 135). It is from the fact that all aesthetic activity necessarily takes place within the domain of some particular social practice that the network theory of aesthetic value takes its name (2018, 119).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2135,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " In holding aesthetic agents to be performing the greatest variety of aesthetic acts on the greatest variety of items in coordination with one another, the network theory departs radically from hedonism. But, as Lopes himself observes, the network theory follows after hedonism in one fundamental way: inasmuch as both theories “answer the normative question but offer nothing in answer to the aesthetic question,” both “are consistent with any stand-alone answer to the aesthetic question” (2018, 48). The claim that the normative and aesthetic questions admit of stand-alone answers implies that aesthetic value is a species of the genus value in a standard species-genus relation, such that what makes aesthetic value value has no bearing on what makes it aesthetic and vice-versa. It therefore also implies that aesthetic value is not a determinate of the determinable value, such that what makes aesthetic value aesthetic is very thing that makes it value.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2136,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Do answers to the normative and aesthetic questions stand alone or stand together? If we have not yet registered the urgency of this question, perhaps that is because no one has yet fully articulated, let alone defended, a theory of aesthetic value according to which aesthetic value is a determinate form of value. Such a theory appears to be implicit, however, in Shelley 2011, Watkins and Shelley 2012, Gorodeisky and Marcus 2018, Gorodeisky 2021a, and Shelley 2022. The position common to these authors has been dubbed the Auburn view (Van der Berg 2020, 11). It answers the aesthetic question, and therein the value question, by holding an item’s having aesthetic value to rationalize its appreciation in a distinctively self-reflexive way, such that part of what you perceive when you appreciate an aesthetically valuable item is that it ought to be appreciated as you appreciating it (Shelley 2011, 220–222; Watkins and Shelley 2012, 348–350; Gorodeisky and Marcus 2018, 117–119; Gorodeisky 2021a, 200, 207; Shelley 2022, 12). The network theorist may object that the Auburn view privileges acts of appreciation as surely as hedonism does, but such an objection, from the Auburn perspective, begs the question. It is in assuming that the normative and aesthetic questions admit of stand-alone answers that the network theorist grants herself the freedom of passing on the aesthetic question, and it is in passing on the aesthetic question that she grants herself the freedom of treating each of a very great variety of aesthetic acts as equally central. It is in assuming that aesthetic value is a determinate of the determinable value, meanwhile, that the Auburnite places herself under the necessity of answering the aesthetic question, and it is in seeking an answer to the aesthetic question that she places herself under the necessity of singling out appreciation as aesthetically central. The network theorist and the Auburnite agree that the aesthetic question deserves an answer sooner or later (Lopes 2018, 46). They disagree, crucially, about whether it deserves an answer sooner rather than later.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2137,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The network theory and the Auburn view hardly exhaust the options for non-hedonic theories of aesthetic normativity: Nguyen 2019, Matherne 2020, Peacocke 2021, Kubala 2021, and Riggle 2022 all represent promising new directions. Yet every new theory of aesthetic value, hedonic or not, must follow after the network theory or the Auburn view in regarding answers to the normative and aesthetic questions as stand-alone or stand-together. A lot hangs on the decision to follow one path rather than the other. Perhaps it’s time we attend to it.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2138,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " -->aesthetics: and the philosophy of art--> | -->existentialist-aesthetics--> |  aesthetics: 19th Century Romantic |  aesthetics: aesthetic judgment |  aesthetics: British, in the 18th century |  aesthetics: environmental |  aesthetics: French, in the 18th century |  aesthetics: German, in the 18th century |  aesthetics of the everyday |  Beardsley, Monroe C.: aesthetics |  Collingwood, Robin George: aesthetics |  Croce, Benedetto: aesthetics |  Dewey, John: aesthetics |  feminist philosophy, interventions: aesthetics |  Gadamer, Hans-Georg: aesthetics |  Goodman, Nelson: aesthetics |  Hegel, Georg Wilhelm Friedrich: aesthetics |  Heidegger, Martin: aesthetics |  Hume, David: aesthetics |  Japanese Philosophy: aesthetics |  Kant, Immanuel: aesthetics and teleology |  Plato: aesthetics |  Schopenhauer, Arthur: aesthetics |  Wittgenstein, Ludwig: aesthetics ",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2139,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Copyright © 2022 by   James Shelley &lt;shelljr@auburn.edu&gt;     ",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2140,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": "View this site from another server:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2141,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2142,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2143,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Understanding romantic aesthetics is not a simple undertaking for reasons that are internal to the nature of the subject. Distinguished scholars, such as Arthur Lovejoy, Northrop Frye and Isaiah Berlin, have remarked on the notorious challenges facing any attempt to define romanticism. Lovejoy, for example, claimed that romanticism is “the scandal of literary history and criticism” (1960: 234). The main difficulty in studying the romantics, according to him, is the lack of any “single real entity, or type of entity” that the concept “romanticism” designates. Lovejoy concluded, “the word ‘romantic’ has come to mean so many things that, by itself, it means nothing” (1960: 235).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2144,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The more specific task of characterizing romantic aesthetics adds to these difficulties an air of paradox. Conventionally, “aesthetics” refers to a theory concerning beauty and art or the branch of philosophy that studies these topics. However, many of the romantics rejected the identification of aesthetics with a circumscribed domain of human life that is separated from the practical and theoretical domains of life. The most characteristic romantic commitment is to the idea that the character of art and beauty and of our engagement with them should shape all aspects of human life. Being fundamental to human existence, beauty and art should be a central ingredient not only in a philosophical or artistic life, but also in the lives of ordinary men and women. Another challenge for any attempt to characterize romantic aesthetics lies in the fact that most of the romantics were poets and artists whose views of art and beauty are, for the most part, to be found not in developed theoretical accounts, but in fragments, aphorisms and poems, which are often more elusive and suggestive than conclusive.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2145,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Nevertheless, in spite of these challenges the task of characterizing romantic aesthetics is neither impossible nor undesirable, as numerous thinkers responding to Lovejoy’s radical skepticism have noted. While warning against a reductive definition of romanticism, Berlin, for example, still heralded the need for a general characterization:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2146,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " [Although] one does…have a certain sympathy with Lovejoy’s despair…[he is] in this instance mistaken. There was a romantic movement; it did have something which was central to it; it did create a great revolution in consciousness, and it is important to discover what it is. (1999: 20) ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2147,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Recent attempts to characterize romanticism and to stress its contemporary relevance follow this path. Instead of overlooking the undeniable differences between the variety of romanticisms of different nations that Lovejoy had stressed, such studies attempt to characterize romanticism, not in terms of a single definition, a specific time, or a specific place, but in terms of “particular philosophical questions and concerns” (Nassar 2014b: 10, n.9).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2148,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This entry approaches the topic along similar lines in order to identify a cluster of related questions, concerns, themes, and approaches that are characteristics of the aesthetics of various romanticisms, and in order to bring out what is “romantic” in them. In lieu of a chronological, geographical, national, or figure-based organization, the following is structured thematically—it focuses on the central romantic commitment to the primacy of aesthetics (introduced in  §1),  and offers different philosophical explanations of this primacy (in the remaining sections).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2149,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " While the German, British and French romantics are all considered, the central protagonists in the following are the German romantics. Two reasons explain this focus: first, because it has paved the way for the other romanticisms, German romanticism has a pride of place among the different national romanticisms (cf. Lovejoy 1960 and Berlin 1999). Second, the aesthetic outlook that was developed in Germany roughly between 1796 and 1801–02—the period that corresponds to the heyday of what is known as “Early Romanticism”  [Frühromantik][1]—offers  the most philosophical expression of romanticism since it is grounded primarily in the epistemological, metaphysical, ethical, and political concerns that the German romantics discerned in the aftermath of Kant’s  philosophy.[2]  The entry elaborates on these concerns and explains how they shed light on the romantic understanding of beauty and art as fundamental in human life.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2150,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " One common concern strikingly unifies otherwise different romantic contributions. Early and late, German, British and French, the romantics advocated what may legitimately be called “the primacy of the aesthetic”. In romanticism, the “aesthetic”—most broadly that which concerns beauty and art—is not just one aspect of human life or one branch of the humanistic studies. Rather, if the romantic ideal is to materialize, aesthetics should permeate and shape human life. Friedrich Schlegel, one of the leading figures in Early German Romanticism, put this idea in a few memorable phrases: “The Romantic imperative demands [that] all nature and science should become art [and] art should become nature and science” (FLP: #586); “poetry and philosophy should be united” (CF: #115), and “life and society [should be made] poetic” (AF: #16).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2151,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Schlegel is not alone on this matter. Similar sentiments and slogans had been expressed just a little earlier in what is commonly regarded as the manifesto of German romanticism, The Oldest Programme: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2152,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The idea that unites everyone [is] the idea of beauty…I am now convinced that the highest act of reason, by encompassing all ideas, is an aesthetic act, and that truth and goodness are siblings only in beauty. (Hölderlin, in Bernstein 2003:  186).[3]",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2153,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The British romantics have taken up and developed this view that the aesthetic is the foundation of knowledge and the pursuit of truth. “‘Beauty is truth, truth beauty,’—that is all//Ye know on earth, and all ye need to know”, Keats famously declared in the Ode on a Grecian Urn ([1820] lines 49–50, PJK). And in the Preface to Coleridge and Wordsworth's Lyrical Ballads (1800), we read, “Poetry is the first and last of all knowledge—it is as immortal as the heart of man” (paragraph 20, in PWWW, I, p. 141).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2154,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " How is this core feature of romantic aesthetics, the primacy of the aesthetic, to be explained?",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2155,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " A textually grounded and philosophically viable way to approach the imperative is as a structural or formal demand. On that reading, the imperative requires that we model our epistemological, metaphysical, ethical, political, social and scientific pursuits according to the form of the aesthetic comportment to the world, exemplified in poetry. On such an approach, rather than aiming to replace “real” life, science and philosophy with poetry, the romantics urge human beings to fashion their ordinary lives and to do science and philosophy according to the model provided by poetry. Philosophy, science and everyday life need not be poetry, but poetic or poetry-like. Structurally, they should become similar. Why so? The main task of this entry is to offer an answer to this question and to show that the reasons for “poeticizing” life, science and philosophy are philosophical.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2156,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " For over a century, romanticism has standardly been regarded as a reaction against the Enlightenment (e.g., Haym 1870). The primacy of aesthetics may seem to speak in favor of this story because, on this interpretation, the romantics replaced the Enlightenment’s faith in the sovereignty of reason with a belief in the sovereignty of art and the affective and imaginative capacities that are involved in aesthetic experience. On this traditional interpretation, romanticism is antirationalist or irrationalist. But, while the romantic pursuit of the primacy of aesthetics marks a break with the Enlightenment, regarding romantic aesthetics as antirational or irrational and as antagonistic to the core Enlightenment values is unjustified for a host of reasons (cf. Beiser 2003, Engell 1981, Gregory 2005).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2157,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " First, the romantics’ focus on and praise for rational and autonomous criticism is continuous with the Enlightenment’s commitment to the value of rational criticism. Admiring Goetthold Ephraim Lessing’s ideal of criticism and his devotion to independent thinking, Friedrich Schlegel writes, “critique is the common pillar on which the entire edifice of knowledge and language rests” (Critique: 271). Rather than discontinuing the Enlightenment’s call to submit every belief and every action to the authority of rational criticism, the romantics are responsible for continuing “the age of criticism”—which is usually taken to characterize the eighteenth century—well into the nineteenth century. In that sense, they are the “children” of the Enlightenment.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2158,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Second, many of the core features of romantic aesthetics in addition to criticism—like the relation between beauty, truth and goodness, the pursuit of unity among variety and the significance of the imagination and the sublime—would have been impossible independently of key Enlightenment thinkers.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2159,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Third, the romantic elevation of aesthetic feeling and the creative imagination did not come at the price of their faith in and respect for reason. Even Friedrich Schlegel, who is often considered to be the most enthusiastically inclined romantic, opened his Lectures on Transcendental Philosophy by arguing that philosophy is “a striving towards a knowledge…of the whole person” (ITP: 241). In one of his fragments, he commanded: “Never tire of cultivating the intellect until you will have finally found what is original and essential” (Ideas: #124). And yet in another fragment, he claimed that one of the two centers of genuine philosophy is “the rule of reason” (Ideas: #117).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2160,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Such proclamations challenge the alleged break between the Enlightenment and romanticism as much as they challenge another standard interpretation of romanticism, one that takes it to be a direct outgrowth of Sturm und Drang, a counter-Enlightenment movement that flourished in the 1760s and 1770s. Briefly, this response to the Enlightenment, expressed in works of literature, theatre, music and the plastic arts, heralded individual subjectivity and the free expression of unconstrained feelings as the proper replacements for the values of the Enlightenment.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2161,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " No doubt, the romantics shared with this movement the belief in a call “back to feeling”. But regarding romanticism as simply a continuation of Sturm und Drang finds no grounding in romantic texts. In his review of Friedrich Jacobi, one of the main sources of influence on Sturm und Drang, Schlegel declared, “Only when striving toward truth and knowledge can a spirit be called a philosophical spirit” (Review of Jacobi’s Woldamer, KA II: 71–2). In the same review, Schlegel harshly criticized what is known as Jacobi’s salto mortale or “leap of faith”: this is Jacobi’s view that the only way to salvage our ethical and religious beliefs, in the face of the limitations of the Enlightenment, is to renounce reason in favor of mere sensation and faith. In contrast to Jacobi, the German romantics never attempted to replace reason with faith, sensation, unconstrained feeling or intuition. Instead, they wished to bring out the rationality of the passions and the passionate nature of reason as part of a unified and balanced picture of human life. Rather than a straight development of Sturm und Drang, then, romanticism is better understood as an attempt to synthesize the grain of truth in the movement with the grain of truth in the philosophy of Enlightenment, or simply put, to synthesize reason and sensibility.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2162,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Similarly, the British and French romantics did not mean to dismiss reason and replace it with passion and imagination, but strived after “a conjunction of reason and passion” (Wordsworth, “Essays on Epitaphs 1810” in PWWW). Accordingly, what Coleridge, for example, admired in Wordsworth was not imagination and feeling alone, but ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2163,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " the union of deep feeling with profound thought; the fine balance of truth in observing with the imaginative faculty in modifying the objects observed. (Coleridge, BL: Ch. 4)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2164,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The romantics, then, sought to supplement but not to supplant reason with the receptive capacities of the mind, primarily with the capacities involved in aesthetic apprehension and artistic production. They extended Kant’s renowned view of concepts and intuitions, suggesting that reason without feeling is empty and feeling without reason is blind. Without the former, human beings would be reduced to mere animality; without the latter they would lose their humanity:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2165,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " We cannot deny the drive to free ourselves, to ennoble ourselves, to progress into the infinite. That would be animalistic. But we can also not deny the drive to be determined, to be receptive; that would not be human. (Hölderlin, Hyperion, HSA 3:194)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2166,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " For the romantics, our receptive and spontaneous capacities could only be abstracted in thought, but not separated in reality: “Action and passion are inseparable as north and south” (Novalis, FS: #317). Human dignity is grounded in rational and normatively constrained receptivity just as much as it is grounded in spontaneity. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2167,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The restless striving after activity, the highest criterion of judgment, does not exclude all the virtues of receptivity but can only exist with them. (F. Schlegel, KA 12: 130)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2168,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Rather than dismissing the role and the significance of reason as such, the romantics challenged merely certain uses of reason—for example, dogmatic uses of reason, the laying down of absolute foundations, and system-building. And in a Kantian manner, they were concerned to expose the limits of reason and constrain its uses to legitimate boundaries. But even the romantic exposure of limits is, as it were, “aesthetic”. “Aesthetic?” one may ask. Yes, aesthetic in the sense that some of the romantic central devices for exposing the limits of reason are (originally) “aesthetic”, “artistic” or “literary”. “Romantic Poetry” is one such device and “Irony” is another.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2169,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " “Romantic Poetry” is a notion that Friedrich Schlegel coined and described in most detail in Athenaeum Fragments (AF) number 116. Rather than a particular genre or kind of poetry, Romantic Poetry is poetry as such insofar as “all poetry is or should be romantic” (Schlegel, AF: #116). Romantic Poetry brings out the limits of reason in virtue of being reflective, “[hovering] on the wings of poetic reflection, and [capable of raising] that reflection again and again to a higher power” (AF: #116). Rather than being merely the “portrayed” object itself—a poetic representation—it “hover[s] at the midpoint between the portrayed and the portrayer” (AF: #116), and so, like Kant’s transcendental philosophy, reflects on the conditions of its own possibility and of human mindedness itself. It is not surprising, then, that Romantic Poetry is called “transcendental” poetry: “a poetry and a poetry of poetry” (AF: #238). Goethe’s Wilhelm Meister, a romantic favorite, manifests this dual reflective and substantive nature: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2170,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " It was so much the poet’s intentions to set up a comprehensive theory of art or rather to represent one in living examples and aspects.…This might suggest that the novel is as much an historical philosophy of art as a true work of art, and that everything which the poet so lovingly presents as his true aim and end is ultimately only means. But that is not so: it is all poetry, high, pure poetry. (F. Schlegel, WM: 274)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2171,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The transcendental nature of romantic poetry suggests that it does not transcend merely the boundaries of a particular genre, but even the boundaries of the literary as such. Romantic Poetry is poetry as much as it is a philosophical method and a vital approach to human life. It is a creative and reflective human power, manifested in the theoretical, practical and aesthetic aspects of life: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2172,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " transcendental poetry…really embraces all transcendental functions…. The transcendental poet is the transcendental person altogether. (Novalis, Logological Fragments: #41)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2173,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Romantic poetry is not alone in exposing the conditions of finite existence, but accompanied by an ironic way of living. Irony is a mode of self-restriction, whose “value and dignity” as a crucial dimension of human life, must be recognized (F. Schlegel, CF: #28). Irony is the balance between “self-creation and self-destruction” (CF: #28), which means that irony is creative—it is constructive of its own perspective on the world. But at the same time, it is also “destructive” of the pretensions implicit in any perspective—the pretention to be holistic. Irony thus presents its perspective as restricted—as only one among many different perspectives on the unconditioned whole. Accordingly, what romantic irony insists on through its restricting function is (a) the conceptual inaccessibility of the “Absolute” (explained in  §3),  and (b) what is known as “perspectivism”—the view that human beings are capable only of finite and limited perspective on the universe as a whole. Being ironic is a way of consciously and intentionally bringing out the fragmentary nature of the human situation as lacking a “view from nowhere”.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2174,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Like Romantic Poetry, irony is not merely a literary or even a rhetorical device. Nor is it a purely theoretical method. Rather, in a Socratic spirit, romantic irony is a way of life. For it is, ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2175,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " after all, for the artist as well as the man, the first and the last, the most necessary and the highest duty…most necessary because wherever one does not restrict oneself, one is restricted by the world; and that makes one a slave. (CF: #37) ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2176,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Everyone, then, not only the writer, should be ironic. For, as exposing our finitude, irony is not only another romantic analogue of Kant’s transcendental method—the antidote to reason’s natural but spurious tendency to transcend its limits—but also an existential condition of humility (On irony see also CF: #26, #42, #48, 108; AF: 51, 121; and On Incomprehensibility).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2177,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The romantic use of irony was sharply criticized, most famously by Hegel, as free floating form of subjectivity. But not only does this criticism fail to do justice to the romantic insistence that irony itself is a form of self-constraint, but also to the imperative: “Don’t exaggerate self-restriction” (F. Schlegel, CF: #37). This demand to constrain and regulate self-restriction itself is of equal importance to the demand to practice irony. Rather than a free floating form of subjectivity, then, romantic irony is a constrained, and normatively governed form of life, meant to expose the limits of reason and facilitate a life of humility (cf. Rush 2006: 187). Romantic irony is a commitment to the form of life that is governed by the acknowledgement of finitude; a “transcendentally-Socratic” life of humility.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2178,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Accordingly, rather than an irrational or an anti-Enlightenment stance, romantic aesthetics is marked by a respect for and devotion to reason and rationality “within their bounds”.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2179,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Even a cursory glance through the writings of the romantics assures the reader that their interest in art and aesthetics is closely tied to their epistemological and metaphysical concerns. The primacy that the romantics attributed to aesthetics is explained by (but is not reduced to) the roles that art and beauty may play in the pursuits of epistemic and metaphysical goals. One such goal concerns what the German romantics, and following them, Coleridge, called the “Absolute” [das Absolute].",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2180,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Briefly, this is how this explanation goes: in the aftermath of Kant’s philosophy, the romantics were concerned with the Absolute, understood as the unconditioned totality of all conditions. Like Kant, they believed that such an unconditioned totality is inaccessible to discursive reason and is, to that extent, unknowable to human beings. But reason’s natural drive towards this “Absolute” is nonetheless significant and valuable  (§3.1).  In aesthetics they found a mode of life that best approximates (even if never reaches or grasps) the Absolute, insofar as the aesthetic approach to artworks (a) includes indeterminate affective aspect  (§3.2),  (b) involves a sui generis normativity, constituting its own norms in attunement with the artwork it faces  (§3.3),  (c) is particularly suited to approach individual unities  (§3.4),  and (d) is open-ended  (§3.5).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2181,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Most broadly, by the “Absolute”, the romantics refer to the unconditioned totality of all conditions. While the absolute itself is conditioned by nothing, it conditions all the finite physical and mental manifestations of the world. Inspired by Kant’s discussion of omnitudo realitatis—“All of Reality”—and by Spinoza’s all encompassing “substance”, the romantic Absolute is a whole, rather than an aggregate, that encompasses everything else, physical and mental: “Only the whole is absolute” (Novalis, AB: #454); “The universe is the absolute subject, or the totality of all predicates” (AB: #633). Metaphysically, every finite thing is merely one manifestation of an unconditional totality: only a single perspective on the whole. It is thus ultimately finite but also infinite, as part and parcel of the infinite whole.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2182,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This notion of the Absolute is not distinctively romantic. The German Idealists, Fichte, Schelling, and Hegel, were also concerned with related conceptions of the Absolute. But the romantic treatment of the Absolute is distinctively different from the idealistic one. And it is the distinctive romantic treatment of the Absolute that explains much in romantic aesthetics: While the idealists took the Absolute to be transparent to the human mind, conceptually representable, and inferentially related to other items of knowledge, the romantics regarded it as (1) ungraspable by concepts (i.e., as “non-discursive”) and (2) as non-foundational.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2183,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Following Kant, the romantics believed that all knowledge is discursive: knowing requires conceptualization. But since concepts condition everything that might be known by determining it to be one way or another according to the forms of discursive thought, the Absolute, by its very definition as unconditioned, cannot be known. ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2184,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Knowledge [Erkennen] already denotes conditioned knowledge. The unknowability of the absolute is, therefore, an identical triviality. (F. Schlegel, KA 18: 511, #64)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2185,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The romantics further argued that the attempt to ground the whole edifice of knowledge in the Absolute—familiar to them from Fichte’s project, which they both admired and harshly criticized—is futile. Like Kant, they believed that reason’s natural and necessary drive to proceed towards the unconditioned can never be fully realized. The unconditioned totality of experience is “a regulative idea” (Novalis, FS: #472): it cannot serve as a systematic grounding of experience. As Novalis memorably puts it: ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2186,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " We seek the unconditioned [Das Ubedingte] and always find only [conditioned] things [Dinge]. (Blüthenstaub, NS 2: 413, #1)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2187,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Skeptical as they were about the discursive accessibility of the Absolute and about its capacity to ground all knowledge, the romantics never questioned either its existence or the worth of (open-endedly) striving after it:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2188,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Neither our knowledge nor our action can ever attain the point at which…. All is one; the determinate line can be united with the indeterminate only through an infinite approximation [in unendlicher Annäherung] (Hölderlin, “Hyperion”, HSA 3: 326).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2189,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Therefore, philosophy, whose first theorem is “All is One and One is All” (F. Schlegel, ITP: 244), must be “a striving” (ITP: 244). Even though philosophy cannot systematically deduce all knowledge from the Absolute, it must nonetheless pursue its approximation. But if not through concepts, how can one approximate the Absolute?",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2190,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This is where aesthetics comes into the picture. Although scholars of romanticism disagree about the exact nature of the romantic approximation of the  Absolute,[4]  they widely agree that it includes a variety of feelings associated with the aesthetic, like aesthetic pleasure, poetic feeling, “longing for the infinite [Sehnsucht nach dem Unendlichen]” and “love”, and that it depends on the deployment of critical notions like “romantic poetry”, wit, irony, allegory, myth and the creative imagination:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2191,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " If we abstract from all knowledge and will…we still find something more, that is feeling and striving. We want to see if we will perhaps find something here that is analogous to the consciousness of the infinite…. (F. Schlegel, ITP: 244–45).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2192,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Poetry elevates each single thing through a particular combination with the rest of the whole, [by allowing] the individual [to] live in the whole and the whole in the individual. (Novalis, Poësie, NS 2: 533, #31).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2193,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The romantics believed that these aesthetic and affective attitudes make it impossible for us to deny that there is something “which is not I, nor comes from the I, and which is also not merely a Non-I” (F. Schlegel, Thoughts, KA 18: #83). Baudelaire summarizes these romantic sentiments, declaring, ",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2194,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " The one who says romanticism says modern art—which is to say intimacy, spirituality, color, aspiration towards the infinite—expressed by all the resources of art. (Salon of 1846 [1981])",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2195,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " What is it about the aesthetic engagement with art and beauty that is particularly suitable for approximating the Absolute? The rest of this section will develop a few possible answers to this question.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2196,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " In the introduction to the Critique of the Power of Judgment, Kant writes that the feeling of pleasure in general, and aesthetic pleasure in particular, is the only representation that can never “become an element of cognition at all” (AK 5: 189).",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2197,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " One might think that feelings are thus placed outside of rationality. But this would be a mistake. On Kant’s picture, aesthetic feeling is rational insofar as it is grounded in a universal mental state that underlies our capacity to judge in general (the free play of the imagination and the understanding), and insofar as it is, through this mental state, responsive to the claims that beautiful objects make on everyone’s satisfaction (AK 5: 282). Rationality, then, is irreducible to cognition both in the Kantian framework and in its romantic inheritance. Aesthetic feeling is rational because of its ground and responsiveness to a claim, but non-cognitive insofar as it cannot be subsumed under concepts. Feeling does not determine any concrete property that its object has independently of subjectivity (as cognition would), but is rather responsive to a relation between a subject and an object. Aesthetic pleasure, particularly, is a non-determining mode of reflecting on the relation, not between a particular subject and a particular object, but between subjectivity and objectivity as such.",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2198,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " This rational but non-cognitive nature of feeling, in general, and of aesthetic feeling, in particular, is perhaps the central feature that renders aesthetic feeling an attractive ingredient in addressing the epistemic and metaphysical concerns that occupied the romantics. For while all cognition is determination through concepts, Kant’s aesthetics suggests a mode of reflective awareness that is not determining, but yet a way of being aware of and responsive to aspects of the world. This is exactly what the romantics have been looking for—a non-discursive, but rational and normatively governed mode of awareness. And they found it in poetry, regarding it as grounded in feeling:",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2199,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetics-19th-romantic/",
+        "text": " Not art and artworks make the artist, but feeling and inspiration and impulse. (F. Schlegel, CF: #63)",
+        "category": "aesthetics-19th-romantic"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

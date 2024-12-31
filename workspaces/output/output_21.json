@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2000,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " These questions are complicated further by Sextus’ attempt to incorporate diverse material, such as different sets of Modes, into his skepticism. According to recent interpretations, the different sets of modes are part of an integrated philosophical approach (Powers 2010). Morison (2018) argues that the Ten Modes and Five Modes both serve the same purpose: to produce equal and opposing arguments to arguments in support of philosophical or scientific views. Arguably, two kinds of consistency are at work in Sextus’ writings. On the one hand, Sextus aims at the consistency of one philosophical outlook. On the other hand, he aims at the consistency of having a response to every objection. These two aims overlap greatly, but they can also come apart. A given argument might refute a particular critic. This argument may go back to various earlier versions of Pyrrhonism. Similarly, the critical objection that is refuted may be traced to dogmatic theories formulated over the course of several centuries. As a result, a given argument in Sextus may be effective against a given objection he has in mind. It may thus preserve consistency in the sense of leaving the skeptic unharmed by dogmatic criticism. But at the same time, this argument may have implications that are in tension with the way in which Sextus explains skepticism in other passages. Such tensions are particularly important with respect to the way in which Sextus uses core concepts. For example, it is not clear that Sextus uses the notion of appearances (phainomena) in a consistent fashion (PH 1.8–9; 1.15; 1.22; for the view that Sextus employs the notion consistently throughout, see Barney 1992). At times, he draws on the contrast between appearances and thoughts (noumena). But for the most part, the term refers to all cases where something seems so-and-so to the skeptic, either perceptually or in thought. In some contexts, Sextus draws on the idea that appearances are impressions, invoking the dogmatic assumption that impressions are passive. In other contexts, he does not envisage appearances as entirely passively experienced (Vogt 2012b).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2001,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " It is thus no surprise that the interpretation of Sextus’ Pyrrhonism is quite controversial. This applies in particular to the question of whether the skeptic has any beliefs, or beliefs of any kind. In the past 40 years, scholars have paid attention to this question more than to any other interpretive issue. Insofar as the texts may contain different strands of Pyrrhonian argument, exegesis is to some extent shaped by the philosophical interests we bring to the texts. Two ideas are particularly prominent here. First, some scholars find in Sextus an account of action that challenges standard ancient and modern theories of agency. These theories might portray ordinary agents as all-too-rational, as if every action involved an actively formed belief that such-and-such is good. Scholars explore how far we can draw on Sextus, asking whether a life guided by appearances (as Sextus says the skeptic’s life is) might after all be rather ordinary (Frede 1979 [1997]). Second, one might on the other hand embrace those aspects of Sextus’ texts that make Pyrrhonism look radically different from ordinary life. From this perspective, Sextus’ writings invite reflection on the question of whether it would be possible to live without belief (Burnyeat 1980 [1997]; Barnes 1982 [1997]; Burnyeat 1984 [1997]).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2002,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " PH 1, which figures most prominently in scholarly discussions, is a tour de force. Sextus gives a general account of what skepticism is, including skeptical investigation, suspension of judgment, the skeptic’s end, action, and language; he gives lists and illustrations of various sets of Modes; he explains the so-called skeptical formulae (phônai), such as “I determine nothing,” “non-assertion,” “maybe,” and so on; and he compares skepticism to relevantly similar philosophies.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2003,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Sextus emphasizes that the skeptic is an investigator. Others either arrive at theories (dogmatism) or at claims about inapprehensibility (negative dogmatism—that the matter investigated is beyond one’s capacity to decide, and so is unknowable). But the skeptic continues to investigate (PH 1.1–4). Investigation is described as setting appearances and thoughts into opposition (PH 1.8) (Morison 2011 offers a reconstruction of skepticism that takes its starting–point from this description), and as the application of the various sets of Modes (PH 1.36–186). Skepticism does not have teachings, but it is an approach in philosophy (Smith 2022). Many of the thoughts the skeptics arrive at are expressed in the skeptical formulae (PH 1.13–15; 187–209). The starting–point (archê) of skepticism is divergency—anômalia. The proto-skeptics are disturbed by the discrepancies they encounter, and begin to investigate (PH 1.12). They hope to gain quietude by settling what is true and what is false. But then they have a surprising experience. Encountering disagreement where several views appear to be of equal weight (isostheneia), they find themselves unable to decide things, give up, and experience tranquility (ataraxia) (Striker 1990 [1996]; Nussbaum 1994). The skeptic’s end (telos) is tranquility in matters of belief (kata doxan) and moderate affection (metriopatheia) in matters that are forced upon us (PH 1.25–29). That is, skeptics can free themselves from those kinds of turmoil that come with holding beliefs. They cannot free themselves from freezing, thirst, or pain. But they suffer less than others, for they do not add the belief (prosdoxazein) that, for example, pain is bad. The skeptic must explain how, without belief (adoxastôs), they can be active. Sextus says that skeptics follow appearances, and that is, that they adhere to the fourfold ways of life (PH 1.21–24). Nature supplies them with perception and thought; necessary affections compel them (for example, thirst guides them to drink); they go along with traditions and customs; and they can do technical things by having been instructed in skills. The notion of appearances is also central to Sextus’ account of how the skeptic can speak. Without making assertions, a skeptic reports (apangellein) like a chronicler (historikôs) what appears to them now (PH 1.4).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2004,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " I shall discuss the following aspects of Sextus’ skepticism: (i) investigation and tranquility, (ii) concepts and inference rules, (iii) belief, (iv) the formulae, (v) appearances, (vi) language, (vii) action, and (viii) the so-called special arguments (that is, arguments that do not explain the nature of Pyrrhonism, but engage with specific dogmatic theories in logic, physics, and ethics).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2005,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (i) Investigation and tranquility. Investigation must aim at discovery of the truth, otherwise it is not genuine investigation. However, a skeptic seems to mechanically apply the skeptical Modes, in order to generate suspension of judgment and tranquility. Scholars disagree on whether the skeptics genuinely aim at the truth (Palmer 2000; Striker 2001; Perin 2006; Veres 2020b), while they (also) aim at tranquility. Note that this objection, unlike the other problems central to contemporary engagement with ancient skepticism, was not raised in antiquity. If ancient skepticism is approached in the context of the larger study of ancient philosophy, we might first of all note that the skeptics in a sense agree with Socrates, Plato, Aristotle, Epicurus, and the Stoics. All these philosophers defend, in so many formulations, a life of reason, of contemplation, of wisdom, or of inquiry as the best or at least a very good human life (on affinities between the skeptics’ commitment to inquiry and Aristotle, cf. Olfert 2015). The objection that skeptical inquiry seems insincere, then, may not have come up in antiquity in quite the way in which it is discussed today because a commitment to inquiry would be common ground among most philosophers. Further, we might observe that aiming at the truth includes two aims: to accept truths, and to avoid falsehoods. The Modes are tailored to keep us from assenting to something that could be false. Insofar as the skeptic’s effort to avoid falsehoods expresses a valuation for the truth, the skeptic might be a genuine investigator (Vogt 2012a, ch. 5; Olfert 2014).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2006,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " A related objection calls into question the actual practice of skeptical inquiry. Does Sextus rely on the assumption that, in any given case of putting several arguments into opposition, these arguments are equally persuasive for the skeptic? This seems unrealistic: at least in some cases, skeptical inquirers are bound to be more strongly attracted to one view than to another. How then do they arrive at suspension of judgment? One skeptical strategy is to remind oneself that additional arguments will be formulated in the future (PH 1.33–34, 89, 96–97; 2.38–41; 3.233–34). Another strategy is to consider that different arguments are persuasive to different people (Svararsson 2014). Relatedly, skeptics may find themselves in a position comparable to a student who takes a seminar on freedom and determinism: it is possible to be more attracted to one view rather than another, and at the same time be aware that as far as the arguments are concerned, there is unresolved disagreement among several views, to the effect that neither of the views seems compelling in ways that warrant assent (cf. Vogt 2012a, ch. 5, on how the skeptical expression “as far as the argument is concerned” bears on this question; for general discussion of this expression, cf. Brunschwig 1990).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2007,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (ii) Concepts and rules of inference. If skeptics do not assent, then how can they understand the terms philosophers use (M 8.337–332a)? Even more radically, how can they even think (PH 2.1–12)? This objection, which Sextus says is continually raised against the skeptics, proceeds on the assumption that possession of concepts involves the acceptance of assumptions. For example, in order to examine a given theory of proof, the skeptic must have a notion of what proofs are. This involves assumptions: for example, the assumption that a proof contains premises and a conclusion. Sextus’ response to this objection invokes the Epicurean and Stoic theories of preconceptions. Human beings are not born with reason (Frede 1994, 1996). The acquisition of reason is a nature-guided process of concept acquisition. At a given age, children have completed this process. They have become rational, which means that they can perceive and think in a conceptual way. Only now, they have rational impressions to which they can assent. The acquisition of preconceptions did not involve assent, simply because the child was not yet rational (Brittain 2005).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2008,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Sextus invokes dogmatic ideas about the acquisition of reason (or: the abilities of conceptual thought) in his response to the Apraxia Charge (PH 1.23–4). Skeptics are, first of all, active because nature has equipped them with perception and thought (Vogt 1998, 2010). More generally, the skeptics’ ability to think and investigate depends on the fact that they have acquired concepts as part of growing up. This process did not involve assent, and accordingly, Sextus argues that the skeptic’s ability to think does not violate suspension of judgment (cf. Brunschwig 1988; Vogt 2012a ch. 6; Grgic 2008; Fine 2011). It is conceivable, though, that the skeptic’s ability to understand involves some knowledge, namely a kind of knowledge that does not entail any belief (Corti 2009, part III; Corti 2015). This option appears counterintuitive given today’s premises in epistemology, according to which someone who knows that p also believes that p. The relevant notion of belief in skeptical discussions, doxa, as well as the relevant ancient notions of knowledge, however, may behave quite differently (cf. Vogt 2012a and Moss and Schwab 2019 on belief; Burnyeat 1980c, Frede 2008 and Schwab 2016 on knowledge). Insofar as doxa is an inherently deficient activity and attitude, and insofar as knowledge is conceived in elevated ways, knowledge without belief is a rather intuitive option within ancient epistemology. If understanding concepts and arguments involves knowledge that does not entail beliefs, the skeptics may be taken to have such knowledge. Modern critics raise the further question of whether the skeptic must endorse logical laws (such as the Principle of Non-Contradiction) and rules of inference. In particular, they ask whether a skeptic is committed to the logical validity of the conditionals they formulate when arguing against the dogmatists (Sorensen 2004). Sextus records no ancient version of this complaint, and accordingly no direct response. Relatedly, one may ask whether Sextus’ method, in particular regarding the Five Modes, is systematic in a way that is in tension with suspension of judgment (cf. Sienkiewicz 2021, who defends Sextus against this charge).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2009,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (iii) Belief. Bury, in his Loeb translation, translates adoxastôs as “undogmatically,” for example, when Sextus speaks (PH 1.15) of skeptics as saying that “nothing is true.” This translation suggests that Sextus bans dogmatism from the skeptic’s life, where this still leaves room for other, non-dogmatic beliefs. But adoxastôs means non-doxastically or ‘without belief’ (cf. Burnyeat 1980 [1997]). As noted above, the skeptic’s end is tranquility in matters relating to belief—kata doxan. A skeptic lives adoxastôs. And even more confusingly, the skeptics assent adoxastôs, when they act.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2010,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Contemporary interest in Pyrrhonian skepticism was much spurred by Michael Frede’s paper “The Sceptic’s Beliefs” (1979 [1997]). Frede argues that ancient skepticism was traditionally dismissed too easily as vulnerable to the Apraxia Charge, the charge that, without belief, the skeptic cannot act. The skeptics seem to be confident that they have replies to this objection. Thus, it seems uncharitable not to look closely at these replies. Further, insofar as these replies respond to the charge that without belief one cannot act, we should focus on what the skeptics say about the role of belief in their lives. Frede cites PH 1.13, and claims that in this passage we find a distinction between two kinds of belief:",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2011,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Following Frede, several scholars focus on PH 1.13 when discussing skeptical belief (with the notable exceptions of Barnes 1980 [1997] and Barney 1992). They take it to be obvious that, in this paragraph, Sextus distinguishes between two kinds of belief, one which he bans from the skeptic’s life, and one which he allows into the skeptic’s life. Barnes (1982 [1997]) employs a distinction between rustic and urbane skepticism. The rustic skeptic suspends on all matters. The urbane skeptic suspends on scientific matters, but holds ordinary beliefs. The clause “non-evident matters investigated in the sciences” in PH 1.13 might be taken as a point of reference for the urbane interpretation. However, Barnes points out that this cannot be right. Everything can be considered as a non-evident matter, even such things as whether honey is sweet.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2012,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Against Barnes, Frede argues that the relevant distinction must be drawn between two kinds of assent, such that “having a view involves one kind of assent, whereas taking a position, or making a claim, involves another kind of assent, namely the kind of assent the sceptic will withhold” (1984 [1997], 128). Sextus characterizes skeptical assent in three ways. He speaks of forced assent (PH 1.23–24), involuntary assent (PH 1.19), and adoxastôs assent (PH 2.102). Frede does not explore the details of how Sextus uses these notions. The core of his proposal is that Sextus allows for a kind of assent that does not involve a claim as to how things are in actual fact.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2013,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " In (1979 [1997]), Frede is predominantly concerned with the skeptic’s reply to the Apraxia Charge. In (1984 [1997]) his focus is on skeptical pronouncements such as “nothing can be known.” His distinction between two kinds of assent, and accordingly two kinds of belief, is explored with respect to such sentences. Frede writes that “[t]o be left with the impression or thought that p […] does not involve the further thought that it is true that p” (133). This is the sense in which, on his interpretation, the skeptic might think “nothing is known.” The thought counts as a belief, but not as a claim that, in actual fact, nothing is known by anybody. Contrary to Frede’s interpretation, one might argue that to believe simply is to hold true, at least according to the notions of belief that the skeptics invoke in discussions with their contemporary critics (Vogt 2012b). It is thus not clear that Frede’s distinction is genuinely one between two kinds of beliefs (Burnyeat 1980 [1997]). Perhaps it is a distinction between two different propositional attitudes, only one of which is belief. As Striker (2001) points out, there is a danger that debates over this issue become merely terminological. We might thus draw a distinction between two issues. It is one thing to disagree with Frede on what should or should not be called belief, and another to dispute whether he identifies and characterizes a phenomenon in the skeptic’s mental life. As Frede argues, skeptics find themselves with a rather persistent thought, without having accepted it as true in actual fact. This appears to capture a core element of skepticism: the way in which the skeptic thinks such thoughts as “everything is inapprehensible.”",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2014,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (iv) The Skeptical Formulae. PH 1.13, the passage in which scholars find a distinction between two kinds of belief, occurs in a chapter entitled “Does the Skeptic dogmatize?” One angle from which we might disagree with Frede is to insist that PH 1.13 addresses the status of the core thoughts of skeptical philosophy, rather than the question of skeptical belief. Consider the rest of the chapter:",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2015,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " When explaining in PH 1.13 how the skeptic does not dogmatize, Sextus may have a particular issue in mind: that some skeptical formulae look like doctrines, and have traditionally been turned against themselves due to their dogmatic surface-structure. For example, “all things are indeterminate” looks like a straightforward dogmatic statement. There is a long history of skeptical attempts to explain the nature of such pronouncements so that they no longer undermine themselves. Sextus arguably mentions several solutions to this problem (PH 1.13–15 and 1.187–209; cf. Pellegrin 2010). In PH 1.15, Sextus identifies the following as his main point: the skeptic merely reports what appears to them. Along these lines, Sextus calls indeterminacy an affection of thought (pathos dianoias; PH 1.198), a state that the utterance “all things are indeterminate” aims to capture. The other solution mentioned in PH 1.14–15 is somewhat more problematic: the skeptical formulae cancel themselves out. That is, one can say them and convey something through them. But then, once one has made a point, they as it were turn back upon themselves and eat themselves up—as fire first burns combustible materials and then destroys itself. This idea became famous through another comparison Sextus uses (invoked by Wittgenstein 1922, 6.54): the skeptical pronouncements are like a ladder that one climbs up; once one is on top, one can throw the ladder away (M 8.481). Scholars disagree on whether Sextus in some sense admits that these statements are self-refuting (McPherran 1987), or whether he defuses their self-refutational structure (Castagnoli 2010, III.14).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2016,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (v) Appearances (phainomena). While it is difficult to establish a clear distinction between two kinds of belief in Sextus, there is a comparatively more explicit distinction between two ways of engaging with appearances. Sextus says that, while things appear X to the skeptic, the skeptic does not affirm that they are X. Questions that are traditionally discussed in terms of whether the skeptic has beliefs thus might be addressed in terms of whether the way things appear to the skeptic has a judgment-component. Arguably, “A appears X to me now” can be construed in different ways. Certain examples (say, the way in which it makes sense to say both that the moon appears small and that it appears large) may suggest that appearance can but need not involve something like a judgment (Barney 1992). Some formulations in Sextus seem to insist on a significant difference between the mental activity of something appearing to a cognizer on the one hand, and on the other hand the mental activity that, on the level of language, is represented by assertion. This suggests that, for Sextus, A appearing F to me now does not entail that I hold it to be true that A is F (Vogt 2012b).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2017,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (vi) Language. Another approach to the question of whether the skeptic has beliefs looks at skeptical language. Sextus insists that the skeptic does not accept or reject any impression, and associates the absence of these mental acts with the fact that the skeptic does not affirm or deny anything (e.g., PH 1.4, 7, 10). Arguably, we can infer from Sextus’ account of the skeptic’s utterances what Sextus wants to say about the skeptic’s mental states and acts. That is, the question of language immediately bears on the question of belief. The report on Pyrrhonian skepticism in Diogenes Laertius is particularly instructive in this respect. Contrary to scholarly focus on belief in reconstructing skepticism, it barely mentions belief. Discussion of the skeptics’ attitudes is almost entirely conducted in terms of skeptical language and the skeptical formulae (for detailed discussion of the relevant paragraphs, DL 9.74–7, cf. Corti 2015). If Sextus is read in light of the report in DL IX, PH 1.13 may appear to be more of an isolated passage than scholarly debates imply. Sextus too devotes much space to accounts of skeptical expressions and language. It may thus be asked whether scholars should reframe discussions, and pay more attention to skeptical language then they previously have. As of now, there is one monograph on skeptical language, Corti (2009), and one approach to belief that focuses on language, Vogt (1998). Both scholars pursue further ideas put forward by Barnes (1982 [1997]), who compares the skeptic’s utterances to avowals. The skeptic lays open their state of mind, they announce or record (apangellein) it (Fine 2003a). In order to do this, the skeptic must misuse language (Burnyeat 1984 [1997]). Some strategies to avoid assertion are given in the context of the skeptical formulae (“non-assertion,” “I determine nothing,” and so on). (i) Skeptical expressions can be used as signs, which reveal a state of mind (PH 1.187). (ii) Expressions like “ou mallon” (no more) and “ouden mallon” (nowise more) can be used indifferently (in the sense of interchangeably) (PH 1.188). (iii) As is the practice in ordinary language, the skeptic can use expressions elliptically; for example “no more” for “no more this-than-that” (PH 1.188). (iv) People often use questions instead of assertions and the other way around. Similarly, “no more” can be construed as a question: “Why more this-than-that?” (v) The skeptic misuses language and uses it in a loose way (PH 1.191).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2018,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " In M 1 and M 2, Sextus says that the skeptic goes along with ordinary ways of using language (M 1.172, 193, 206, 218, 229, 233; M 2.52–3, 58–9). This seems to be a key resource in construing skeptical ways of speaking: the skeptic exploits the ways in which ordinary speakers can diverge from grammatically correct speech, and still be understood. Apart from using their skeptical formulae, and apart from conducting philosophical investigations, which they can do in a dialectical mode, referring to theses, arguments, and inferences, the skeptic also has to talk in everyday contexts. It is here where we see best how skeptical utterances are tailored to reveal a state of mind in which nothing is accepted or rejected. Sextus takes great pains to construe his examples of skeptical utterances according to the following schema: “X appears F to me now.” This will generally be understood as an elliptical version of “X appears to be F to me now.” However, Sextus consistently avoids “to be” (Vogt 1998; for the view that “X appears F” avoids reference to external objects, see Everson 1991). The peculiar form of skeptical utterances suggests that Sextus sees a relevant difference between “X appears to be F to me now” and “X appears F to me now.” The former might imply reference to a state of affairs, and an epistemic usage of “to appear” that could be rendered as “It appears to me, that p,” or, “I take it that p.” This, however, would be assertoric: the skeptic would state that it appears to them that such-and-such is the case. But the skeptic’s elliptical utterances about what appears to them aim to be purely phenomenological. They aim to report a condition of the skeptic’s mind, without expressing a judgment of any kind (Burnyeat 1984 [1997]; Annas-Barnes 1985, 23–4; for an assessment of these strategies in terms of modern philosophy of language, cf. Pagin 2020). As part of the skeptics’ way of life, language can also be seen as an activity. That is, how the skeptics can speak can be considered a sub–question of how the skeptics can act. Skeptical utterances have been compared to Wittgensteinian confessions, arguably a kind of speech act that is consistent with the skeptics’ avoidance of belief (Corti 2009, Parts I and II). Moreover, the skeptics not only speak. They presumably also understand what others say. A persuasive account of skeptical language must explain both speaking and understanding (Corti 2009, Part III).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2019,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (vii) Action. Sextus says that appearances (phainomena) are the practical criterion of the skeptic (PH 1.23–24). By adhering to appearances, the skeptic is prevented from inactivity (anenergêsia). Note that Sextus does not describe the skeptic as performing actions in the sense of dogmatic theory of action, which involves belief and choice (cf. M 11.162–166). Contrary to the Academic skeptic, a Sextan skeptic does not view themselves as a rational agent, who chooses one course of action over another. Sextus claims an active life for the skeptic, but not the life of a rational agent, as conceived by dogmatic philosophers (Vogt 2010; Schwab 2020). This attitude has been critically discussed for a long time, for example, with respect to its ethical (Bett 2019) and political upshots (Marchand 2015) and with respect to the skeptics’ relation to the law (Marchand 2021).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2020,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " The skeptic’s forced assent is situated in the domain of action (PH 1.13, 19, 29–30, 193, 237–8). Thirst, for example, necessitates assent, and that means, it moves the skeptic to drink. This kind of assent may be genuinely unrelated to belief-formation of any kind. Rather, forced assent generates the movement of action. But what about more complex kinds of activities, such as applying a medication, or attending a festival? Sextus argues that the skeptic adheres to custom, convention, and tradition, and to what they have been trained to do. In explaining how adherence to appearances in these domains generates activity, Sextus does not mention assent. However, he might have to concede that, like drinking when thirsty, more complex actions also involve some kind of assent. In PH 2.102, Sextus says that the sceptic assents non-doxastically (adoxastôs) to the things relied on in ordinary life. In PH 1.19, he mentions involuntary assent. Accordingly, non-doxastic and involuntary assent may figure in those domains of skeptical action that do not involve necessitation by bodily affections. Non-doxastic assent is, from the point of view of the Stoics, a contradiction in terms, just like forced and involuntary assent. Assent is defined as in our power, and as that by which beliefs are formed. If Sextus intends skeptical assent to be genuinely non-doxastic and involuntary, then it does not have the core features of assent as defined by the dogmatists.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2021,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " (viii) Logic, Physics, Ethics, and the “disciplines.” The special arguments of the skeptic are directed against particular theories in the three disciplines of Hellenistic philosophy: logic, physics, and ethics. In addition, they address the so-called disciplines, namely grammar, rhetoric, geometry, arithmetic, astrology, and music-theory. Sextus’ treatments of logic divide up into two main topics: sign and criterion (cf. Bett 2005 on signs). This structure reflects central concerns of Hellenistic epistemology as well as of ancient skepticism. Skepticism looks for a ‘decider’ between conflicting appearances and thoughts. A decider could be something evident. Dogmatic philosophers associate the evident with the criterion of truth. For something to serve the role of criterion, it cannot be equally disputed as the matters it helps to decide. Or something non-evident could take on the role of decider. For that to be the case, the skeptics argue, it would have to be conclusively revealed by a sign or proof. If there is no compelling theory of the criterion and no compelling account of sign and proof, then there is nothing that can decide between several conflicting views. Sextus’ treatises on logic thus are not simply a collection of individual arguments against various dogmatic theories. Their main line of thought sketches a route into skepticism. Along these lines, Vlasits (2020b) argues that Sextus’ treatment of logic in PH 2 is unified. Sextus’ argument is structured such as to lead to suspension of judgment on the methodologies of the dogmatists. The final section of M 8 (463–81) formulates a challenge for the skeptic that scholars interested in self-refutational arguments have examined (Castagnoli 2010): does the skeptic aim to prove that proof does not exist (Sienkiewicz 2022)?",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2022,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Sextus’ discussions of ethics also focus on issues that plausibly lead into skepticism. Again, there are two central questions: whether there is anything good and bad by nature; and whether there is an art of life (Bett 2010, 2011 and 2019), as the Epicureans and Stoics claim there is. If we could settle what is good and what is bad, some of the most disturbing anomalies would be resolved. If there were an art of life, there would be a teachable body of knowledge about the good and the bad. In both cases, questions that can cause a great deal of puzzlement would be resolved. Sextus’ discussions of ethics are in part famous because Sextus ascribes outlandish and shocking views to the Stoics. As Sextus construes his arguments, the contrast between ‘ordinary life’ and philosophical views leads to suspension of judgment (Vogt 2008a, ch. 1). In the modern tradition, a number of philosophers including Hegel and Nietzsche have engaged with aspects of Sextus’ outlook and in particular with the skeptical adherence to ordinary life (Berry 2010 and 2020; Bett 2020a). Recently, scholars have asked how ethical a skeptic can be, to use a phrased employed by Bett (2019), given that it may seem that suspension of judgment on grave ethical challenges can seem facile. At the same time, scholars point out that some dimensions of ethical frameworks went unquestioned a long time, for example, with respect to gender; here suspension of judgment may appear innovative (Olfert forthcoming).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2023,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " The books on physics discuss god, cause, matter, bodies, mixture, motion, increase and decrease, subtraction and addition, whole and part, change, becoming and perishing, rest, place, time, and number. Notably, god is one of the topics explored in physics. This stands in stark contrast to medieval and early modern discussions, where the quest for knowledge of God often frames and motivates engagement with skepticism. In PH 3, Sextus prefaces his discussion of arguments for and against the existence of gods by saying that the skeptics’ ordinary life without opinions (adoxastôs) includes the following: the skeptics say that there are gods, are pious toward the gods, and say that the gods are provident. Scholars discuss how this relates to Sextus’ discussions of theology qua topic in physics on the one hand (PH 3.2–12, M 9.11–194), and to his portrayal of the skeptics’ ordinary life in PH 1 on the other hand (Annas 2011, Veres 2020a). The skeptics come to suspend judgment on all central questions in ancient physics (Bett 2012). This means, they come to suspend judgment on whether, for example, there are causes, time, place, and bodies (cf. Bobzien 2015 and Warren 2015). Their suspension does not merely mean that they have not yet found a satisfying theory of, say, body. It means that they find themselves unable to say whether there is body (Burnyeat 1997). (On the cumulative force of these arguments, see section 5.4.)",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2024,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " The six books entitled Against those in the Disciplines (M 1–6) have traditionally received less attention. Only in the last few years have scholars begun to explore them with the kind of philosophical subtlety that has been brought to bear in the study of ancient skepticism in recent decades. M 1–6 skeptically examine six fields of study, namely grammar, rhetoric, geometry, arithmetic, astronomy, and music-theory. Sextus begins with an astonishing move. Contrary to his usual strategy of emphasizing the distance between skeptics and dogmatists, he admits that Pyrrhonians and Epicureans share much in viewing standard disciplines as useless (M 1.1–7; cf. Thorsrud 2019). Generally speaking, increased attention to M 1–6 may provide additional occasion to modify the long-standing assumption that the Stoics are Sextus’ most important dogmatic interlocutors. Throughout M 1–6, resonances between Epicurean and Pyrrhonian philosophy are remarkably visible (Bett 2018, “Introduction”). Engagement with Epicurean philosophy shapes Sextus’ approach deeply, to the extent that both schools, Stoics and Epicureans, should be considered fundamental points of reference.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2025,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " After his remarks on how Pyrrhonians and Epicureans take issue with the presumed usefulness of the disciplines, Sextus lays out general arguments, suitable for skeptical examination of any field. He argues that, for there to be a discipline, there must be the matter being taught, the teacher, the learner, and the means of learning. If, however, neither of these things exists, then the discipline doesn’t exist. This is how Sextus proceeds. He argues, or seems to argue, for the non-existence of the disciplines (M 1.9). Already in the very first sentence of M 1, Sextus describes his own approach as one of putting forward counterarguments, a strategy that he mentions repeatedly throughout M 1–6.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2026,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " These moves give rise to the most contentious question regarding M 1–6. Are these books negatively dogmatic? Or do they fit in with Sextus’s outlook in PH 1–3, where skeptical arguments are described as leading up to suspension of judgment? Bett (2018, “Introduction”) argues that, with some qualifications, Sextus’ approach is to be explained as follows. Sextus lays out counterarguments based on the assumption that the arguments of the dogmatists have already been formulated. For there to be arguments of equal weight on both sides, only the anti-dogmatic arguments need to be adduced. The intended effect is that jointly, these opposing sets of arguments lead us to suspend judgment. In addition, Bett notes that the remarkable emphasis on counterarguments, non-existence, and uselessness suggests that some of the material in M 1–6 goes back to an earlier phase of Pyrrhonism.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2027,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " In four of the six fields, namely grammar, rhetoric, music, and astrology, Sextus admits non-technical versions into the skeptic’s life, while subjecting all theoretical claims to skeptical examination. For example, he distinguishes between the ordinary ability to read and write on the one hand and grammar as a technical discipline on the other, or the ability to play a musical instrument on the one hand and music theory on the other (cf. Corti 2015b on why this kind of contrast does not come up in the books on arithmetic and geometry, Corti 2015c on Sextus’ attack on the Platonic-Pythagorean notion of the Two, and Corti forthcoming).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2028,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " It is remarkable that, qua theoretical field, Sextus examines astrology rather than astronomy. The latter would make for a more typical sequence: apart from the fact that in Sextus, logic is considered part of philosophy rather than a “discipline,” the six fields otherwise correspond to the so-called trivium of grammar, logic, and rhetoric and quadrivium of arithmetic, geometry, astronomy, and music theory. Sextus’ attention to astrology rather than astronomy highlights a deep feature of his philosophy (Corti 2015, Bett 2018). Astronomy, from Sextus’ point of view, is concerned with appearances; and hence there is a sense in which the skeptic does not object to it. Astronomy, then, is the “version” of astrology that skeptics can admit into their adherence to ordinary life (M 5.1–3). Presumably, astronomy is concerned with predicting things like droughts, floods, earthquakes, and plagues based on appearances. Astrology, on the other hand, is concerned with matters of great obscurity.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2029,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Historians of philosophy sometimes argue that Henri Etienne’s rediscovery of Sextus in 1562 initiated an era of epistemology. Early modern engagement with skepticism is here seen as a turn to arguments found in Sextus (Annas-Barnes 1985, 5–7; Bailey 2002, 1–20). Via Cicero, early modern and modern philosophers seem to have engaged also with Academic arguments (for a recent analysis of Academic skepticism in Hume and Kant, cf. González Quintero 2022). In particular the beginning of Descartes’ Meditations may display a kind of Socratic spirit: a commitment to calling into question all one’s beliefs. However, early modern philosophers work within a theologically framed tradition that importantly begins with St. Augustine (354–430) (cf. Menn 1998 and Lagerlund 2009; on the history of medieval skepticism cf. Lagerlund ed. 2009; cf. Carriero 2009 on Descartes’ engagement with Aquinas; for an analysis of the transformation of skepticism that turns immediately to Descartes, cf. Williams 2010).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2030,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " A major part of Augustine’s early education consisted in the study of Cicero’s writings. He was thus closely acquainted with Academic skepticism (Cicero was one kind of Academic skeptic). Augustine sees the force of ancient skeptical strategies. Even though he does not become a skeptic, he integrates distinctively skeptical moves into his thought. This has a long-standing effect on the history of theology and science. For example, Galileo Galilei is able to cite Augustine when he defends himself against the charge that his physics is in opposition to the Bible (Letter to the Grand Duchess, in Drake 1957). Augustine supplies arguments to the effect that we should keep an open mind. Both our physical theories and our interpretations of the Bible are likely to evolve. This idea figures importantly in Pyrrhonism. Past experience tells us that, on every given issue, someone eventually came up with a new argument. Accordingly, even if the skeptics cannot find an objection to a given claim right now, they expect that in the future, a conflicting view will be formulated.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2031,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " However, such traces of skepticism are integrated into an ultimately non-skeptical philosophy. In Contra Academicos, Augustine recognizes a core feature of ancient skepticism, namely that it is a commitment to ongoing inquiry (cf. Nawar 2019 on Augustine’s defense of knowledge against the skeptics in Contra Academicos 3). The question that Augustine considers vital, then, is whether a life devoted to inquiry can be compelling, if seemingly there is no prospect for ever attaining truth (cf. Lagerlund 2009). It is as a philosophy of inquiry that skepticism makes a lasting contribution to ethics, continuing, as it were, a Socratic legacy (Vogt 2017).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2032,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Augustine creates the framework that will become characteristic of early modern discussions. First, in his work skeptical arguments are explored in order to be refuted. Second, the key issue is whether we have knowledge, not whether we should hold anything to be true. In Augustine, the background for caring so much about knowledge is the pressing question of whether we can know God: whether we can know that he exists and what his properties are. This might also be the reason why knowledge of testimony gains importance (De Trinitate, 15.12; in Schoedinger 1996). The Bible, or parts of it, might be considered testimony about God, and accordingly as one possible way of attaining knowledge of God.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2033,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Third, in the process of asking whether we can have knowledge of God it makes sense to distinguish between kinds of knowledge (sensory, rational, by testimony, etc.). If we know God, then we do so via one of the kinds of knowledge. This becomes a standard feature of discussions of skepticism. Philosophers go through the different kinds of knowledge that are conceivable, and examine them in turn. In Augustine as well as later authors, this includes mathematical knowledge (Nawar 2022). Though Sextus wrote on geometry and arithmetic, questions about knowledge in mathematics do not shape Hellenistic debates between skeptics on the one hand and Epicureans and Stoics on the other hand. Fourth, Augustine conceives of what he calls ‘inner knowledge.’ He envisages a skeptical scenario. Suppose we have no sensory knowledge, no rational knowledge, and no knowledge of testimony. We still know that we think, love, judge, live, and are (De Trinitate 15.12). In the City of God 11.26, Augustine uses his well-known phrase “si enim fallor, sum” (even if I err, I am). That is, Augustine suggests that we have knowledge of our mental acts (cf. Nawar 2022 on Augustine’s concern with self-knowledge). However, Augustine does not consider these pieces of knowledge foundational. While he points to them when he discusses the challenges of Academic skepticism, he does not systematically build upon them in refuting skepticism about sense perception, rational knowledge, and knowledge of testimony. Rather, he refutes skepticism by stating that God created us and the things that are known to us; God wanted these things to be known to us (De Trinitate 15.12). In later epistemology, the idea of the turn into one’s mind and an introspective access to one’s mental acts becomes a secular idea. Augustine is a transitional figure in the philosophy of mind, and thereby re-conceives skepticism. By focussing on a gap between ‘what is in the mind’ and the world outside, he as it were invites external world skepticism (Vogt 2014a). But Augustine is concerned with the path to God: the mind turns into itself and from there it moves further, toward God (e.g., Confessions 7. 17,23).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2034,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Next to Augustine, Al-Ghazali (1085-1111) plays a major role in re-conceiving the questions relevant to skepticism (Menn 2003, Kukkonen 2009). In The Rescuer From Error, Al-Ghazali literally describes God as the rescuer from error (in Khalidi 2005). Like Augustine before and Descartes after him, Al-Ghazali moves through different cognitive faculties. Do the senses or reason allow us to gain knowledge? These questions are framed by the quest for knowledge of God. While Augustine thinks that knowledge of God comes through a combination of seeking God on the one hand and God’s grace on the other, Al-Ghazali thinks it comes through spiritual exercises. However, once confidence in God is secured, trust in the more familiar ways of gaining knowledge—sense perception, rational reasoning, and so on—is restored (for a detailed treatment of skepticism in Classical Islam, cf. Heck 2014).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2035,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " One key difference between ancient skepticism on the one hand, and medieval as well as Cartesian skepticism on the other, is that ancient skepticism is not framed by theological concerns. Note that in Cartesian skepticism, God is not only invoked when it comes to refuting skepticism. More importantly, the skeptical problems arise in a way that depends on God as creator. Our cognitive faculties are seen as created faculties, and the world as a created world. A kind of ‘faculty-skepticism’ that asks whether our cognitive faculties are built so as to be erroneous is formulated, and a potential gap between our minds and the world opens up. Perhaps God made us in such a way that we are fundamentally wrong about everything (or, as later secular versions have it, a mad scientist experiments on a “brain in a vat”).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2036,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " These are important steps away from the non-theological ancient construal of skepticism. The theological premises of early modern skepticism are not only foreign to ancient debates; they would be seen as misguided. From the Hellenistic point of view, theology is part of physics. An account of god is part of an account of the natural world (as such, it is unrecognizable as ‘theology’ from the point of view of later theologies). Human beings and their cognitive faculties are natural parts of a natural world. They are organic and functional parts, interconnected with the other parts of the large whole which the universe is. A mind-world-gap (of the kind envisaged in the Cartesian tradition) is inconceivable. Each ‘mind,’ and that is, rational soul, is an integrated physical part of the physical world. Like a part of a complex organism, it would not exist were it not for the interrelations it has with the other parts. A physiological account of the mind makes the stark divide between mind and world that figures in early modern skepticism unimaginable.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2037,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Contemporary discussions inherit long-standing problems from early modern philosophy. Among them, external world skepticism, skepticism about other minds, and skepticism about induction are particularly prominent. In assessing ancient skepticism, we might ask whether the ancients saw these problems.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2038,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Among the skeptical problems of modern philosophy, skepticism about induction stands out. Its early formulation in Hume does not depend on the idea that our faculties are created by God, who also created the world. Hume takes himself to engage with Pyrrhonian skepticism (Ainslie 2003). Induction proceeds from particular observations to a general conclusion. Skepticism about induction points out that, no matter how many particulars were observed, the general claim pronounces also on what has not been observed. In this respect, the inference seems unwarranted and so we should suspend judgement on its effectiveness. Induction can concern the ascription of properties to some kind of entity as well as causal claims. In the latter, the skeptic observes that what regularly precedes a type of event may not be its cause. Perhaps we cannot infer anything from the fact that certain properties or events regularly occur together (Vlasits 2020a; for a related argument in Al-Ghazali, cf. Kukkonen 2009).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2039,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Relevant ideas can be traced in various aspects of Sextus’ philosophy. First, Sextus sides with anti-rationalist tendencies in medicine. According to these schools, a doctor remembers that, in earlier cases, symptom A was alleviated by medication B. They do not infer that medication B makes symptom A disappear, or that the illness C is the cause of symptom A. Second, the Five Modes do not exclusively target proof. They address everything that lends credibility to something else. They may thus also call into question signs that are taken as indicative of their causes. Sextus’ skeptic does not accept such indicative signs. Third, Sextus discusses the role of so-called commemorative signs in the skeptic’s life (PH 2.100–102; Allen 2001). For example, a scar is a commemorative sign of a wound. Both were co-observed in the past. A skeptic will think of a wound when seeing a scar. But they do not commit to causal or explanatory claims. Fourth, Sextus records a set of Causal Modes (PH 1.180–86), which are specifically targeted toward causal explanations (Corti 2014; on the relation between the Causal Modes and Hume cf. Garrett 2020). He does not ascribe the kind of relevance to them that the Ten Modes and the Five Modes have. Indeed, he thinks the Five Modes can do the work of Causal Modes (that is, call into question causal and explanatory theses and theories). However, the Causal Modes go into great detail on how the skeptic investigates any kind of causal thesis or theory.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2040,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " The distinction between subjectivity and objectivity is central to modern discussions of skepticism. It is not envisaged in ancient thought. However, this does not mean that ancient philosophers do not reflect on questions relevant to this distinction. Arguably, Pyrrhonism conceives of the affections of the mind in ways that anticipate later thought about subjectivity (Fine 2003a and 2003b). Sextus describes the skeptic’s states of ‘being-appeared-to’ as affections of the mind. A skeptic can report these states in their utterances. Illustrating this point, Sextus uses expressions associated with the Cyrenaics, a Socratic school of thought. These expressions literally mean something like ‘I am being heated’ or ‘I am being whitened.’ They aim to record affections without claiming anything about the world. Fine argues that the skeptic’s beliefs are beliefs about these affections (2000). With this proposal, Fine turns against two prominent positions in scholarly debate about skeptical belief (see section 4.4), that skeptics have no beliefs whatsoever, and that they have beliefs that fall short of holding true. Fine envisages reflective beliefs: beliefs about one’s states of mind (on related issues in contemporary epistemology, cf. Feeney and Schellenberg 2020 and Glüer 2020).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2041,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Whether or not Sextus’ account of the skeptic’s mental life includes reflective beliefs about one’s mental states, we should note an important difference to later proposals of that kind. Later philosophers focus on the particular kind of certainty attached to reflective knowledge. Reflective knowledge is sometimes seen as a stepping-stone towards greater confidence in our cognitive powers, and our ability to also attain other kinds of knowledge. But it may not be obvious that reflective knowledge can take on this important role. In this respect, Augustine is still closer to ancient than to modern intuitions. He says that such pieces of knowledge as “I know that I think” are not what we are looking for. Augustine envisages that reflective knowledge-claims can be iterated, so that we would have infinitely many pieces of knowledge (“I know that I know that I think…”). But from his point of view, this kind of knowledge leads nowhere. When we ask whether we can have knowledge, we are interested in knowledge of the world and of God (De Trinitate 15.12).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2042,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Modern philosophers also pay great attention to the privileged access cognizers have to their own cognitive activities. Augustine introduces a distinction that paves the way for this idea. He argues that the mind cannot know what kind of stuff it is (De Trinitate 10.10 and 15.12). The mind does not know its substance, but it knows its activities. For Augustine, this means that the mind knows itself. The mind is precisely what it knows itself to be: in knowing that one thinks, judges, lives, and so on, one knows the mind (Vogt 2014a). Note that this argument indicates that knowing that one lives and is are not pieces of knowledge about one’s bodily existence, but about the activities of the mind.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2043,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Finally, modern philosophers conceive of the special kind of access to one’s own mind not only in contrast with our access to the world. They also compare it to our access to what goes on in other minds. One of their core problems is skepticism about other minds. If our own minds are accessible to us in the way nothing else is, then we might not be able to ascribe mental states to others. For example, we might not know that someone who looks as if she is in pain really is in pain. The ancient skeptics envisage nothing of this kind (Warren 2011). This suggests that, insofar as they draw a distinction between affections of the mind and the world, this distinction is construed differently than in modern skepticism.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2044,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " In its early modern versions, external world skepticism involves the idea that there is a creator—someone who made the world and our faculties, and the fit or misfit between them. If this assumption is crucial to external world skepticism, then the ancients do not conceive of this skeptical problem. From the point of view of modern philosophy, ancient skepticism may appear limited by not addressing some of the most radical skeptical scenarios (Burnyeat 1980 [1997] and 1982; Williams 1988; Fine 2003a and 2003b). From the point of view of ancient skepticism, early modern skepticism and the long life that its problems enjoy, however, would seem to originate in a flawed theology.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2045,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Contemporary philosophers sometimes discuss external world skepticism in terms of a paradox: one thinker finds herself torn between the strength of skeptical arguments and her ordinary convictions. For example, she thinks that this is her hand. But she concedes that the skeptical hypothesis that a mad scientist might have set things up so that she has such perceptions and thoughts (the so-called brain in a vat scenario) is hard to refute. This way of framing discussions of skepticism is foreign to antiquity. In antiquity, skeptics and their opponents are different thinkers, each of them with one set of intuitions, arguing against each other. It is also foreign to ancient skepticism insofar as it inherits the early modern idea that some greatly powerful agent sets things up, and in a sense creates the thinker’s faculties and the world as it appears to them.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2046,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " However, the ancient skeptics might conceive of their own kind of external world skepticism. One way to explore this question is to turn to the way in which Sextus describes that which is outside of the skeptic’s mind (Fine 2003 and 2003(2)). Throughout his work, Sextus employs the distinction between appearances and what really is the case. Consider some of the detail of how he characterizes the latter. One phrase in the Ten Modes is “ta ektos hupokeimena,” the externally underlying things (PH 1.61, 127, 128, 134, 144). Other phrases, meant to demarcate roughly the same contrast with appearances, are how things are in their nature (phusei) (PH 1.78, 123, 140), “the underlying things” (hupokeimena) (PH 1.106), as well as a combination: “the nature of the underlying external things” (PH 1.117, 163). The expressions which contain the word “external” might read as if Sextus was talking about the external world in a sense familiar to us from early modern skepticism.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2047,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " But what are the underlying or external objects, as Sextus conceives of them? For example, Sextus speaks of the underlying reality of whether honey really is sweet (PH 1.19). In such a case, it is assumed that there are ordinary objects. But we do not have access to the properties they really have (Fine calls this Property Skepticism, 2003b). However, external objects in Sextus’ sense also include objects that later philosophers would not obviously see as part of the external word. For example, an answer to the question of what kind of life really is good would count as a claim about external or underlying reality (cf. Pellegrin 2010).",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2048,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Another approach to the question of whether Sextus envisages some kind of external world skepticism is to turn to his discussions of physics. Ordinarily we take ourselves to live in a world in which there are bodies, movement, place, time, and so on. But as Sextus argues, we do not have compelling accounts of any of these core conceptions of physics. This leads to suspension of judgment on whether there are bodies, movement, place, time, and so on. Sextus’ discussions of physics might add up to a rather far-reaching skepticism about the natural world.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2049,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Arcesilaus |  Aristotle |  Carneades |  moral skepticism |  perception: epistemological problems of |  Plato |  Pyrrho |  skepticism |  skepticism: medieval |  Stoicism |  Timon of Phlius ",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2050,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " I am grateful to John Cooper, Jens Haas, Chloe Layman, Wolfgang Mann, Christiana Olfert, Jim Pryor, and Carol Rovane for feedback on the 2010 version of this entry, and to Abigail Breuker for feedback on the 2022 version.",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2051,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": " Copyright © 2022 by   Katja Vogt &lt;kv2101@columbia.edu&gt;     ",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2052,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": "View this site from another server:",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2053,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2022 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2054,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/skepticism-ancient/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "skepticism-ancient"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2055,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Introduced into the philosophical lexicon during the Eighteenth Century, the term ‘aesthetic’ has come to designate, among other things, a kind of object, a kind of judgment, a kind of attitude, a kind of experience, and a kind of value. For the most part, aesthetic theories have divided over questions particular to one or another of these designations: whether artworks are necessarily aesthetic objects; how to square the allegedly perceptual basis of aesthetic judgments with the fact that we give reasons in support of them; how best to capture the elusive contrast between an aesthetic attitude and a practical one; whether to define aesthetic experience according to its phenomenological or representational content; how best to understand the relation between aesthetic value and aesthetic experience. But questions of more general nature have lately arisen, and these have tended to have a skeptical cast: whether any use of ‘aesthetic’ may be explicated without appeal to some other; whether agreement respecting any use is sufficient to ground meaningful theoretical agreement or disagreement; whether the term ultimately answers to any legitimate philosophical purpose that justifies its inclusion in the lexicon. The skepticism expressed by such general questions did not begin to take hold until the later part of the 20th century, and this fact prompts the question whether (a) the concept of the aesthetic is inherently problematic and it is only recently that we have managed to see that it is, or (b) the concept is fine and it is only recently that we have become muddled enough to imagine otherwise. Adjudicating between these possibilities requires a vantage from which to take in both early and late theorizing on aesthetic matters.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2056,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The concept of the aesthetic descends from the concept of taste. Why the concept of taste commanded so much philosophical attention during the 18th century is a complicated matter, but this much is clear: the eighteenth-century theory of taste emerged, in part, as a corrective to the rise of rationalism, particularly as applied to beauty, and to the rise of egoism, particularly as applied to virtue. Against rationalism about beauty, the eighteenth-century theory of taste held the judgment of beauty to be immediate; against egoism about virtue, it held the pleasure of beauty to be disinterested.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2057,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Rationalism about beauty is the view that judgments of beauty are judgments of reason, i.e., that we judge things to be beautiful by reasoning it out, where reasoning it out typically involves inferring from principles or applying concepts. At the beginning of the 18th century, rationalism about beauty had achieved dominance on the continent, and was being pushed to new extremes by “les géomètres,” a group of literary theorists who aimed to bring to literary criticism the mathematical rigor that Descartes had brought to physics. As one such theorist put it:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2058,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " It was against this, and against more moderate forms of rationalism about beauty, that mainly British philosophers working mainly within an empiricist framework began to develop theories of taste. The fundamental idea behind any such theory—which we may call the immediacy thesis—is that judgments of beauty are not (or at least not canonically) mediated by inferences from principles or applications of concepts, but rather have all the immediacy of straightforwardly sensory judgments. It is the idea, in other words, that we do not reason to the conclusion that things are beautiful, but rather “sense” that they are. Here is an early expression of the thesis, from Jean-Baptiste Dubos’s Critical Reflections on Poetry, Painting, and Music, which first appeared in 1719:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2059,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " And here is a late expression, from Kant’s 1790 Critique of the Power of Judgment:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2060,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But the theory of taste would not have enjoyed its eighteenth-century run, nor would it continue now to exert its influence, had it been without resources to counter an obvious rationalist objection. There is a wide difference—so goes the objection—between judging the excellence of a ragout and judging the excellence of a poem or a play. More often than not, poems and plays are objects of great complication. But taking in all that complication requires a lot of cognitive work, including the application of concepts and the drawing of inferences. Judging the beauty of poems and plays, then, is evidently not immediate and so evidently not a matter of taste.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2061,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The chief way of meeting this objection was first to distinguish between the act of grasping the object preparatory to judging it and the act of judging the object once grasped, and then to allow the former, but not the latter, to be as concept- and inference-mediated as any rationalist might wish. Here is Hume, with characteristic clarity:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2062,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Hume—like Shaftesbury and Hutcheson before him, and Reid after him (Cooper 1711, 17, 231; Hutcheson 1725, 16–24; Reid 1785, 760–761)—regarded the faculty of taste as a kind of “internal sense.” Unlike the five “external” or “direct” senses, an “internal” (or “reflex” or “secondary”) sense is one that depends for its objects on the antecedent operation of some other mental faculty or faculties. Reid characterizes internal sense as follows:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2063,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Because of the highly complex natures or structures of many beautiful objects, there will have to be a role for reason in their perception. But perceiving the nature or structure of an object is one thing. Perceiving its beauty is another.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2064,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Egoism about virtue is the view that to judge an action or trait virtuous is to take pleasure in it because you believe it to serve some interest of yours. Its central instance is the Hobbesian view—still very much on early eighteenth-century minds—that to judge an action or trait virtuous is to take pleasure in it because you believe it to promote your safety. Against Hobbesian egoism a number of British moralists—preeminently Shaftesbury, Hutcheson, and Hume—argued that, while a judgment of virtue is a matter of taking pleasure in response to an action or trait, the pleasure is disinterested, by which they meant that it is not self-interested (Cooper 1711, 220–223; Hutcheson 1725, 9, 25–26; Hume 1751, 218–232, 295–302). One argument went roughly as follows. That we judge virtue by means of an immediate sensation of pleasure means that judgments of virtue are judgments of taste, no less than judgments of beauty. But pleasure in the beautiful is not self-interested: we judge objects to be beautiful whether or not we believe them to serve our interests. But if pleasure in the beautiful is disinterested, there is no reason to think that pleasure in the virtuous cannot also be (Hutcheson 1725, 9–10).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2065,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The eighteenth-century view that judgments of virtue are judgments of taste highlights a difference between the eighteenth-century concept of taste and our concept of the aesthetic, since for us the concepts aesthetic and moral tend oppose one another such that a judgment’s falling under one typically precludes its falling under the other. Kant is chiefly responsible for introducing this difference. He brought the moral and the aesthetic into opposition by re-interpreting what we might call the disinterest thesis—the thesis that pleasure in the beautiful is disinterested (though see Cooper 1711, 222 and Home 2005, 36–38 for anticipations of Kant’s re-interpretation).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2066,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " According to Kant, to say that a pleasure is interested is not to say that it is self-interested in the Hobbesian sense, but rather that it stands in a certain relation to the faculty of desire. The pleasure involved in judging an action to be morally good is interested because such a judgment issues in a desire to bring the action into existence, i.e., to perform it. To judge an action to be morally good is to become aware that one has a duty to perform the action, and to become so aware is to gain a desire to perform it. By contrast, the pleasure involved in judging an object to be beautiful is disinterested because such a judgment issues in no desire to do anything in particular. If we can be said to have a duty with regard to beautiful things, it appears to be exhausted in our judging them aesthetically to be beautiful. That is what Kant means when he says that the judgment of taste is not practical but rather “merely contemplative” (Kant 1790, 95).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2067,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " By thus re-orienting the notion of disinterest, Kant brought the concept of taste into opposition with the concept of morality, and so into line, more or less, with the present concept of the aesthetic. But if the Kantian concept of taste is continuous, more or less, with the present-day concept of the aesthetic, why the terminological discontinuity? Why have we come to prefer the term ‘aesthetic’ to the term ‘taste’? The not very interesting answer appears to be that we have preferred an adjective to a noun. The term ‘aesthetic’ derives from the Greek term for sensory perception, and so preserves the implication of immediacy carried by the term ‘taste.’ Kant employed both terms, though not equivalently: according to his usage, ‘aesthetic’ is broader, picking out a class of judgments that includes both the normative judgment of taste and the non-normative, though equally immediate, judgment of the agreeable. Though Kant was not the first modern to use ‘aesthetic’ (Baumgarten had used it as early as 1735), the term became widespread only, though quickly, after his employment of it in the third Critique. Yet the employment that became widespread was not exactly Kant’s, but a narrower one according to which ‘aesthetic’ simply functions as an adjective corresponding to the noun “taste.” So for example we find Coleridge, in 1821, expressing the wish that he “could find a more familiar word than aesthetic for works of taste and criticism,” before going on to argue:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2068,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The availability of an adjective corresponding to “taste” has allowed for the retiring of a series of awkward expressions: the expressions “judgment of taste,” “emotion of taste” and “quality of taste” have given way to the arguably less offensive ‘aesthetic judgment,’ ‘aesthetic emotion,’ and ‘aesthetic quality.’ However, as the noun ‘taste’ phased out, we became saddled with other perhaps equally awkward expressions, including the one that names this entry.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2069,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Much of the history of more recent thinking about the concept of the aesthetic can be seen as the history of the development of the immediacy and disinterest theses.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2070,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Artistic formalism is the view that the artistically relevant properties of an artwork—the properties in virtue of which it is an artwork and in virtue of which it is a good or bad one—are formal merely, where formal properties are typically regarded as properties graspable by sight or by hearing merely. Artistic formalism has been taken to follow from both the immediacy and the disinterest theses (Binkley 1970, 266–267; Carroll 2001, 20–40). If you take the immediacy thesis to imply the artistic irrelevance of all properties whose grasping requires the use of reason, and you include representational properties in that class, then you are apt to think that the immediacy thesis implies artistic formalism. If you take the disinterest thesis to imply the artistic irrelevance of all properties capable of practical import, and you include representational properties in that class, then you are apt to think that the disinterest thesis implies artistic formalism.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2071,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " This is not to suggest that the popularity enjoyed by artistic formalism during the late 19th and early 20th centuries owed mainly to its inference from the immediacy or disinterest theses. The most influential advocates of formalism during this period were professional critics, and their formalism derived, at least in part, from the artistic developments with which they were concerned. As a critic Eduard Hanslick advocated for the pure music of Mozart, Beethoven, Schumann, and later Brahms, and against the dramatically impure music of Wagner; as a theorist he urged that music has no content but “tonally moving forms” (Hanslick 1986, 29). As a critic Clive Bell was an early champion of the post-Impressionists, especially Cezanne; as a theorist he maintained that the formal properties of painting—“relations and combinations of lines and colours”—alone have artistic relevance (Bell 1958, 17–18). As a critic Clement Greenberg was abstract expressionism’s ablest defender; as a theorist he held painting’s “proper area of competence” to be exhausted by flatness, pigment, and shape (Greenberg 1986, 86–87).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2072,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Not every influential defender of formalism has also been a professional critic. Monroe Beardsley, who arguably gave formalism its most sophisticated articulation, was not (Beardsley 1958). Nor is Nick Zangwill, who recently has mounted a spirited and resourceful defense of a moderate version of formalism (Zangwill 2001). But formalism has always been sufficiently motivated by art-critical data that once Arthur Danto made the case that the data no longer supported it, and perhaps never really had, formalism’s heyday came to an end. Inspired in particular by Warhol’s Brillo Boxes, which are (more or less) perceptually indistinguishable from the brand-printed cartons in which boxes of Brillo were delivered to supermarkets, Danto observed that for most any artwork it is possible to imagine both (a) another object that is perceptually indiscernible from it but which is not an artwork, and (b) another artwork that is perceptually indiscernible from it but which differs in artistic value. From these observations he concluded that form alone neither makes an artwork nor gives it whatever value it has (Danto 1981, 94–95; Danto 1986, 30–31; Danto 1997, 91).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2073,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But Danto has taken the possibility of such perceptual indiscernibles to show the limitations not merely of form but also of aesthetics, and he has done so on the grounds, apparently, that the formal and the aesthetic are co-extensive. Regarding a urinal Duchamp once exhibited and a perceptual indiscernible ordinary urinal, Danto maintains that",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2074,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But the inference from the limits of the artistically formal to the limits of the artistically aesthetic is presumably only as strong as the inferences from the immediacy and disinterest theses to artistic formalism, and these are not beyond question. The inference from the disinterest thesis appears to go through only if you employ a stronger notion of disinterest than the one Kant understands himself to be employing: Kant, it is worth recalling, regards poetry as the highest of the fine arts precisely because of its capacity to employ representational content in the expression of what he calls ‘aesthetic ideas’ (Kant 1790, 191–194; see Costello 2008 and 2013 for extended treatment of the capacity of Kantian aesthetics to accommodate conceptual art). The inference from the immediacy thesis appears to go through only if you employ a notion of immediacy stronger than the one Hume, for example, takes himself to be defending when he claims (in a passage quoted in section1.1) that “in many orders of beauty, particularly those of the fine arts, it is requisite to employ much reasoning, in order to feel the proper sentiment” (Hume 1751, 173). It may be that artistic formalism results if you push either of the tendencies embodied in the immediacy and disinterest theses to extremes. It may be that the history of aesthetics from the 18th century to the mid-Twentieth is largely the history of pushing those two tendencies to extremes. It does not follow that those tendencies must be so pushed.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2075,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Consider Warhol’s Brillo Boxes. Danto is right to maintain that the eighteenth-century theorist of taste would not know how to regard it as an artwork. But this is because the eighteenth-century theorist of taste lives in the 18th century, and so would be unable to situate that work in its twentieth-century art-historical context, and not because the kind of theory she holds forbids her from situating a work in its art-historical context. When Hume, for instance, observes that artists address their works to particular, historically-situated audiences, and that a critic therefore “must place herself in the same situation as the audience” to whom a work is addressed (Hume 1757, 239), he is allowing that artworks are cultural products, and that the properties that works have as the cultural products they are are among the “ingredients of the composition” that a critic must grasp if she is to feel the proper sentiment. Nor does there seem to be anything in the celebrated conceptuality of Brillo Boxes, nor of any other conceptual work, that ought to give the eighteenth-century theorist pause. Francis Hutcheson asserts that mathematical and scientific theorems are objects of taste (Hutcheson 1725, 36–41). Alexander Gerard asserts that scientific discoveries and philosophical theories are objects of taste (Gerard 1757, 6). Neither argues for his assertion. Both regard it as commonplace that objects of intellect may be objects of taste as readily as objects of sight and hearing may be. Why should the present-day aesthetic theorist think otherwise? If an object is conceptual in nature, grasping its nature will require intellectual work. If grasping an object’s conceptual nature requires situating it art-historically, then the intellectual work required to grasp its nature will include situating it art-historically. But—as Hume and Reid held (see section 1.1)—grasping the nature of an object preparatory to aesthetically judging it is one thing; aesthetically judging the object once grasped is another.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2076,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Though Danto has been the most influential and persistent critic of formalism, his criticisms are no more decisive than those advanced by Kendall Walton in his essay “Categories of Art.” Walton’s anti-formalist argument hinges on two main theses, one psychological and one philosophical. According to the psychological thesis, which aesthetic properties we perceive a work as having depends on which category we perceive the work as belonging to. Perceived as belonging to the category of painting, Picasso’s Guernica will be perceived as “violent, dynamic, vital, disturbing” (Walton 1970, 347). But perceived as belonging to the category of “guernicas”—where guernicas are works with “surfaces with the colors and shapes of Picasso’s Guernica, but the surfaces are molded to protrude from the wall like relief maps of different kinds of terrain”—Picasso’s Guernica will be perceived not as violent and dynamic, but as “cold, stark, lifeless, or serene and restful, or perhaps bland, dull, boring” (Walton 1970, 347). That Picasso’s Guernica can be perceived both as violent and dynamic and as not violent and not dynamic might be thought to imply that there is no fact of the matter whether it is violent and dynamic. But this implication holds only on the assumption that there is no fact of the matter which category Picasso’s Guernica actually belongs to, and this assumption appears to be false given that Picasso intended that Guernica be a painting and did not intend that it be a guernica, and that the category of paintings was well-established in the society in which Picasso painted it while the category of guernicas was not. Hence the philosophical thesis, according to which the aesthetic properties a work actually has are those it is perceived as having when perceived as belonging to the category (or categories) it actually belongs to. Since the properties of having been intended to be a painting and having been created in a society in which painting is well-established category are artistically relevant though not graspable merely by seeing (or hearing) the work, it seems that artistic formalism cannot be true. “I do not deny,” Walton concludes, “that paintings and sonatas are to be judged solely on what can be seen or heard in them—when they are perceived correctly. But examining a work with the senses can by itself reveal neither how it is correct to perceive it, nor how to perceive it that way” (Walton 1970, 367).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2077,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But if we cannot judge which aesthetic properties paintings and sonatas have without consulting the intentions and the societies of the artists who created them, what of the aesthetic properties of natural items? With respect to them it may appear as if there is nothing to consult except the way they look and sound, so that an aesthetic formalism about nature must be true. Allen Carlson, a central figure in the burgeoning field of the aesthetics of nature, argues against this appearance. Carlson observes that Walton’s psychological thesis readily transfers from works of art to natural items: that we perceive Shetland ponies as cute and charming and Clydesdales as lumbering surely owes to our perceiving them as belonging to the category of horses (Carlson 1981, 19). He also maintains that the philosophical thesis transfers: whales actually have the aesthetic properties we perceive them as having when we perceive them as mammals, and do not actually have any contrasting aesthetic properties we might perceive them to have when we perceive them as fish. If we ask what determines which category or categories natural items actually belong to, the answer, according to Carlson, is their natural histories as discovered by natural science (Carlson 1981, 21–22). Inasmuch as a natural item’s natural history will tend not to be graspable by merely seeing or hearing it, formalism is no truer of natural items than it is of works of art.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2078,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The claim that Walton’s psychological thesis transfers to natural items has been widely accepted (and was in fact anticipated, as Carlson acknowledges, by Ronald Hepburn (Hepburn 1966 and 1968)). The claim that Walton’s philosophical thesis transfers to natural items has proven more controversial. Carlson is surely right that aesthetic judgments about natural items are prone to be mistaken insofar as they result from perceptions of those items as belonging to categories to which they do not belong, and, insofar as determining which categories natural items actually belong to requires scientific investigation, this point seems sufficient to undercut the plausibility of any very strong formalism about nature (see Carlson 1979 for independent objections against such formalism). Carlson, however, also wishes to establish that aesthetic judgments about natural items have whatever objectivity aesthetic judgments about works of art do, and it is controversial whether Walton’s philosophical claim transfers sufficiently to support such a claim. One difficulty, raised by Malcolm Budd (Budd 2002 and 2003) and Robert Stecker (Stecker1997c), is that since there are many categories in which a given natural item may correctly be perceived, it is unclear which correct category is the one in which the item is perceived as having the aesthetic properties it actually has. Perceived as belonging to the category of Shetland ponies, a large Shetland pony may be perceived as lumbering; perceived as belonging to the category of horses, the same pony may be perceived as cute and charming but certainly not lumbering. If the Shetland pony were a work of art, we might appeal to the intentions (or society) of its creator to determine which correct category is the one that fixes its aesthetic character. But as natural items are not human creations they can give us no basis for deciding between equally correct but aesthetically contrasting categorizations. It follows, according to Budd, “the aesthetic appreciation of nature is endowed with a freedom denied to the appreciation of art” (Budd 2003, 34), though this is perhaps merely another way of saying that the aesthetic appreciation of art is endowed with an objectivity denied to the appreciation of nature.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2079,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The eighteenth-century debate between rationalists and theorists of taste (or sentimentalists) was primarily a debate over the immediacy thesis, i.e., over whether we judge objects to be beautiful by applying principles of beauty to them. It was not primarily a debate over the existence of principles of beauty, a matter over which theorists of taste might disagree. Kant denied that there are any such principles (Kant 1790, 101), but both Hutcheson and Hume affirmed their existence: they maintained that although judgments of beauty are judgments of taste and not of reason, taste nevertheless operates according to general principles, which might be discovered through empirical investigation (Hutcheson 1725, 28–35; Hume 1757, 231–233).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2080,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " It is tempting to think of recent debate in aesthetics between particularists and generalists as a revival of the eighteenth-century debate between rationalists and theorists of taste. But the accuracy of this thought is difficult to gauge. One reason is that it is often unclear whether particularists and generalists take themselves merely to be debating the existence of aesthetic principles or to be debating their employment in aesthetic judgment. Another is that, to the degree particularists and generalists take themselves to be debating the employment of aesthetic principles in aesthetic judgment, it is hard to know what they can be meaning by ‘aesthetic judgment.’ If ‘aesthetic’ still carries its eighteenth-century implication of immediacy, then the question under debate is whether judgment that is immediate is immediate. If ‘aesthetic’ no longer carries that implication, then it is hard to know what question is under debate because it is hard to know what aesthetic judgment could be. It may be tempting to think that we can simply re-define ‘aesthetic judgment’ such that it refers to any judgment in which an aesthetic property is predicated of an object. But this requires being able to say what an aesthetic property is without reference to its being immediately graspable, something no one seems to have done. It may seem that we can simply re-define ‘aesthetic judgment’ such that it refers to any judgment in which any property of the class exemplified by beauty is predicated of an object. But which class is this? The classes exemplified by beauty are presumably endless, and the difficulty is to specify the relevant class without reference to the immediate graspability of its members, and that is what no one seems to have done.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2081,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " However we are to sort out the particularist/generalist debate, important contributions to it include, on the side of particularism, Arnold Isenberg’s “Critical Communication” (1949) Frank Sibley’s “Aesthetic Concepts” (in Sibley 2001) and Mary Mothersill’s Beauty Restored (1984) and, on the side of generalism, Monroe Beardsley’s Aesthetics (1958) and “On the Generality of Critical Reasons” (1962), Sibley’s “General Reasons and Criteria in Aesthetics” (in Sibley 2001), George Dickie’s Evaluating Art (1987), Stephen Davies’s “Replies to Arguments Suggesting that Critics’ Strong Evaluations Could not be Soundly Deduced” (1995), and John Bender’s “General but Defeasible Reasons in Aesthetic Evaluation: The Generalist/Particularist Dispute” (1995). Of these, the papers by Isenberg and Sibley have arguably enjoyed the greatest influence.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2082,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Isenberg concedes that we often appeal to descriptive features of works in support of our judgments of their value, and he allows that this may make it seem as if we must be appealing to principles in making those judgments. If in support of a favorable judgment of some painting a critic appeals to the wavelike contour formed by the figures clustered in its foreground, it may seem as if his judgment must involve tacit appeal to the principle that any painting having such a contour is so much the better. But Isenberg argues that this cannot be, since no one agrees to any such principle:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2083,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But if in appealing to the descriptive features of a work we are not acknowledging tacit appeals to principles linking those features to aesthetic value, what are we doing? Isenberg believes we are offering “directions for perceiving” the work, i.e., by singling out certain its features, we are “narrow[ing] down the field of possible visual orientations” and thereby guiding others in “the discrimination of details, the organization of parts, the grouping of discrete objects into patterns” (Isenberg 1949, 336). In this way we get others to see what we have seen, rather than getting them to infer what we have inferred.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2084,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " That Sibley advances a variety of particularism in one paper and a variety of generalism in another will give the appearance of inconsistency where there is none: Sibley is a particularist of one sort, and with respect to one distinction, and a generalist of another sort with respect to another distinction. Isenberg, as noted, is a particularist with respect to the distinction between descriptions and verdicts, i.e., he maintains that there are no principles by which we may infer from value-neutral descriptions of works to judgments of their overall value. Sibley’s particularism and generalism, by contrast, both have to do with judgments falling in between descriptions and verdicts. With respect to a distinction between descriptions and a set of judgments intermediate between descriptions and verdicts, Sibley is straightforwardly particularist. With respect to a distinction between a set of judgments intermediate between descriptions and verdicts and verdicts, Sibley is a kind of generalist and describes himself as such.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2085,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Sibley’s generalism, as set forth in “General Reasons and Criteria in Aesthetics,” begins with the observation that the properties to which we appeal in justification of favorable verdicts are not all descriptive or value-neutral. We also appeal to properties that are inherently positive, such as grace, balance, dramatic intensity, or comicality. To say that a property is inherently positive is not to say that any work having it is so much the better, but rather that its tout court attribution implies value. So although a work may be made worse on account of its comical elements, the simple claim that a work is good because comical is intelligible in a way that the simple claims that a work is good because yellow, or because it lasts twelve minutes, or because it contains many puns, are not. But if the simple claim that a work is good because comical is thus intelligible, comicality is a general criterion for aesthetic value, and the principle that articulates that generality is true. But none of this casts any doubt on the immediacy thesis, as Sibley himself observes:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2086,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The “elsewhere” referred to in the first sentence is Sibley’s earlier paper, “Aesthetic Concepts,” which argues that the application of concepts such as ‘balanced,’ ‘tragic,’ ‘comic,’ or ‘joyous’ is not a matter of determining whether the descriptive (i.e., non-aesthetic) conditions for their application are met, but is rather a matter of taste. Hence aesthetic judgments are immediate in something like the way that judgments of color, or of flavor, are:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2087,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " But Sibley recognizes—as his eighteenth-century forebears did and his formalist contemporaries did not—that important differences remain between the exercise of taste and the use of the five senses. Central among these is that we offer reasons, or something like them, in support of our aesthetic judgments: by talking—in particular, by appealing to the descriptive properties on which the aesthetic properties depend—we justify aesthetic judgments by bringing others to see what we have seen (Sibley 2001, 14–19).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2088,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " It is unclear to what degree Sibley, beyond seeking to establish that the application of aesthetic concepts is not condition-governed, seeks also to define the term ‘aesthetic’ in terms of their not being so. It is clearer, perhaps, that he does not succeed in defining the term this way, whatever his intentions. Aesthetic concepts are not alone in being non-condition-governed, as Sibley himself recognizes in comparing them with color concepts. But there is also no reason to think them alone in being non-condition-governed while also being reason-supportable, since moral concepts, to give one example, at least arguably also have both these features. Isolating the aesthetic requires something more than immediacy, as Kant saw. It requires something like the Kantian notion of disinterest, or at least something to play the role played by that notion in Kant’s theory.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2089,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Given the degree to which Kant and Hume continue to influence thinking about aesthetic judgment (or critical judgment, more broadly), given the degree to which Sibley and Isenberg continue to abet that influence, it is not surprising that the immediacy thesis is now very widely received. The thesis, however, has come under attack, notably by Davies (1990) and Bender (1995). (See also Carroll (2009), who follows closely after Davies (1990), and Dorsch (2013) for further discussion.)",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2090,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Isenberg, it will be recalled, maintains that if the critic is arguing for her verdict, her argumentation must go something as follows:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2091,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Since the critical principle expressed in premise 1 is open to counter-example, no matter what property we substitute for p, Isenberg concludes that we cannot plausibly interpret the critic as arguing for her verdict. Rather than defend the principle expressed in premise 1, Davies and Bender both posit alternative principles, consistent with the fact that no property is good-making in all artworks, which they ascribe to the critic. Davies proposes that we interpret the critic as arguing deductively from principles relativized to artistic type, that is, from principles holding that artworks of a specific types or categories—Italian Renaissance paintings, romantic symphonies, Hollywood Westerns, etc.—having p are better for having it (Davies 1990, 174). Bender proposes that we interpret the critic as arguing inductively from principles expressing mere tendencies that hold between certain properties and artworks—principles, in other words, holding that artworks having p tend to be better for having it (Bender 1995, 386).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2092,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Each proposal has its own weaknesses and strengths. A problem with Bender’s approach is that critics do not seem to couch their verdicts in probabilistic terms. Were a critic to say that a work is likely to be good, or almost certainly good, or even that she has the highest confidence that it must be good, her language would suggest that she had not herself experienced the work, perhaps that she had judged the work on the basis of someone else’s testimony, hence that she is no critic at all. We would therefore have good reason to prefer Davies’s deductive approach if only we had good reason for thinking that relativizing critical principles to artistic type removed the original threat of counterexample. Though it is clear that such relativizing reduces the relative number of counterexamples, we need good reason for thinking that it reduces that number to zero, and Davies provides no such reason. Bender’s inductive approach, by contrast, cannot be refuted by counterexample, but only by counter-tendency.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2093,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " If the critic argues from the truth of a principle to the truth of a verdict—as Davies and Bender both contend—it must be possible for her to establish the truth of the principle before establishing the truth of the verdict. How might she do this? It seems unlikely that mere reflection on the nature of art, or on the natures of types of art, could yield up the relevant lists of good- and bad-making properties. At least the literature has yet to produce a promising account as to how this might be done. Observation therefore seems the most promising answer. To say that the critic establishes the truth of critical principles on the basis of observation, however, is to say that she establishes a correlation between certain artworks she has already established to be good and certain properties she has already established those works to have. But then any capacity to establish that works are good by inference from principles evidently depends on some capacity to establish that works are good without any such inference, and the question arises why the critic should prefer to do by inference what she can do perfectly well without. The answer cannot be that judging by inference from principle yields epistemically better results, since a principle based on observations can be no more epistemically sound than the observations on which it is based.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2094,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " None of this shows that aesthetic or critical judgment could never be inferred from principles. It does however suggest that such judgment is first and foremost non-inferential, which is what the immediacy thesis holds.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2095,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The Kantian notion of disinterest has its most direct recent descendents in the aesthetic-attitude theories that flourished from the early to mid 20th century. Though Kant followed the British in applying the term ‘disinterested’ strictly to pleasures, its migration to attitudes is not difficult to explain. For Kant the pleasure involved in a judgment of taste is disinterested because such a judgment does not issue in a motive to do anything in particular. For this reason Kant refers to the judgment of taste as contemplative rather than practical (Kant 1790, 95). But if the judgment of taste is not practical, then the attitude we bear toward its object is presumably also not practical: when we judge an object aesthetically we are unconcerned with whether and how it may further our practical aims. Hence it is natural to speak of our attitude toward the object as disinterested.",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2096,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " To say, however, that the migration of disinterest from pleasures to attitudes is natural is not to say that it is inconsequential. Consider the difference between Kant’s aesthetic theory, the last great theory of taste, and Schopenhauer’s aesthetic theory, the first great aesthetic-attitude theory. Whereas for Kant disinterested pleasure is the means by which we discover things to bear aesthetic value, for Schopenhauer disinterested attention (or “will-less contemplation”) is itself the locus of aesthetic value. According to Schopenhauer, we lead our ordinary, practical lives in a kind of bondage to our own desires (Schopenhauer 1819, 196). This bondage is a source not merely of pain but also of cognitive distortion in that it restricts our attention to those aspects of things relevant to the fulfilling or thwarting of our desires. Aesthetic contemplation, being will-less, is therefore both epistemically and hedonically valuable, allowing us a desire-free glimpse into the essences of things as well as a respite from desire-induced pain:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2097,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " The two most influential aesthetic-attitude theories of the 20th century are those of Edward Bullough and Jerome Stolnitz. According to Stolnitz’s theory, which is the more straightforward of the two, bearing an aesthetic attitude toward an object is a matter of attending to it disinterestedly and sympathetically, where to attend to it disinterestedly is to attend to it with no purpose beyond that of attending to it, and to attend to it sympathetically is to “accept it on its own terms,” allowing it, and not one’s own preconceptions, to guide one’s attention of it (Stolnitz 1960, 32–36). The result of such attention is a comparatively richer experience of the object, i.e., an experience taking in comparatively many of the object’s features. Whereas a practical attitude limits and fragments the object of our experience, allowing us to “see only those of its features which are relevant to our purposes,…. By contrast, the aesthetic attitude ‘isolates’ the object and focuses upon it—the ‘look’ of the rocks, the sound of the ocean, the colors in the painting.” (Stolnitz 1960, 33, 35).",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2098,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Bullough, who prefers to speak of “psychical distance” rather than disinterest, characterizes aesthetic appreciation as something achieved",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2099,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/aesthetic-concept/",
+        "text": " Bullough has been criticized for claiming that aesthetic appreciation requires dispassionate detachment:",
+        "category": "aesthetic-concept"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

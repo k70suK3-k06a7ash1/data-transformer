@@ -1,0 +1,933 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "metadata",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "category",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 2800,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Not a great deal hangs on that thesis, at any rate. A great deal more hangs on the thesis that art essentially exercises the expressive imagination. The difference between the imagined lecture and the tune is that the content of the lecture is verbal and cognitive, and brings those departments of mind into play; whilst the tune, among other things, brings the emotional department of the mind much more vividly into play. The substance of Collingwood’s view is largely dependent on his account of this distinction.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2801,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " At the most basic level Collingwood distinguishes thinking from feeling. The objects of each, respectively, are thoughts and ‘sensa’: ‘sensa’ is Collingwood’s name for all the data of the senses—of touch, smell, sight, and so on. Thoughts can be true or false, justified or not, where sensa have no such duality: they are felt or not felt, but cannot contradict each other. There is sense in which sensa can be said to be real or unreal, true or false (for example in hallucination), but this not an intrinsic feature of sensa themselves; that distinction applies only to thoughts involving them. A first point that is directly relevant to the theory of expression is that probably all sensa have an emotional ‘charge’. Thus for example every colour carries with it a certain emotional quality. Not that they are invariably experienced with their particular emotional charge; the charge is more like a disposition to be experienced a certain way, under certain circumstances. Children or artists are more likely to experience them; educated adult Europeans, Collingwood says, tend to have rather ‘sterilized’ experience.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2802,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Sensa are occurrent phenomena, and therefore fleeting (222): If I hear the bell striking the hour of four, the experience comprises many passing sensa, each no sooner generated than gone. But if I am to be aware of them as a process extended in time with particular morphology, I must retain the sound of the bell, along with the silences in between. The objects that I so retain cannot be the sensa themselves. Instead, the faculty of ‘conscious attention’ generates ‘ideas’ corresponding to the sensa, and which are retained. Sensa alone—or sense data, or impressions—are never sufficient for consciousness. Collingwood cites Kant approvingly in the connection; noting that we have always to ‘fill in’ occurrent perception to generate a complete world of 3-D objects, he writes:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2803,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " When one is conscious of a feeling of anger, one is aware of it as one’s own. By becoming conscious of it—therefore not of the sensation of anger but the anger transformed by consciousness—what we feel ‘is correspondingly changed’ (207); the ‘effect of this experience … is make them less violent’ (209). And another word for this is imagination. ‘We become able to perpetuate feeling … at will’ (209). ‘Imagination is thus the new form which feeling takes when transformed by the activity of consciousness’ (215). With this level of consciousness comes the beginning of self-consciousness; ‘it is assertion of ourselves as the owners of our feeling’ (222; feeling that is ‘as modified by consciousness’). But imagination, since it deals not with sensa but with their ideated analogues, is a type of thought, and with the introduction of thought comes the possibility of error. Thus if the basic action of the consciousness is to think ‘This is how I feel’, its denial is ‘This is not how I feel’ (216). The possibility of such disowned feeling is the possibility of false, or corrupt consciousness (217).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2804,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Thought is established by the intellect, but there are two, separable roles of thought called ‘primary’ and ‘secondary’. Its primary role is to ‘apprehend or construct relations’ (216) amongst ideas, as just described (in fact Collingwood thinks in such relations the relata are fused in a new idea comprising a ‘peculiar colouring or modification of the old’ (223)). The secondary role is to apprehend or construct ‘relations between acts of primary intellection’; by this Collingwood means conceptions of the past, future, the possible etc., and presumably all that content of human thought which can not be accounted for in terms of the imagination.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2805,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " That Collingwood has a theory of language might seem tangential to his theory of art, but in fact it is integral to it. For Collingwood’s approach to it comes not from the theory of reference and truth as in Frege or Russell, but from the point of view which regards language as fundamentally or in the first instance expressive behaviour. Concepts of referential semantics—as a ‘symbolism’ in Collingwood’s terminology—become applicable only later, with a certain degree of sophistication is attained. ‘In its original or native state, language in imaginative or expressive … It is imaginative activity whose function is to express emotion.’ (225). Of course ‘imaginative’ must be understood in the broader sense just described, denoting all consciousness of ideated analogues of sensation or feeling. From this angle, we can speak of the ‘totality of our motor activities’ as a ‘parent organism’ (247), from which every type of ‘language (speech, gesture, and so forth)’ is an ‘offshoot’ (246).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2806,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " At the most fundamental level, at the ‘psychic’ level as Collingwood calls it, various sorts of bodily activity are said to psychically express an underlying emotional charge on a sensum; cringing or flinching express fear, for example. At this stage consciousness of the imagination is not involved—only sensa; this level is shared with animals, and is ‘completely uncontrollable’ (234). With the consciousness of ideas comes ‘emotions of consciousness’, which require language for their expression. A cry from a child, for example, may be either psychic or imaginative, depending whether it is involuntary or voluntary. If it is voluntary, it is the work of the conscious imagination, and thus in the most rudimentary sense linguistic.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2807,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " It is essential to Collingwood’s view that there are not, paradoxical as it sounds, any unexpressed emotions. A psychical emotion, on one hand, simply has its being in its expression; an emotion of fear must show up somewhere, whether by cringing, shying or flinching, an increase in pulse or blood pressure, a tightness of the chest, or something else bodily or physiological. On the other hand, if someone tries but fails to express an emotion, the emotion at most remains ‘shut up’ in the psychic level; in order to be conscious of the emotion, ‘the same consciousness which generates these emotions converts them from impressions into ideas generates also and simultaneously their appropriate linguistic expression.’(238). There is no other way to be conscious of an emotion; to express an emotion is to be conscious of it.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2808,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood’s remarks about the relation between speaker and hearer are of special interest not just to aestheticians but to philosophers of mind interested in knowledge of other minds. A voluntary cry is underpinned by a self-conscious imaginative act; and however rudimentary it is, self-consciousness is at once the consciousness of others. ‘[A]s persons’, writes Collingwood, ‘they construct a new set of relations between themselves, arising out their consciousness of themselves and one another; these are linguistic relations.’ (248).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2809,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " The relation of the listener and speaker to an expressive act is totally symmetric:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2810,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Remember, again, that we are talking of the expressive dimension of language, not the referential dimension (about which more in a moment). To understand another person’s emotions is precisely to adopt the person’s expressive language as one’s own, imaginatively experiencing the ideas as if they were one’s own (that is, as if they expressed one’s own emotion; of course the ideas, as analogues of sensation, are necessarily one’s own). This aspect of Collingwood, of the necessary publicity of language and meaning, can be stressed as a potential way out of the threat of the seeming privacy of the work of art as mentioned above, in connection with p. 134 of the Principles.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2811,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " There is however one evident mistake in Collingwood’s presentation. Sensa are, as we’ve seen, fleeting. But no idea ‘can be formed as such in consciousness except by a mind whose sense-emotional experience contains the corresponding impression … at that very moment.’ (251). This cannot be right. To understand Othello, we don’t have to actually have an impression of jealousy; we only need to have the idea. In fact, by what we said in section IV, there are no impressions (sensa) of jealousy at all; jealousy is an emotion of consciousness. The solution, which as far as I can see is consistent with everything else Collingwood says, is simply to erase the requirement that the listener must undergo anything at the psychical level, the level of sensa, coevally with expression (we leave open the question of whether it must have happened to one in the past).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2812,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Earlier, we said that thought involving relations is the domain of thought in its ‘secondary’ role, the realm of intellect. Thoughts delivered by the imagination are ‘seamless’:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2813,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " ‘Analytical thought’—intellect, thought in its secondary role—may begin with the same experience, but instead of being ‘an indivisible unity it becomes a manifold, a network of things with relations between them’ (253). Collingwood also characterises the intellect as the domain of concepts, and of generalisation (273, 281).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2814,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Now one might be tempted to suppose that thoughts as grasped by the intellect are roughly the same as propositions, in the sense intended by analytical philosophers. But Collingwood holds that the proposition is ‘a fictitious entity’ (266), and devotes a long passage to excoriating that tendency in philosophy. Every actual episode of thought is performed with its own particular degree and character of emotion; there is no such thing as the thought shorn of its emotional husk. All mental activity has some emotional character, including intellectual activity. The cry of ‘Eureka’ said to have accompanied Archimedes’ discovery of a principle of hydrostatics is but an extreme example. Thus language is expressive of emotion even in its scientific use. This applies even to mathematical symbols and technical symbols. Insofar as they are used, they automatically acquire the expressive character of the underlying thoughts. Thus Collingwood says: ‘Symbolism is thus intellectual language; language, because it expresses emotions; intellectualized, because adapted to the expression of intellectual emotions’ (269). In ‘poeticizing’ such language, Collingwood does not intend to demean it; presumably the aim is to do justice to the rarefied air of pure intellect:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2815,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Nevertheless, Collingwood’s account of language, needless to say, is radical; he is quite serious in his denial of the possibility of what earlier I called a theory of the purely referential dimension of language, which generalizes about truth-conditions of sentences in abstraction from their use:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2816,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " With his theory of language in place, Collingwood takes the theory of art to be complete. At the end of section III we said that Collingwood defines Art as imaginative expression, assuming that readers will agree once they have the mistakes of the technical or craft theory pointed out for them. He then poses a particular theory of mind in which imagination and expression are built into the structural fabric of the mind, so that every intentional mental act is in some sense an act of an expressive imagination. That includes linguistic acts. In fact, properly understood, language encompasses all expressive acts whatsoever, and every linguistic act is one way or another an expressive act. Language and art become interchangeable (274). ‘Every utterance’, Collingwood says, ‘and every gesture that each one of us makes is a work of art’ (285). Collingwood next turns to ‘practical’ questions, of which we will consider two: the relation of art to artists, and relation between the artist and the community. In answering them, we will consider some questions naturally arising from the preceding.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2817,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " If all activity is in that sense ‘artistic’, then it is natural to wonder whether the theory has anything to tell us about art, that is, the peculiar business of the painter, the poet, the musician and the like. Of course, most activity is undertaken with a some purpose in mind or other, in which case it is craft, however hum-drum the theory of it might be. For example, I just ate an orange which I took from a bowl; the theory of what I did could be written down in a practical guide to eating oranges. But surely I was conscious of eating the orange; by Collingwood’s theory, then, was I not expressing something? In that case, by the same theory, just by being conscious, was I not engaged in art? And is that not absurd?",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2818,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood says nothing in direct reply to this worry, but I think it obvious that the reply would be this. In so far as I was conscious of the orange, it is true that I was involved in expression. But this conscious experience was un-sustained, fleeting, and lacking in depth (307). Furthermore, it took place in a mind that was busy with other things, and which was dominated by an overarching purpose, namely to eat the orange, whose sub-tasks include selecting it, peeling it, putting a section in my mouth, trying not spill too much juice, and so on; all this would be written down in my practical guide to eating oranges. Life, then, is full of ‘artworks’, but they are mostly shallow, unworthy of comment. However, there are times when consciousness settles on something, such that the mental activity does approach the character of art, in the proper sense of the word. Sitting in a park, for example, we might dwell on the look of an oak tree, or suddenly think of an original stanza of poetry, or a snatch of melody. These are instances of imaginative expression, and are closer to what we should ordinarily call a work of art. But they are likely to be lost, unless some record of the experience is made. The ‘artist’, then, is one who has these experiences of consciousness more deeply than the average person, and who has mastered the practice of preserving them.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2819,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " But the act of ‘preserving them’ has to be understood in a special sense. ‘There is no question’, says Collingwood, “of ‘externalizing’ an inward experience which is complete in itself and by itself” (304). Collingwood is denying that a painter could in point of fact dispense with the medium, even if in principle he could (in sense of ‘could in principle’ in which a man might run a hundred miles per hour). Instead, although ‘you see something in your subject, of course, before you begin to paint it’ (303), the ‘experience develops itself and defines itself in your mind as you paint’ (ibid.). The work of art develops by means of positive feedback between painting and experience. What develops is the ‘total imaginative experience’ that Collingwood identifies as the work of art, strictly speaking (304). Again, the work of art proper is not to be identified with the ‘bodily work’—the painted canvas, the sculpted bust—but with the experience of it. What is true that in point of fact the imaginative experiences requires the bodily work; the human imagination is not able to hold within it anything approaching the richness made available by the plastic arts. In particular, the ‘outward element’—the bodily work—provides the sensuous content or impressions out of which the conscious imagination generates ideas, constituting the ‘total imaginative experience’ (see Davies 2008 for more on this issue).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2820,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " ‘Theoretically’, Collingwood says, ‘the artist is a person who comes to know himself, to know his own emotion’ (291). Despite this, however, Collingwood is anxious to show this does not entail aesthetic solipsism, as if the artist need not ever concern himself with others. Quite the opposite: necessarily the artistic achievement is collaborative, involving the audience and other artists.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2821,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood begins his account of the relation between artist and spectator by saying that a spectator understands a given work just insofar as his imaginative experience is identical with that had by the artist in creating it. This can never be known with certainty, but so it is with all understanding of language (remember that ‘language’ in Collingwood’s usage means all expressive behaviour). It is also piecemeal: ‘Understanding … is a complex business, consisting of many phases, each complete in itself but each leading on to the next’ (311). Collingwood does speak of identity of understanding, but really his real account is more fluid. First, he accepts that any utterance is endlessly interpretable; there no such thing as ‘the’ meaning of a work (ibid.). Second, the audience’s role is collaborative, in the sense that the artist is concerned to express emotions that are mutually held; failure in this may rightly cause the artist to doubt whether he expressed anything, and suffers instead from a ‘corruption of consciousness’ as explained earlier. The audience, then, actively participates in re-creating the imaginative experience. This second point flows from his conception of art as a language:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2822,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood further dilutes the air of aesthetic solipsism by observing that the artist never works alone; on the one hand the artist freely borrows from what has already been achieved, and on the other, at least in the performing arts, the players have their own essential role. A work of art is collaborative, not simply the creation of an individual; the ‘cult of individual genius’ is totally misplaced and indeed pernicious.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2823,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Collingwood’s theory is generally lumped together with that of Benedetto Croce as an expressive and idealist theory. There are of course differences, but the established picture is not inaccurate. And together with Croce’s theory, Collingwood’s has a fatal defect (without questioning the starting-point, that the essence of art to be expressive): In identifying the artwork with what we would normally think of as the experience of the artwork, he makes nonsense of the idea that the spectator interprets the artwork, and can do so more or less accurately; that different people can argue about the self-same work of art. It has become a truism that the artist is no better placed than the audience to interpret a work rightly, a truism that Collingwood, with his fulminations again aesthetic individualism, would agree. But then the various imaginative experiences have nothing to conform to, if artwork and experience and hence artwork and interpretation cannot be separated. That would be fatal to the theory; however, it is not clear that anything substantial would be lost, if Collingwood were simply to identify the work of art with the ‘bodily work’, thereby re-establishing room for interpretation to operate. This would seem to sit better with his idea that art is on a level with language, where language is a public phenomenon.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2824,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " An apparent further defect in Collingwood’s case in particular is his account of language. It is full of admirable insights, but it is probably misconceived from back to front. The insistence that language is always expressive is dogmatic, and leads Collingwood to deny that there is any categorical distinction between poetry and scientific writing, which many may take as a reductio ad absurdum (298). And more seriously so far as his philosophy of art is concerned, one might wonder about his account of consciousness as tied to language. According to it—the theory of imagination—merely to attend to something is thereby to express it, and furthermore is to do something linguistic. Even if we allow Collingwood his generalised notion of language as appertaining to gesture and so on, surely there has to be a separation between consciousness or attention and expression. As C. J. Ducasse pointed out, it seems that when we look at a vase full of flowers, do we not create a “work of art” unless we draw or paint it (Ducasse 1929, 52–54).",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2825,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Finally, it is hard to swallow whole Collingwood’s distinction between art and craft. The consequences are too severe. For example, Collingwood, rigorously applying the distinction, says that insofar as his activity is art in the proper sense, an artist, since he has no idea what he is to express until he expresses it, cannot set out to write, say, a tragedy  (116).[2]  There is something right in the idea that that the artist cannot ‘plan and execute’ an inspiration. But the distinction Collingwood is after is surely not so cut and dried as that. He needs at any rate a more selective weapon to attack his bugbear of amusement art.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2826,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " For a more complete bibliography of Collingwood’s writings, see the Bibliography in the entry on  Collingwood.",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2827,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": "[Please contact the author with suggestions.]",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2828,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Aristotle, General Topics: aesthetics |  Collingwood, Robin George |  Croce, Benedetto: aesthetics |  Davidson, Donald |  Wittgenstein, Ludwig |  Wittgenstein, Ludwig: aesthetics ",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2829,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": " Copyright © 2021 by   Gary Kemp &lt;gary.kemp@glasgow.ac.uk&gt;     ",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2830,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": "View this site from another server:",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2831,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2832,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/collingwood-aesthetics/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "collingwood-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2833,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The Neapolitan Benedetto Croce (1860–1952) was a dominant figure in the first half of the twentieth century in aesthetics and literary criticism, and to lesser but not inconsiderable extent in philosophy generally. But his fame did not last, either in Italy or in the English speaking world. He did not lack promulgators and willing translators into English: H. Carr was an early example of the former, R. G. Collingwood was perhaps both, and D. Ainslie did the latter service for most of Croce’s principal works. But his star rapidly declined after the Second World War. Indeed it is hard to find a figure whose reputation has fallen so far and so quickly; this is somewhat unfair not least because Collingwood’s aesthetics is still studied, when its many of its main ideas are often thought to have been borrowed from Croce. The causes are a matter for speculation, but two are likely. First, Croce’s general philosophy was very much of the preceding century. As the idealistic and historicist systems of Bradley, Green, and Joachim were in Britain superseded by Russell, Moore and Ayer, and analytical philosophy in general, Croce’s system was swept away by new ideas on the continent—from Heidegger and Sartre on the one hand to deconstructionism on the other. Second, Croce’s manner of presentation in his famous early works now seems, not to put too fine a point on it, dismissively dogmatic; it is full of the youthful conviction and fury that seldom wears well. On certain key points, opposing positions are characterized as foolish, or as confused expressions of simple truths that only waited upon Croce to articulate properly (yet his later exchange with John Dewey—see Croce 1952, Douglas 1970, Vittorio 2012—finds him more earnestly accountable). Of course, these dismissals carry some weight—Croce’s reading is prodigious and there is far more insight beneath the words than initially meets the eye—but unless the reader were already convinced that here at last is the truth, their sheer number and vehemence will arouse mistrust. And since the early works, along with his long running editorship of the journal La Critica, rocketed him to such fame and admiration, whereas later years were devoted among other things to battling with while being tolerated by fascists, it’s not surprising that he never quite lost this habit.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2834,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Nevertheless, Croce’s signal contribution to aesthetics—an interesting new angle on the idea that art is expression—can be more or less be detached from the surrounding philosophy and polemics. In what follows, we will first see the doctrine as connected to its original philosophical context, then we will attempt to snip the connections.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2835,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " We are confining ourselves to Croce’s aesthetics, but it will help to have at least the most rudimentary sketch in view of his rather complex general philosophy.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2836,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " In Italy at the beginning of the twentieth century, the prevailing philosophy or ‘world-view’ was not, as in England, post-Hegelian Idealism as already mentioned, but the early forms of empiricist positivism associated with such figures as Comte and Mach. Partly out of distaste for the mechanism and enshrinement of matter of such views, and partly out of his reaction, both positive and negative, to the philosophy of Hegel, Croce espoused what he called ‘Absolute Idealism’ or ‘Absolute Historicism’. A constant theme in Croce’s philosophy is that he sought a path between the Scylla of ‘transcendentalism’ and the Charybdis of ‘sensationalism’, which for most purposes may be thought of as co-extensive with rationalism and empiricism. For Croce, they are bottom the same error, the error of abstracting from ordinary experience to something not literally experienceable. Transcendentalism regards the world of sense to be unreal, confused or second-rate, and it is the philosopher, reflecting on the world in a priori way from his armchair, who sees beyond it, to reality. What Croce called ‘Sensationalism’, on the other hand, regards only instantaneous impressions of colour and the like as existing, the rest being in some sense a mere logical construction out of it, of no independent reality. The right path is what Croce calls immanentism: All but only lived human experience, taking place concretely and without reduction, is real. Therefore all Philosophy, properly so-called, is Philosophy of Spirit (or Mind), and is inseparable from history. And thus Croce’s favoured designations, ‘Absolute Idealism’ or ‘Absolute Historicism’.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2837,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Philosophy admits of the following divisions, corresponding to the different modes of mental or spiritual activity. Mental activity is either theoretic (it understands or contemplates) or it is practical (it wills actions). These in turn divide: The theoretic divides into the aesthetic, which deals in particulars (individuals or intuitions), and logic or the intellectual domain, which deals in concepts and relations, or universals. The practical divides into the economic—by which Croce means all manner of utilitarian calculation—and the ethical or moral. Each of the four domains are subject to a characteristic norm or value: aesthetic is subject to beauty, logic is subject to truth, economic is subject to the useful (or vitality), and the moral is subject to the good. Croce devoted three lengthy books written between 1901 and 1909 to this overall scheme of the ‘Philosophy of Spirit’: Aesthetic (1901) and (1907) (revised), Logic (1909) and the Philosophy of the Practical (1908), the latter containing both the economic and ethics (in today’s use of term you might call the overall scheme Croce’s metaphysics, but Croce himself distanced himself from that appellation; there is also some sense in calling it philosophy of mind).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2838,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Philosophers since Kant customarily distinguish intuitions or representations from concepts or universals. In one sense Croce follows this tradition, but another sense his view departs radically. For intuitions are not blind without concepts; an intuitive presentation (an ‘intuition’) is a complete conscious manifestation just as it is, in advance of applying concepts (and all that is true a priori of them is that they have a particular character or individual physiognomy—they are not necessarily spatial or temporal, contra Kant). To account for this, Croce supposes that the modes of mental activity are in turn arranged at different levels. The intellect presupposes the intuitive mode—which just is the aesthetic—but the intuitive mode does not presuppose the intellect. The intellect—issuing in particular judgements—in turn is presupposed by the practical, which issues among other things in empirical laws. And morality tells the practical sciences what ends in particular they should pursue. Thus Croce regarded this as one of his key insights: All mental activity, which means the whole of reality, is founded on the aesthetic, which has no end or purpose of its own, and of course no concepts or judgements. This includes the concept of existence or reality: the intuition plus the judgement of existence is what Croce calls perception, but itself is innocent of it.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2839,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " To say the world is essentially history is to say that at the lowest level it is aesthetic experiences woven into a single fabric, a world-narrative, with the added judgement that it is real, that it exists. Croce takes this to be inevitable: the subjective present is real and has duration; but any attempt to determine its exact size is surely arbitrary. Therefore the only rigorous view is that the past is no less real than the present. History then represents, by definition, the only all-encompassing account of reality. What we call the natural sciences then are impure, second-rate. Consider for example the concept of a space-time point. Plainly it is not something anyone has ever met with in experience; it is an abstraction, postulated as a limit of certain operations for the convenience of a ‘theory’. Croce would call it a pseudo-concept, and would not call the so-called ‘empirical laws’ in which it figures to be fit subjects for truth and knowledge. Its significance, like that of other pseudo-concepts, is pragmatic.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2840,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " In fact the vast majority of concepts—house, reptile, tree—are mere adventitious collections of things that are formulated in response to practical needs, and thus cannot, however exact the results of the corresponding science, attain to truth or knowledge. Nor do the concepts of mathematics escape the ‘pseudo’ tag. What Croce calls pure concepts, in contrast, are characterised by their possession of expressiveness, universality and concreteness, and they perform their office by a priori synthesis (this accounts for character mentioned above). What this means it that everything we can perceive or imagine—every representation or intuition—will necessarily have all three: there is no possible experience that is not of something concrete, universal in the sense of being an instance of something absolutely general, and expressive, that is, admitting of verbal enunciation. Empirical concepts, then, like heat, are concrete but not universal; mathematical concepts, like number, are universal but not concrete. Examples of pure concepts are rare, but those recognized by Croce are finality, quality and beauty. Such is the domain of Logic, in Croce’s scheme.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2841,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " A critical difference, for our purposes, between Croce’s ideas and those of his apparent follower Collingwood, emerges when we ask: what are the constituents of the intuition? For Collingwood—writing in the mid-1930s—intuitions are built up out of sense-data, the only significant elaboration of Russell’s doctrine being that sense-data are never simple, comprising what analysis reveals as sensory and affective constituents. For Croce the intuition is an organic whole, such that to analyze it into atoms is always a false abstraction: the intuition could never be re-built with such elements. (Although a deadly opponent of formal logic, Croce did share Frege’s insight that the truly meaningful bit of language is the sentence; ‘only in the context of sentence does a word have a meaning’, wrote Frege in 1884).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2842,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " With such an account of ‘the aesthetic’ in view, one might think that Croce intends to cover roughly the same ground as Kant’s Transcendental Aesthetic, and like Kant will think of art as a comparatively narrow if profound region of experience. But Croce takes the opposite line (and finds Kant’s theory of beauty and art to have failed at precisely this point): art is everywhere, and the difference between ordinary intuition and that of ‘works of art’ is only a quantitative difference (Aes.13). This principle has for Croce a profound significance:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2843,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " But the point is not that every object is to some degree a work of art. The point is that every intuition has to some degree the qualities of the intuition of a work of art; it’s just that the intuition of a work of art has them in much greater degree.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2844,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " We now reach the most famous and notorious Crocean doctrine concerning art. ‘To intuit’, he writes, ‘is to express’ (Aes. 11); ‘intuitive knowledge is expressive knowledge’. There are several points that have to be in place in order to understand what Croce means by this, because it obviously does not strike one as initially plausible.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2845,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " For our purposes, it is simplest to regard Croce as an idealist, for whom there is nothing besides the mind. So in that sense, the work of art is an ideal or mental object along with everything else; no surprise there, but no interest either. But he still maintains the ordinary commonplace distinction between mental things—thoughts, hopes and dreams—and physical things—tables and trees. And on this divide, the work of art, for Croce, is still a mental thing. In other words, the work of art in doubly ideal; to put it another way, even if Croce were a dualist—or a physicalist with some means of reconstructing the physical-mental distinction—the work of art would remain mental. In what follows, then, except where otherwise noted, we shall treat Croce is being agnostic as between idealism, physicalism, or dualism (see PPH 227).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2846,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " This claim about the ontological status of works of art means that a spectator ‘of’ a work of art—a sonata, a poem, a painting—is actually creating the work of art in his mind. Croce’s main argument for this is the same as, therefore no better but no worse than, Russell’s argument from the relativity of perception to sense-data. The perceived aesthetic qualities of anything vary with the states of the perceiver; therefore in speaking of the former we are really speaking of the latter (Aes. 106; Croce does not, it seems, consider the possibility that certain states of the perceiver might be privileged, but it is evident that he would discount this possibility). Now the Crocean formulation—to intuit is to express—perhaps begins to make sense. For ‘intuition’ is in some sense a mental act, along with its near-cognates ‘representation’, ‘imagination’, ‘invention’,‘vision’, and ‘contemplation.’ Being a mental act, something we do, it is not a mere external object.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2847,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Feeling, for Croce, is necessarily part of any (mental) activity, including bare perception—indeed, feeling is a form of mental activity (it is part of his philosophy that there is never literally present to consciousness anything passive). We are accustomed to thinking of ‘artistic expression’ as concerned with specific emotions that are relatively rare in the mental life, but again, Croce points out that strictly speaking, we are thinking of a quantitative distinction as qualitative. In fact feeling is nothing but the will in mental activity, with all its varieties of thought, desire and action, its varieties of frustration and satisfaction (Aes. 74–6). The only criterion of ‘art’ is coherence of expression, of the movement of the will (for a comparison with Collingwood’s similar doctrine, see Kemp 2003: 173–9).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2848,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Because of this, Croce discounts certain aesthetic applications of the distinction between form and content as confused. The distinction only applies at a theoretical level, to a posited a priori synthesis (EA 39–40). At that level, the irruption of an intuition just is the emergence of a form (we are right to speak of the formation of intuition, that intuitions are formed). At the aesthetic level—one might say at the phenomenological level—there is no identification of content independently of the forms in which we meet it, and none of form independently of content. It makes no sense to speak of a work of art’s being good on form but poor on content, or good on content but poor on form.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2849,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " When Croce says that intuition and expression are the same phenomenon, we are likely to think: what does this mean for a person who cannot draw or paint, for example? Even if we allow Croce his widened notion of feeling, surely the distinction between a man who looks at a bowl of fruit but cannot draw or paint it, and the man who does draw or paint it, is precisely that of a man with a Crocean intuition but who cannot express it, and one who has both. How then can expression be intuition?",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2850,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Croce comes at this concern from both sides. On one side, there is ‘the illusion or prejudice that we possess a more complete intuition of reality than we really do’ (Aes. 9). We have, most of the time, only fleeting, transitory intuitions amidst the bustle of our practical lives. ‘The world which as rule we intuit is a small thing’, he writes; ‘It consists of small expressions … it is a medley of light and colour’ (Aes. 9). On the other side, if our man is seriously focussed on the bowl of fruit, it is only a prejudice to deny that then he is to that extent expressing himself—although, according to Croce, ordinary direct perception of things, as glimpsed in photography, will generally be lacking the ‘lyrical’ quality that genuine artists give to their works (though this particular twist is a later addition; see section 9 below).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2851,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " There is another respect in which Croce’s notion of expression as intuition departs from what we ordinarily think of in connection with the word ‘expression’. For example we think unreflectively of wailing as a natural expression of pain or grief; generally, we think of expressive behaviour or gestures as being caused, at least paradigmatically, by the underlying emotion or feelings. But Croce joins a long line of aestheticians in attempting a sharp distinction between this phenomenon and expression in art. Whereas the latter is the subject of aesthetics, the former is a topic for the natural sciences—‘for instance in Darwin’s enquiries into the expression of feeling in man and in the animals’ (PPH 265; cf. Aes. 21, 94–7). In an article he wrote for the Encyclopaedia Britannica, speaking of such ‘psychophysical phenomena’, he writes:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2852,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Croce is no doubt right to want to distinguish these things, but whether his official position—that expression is identical to intuition—will let him do so is another matter; he does not actually analyze the phenomena in such a way as to deduce, with the help of his account of expression, the result. He simply asserts it. But we will wait for our final section to articulate criticisms.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2853,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Croce’s wish to divorce artistic expression from natural expression is partly driven by his horror at naturalistic theories of art. The same goes for his refusal to rank pleasure as the aim, or at least an aim, of art (Aes. 82–6). He does not of course deny that aesthetic pleasures (and pains) exist, but they are ‘the practical echo of aesthetic value and disvalue’ (Aes. 94). Strictly speaking, they are dealt with in the Philosophy of the Practical, that is, in the theory of the will, and do not enter into the theory of art. That is, if the defining value of the Aesthetic is beauty, the defining value of the Practical is usefulness. In the Essence of Aesthetic (EA 11–13) Croce points out that the pleasure is much wider than the domain of art, so a definition of art as ‘what causes pleasure’ will not do. Croce does speak of the ‘truly aesthetic pleasure’ had in beholding the ‘aesthetic fact’ (Aes. 80). But perhaps he is being consistent. The pragmatic pleasure had in beholding beauty is only contingently aroused, but in point of fact it always is aroused by such beholding, because the having of an intuition is an act of mind, and therefore the will is brought into play.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2854,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The painting of pictures, the scrape of the bow upon strings, the chanting or inscription of a poem are, for Croce, only contingently related to the work of art, that is, to the expressed intuition. By this Croce does not mean to say that for example the painter could get by without paint in point of fact; the impossibility of say the existence of Leonardo’s Last Supper without his having put paint on the wall of Santa Maria delle Grazie not an impossibility in principle, but it is a factual impossibility, like that of a man jumping to the Moon. What he is doing is always driven by the intuition, and thereby making it possible for others to have the intuition (or rather, an intuition). First, the memory—though only contingently—often requires the physical work to sustain or develop the intuition. Second, the physical work is necessary for the practical business of the communication of the intuition.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2855,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " For example the process of painting is a closely interwoven operation of positive feedback between the intuitive faculty and the practical or technical capacity to manipulate the brush, mix paint and so on:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2856,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " He also defines technique as ‘knowledge at the service of the practical activity directed to producing stimuli to aesthetic reproduction’ (Aes. 111). Again, we defer criticism to the conclusion.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2857,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The first task of the spectator of the work of art—the critic—is for Croce simple: one is to reproduce the intuition, or perhaps better, one is to realize the intuition, which is the work of art. One may fail, and Croce is well aware that one may be mistaken; ‘haste, vanity, want of reflexion, theoretic prejudices’ may bring it about that one finds beautiful what is not, or fail to find beautiful what is (Aes. 120). But given the foregoing strict distinction between practical technique and artistic activity properly so-called, his task is the same as that of the artist:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2858,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Leave aside the remark that we become identical with the poet. If by taste we mean the capacity for aesthetic judgement—that is, the capacity to find beauty—and by genius we mean the capacity to produce beauty, then they are the same: the capacity to realize intuitions.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2859,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " In Croce’s overall philosophy, the aesthetic stands alone: in having an intuition, one has succeeded entirely insofar as aesthetic value is concerned. Therefore there cannot be a real question of a ‘standard’ of beauty which an object might or might not satisfy. Thus Croce says:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2860,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Of course there is as a matter of fact a great deal of variability in critical verdicts. But Croce believes this is largely due to variances in the ‘psychological conditions’ and the physical circumstance of spectators (Aes. 124). Much of this can be offset by ‘historical interpretation’ (Aes. 126); the rest, one presumes, are due to disturbances already mentioned: ‘haste, vanity, want of reflexion, theoretic prejudices’ (Aes. 120). Also one must realize that for Croce, all that Sibley famously characterized as aesthetic concepts—not just gracefulness, delicacy and so on but only aesthetically negative concepts like ugliness—are really variations on the over-arching master-concept beauty.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2861,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The title of the first great book of Croce’s career was ‘Aesthetic as a Science of expression and general linguistic’ (emphasis added). There are several interconnected aspects to this.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2862,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Croce claims that drawing, sculpting, writing of music and so on are just as much ‘language’ as poetry, and all language is poetic; therefore ‘Philosophy of language and philosophy of art are the same thing’ (Aes. 142; author’s emphasis). The reason for this is that language is to be understood as expressive; ‘an emission of sounds which expresses nothing is not language’ (Aes. 143). From our perspective, we might regard Croce as arguing thus: (1) Referential semantics—scarcely mentioned by Croce—necessarily involves parts of speech. (2) However:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2863,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " If we take this as asserting the primacy of sentence meaning—glossing over the anti-abstraction remark which is tantamount to a denial of syntactic compositionality—then together with (3) a denial of what in modern terms would be distinction between semantic and expressive meaning, or perhaps in Fregean terms sense and tone, then it is not obvious that the resulting picture of language would not apply equally to, for example, drawing. In that case, just as drawings cannot be translated, so linguistic translation is impossible (though for certain purposes, naturally, we can translate ‘relatively’; Aes. 68).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2864,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Interestingly, Croce does not think of all signs as natural signs, as lightning is a sign of thunder; on the contrary, he thinks of ‘pictures, poetry and all works of art’ as equally conventional—as ‘historically conditioned’ (Aes. 125; authors emphasis).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2865,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " There is no doubt that on this point Croce was inspired by his great precursor, the Neapolitan Giambattista Vico (1668–1744). According to Croce (Aes. 220–34) Vico was the first to recognise the aesthetic as a self-sufficient and non-conceptual mode of knowledge, and famously he held that all language is substantially poetry. The only serious mistake in this that Croce found was Vico’s belief in an actual historical period when all language was poetry; it was the mistake of substituting a concrete history for ‘ideal history’ (Aes. 232).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2866,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " As he became older, there was one aspect of his aesthetics that he was uneasy with. In the Aesthetic of 1901 (Aes. 82–7, 114), and again in Essence of Aesthetic of 1913 (EA 13–16) , he had been happy to deduce from his theory that art cannot have an ethical purpose. The only value in art is beauty. But by 1917, in the essay The Totality of Artistic Expression (PPH 261–73), his attitude towards the moral content of art is more nuanced. This may have been only a shift of emphasis, or, charitably perhaps, drawing out a previously unnoticed implication: ‘If the ethical principle is a cosmic [universal] force (as it certainly is) and queen of the world, the world of liberty, she reigns in her own right, while art, in proportion to the purity with which she re-enacts and expresses the motions of reality, is herself perfect’ (PPH 267). In other words, he still holds that to speak of a moral work of art would not impinge upon it aesthetically; likewise to speak of an immoral work, for the values of the aesthetic and moral domains are absolutely incommensurable. It is not merely an assertion that within the domain of pure intuition, the concepts simply don’t apply; that would merely beg the question. He means that a pure work of art cannot be subject to moral praise or blame because the Aesthetic domain exists independently of and prior, in the Philosophy of Spirit, to the Ethical.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2867,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " In the Encyclopaedia article of 1928, Croce asserts positively that the moral sensibility is a necessary condition of the artist:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2868,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Still it’s possible to read him as not having changed his view. For instance, Shakespeare could not have been Shakespeare without seeing into the moral heart of man, for morality is the highest domain of spirit. But we have to distinguish between the moral sensibility—the capacity to perceive and feel moral emotions—and the capacity to act morally. Croce’s position is that only the first is relevant to art.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2869,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The early emphasis on beauty is downplayed in subsequent writing in favour of the successful work art as expression, as constituting a ‘lyrical intuition’. In Essence of Aesthetic he writes:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2870,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Croce still holds that art is intuitive, a-logical or nonconceptual, and therefore by ‘it represents a feeling’ he does not mean that our aesthetic mode of engagement involves that concept, and he does not mean that art is to be understood as symbolic, implying a relation which would require an intellectual act of mind to apprehend. Both would imply that our mode of aesthetic engagement would be something more, or something other than, the aesthetic, which is as always the intuitive capacity. The point is simply that our awareness of the form of the intuition in nothing but our awareness of the unifying currents of feeling running through it. It is a claim about what it is that unifies an intuition, distinguishes it from the surrounding, relatively discontinuous or confused intuition. This is, in effect, a claim about the nature of beauty:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2871,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Genuinely new in the 1917 essay was Croce’s appealing but enigmatic claim that art is in a sense ‘universal’, is concerned with the ‘totality’:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2872,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " And:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2873,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Croce—and undoubtedly the political situation in Italy in 1917 played a role in this—was anxious to assert the importance of art for humanity, and his assertion of it is full of feeling. And the claim marks a decisive break from earlier doctrine: form is now linked with universality rather that with particular feelings. But it is difficult to see beyond such metaphors as ‘impressing upon it the character of totality’ (not even with the help of Croce’s Logic). One is reminded of the Kantian dictum that in aesthetics we ‘demand universality’ in our judgements, but there are no explicit indications of such. There is one piece of Crocean philosophy behind it: Since art takes place prior to the intellect, so the logical distinction between subject and predicate collapses; therefore perhaps at least one barrier is removed from speaking of the ‘universality of art’. But that does not indicate what, positively, it means. It obvious that there is something right about speaking of the ‘universal character’ of a Beethoven or a Michelangelo as opposed to the pitiful, narrow little spectacle of this month’s pop band, but Croce doesn’t tell us what justifies or explains such talk (various others have reached a similar conclusion; see Orsini p. 214). Still, that doesn’t mean that he had no right to proclaim it, and perhaps not to count his readers as agreeing to it.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2874,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " There is a lot of Croce’s aesthetics that we have not discussed, including his criticisms of the discipline of Rhetoric (Aes. 67–73; PPH 233–35), his disparagement of ‘genre criticism’—that is, his doctrine that there are ultimately no aesthetic differences amongst different kinds of art (Aes. 111–17, EA 53–60, PPH 229–33)—and his condemnation of psychological and other naturalistic views of art (Aes.87–93; EA 41–7). There is also his magnificent if contentious précis of the history of aesthetics (Aes. 155–474). But these are points of relative detail; the theory is whole is sufficiently well before us now to conclude by mentioning some general lines of criticism.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2875,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The equation of intuition with expression as at section 4.3 simply is not, in end, plausible. C. J. Ducasse (1929) put his finger on it. When we look at a vase full of flowers, it simply does not matter how closely or in what manner we attend to it; we do not create a ‘work of art’ unless we draw or paint it. Croce has lost sight of the ordinary sense of passively contemplating and doing something; between reading and writing, looking and drawing, listening and playing, dancing and watching. Of course all the first members of these pairs involve a mental action of a kind, and there are important connections between the first members and the corresponding seconds—perhaps in terms of what Berenson calls ideated sensations—but that is not to say that there are not philosophically crucial distinctions between them.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2876,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " The equation also defeats the purpose of art criticism or interpretation, and indeed of the very notion of an aesthetic community, of an audience. To say that the work of art is identical with the intuition is to say that it is necessarily private. It is to say, for example, that since one man’s intuition of Botticelli’s Venus is necessarily different from any one else’s, there is no such thing as Botticelli’s Venus, understood not as a material painting but as a work of art; there is only Botticelli’s-Venus-for-A, Botticelli’s-Venus-for-B, and so on. But these intuitions cannot be compared, and there is no higher standard; thus they cannot be said to agree or disagree, since any such comparison would be logically impossible (see Tilghman 1971, Ch. 1, for further discussion; for at attempt at saving Croce, see Schusterman 1983). The position is perhaps not contradictory, but it is exceedingly unattractive; it renders art a diversion away from reality, when as Freud emphasized—to invoke a figure who is Croce’s opposite in almost every respect—the artist’s struggle with the medium is the attempt to conquer reality. Although Croce disowned this consequence, it’s hard not to conclude that on this view art is a domain of fancy (in the bad sense), without any check upon vanity (see Aes. 122 for a point at which Croce almost sees the point). If we bring back the material painted object into the picture, of course, then there is no such difficulty: ones ‘intuition’ will be accurate, or one’s interpretation will be correct, just in case it corresponds to the picture (of course the notion of ‘corresponds to the picture’ is only a placeholder for a great deal to be supplied by theories of representation, perspective, expression and other parts of aesthetics; but the one thing that plausible theories will share is a commitment to the object, the material painting).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2877,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " It’s worth emphasizing again that Croce’s claim that intuition is expression, and consequently that works art are mental objects, is not just an application of his general idealism. It is independent of it. In the Encyclopaedia Britannica article, for example, he allows himself to speak for convenience of the ‘spiritual’ and ‘physical’, in order to make the point that the physical object is only of practical, and not of aesthetic significance (PPH 227–8).",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2878,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Undoubtedly Croce was influenced by his lifelong immersion in literature in his proclamation that all language is poetry. And perhaps it is true that all language has some poetic qualities, and perhaps it is true that language ‘in its actuality’ consists of sentential utterances. But as Bosanquet pointed out in 1919, this does not mean that language is only poetry, or that the referential dimension of language does not exist. It must have something that distinguishes a scientific treatise from a tune—in fact it must be the same thing, which we are calling the referential dimension, that serves to distinguish poetry from a tune (it has to have sound and sense, as we say). So to say that drawings and tunes are equally good examples of language seems, at best, strained. Perhaps Croce would have said that the referential dimension does not exist, or is a false abstraction; but his general philosophical views may be forcing him down an unprepossessing path. More promising would be a formalist endeavor to try to isolate the pure sonic aspect of poetry—comprising metre, alliteration and so on—and then to search for instantiations or at least analogies in the other arts.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2879,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Suppose Croce were to give up the idea that art is intuition, and agree that the work of art is identical with the material work—remember this would not prevent him being an idealist in his general philosophy—and suppose he allowed that he was wrong about language. What would remain of his theory would arguably be its essence: that art is expression, and we engage with it via the intuitive capacity. It remains individual, and perhaps pre-conceptual.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2880,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " In closing, the reader may find it useful if we summarize the major differences—narrowly on matters of aesthetics—between Croce and Collingwood, who is often thought of as Croce’s follower. (Indeed the question of whether, how, and to what extent Croce ‘influenced’ Collingwood, not only in aesthetics but in wider matters of metaphysics and history, are vexed questions. According to a careful study Rik Peters, the influence was perhaps pervasive insofar as Croce influenced the questions that Collingwood posed for himself, but Peters concludes that the answers given were of Collingwood’s own making; see Peters 2011 for more; for the matter specifically about art and aesthetics, see also Hospers 1956, Donagan 1962, and Jones 1972.) First, Collingwood seems to agree with Croce that art, so to speak, is everywhere—there no self-conscious perception that lacks expressive and aesthetic qualities—whereas Croce’s theory does not tend to regard the expressive content of work of art as something ‘in the artist’, emphasizing instead its form and later its ‘universality’, Collingwood tries to explain expressive content in terms of a detailed theory of the emotions. Second, although Croce does devote some energy to discrediting the ‘technical’ theory of art, Collingwood offers a more organized and detailed analysis of why art is not ‘craft’, though arguably the main points are Croce’s. Finally, Collingwood devotes his final sections to a topic left unaddressed by Croce: the problem of whether or in what way the responses of the audience can constrain the object presented by the artist.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2881,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Works by Croce:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2882,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " art, definition of |  Collingwood, Robin George: aesthetics |  Dewey, John: aesthetics |  Hegel, Georg Wilhelm Friedrich: aesthetics |  idealism |  intuition |  privacy |  Vico, Giambattista ",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2883,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Thanks to Dr. Martine Lejeune of the Department for Applied Linguistics, College Ghent, for bibliographical help and for pointing out certain errors in the original entry. The SEP editors would like to thank Filippo Contesi for notifying us of a number of typographical infelicities in this entry.",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2884,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": " Copyright © 2021 by   Gary Kemp &lt;gary.kemp@glasgow.ac.uk&gt;     ",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2885,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": "View this site from another server:",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2886,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": "The Stanford Encyclopedia of Philosophy is copyright © 2021 by The Metaphysics Research Lab, Department of Philosophy, Stanford University",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2887,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/croce-aesthetics/",
+        "text": "Library of Congress Catalog Data: ISSN 1095-5054",
+        "category": "croce-aesthetics"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2888,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " The definition of art is controversial in contemporary philosophy. Whether art can be defined has also been a matter of controversy.  The philosophical usefulness of a definition of art has also been debated.",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2889,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " Contemporary definitions can be classified with respect to the dimensions of art they emphasize. One distinctively modern, conventionalist, sort of definition focuses on art’s institutional features, emphasizing the way art changes over time, modern works that appear to break radically with all traditional art, the relational properties of artworks that depend on works’ relations to art history, art genres, etc. – more broadly, on the undeniable heterogeneity of the class of artworks.  The more traditional, less conventionalist sort of definition defended in contemporary philosophy makes use of a broader, more traditional concept of aesthetic properties that includes more than art-relational ones, and puts more emphasis on art’s pan-cultural and trans-historical characteristics – in sum, on commonalities across the class of artworks. Hybrid definitions aim to do justice to both the traditional aesthetic dimension as well as to the institutional and art-historical dimensions of art, while privileging neither.",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2890,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " Any definition of art has to square with the following uncontroversial facts: (i) entities (artifacts or performances) intentionally endowed by their makers with a significant degree of aesthetic interest, often greatly surpassing that of most everyday objects, first appeared hundreds of thousands of years ago and exist in virtually every known human culture (Davies 2012); (ii) such entities are partially comprehensible to cultural outsiders – they are neither opaque nor completely transparent; (iii) such entities sometimes have non-aesthetic – ceremonial or religious or propagandistic – functions, and sometimes do not; (iv) such entities might conceivably be produced by non-human species, terrestrial or otherwise; and it seems at least in principle possible that they be extraspecifically recognizable as such; (v) traditionally, artworks are intentionally endowed by their makers with properties, often sensory, having a significant degree of aesthetic interest, usually surpassing that of most everyday objects; (vi) art’s normative dimension – the high value placed on making and consuming art – appears to be essential to it, and artworks can have considerable moral and political as well as aesthetic power; (vii) the arts are always changing, just as the rest of culture is: as artists experiment creatively, new genres, art-forms, and styles develop; standards of taste and sensibilities evolve; understandings of aesthetic properties, aesthetic experience, and the nature of art evolve; (viii) there are institutions in some but not all cultures which involve a focus on artifacts and performances that have a high degree of aesthetic interest but lack any practical, ceremonial, or religious use; (ix) entities seemingly lacking aesthetic interest, and entities having a high degree of aesthetic interest, are not infrequently grouped together as artworks by such institutions; (x) lots of things besides artworks – for example, natural entities (sunsets, landscapes, flowers, shadows), human beings, and abstract entities (theories, proofs, mathematical entities) – have interesting aesthetic properties.  ",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2891,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " Of these facts, those having to do with art’s contingent cultural and historical features are emphasized by some definitions of art. Other definitions of art give priority to explaining those facts that reflect art’s universality and continuity with other aesthetic phenomena.  Still other definitions attempt to explain both art’s contingent characteristics and its more abiding ones while giving priority to neither. ",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2892,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": "  Two general constraints on definitions are particularly relevant to definitions of art. First, given that accepting that something is inexplicable is generally a philosophical last resort, and granting the importance of extensional adequacy, list-like or enumerative definitions are if possible to be avoided. Enumerative definitions, lacking principles that explain why what is on the list is on the list, don’t, notoriously, apply to definienda that evolve, and provide no clue to the next or general case (Tarski’s definition of truth, for example, is standardly criticized as unenlightening because it rests on a list-like definition of primitive denotation; see Field 1972; Devitt 2001; Davidson 2005).  Corollary: when everything else is equal (and it is controversial whether and when that condition is satisfied in the case of definitions of art), non-disjunctive definitions are preferable to disjunctive ones. Second, given that most classes outside of mathematics are vague, and that the existence of borderline cases is characteristic of vague classes, definitions that take the class of artworks to have borderline cases are preferable to definitions that don’t (Davies 1991 and 2006; Stecker 2005).",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2893,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": "  Whether any definition of art does account for these facts and satisfy these constraints, or could account for these facts and satisfy these constraints, are key questions for aesthetics and the philosophy of art.",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2894,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": "  Classical definitions, at least as they are portrayed in contemporary discussions of the definition of art,  take artworks to be characterized by a single type of property. The standard candidates are representational properties, expressive properties, and formal properties. So there are representational or mimetic definitions, expressive definitions, and formalist definitions, which hold that artworks are characterized by their possession of, respectively, representational, expressive, and formal properties. It is not difficult to find fault with these simple definitions. For example, possessing representational, expressive, and formal properties cannot be sufficient conditions, since, obviously, instructional manuals are representations, but not typically artworks, human faces and gestures have expressive properties without being works of art, and both natural objects and artifacts produced solely for homely utilitarian purposes have formal properties but are not artworks.",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2895,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " The ease of these dismissals, though, serves as a reminder of the fact that classical definitions of art are significantly less philosophically self-contained or freestanding than are most contemporary definitions of art. Each classical definition stands in close and complicated relationships to its system’s other complexly interwoven parts – epistemology, ontology, value theory, philosophy of mind, etc.  Relatedly, great philosophers characteristically analyze the key theoretical components of their definitions of art in distinctive and subtle ways. For these reasons, understanding such definitions in isolation from the systems or corpuses of which they are parts is difficult, and brief summaries are invariably somewhat misleading.  Nevertheless, some representative examples of historically influential definitions of art offered by major figures in the history of philosophy should be mentioned.",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2896,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": "  Plato holds in the Republic and elsewhere that the arts are representational, or mimetic (sometimes translated “imitative”).  Artworks are ontologically dependent on, imitations of, and therefore inferior to, ordinary physical objects. Physical objects in turn are ontologically dependent on, and imitations of, and hence inferior to, what is most real, the non-physical unchanging Forms. Grasped perceptually, artworks present only an appearance of an appearance of the Forms, which are grasped by reason alone. Consequently, artistic experience cannot yield knowledge. Nor do the makers of artworks work from knowledge. Because artworks engage an unstable, lower part of the soul, art should be subservient to moral realities, which, along with truth, are more metaphysically fundamental and, properly understood, more humanly important than, beauty. The arts are not, for Plato, the primary sphere in which beauty operates. The Platonic conception of beauty is extremely wide and metaphysical: there is a Form of Beauty, which can only be known non-perceptually, but it is more closely related to the erotic than to the arts. (See Janaway 1998, the entry on  Plato’s aesthetics, and the entry on  Plato on Rhetoric and Poetry.)",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2897,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " Kant has a definition of art, and of fine art; the latter, which Kant calls the art of genius, is “a kind of representation that is purposive in itself and, though without an end, nevertheless promotes the cultivation of the mental powers for sociable communication” (Kant, Critique of the Power of Judgment, Guyer translation, section 44, 46).) When fully unpacked, the definition has representational, formalist and expressivist elements, and focuses as much on the creative activity of the artistic genius (who, according to Kant, possesses an “innate mental aptitude through which nature gives the rule to art”) as on the artworks produced by that activity. Kant’s aesthetic theory is, for architectonic reasons, not focused on art. Art for Kant falls under the broader topic of aesthetic judgment, which covers judgments of the beautiful, judgments of the sublime, and teleological judgments of natural organisms and of nature itself. So Kant’s definition of art is a relatively small part of his theory of aesthetic judgment. And Kant’s theory of aesthetic judgment is itself situated in a hugely ambitious theoretical structure that, famously, aims, to account for, and work out the interconnections between, scientific knowledge, morality, and religious faith. (See the entry on  Kant’s Aesthetics and Teleology  and the general entry on    Immanuel Kant.)",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2898,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": "  Hegel’s account of art incorporates his view of beauty; he defines beauty as the sensuous/perceptual appearance or expression of absolute truth. The best artworks convey, by sensory/perceptual means, the deepest metaphysical truth.  The deepest metaphysical truth, according to Hegel, is that the universe is the concrete realization of what is conceptual or rational. That is, what is conceptual or rational is real, and is the imminent force that animates and propels the self-consciously developing universe. The universe is the concrete realization of what is conceptual or rational, and the rational or conceptual is superior to the sensory. So, as the mind and its products alone are capable of truth, artistic beauty is metaphysically superior to natural beauty (Hegel, Lectures, [1886, 4]). A central and defining feature of beautiful works of art is that, through the medium of sensation, each one presents the most fundamental values of its civilization.[1] Art, therefore, as a cultural expression, operates in the same sphere as religion and philosophy, and expresses the same content as they. But art “reveals to consciousness the deepest interests of humanity” in a different manner than do religion and philosophy, because art alone, of the three, works by sensuous means.  So, given the superiority of the conceptual to the non-conceptual, and the fact that art’s medium for expressing/presenting culture’s deepest values is the sensual or perceptual, art’s medium is limited and inferior in comparison with the medium that religion uses to express the same content, viz., mental imagery. Art and religion in turn are, in this respect, inferior to philosophy, which employs a conceptual medium to present its content. Art initially predominates, in each civilization, as the supreme mode of cultural expression, followed, successively, by religion and philosophy. Similarly, because the broadly “logical” relations between art, religion and philosophy determine the actual structure of art, religion, and philosophy, and because cultural ideas about what is intrinsically valuable develop from sensuous to non-sensuous conceptions, history is divided into periods that reflect the teleological development from the sensuous to the conceptual. Art in general, too, develops in accord with the historical growth of non-sensuous or conceptual conceptions from sensuous conceptions, and each individual art-form develops historically in the same way (Hegel, Lectures; Wicks 1993, see also the entries on   Hegel and on    Hegel’s Aesthetics). ",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2899,
+      "row": {
+        "metadata": "https://plato.stanford.edu/entries/art-definition/",
+        "text": " For treatments of other influential definitions of art, inseparable from the complex philosophical systems or corpuses in which they occur, see, for example, the entries on  18th Century German Aesthetics,  Arthur Schopenhauer,  Friedrich Nietzsche,  and Dewey’s Aesthetics.",
+        "category": "art-definition"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 182531,
+  "num_rows_per_page": 100,
+  "partial": false
+}

@@ -2,48 +2,58 @@ import { ensureDir } from "https://deno.land/std@0.218.2/fs/ensure_dir.ts";
 
 const baseUrl =
   "https://datasets-server.huggingface.co/rows?dataset=AiresPucrs%2Fstanford-encyclopedia-philosophy&config=default&split=train";
-const outputDirBase = 'output'; // ディレクトリ名を共通化
+const outputDirBase = 'output';
+const fetchCount = 30;
+const length = 100;
 
-const fetchCount = 10; // 取得する回数
-const length = 100;    // 各回で取得するデータ件数
 
-async function fetchAndSave(offset: number, outputFileName: string) {
-    const url = `${baseUrl}&offset=${offset}&length=${length}`;
+// fetchを行い、jsonを返す関数
+const fetchData = async (url: string) => {
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+  return response.json();
+};
 
-  try {
-    const response = await fetch(url);
+// JSONデータを整形する関数
+const formatJson = (jsonData: unknown) => JSON.stringify(jsonData, null, 2);
 
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
 
-    const jsonData = await response.json();
-
-    // JSONデータを整形して保存する（必要に応じて）
-    const formattedJson = JSON.stringify(jsonData, null, 2);
-
-    // ディレクトリの存在をチェックし、必要なら作成
-    const dir = new URL('.', import.meta.url).pathname; // 現在のファイルが存在するディレクトリパスを取得
-    const outputDir = `${dir}${outputDirBase}`;
-    await ensureDir(outputDir);
-    
-    const fullFilePath = `${outputDir}/${outputFileName}`;
-
-    await Deno.writeTextFile(fullFilePath, formattedJson);
+// ファイルに保存する関数
+const saveFile = async (dir: string, fileName: string, data: string) => {
+    await ensureDir(dir);
+    const fullFilePath = `${dir}/${fileName}`;
+    await Deno.writeTextFile(fullFilePath, data);
     console.log(`Data saved to ${fullFilePath}`);
-  } catch (error) {
-    console.error("Error fetching or saving data:", error);
-  }
-}
+};
+
+// データの取得、整形、保存処理をまとめる関数
+const processData = async (offset: number, outputDir: string, fileIndex: number) => {
+    const url = `${baseUrl}&offset=${offset}&length=${length}`;
+    const fileName = `output_${fileIndex + 1}.json`;
+    const jsonData = await fetchData(url);
+    const formattedJson = formatJson(jsonData);
+    await saveFile(outputDir, fileName, formattedJson);
+};
 
 
-async function main() {
-    for (let i = 0; i < fetchCount; i++) {
-      const offset = i * length;
-      const outputFileName = `output_${i + 1}.json`;
-      await fetchAndSave(offset, outputFileName);
-    }
-  }
+// offset配列を生成する関数
+const generateOffsets = (fetchCount: number, length: number) =>
+  Array.from({ length: fetchCount }, (_, i) => i * length);
+
+
+// メイン処理
+const main = async () => {
+    const dir = new URL('.', import.meta.url).pathname;
+    const outputDir = `${dir}${outputDirBase}`;
+    const offsets = generateOffsets(fetchCount, length);
+
+    await Promise.all(offsets.map((offset, index) =>
+            processData(offset, outputDir, index)
+        )
+    );
+};
 
 
 main();
